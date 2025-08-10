@@ -95,27 +95,45 @@ def generate_embedding(path_files, bm25_model):
 folder_path = 'data/clean'
 
 # define bm25 model
-bm25 = BM25Encoder(stem=False)
-# create bm25 corpus for sparse vector
-bm25_corpus = []
-create_corpus(bm25_corpus, folder_path)
+def create_corpus_train_bm25_model(bm25):
+    bm25_pralatih = 'model/bm25_params.json'
+    if(os.path.exists(bm25_pralatih)):
+        # load BM25 params from json
+        bm25.load(bm25_pralatih)
+    else:
+        # create bm25 corpus for sparse vector
+        bm25_corpus = []
+        create_corpus(bm25_corpus, folder_path)
 
-# fit corpus to bm25 model
-bm25.fit(bm25_corpus)
+        # fit corpus to bm25 model
+        bm25.fit(bm25_corpus)
 
-# generate dense and sparse vector
-if os.path.isdir(folder_path):
-    for filename in os.listdir(folder_path):
-        if len(filename.split('.')) == 2 and filename.split('.')[1] == 'json':
-            file_path=folder_path+'/'+filename
-            # insert data dense
-            dense_vectors, sparse_vectors = generate_embedding(file_path, bm25_model=bm25)
-            index_dense.upsert(
-                namespace=NAMESPACE,
-                vectors=dense_vectors
-            )
-            # insert data sparse
-            index_sparse.upsert(
-                namespace=NAMESPACE,
-                vectors=sparse_vectors
-            )
+        # store BM25 params as json
+        bm25.dump("model/bm25_params.json")
+    print("bm25 model successfully loaded")
+
+if __name__ == "__main__": 
+    # create corpus and train bm25 model
+    bm25 = BM25Encoder(stem=False)
+    create_corpus_train_bm25_model(bm25)
+    print("load bm25 model done")
+
+    # generate dense and sparse vector
+    if os.path.isdir(folder_path):
+        for filename in os.listdir(folder_path):
+            if len(filename.split('.')) == 2 and filename.split('.')[1] == 'json':
+                file_path=folder_path+'/'+filename
+                # insert data dense
+                dense_vectors, sparse_vectors = generate_embedding(file_path, bm25_model=bm25)
+                print("generate dense and sparse vector done for: ", filename)
+                index_dense.upsert(
+                    vectors=dense_vectors,
+                    namespace=NAMESPACE
+                )
+                print("upsert dense vector successfully for: ", filename)
+                # insert data sparse
+                index_sparse.upsert(
+                    namespace=NAMESPACE,
+                    vectors=sparse_vectors
+                )
+                print("upsert sparse vector successfully for: ", filename)
