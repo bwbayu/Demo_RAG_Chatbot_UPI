@@ -1,0 +1,1402 @@
+[
+  {
+    "query": "Give me an overview of facilities available at Universitas Pendidikan Indonesia (UPI).",
+    "results": [
+      {
+        "rank": 1,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.8441906
+      },
+      {
+        "rank": 2,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.7399226
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.70903975
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.6782131
+      },
+      {
+        "rank": 5,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.6516304
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.5593252
+      }
+    ]
+  },
+  {
+    "query": "List the main categories of UPI campus facilities (sports, worship, academic, services, admin).",
+    "results": [
+      {
+        "rank": 1,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.7634888
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.64897543
+      },
+      {
+        "rank": 3,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.648655
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.55548674
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.5410138
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.4928427
+      }
+    ]
+  },
+  {
+    "query": "Summarize UPI facilities and their typical uses for students and the public.",
+    "results": [
+      {
+        "rank": 1,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.67599106
+      },
+      {
+        "rank": 2,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.64675146
+      },
+      {
+        "rank": 3,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.57481766
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.52450186
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.5116749
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.48539257
+      }
+    ]
+  },
+  {
+    "query": "Ringkas semua fasilitas UPI dalam 1 paragraf.",
+    "results": [
+      {
+        "rank": 1,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.768095
+      },
+      {
+        "rank": 2,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.67498785
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.6509094
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.6336041
+      },
+      {
+        "rank": 5,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.60445595
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.504076
+      }
+    ]
+  },
+  {
+    "query": "What are the student and public swimming pool fees on weekdays and weekends, and the opening hours?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.55002123
+      },
+      {
+        "rank": 2,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.47010043
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.35488704
+      },
+      {
+        "rank": 4,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.3217545
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.31388858
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.30036643
+      }
+    ]
+  },
+  {
+    "query": "List all sports facilities at UPI (stadium, jogging track, football, tennis, badminton, hockey, basketball, softball, gymnasium, golf) with brief functions.",
+    "results": [
+      {
+        "rank": 1,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.8123245
+      },
+      {
+        "rank": 2,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.7531319
+      },
+      {
+        "rank": 3,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.5839033
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.5351258
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.5341854
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.47621536
+      }
+    ]
+  },
+  {
+    "query": "What is the capacity of the UPI stadium tribune and what athletics equipment is available there?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.6462908
+      },
+      {
+        "rank": 2,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.58311373
+      },
+      {
+        "rank": 3,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.4762287
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.4583111
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.45585442
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.32134342
+      }
+    ]
+  },
+  {
+    "query": "What are the UPI Library opening hours (Mon–Thu and Fri) and what resources does it provide?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.64733887
+      },
+      {
+        "rank": 2,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.6093922
+      },
+      {
+        "rank": 3,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.56801605
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.5167828
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.50149536
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.4783888
+      }
+    ]
+  },
+  {
+    "query": "Which units are inside the University Centre (UC) building?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.6111107
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.59178066
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.5459996
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.5165825
+      },
+      {
+        "rank": 5,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.50881773
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.4862299
+      }
+    ]
+  },
+  {
+    "query": "Explain the Al-Furqon Mosque’s role and accessibility for daily and Friday prayers.",
+    "results": [
+      {
+        "rank": 1,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.40603068
+      },
+      {
+        "rank": 2,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.38331228
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.34715083
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.33560756
+      },
+      {
+        "rank": 5,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.29282954
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.28089526
+      }
+    ]
+  },
+  {
+    "query": "Describe the UPI polyclinic policy for students and whether the public can use it.",
+    "results": [
+      {
+        "rank": 1,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.61628157
+      },
+      {
+        "rank": 2,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.59612083
+      },
+      {
+        "rank": 3,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.48204994
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.45610812
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.4358673
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.3869667
+      }
+    ]
+  },
+  {
+    "query": "Which banking services and cards (KTM/TapCash) are supported on campus?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.577816
+      },
+      {
+        "rank": 2,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.49733165
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.4914799
+      },
+      {
+        "rank": 4,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.4896984
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.43432426
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.4092245
+      }
+    ]
+  },
+  {
+    "query": "Where is the UPI Garden located relative to the Rectorate Building, and who can use it?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.68130684
+      },
+      {
+        "rank": 2,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.65414053
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.5779229
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.5621815
+      },
+      {
+        "rank": 5,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.52935886
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.4331236
+      }
+    ]
+  },
+  {
+    "query": "What is the historical/architectural significance of the Rectorate Building (Villa Isola)?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.42018318
+      },
+      {
+        "rank": 2,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.34778216
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.33000565
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.32209018
+      },
+      {
+        "rank": 5,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.27902794
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.27396107
+      }
+    ]
+  },
+  {
+    "query": "Summarize the facilities provided by FPMIPA UPI across learning, research, student life, and admin.",
+    "results": [
+      {
+        "rank": 1,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.8157234
+      },
+      {
+        "rank": 2,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.7573414
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.71887785
+      },
+      {
+        "rank": 4,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.6635351
+      },
+      {
+        "rank": 5,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.6550084
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.5569868
+      }
+    ]
+  },
+  {
+    "query": "What are the flagship spaces and labs at FPMIPA (Smart Classroom, Auditorium, core labs)?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.7217904
+      },
+      {
+        "rank": 2,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.7053814
+      },
+      {
+        "rank": 3,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.64616776
+      },
+      {
+        "rank": 4,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.58218193
+      },
+      {
+        "rank": 5,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.5729656
+      },
+      {
+        "rank": 6,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.474556
+      }
+    ]
+  },
+  {
+    "query": "Ringkas fasilitas FPMIPA (ruang belajar, laboratorium, layanan mahasiswa, administrasi).",
+    "results": [
+      {
+        "rank": 1,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.7237778
+      },
+      {
+        "rank": 2,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.6458474
+      },
+      {
+        "rank": 3,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.51748276
+      },
+      {
+        "rank": 4,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.51143646
+      },
+      {
+        "rank": 5,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.50637436
+      },
+      {
+        "rank": 6,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.4500065
+      }
+    ]
+  },
+  {
+    "query": "Give a high-level overview of FPMIPA buildings (A/JICA, B, C) and what they’re used for.",
+    "results": [
+      {
+        "rank": 1,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.66358566
+      },
+      {
+        "rank": 2,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.6323796
+      },
+      {
+        "rank": 3,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.5431652
+      },
+      {
+        "rank": 4,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.48428822
+      },
+      {
+        "rank": 5,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.48040012
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.4410715
+      }
+    ]
+  },
+  {
+    "query": "What features are included in the Smart Classroom (hardware and remote learning stack)?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.57114035
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.53169346
+      },
+      {
+        "rank": 3,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.5181341
+      },
+      {
+        "rank": 4,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.4675789
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.42329216
+      },
+      {
+        "rank": 6,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.37277988
+      }
+    ]
+  },
+  {
+    "query": "Where is the JICA FPMIPA Auditorium located (floors) and what events is it suitable for?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.62016493
+      },
+      {
+        "rank": 2,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.5735111
+      },
+      {
+        "rank": 3,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.5007
+      },
+      {
+        "rank": 4,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.46358874
+      },
+      {
+        "rank": 5,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.38893318
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.35839176
+      }
+    ]
+  },
+  {
+    "query": "List the science labs (Chemistry, Biology, Earth & Space) and typical equipment/resources.",
+    "results": [
+      {
+        "rank": 1,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.5382328
+      },
+      {
+        "rank": 2,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.4840527
+      },
+      {
+        "rank": 3,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.47162914
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.45707893
+      },
+      {
+        "rank": 5,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.3750534
+      },
+      {
+        "rank": 6,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.26391223
+      }
+    ]
+  },
+  {
+    "query": "What is the capacity and equipment of the Faculty Meeting Room?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.57210547
+      },
+      {
+        "rank": 2,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.5689068
+      },
+      {
+        "rank": 3,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.49381256
+      },
+      {
+        "rank": 4,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.46183014
+      },
+      {
+        "rank": 5,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.45339775
+      },
+      {
+        "rank": 6,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.38820842
+      }
+    ]
+  },
+  {
+    "query": "Detail the FPMIPA Parking capacity and zone breakdown.",
+    "results": [
+      {
+        "rank": 1,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.47297862
+      },
+      {
+        "rank": 2,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.46525192
+      },
+      {
+        "rank": 3,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.45505333
+      },
+      {
+        "rank": 4,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.40217784
+      },
+      {
+        "rank": 5,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.39924145
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.33922386
+      }
+    ]
+  },
+  {
+    "query": "Describe the water/waste treatment (mechanical room) components and purpose.",
+    "results": [
+      {
+        "rank": 1,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.3893433
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.34942245
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.3479042
+      },
+      {
+        "rank": 4,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.33534336
+      },
+      {
+        "rank": 5,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.29696655
+      },
+      {
+        "rank": 6,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.23342706
+      }
+    ]
+  },
+  {
+    "query": "What facilities support student activities and info dissemination (Student Corner, Mading)?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.61296844
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.56935215
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.5556775
+      },
+      {
+        "rank": 4,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.54938513
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.54740524
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.5305233
+      }
+    ]
+  },
+  {
+    "query": "Where is the prayer room located and how are ablution areas arranged?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.47475815
+      },
+      {
+        "rank": 2,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.46858028
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.45739746
+      },
+      {
+        "rank": 4,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.42714977
+      },
+      {
+        "rank": 5,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.41325
+      },
+      {
+        "rank": 6,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.36971378
+      }
+    ]
+  },
+  {
+    "query": "Provide an overview of labs and offices in the UPI Computer Science Department.",
+    "results": [
+      {
+        "rank": 1,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.8374272
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.67941767
+      },
+      {
+        "rank": 3,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.61675936
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.5775357
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.5550156
+      },
+      {
+        "rank": 6,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.52738196
+      }
+    ]
+  },
+  {
+    "query": "List all CS labs by focus area (Big Data, Networking, SE, IS, AI & Robotics, Multimedia, MIE, Microteaching).",
+    "results": [
+      {
+        "rank": 1,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.71738434
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.7087431
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.39938548
+      },
+      {
+        "rank": 4,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.3967495
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.3858986
+      },
+      {
+        "rank": 6,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.3185139
+      }
+    ]
+  },
+  {
+    "query": "Ringkas fasilitas departemen Ilmu Komputer untuk pengajaran, riset, dan administrasi.",
+    "results": [
+      {
+        "rank": 1,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.6799345
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.6348076
+      },
+      {
+        "rank": 3,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.4686985
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.4665947
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.4516373
+      },
+      {
+        "rank": 6,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.39572147
+      }
+    ]
+  },
+  {
+    "query": "What student workspaces exist beyond teaching labs (e.g., General Lab with fast internet)?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.7277565
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.65561104
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.5931626
+      },
+      {
+        "rank": 4,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.5812607
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.56287384
+      },
+      {
+        "rank": 6,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.49758723
+      }
+    ]
+  },
+  {
+    "query": "What skills and roles are targeted by the Big Data Analysis Laboratory curriculum?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.5914917
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.5205879
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.3608971
+      },
+      {
+        "rank": 4,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.3205471
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.31974602
+      },
+      {
+        "rank": 6,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.2744799
+      }
+    ]
+  },
+  {
+    "query": "Explain LabNet’s scope (research, infra services, maintenance/security for FPMIPA network).",
+    "results": [
+      {
+        "rank": 1,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.6548166
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.64433384
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.55410576
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.5272866
+      },
+      {
+        "rank": 5,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.51629066
+      },
+      {
+        "rank": 6,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.431963
+      }
+    ]
+  },
+  {
+    "query": "What is covered in the Software Engineering Lab and why is documentation essential to software?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.5535908
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.45484066
+      },
+      {
+        "rank": 3,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.30668068
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.2902756
+      },
+      {
+        "rank": 5,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.24774934
+      },
+      {
+        "rank": 6,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.24502182
+      }
+    ]
+  },
+  {
+    "query": "Which topics and systems are addressed by the Information Systems Lab (e.g., enterprise systems, educational IS)?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.6381388
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.61569786
+      },
+      {
+        "rank": 3,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.44615555
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.39852718
+      },
+      {
+        "rank": 5,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.37794116
+      },
+      {
+        "rank": 6,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.36206818
+      }
+    ]
+  },
+  {
+    "query": "What domains and capabilities are studied in the AI & Robotics Lab (sensing, learning, decision-making)?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.5660763
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.5455818
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.37178805
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.34233093
+      },
+      {
+        "rank": 5,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.33250618
+      },
+      {
+        "rank": 6,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.23441888
+      }
+    ]
+  },
+  {
+    "query": "Detail the Multimedia & Design Lab focus (VR/AR, animation, game programming, ITS, distance learning).",
+    "results": [
+      {
+        "rank": 1,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.5959635
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.5682745
+      },
+      {
+        "rank": 3,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.39679527
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.3958893
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.37064552
+      },
+      {
+        "rank": 6,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.33215907
+      }
+    ]
+  },
+  {
+    "query": "What practicum and tools are supported by the Mathematics–Informatics–Electronics Lab?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.65701205
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.6475449
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.4946366
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.48930553
+      },
+      {
+        "rank": 5,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.46743587
+      },
+      {
+        "rank": 6,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.40121084
+      }
+    ]
+  },
+  {
+    "query": "Describe the purpose of the Microteaching Lab and its use for skills certification.",
+    "results": [
+      {
+        "rank": 1,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.60007954
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.4990015
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.42230418
+      },
+      {
+        "rank": 4,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.3826599
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.33961868
+      },
+      {
+        "rank": 6,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.339613
+      }
+    ]
+  },
+  {
+    "query": "What are the functions of the Study Program Leadership Office and Department Secretariat Room?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.5667677
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.54721737
+      },
+      {
+        "rank": 3,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.4065876
+      },
+      {
+        "rank": 4,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.40226746
+      },
+      {
+        "rank": 5,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.40069583
+      },
+      {
+        "rank": 6,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.34751132
+      }
+    ]
+  },
+  {
+    "query": "How can students use the General Laboratory on workdays?",
+    "results": [
+      {
+        "rank": 1,
+        "title": "Computer Science Department Facilities (Full Text)",
+        "similarity": 0.5494976
+      },
+      {
+        "rank": 2,
+        "title": "Computer Science Department Facilities (Overview)",
+        "similarity": 0.52183914
+      },
+      {
+        "rank": 3,
+        "title": "FPMIPA Facilities (Full Text)",
+        "similarity": 0.4872513
+      },
+      {
+        "rank": 4,
+        "title": "UPI Facilities (Overview)",
+        "similarity": 0.44812584
+      },
+      {
+        "rank": 5,
+        "title": "UPI Facilities (Full Text)",
+        "similarity": 0.44654468
+      },
+      {
+        "rank": 6,
+        "title": "FPMIPA Facilities (Overview)",
+        "similarity": 0.42583466
+      }
+    ]
+  }
+]

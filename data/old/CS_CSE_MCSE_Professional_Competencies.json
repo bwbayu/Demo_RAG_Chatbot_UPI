@@ -1,0 +1,187 @@
+{
+  "title": "Professional Competencies",
+  "content": {
+    "Professional Competencies of Computer Science Bachelor": [
+      {
+        "group_name": "Rekayasa Perangkat Lunak dan Manajemen Informasi",
+        "description": null,
+        "research_group_leader": "Dr. Asep Wahyudin, M.T.",
+        "research_group_members": null,
+        "scope_of_research": null,
+        "research_roadmap_image": null,
+        "list_of_publication": null
+      },
+      {
+        "group_name": "Multimedia and Network",
+        "description": null,
+        "research_group_leader": "Prof. Rasim, M.T.",
+        "research_group_members": null,
+        "scope_of_research": null,
+        "research_roadmap_image": null,
+        "list_of_publication": null
+      },
+      {
+        "group_name": "Artificial Intelligence",
+        "description": "Scientific Field Group (SFG) which focuses on research, service, and teaching in the fields of artificial intelligence, control systems, robotics, IoT, big data analysis and its implementation in various problem domains.",
+        "research_group_leader": "Yaya Wihardi, M.Kom.",
+        "research_group_members": [
+          "Dr. Lala Septem Riza",
+          "Dr. Yudi Wibisono",
+          "Dr. Rani Megasari"
+        ],
+        "scope_of_research": [
+          "Artificial Intelligence",
+          "Control System",
+          "Robotics",
+          "IoT",
+          "Big data analysis",
+          "Machine learning",
+          "Computer vision",
+          "Natural language processing",
+          "Fintech",
+          "Optimization",
+          "Scheduling"
+        ],
+        "research_roadmap_image": "https://cs.upi.edu/v2/assets/images/kbk_ai.png",
+        "list_of_publication": null
+      }
+    ],
+    "Professional Competencies of Computer Science Education Bachelor": [
+      {
+        "group_name": "Digital, Pedagogical, dan Didactical",
+        "description": "Scientific Field Group DPD focuses on studies related to didactic and pedagogical aspects, especially if it is associated with digital content and tools in learning. The scope of the study does not only include educational and pedagogical activities within the scope of the class, but also learning activities carried out outside the learning class.",
+        "research_group_leader": "Harsa Wara Prabawa, S.Si., M.Pd.",
+        "research_group_members": [
+          "Enjang Ali Nurdin",
+          "Eki Nugraha",
+          "Jajang Kusnendar",
+          "Nsuki Syariati Fathimah",
+          "Andini Setya Arianti"
+        ],
+        "scope_of_research": [
+          "Scientific Field Group DPD focuses on studies related to didactic and pedagogic aspects, especially if it is associated with content presented through digital means in learning."
+        ],
+        "research_roadmap_image": "https://cs.upi.edu/v2/assets/images/kbk_didactical.jpeg",
+        "list_of_publication": null
+      },
+      {
+        "group_name": "Smart Learning Environment",
+        "description": "Smart technology for the learning environment (Smart learning environment)",
+        "research_group_leader": "Budi Laksono Putro, M.T.",
+        "research_group_members": [
+          "Dr. Budi Laksono Putro S.Si. M.T.",
+          "Drs. Eka Fitrajaya Rahman, M.T.",
+          "Enjun Junaeti M.Si.",
+          "Erna Piantari M.T.",
+          "Erlangga M.T."
+        ],
+        "scope_of_research": [
+          "Learning Technology",
+          "Smart Learning Environment"
+        ],
+        "research_roadmap_image": "https://cs.upi.edu/v2/assets/images/roadmap_kbk_SLE.png",
+        "list_of_publication": [
+          "https://drive.google.com/open?id=1lp4Dem6c_GjzOgkrHGLS31fR4jR0aRF6"
+        ]
+      },
+      {
+        "group_name": "STEAM Model for Computer Science Learning",
+        "description": "Scientific Field Group Education sector was born because of the need and urgency in the field of computer science education in universities and its implementation in the school system. The challenges in the field of computer science education are increasingly along with the demands in society,",
+        "research_group_leader": "Dr. H. Enjang Ali Nurdin, M.Kom.",
+        "research_group_members": [
+          "DR. Wahyudin M.T",
+          "Jajang Kusnendar M.T",
+          "Drs. Eka Fitrajaya M.T."
+        ],
+        "scope_of_research": [
+          "Study and research as well as scientific implementation of computer science education which consists of planning, implementation and evaluation",
+          "Planning and design of learning and evaluation applications",
+          "Digital pedagogy studies and research"
+        ],
+        "research_roadmap_image": "https://cs.upi.edu/v2/assets/images/kbk_steam.png",
+        "list_of_publication": null
+      }
+    ],
+    "Computer Science Education Magister Research Group": [
+      {
+        "group_name": "Technology Based Learning System",
+        "description": "Attempt to improve student achievement are always carried out by educational institutions, on every factor that can improve student achievement. Moreover, with the use of information and communication technology tools, which make it possible to carry out learning and teaching activities more effectively through information technology-based learning models or electronic learning, it is now increasingly recognized as a way to overcome educational problems, both in developed and developing countries. in developing countries. The integration of ICT into the learning process is needed to develop students' higher order thinking skills, develop skills in the field of ICT (ICT Literacy), and to increase the effectiveness, efficiency and attractiveness of the learning process. Information and Communication Technology systems provide a broad, fast, effective, and efficient reach for the dissemination of information to various parts of the world. Information technology develops in line with the development of theory and communication and technology that supports the practice of learning activities. Computer-based learning, Web-based learning (e-learning), Computer-Assisted Learning (CAL), AVA-based learning are forms of utilizing educational technology that need to be developed in today's world of education. Learning activities are the most basic activities in the whole educational process. This means that the achievement of educational goals depends a lot on how the learning process is designed and carried out professionally.",
+        "research_group_leader": "Dr. Rasim, M.T.",
+        "research_group_members": [
+          "Dr. Lala Septem Riza, M.T.",
+          "Dr. Rani Megasari, M.T.",
+          "Dr. Yudi Wibisono, M.T.",
+          "Dr. M. Nursalman, M.T.",
+          "Didin Wahyudin, M.T., Ph.D."
+        ],
+        "scope_of_research": [
+          "Learning media",
+          "PJJ/MOOC/Open and Distance Learning",
+          "AI/ML and IoT for Education",
+          "Evaluation of Technology-Based Learning",
+          "Augmented and Virtual Learning",
+          "Education Game"
+        ],
+        "research_roadmap_image": "https://cs.upi.edu/v2/assets/images/Roadmap_Sistem_Pembelajaran_Berbasis_Teknologi.png",
+        "list_of_publication": [
+          "Wahyudin, E., Adelia, D., Samah, K. A. F. A., & Riza, L. S. (2022). The Creative Problem-Solving Model in Animation-Based Multimedia to Improve Students' Creative Thinking Ability. Journal of Positive School Psychology, 7123-7132.",
+          "Riza, L. S., Zuhdi, M. H., & Piantari, E. (2022). Questions Based Computational Thinking for Primary School Students. Journal of Positive School Psychology, 7113-7122.",
+          "Elvyanti, S., Mulyadi, Y., Haritman, E., Krisnoputri, B. A. Z., & Wahyudin, D. (2022, March). Assessing the Performance of Remote Laboratory. In 4th International Conference on Innovation in Engineering and Vocational Education (ICIEVE 2021) (pp. 163-166). Atlantis Press.",
+          "Johan, R. C., Cahyani, I., & Wibisono, Y. (2021). DIGITAL MEDIA ACCESS: FOLKLORE LEARNING FOR CULTIVATING LOVE INDONESIAN CULTURE CHARACTER. LITERA, 20(3).",
+          "Johan, R. C., Cahyani, I., Wibisono, Y., & Novian, R. M. (2021). Knowledge Conversion on Naracerita: The Students' Inheritance of Digital Folklore Based on Media. Library Philosophy and Practice, 1-15.",
+          "Dahlan, J. A., & Wibisono, Y. (2021). The Effect of Hands-On and Computer-Based Learning Activities on Conceptual Understanding and Mathematical Reasoning. International Journal of Instruction, 14(1), 143-160.",
+          "Ramadhan, S. I., Haritman, E., & Wahyudin, D. (2021, November). Development of BLENODE32 Practicum Module Using ADDIE for Embedded System & IoT Practical Work. In 2021 3rd International Symposium on Material and Electrical Engineering Conference (ISMEE) (pp. 137-141). IEEE.",
+          "Nurjanah, N., Rohayati, A., & Riza, L. S. (2021). A learning media based on hands-on activity in mathematics for students special school. IJDS: Indonesian Journal of Disability Studies, 8(2), 317-329.",
+          "Wahyudin, W., Rishanty, A. M., Nursalman, M., Nazir, S., & Riza, L. S. (2021). Learning through computer science unplugged on team assisted individualization on the computational thinking ability. Linguistics and Culture Review, 5(S3), 1442-1452.",
+          "Kaosar, R. N., Murtadha, I., Shahbodin, F., & Riza, L. S. (2021). Expert system using the educational game to determine children's autism levels using forward chaining. Linguistics and Culture Review, 5(S1), 1149-1172.",
+          "Riza, L. S., Rosdiyana, R. A., Pérez, A. R., & Wahyudin, A. (2021). The k-means algorithm for generating sets of items in educational assessment. Indonesian Journal of Science and Technology, 6(1), 93-100.",
+          "Riza, L. S., Sawiji, T., Budiman, E., & Rosales-Pérez, A. (2020). A Labyrinth Game for Blind Children Using Problem Solving Learning Model. International Journal of Emerging Technologies in Learning, 15(2).",
+          "Riza, L. S., Anwar, F. S., Rahman, E. F., Abdullah, C. U., & Nazir, S. (2020). Natural language processing and levenshtein distance for generating error identification typed questions on TOEFL. Journal of Computers for Society, 1(1), 1-23.",
+          "Fitriasari, N. S., Megasari, R., & Piantari, E. (2019, November). Assessing knowledge management system maturity level of teacher professional competence. In Journal of Physics: Conference Series (Vol. 1280, No. 3, p. 032024). IOP Publishing.",
+          "Riza, L. S., Pertiwi, A. D., Rahman, E. F., Munir, M., & Abdullah, C. U. (2019). Question generator system of sentence completion in TOEFL using NLP and k-nearest neighbor. Indonesian Journal of Science and Technology, 4(2), 294-311.",
+          "Riza, L. S., Aryani, I. A., Wihardi, Y., & Rahman, E. F. (2018, November). Development of Computational Story for Teaching Algorithm and Programming. In 2018 2nd East Indonesia Conference on Computer and Information Technology (EIConCIT) (pp. 326-329). IEEE.",
+          "Riza, L. S., Firdaus, D. S., Junaeti, E., Hidayat, T., Abdullah, A. G., Nandiyanto, A. B., & Abdullah, C. U. (2018). A concept and implementation of instructional interactive multimedia for deaf students based on inquiry-based learning model. Journal of Engineering Science and Technology, 13(7), 2016-2035.",
+          "Riza, L. S., Solihat, S., Fitriasari, N. S., Homdijah, O. S., Nurhayati, A. S., & Hidayat, T. (2018). READING AND COUNTING INTERACTIVE MEDIA FOR CHILDREN WITH AUTISM SPECTRUM DISORDER (ASD). Jurnal Pengajaran MIPA, 23(1), 9-14.",
+          "Farasyi, G., Setiawan, W., Fahsi, M., & Riza, L. S. (2018). The Association Rule Method for Mapping and Recommendation System on Students’ Difficulties. Transylvanian Review, 26(32).",
+          "Langi, A. Z. R., & Rosmansyah, Y. (2018, May). Implementation of 3D virtual learning environment to improve students’ cognitive achievement. In Journal of Physics: Conference Series (Vol. 1013, No. 1, p. 012103). IOP Publishing.",
+          "Rasim, R., Rosmansyah, Y., Langi, A. Z., & Munir, M. (2018). Selection of Learning Materials Based on Students’ Behaviors in 3DMUVLE. TELKOMNIKA (Telecommunication Computing Electronics and Control), 16(5), 2127-2136.",
+          "Fatimah, S., Setiawan, W., Kusnendar, J., Rasim, Junaeti, E., & Anggraeni, R. (2017, May). Development of the teaching simulator based on animated film to strengthening pedagogical competencies of prospective teachers. In AIP Conference Proceedings (Vol. 1848, No. 1, p. 060019). AIP Publishing LLC.",
+          "Prabawa, H. W., & Husnun, U. (2017, October). Gamification development in attainment concept model learning for students' comprehension enhancement. In 2017 3rd International Conference on Science in Information Technology (ICSITech) (pp. 685-689). IEEE."
+        ]
+      },
+      {
+        "group_name": "Educational Policy and ICT Education Management",
+        "description": "Policy comes from the Greek word polis which means city. Policy relates to the idea of ​​managing an organization. Policy can also be interpreted as a decision issued by the government for the community and generally accepted. Policies that regulate the education system are called education policies. Many educational policies have been issued which aim to facilitate and facilitate education providers and the community to be able to develop innovative education to achieve national education goals. The goals of national education are formulated through a policy called education policy. Education policy in Indonesia has undergone several changes with the aim of producing a national education system that characterizes the Indonesian nation. In 2003, Law No. 20 of 2003 was enacted regarding the national education system. The issuance of the law indicates that the Indonesian government is serious in achieving educational goals through an education policy.",
+        "research_group_leader": "Prof. Dr. Munir, M.IT.",
+        "research_group_members": [
+          "Dr. Budi Laksono Putro, M.T.",
+          "Dr. Wahyudin, M.T.",
+          "Dr. Enjang Ali Nurdin, M.Kom",
+          "Dr. Asep Wahyudin, M.T."
+        ],
+        "scope_of_research": [
+          "Smart Learning Environment (Lingkungan pembelajaran cerdas)",
+          "Curriculum Study and Learning",
+          "Educational Institution Management (smart web school)",
+          "School Smart Decision System"
+        ],
+        "research_roadmap_image": "https://cs.upi.edu/v2/assets/images/Roadmap_Kebijakan_Manajemen_Pendidikan.png",
+        "list_of_publication": [
+          "Rosmansyah, Y., Putro, B. L., Putri, A., Utomo, N. B., & Suhardi. (2022). A simple model of smart learning environment. Interactive Learning Environments, 1-22.",
+          "Wahyudin, A. (2021, September). The Development and Effectiveness of Business Strategy Model with A Partnership Approach for Growing Entrepreneurship. In 5th Global Conference on Business, Management and Entrepreneurship (GCBME 2020) (pp. 721-726). Atlantis Press.",
+          "Ali, E. Y., Munir, M., Permana, J., & Kurniady, D. A. (2020, February). Academic Service Quality in Education Management in Higher Education. In 3rd International Conference on Research of Educational Administration and Management (ICREAM 2019) (pp. 455-461). Atlantis Press.",
+          "Yulianti, R., & Munir, M. (2020, February). Recruitment Planning of Teachers and Education Staff at MTs Yaspina Cianjur. In 3rd International Conference on Research of Educational Administration and Management (ICREAM 2019) (pp. 130-133). Atlantis Press.",
+          "Ali, E. Y., Munir, M., Permana, J., & Kurniady, D. A. (2020). Improving the quality of academic services in higher education by the development of SIMANTAP. Universal Journal of Educational Research, 8(2), 371-386.",
+          "Wahyudin, A., Nasuha, A. F., & Junaeti, E. (2020, October). Strategic Alignment Maturity Level Model Using Drivers of Change in a Business Environment. In 2020 6th International Conference on Science in Information Technology (ICSITech) (pp. 150-154). IEEE.",
+          "Wahyudin, A., Siregar, H., & Balqis, S. B. A. (2020, October). Collaborative Information System Monitoring and Evaluation Tools Model. In 2020 6th International Conference on Science in Information Technology (ICSITech) (pp. 159-164). IEEE.",
+          "Putro, B. L., Rosmansyah, Y., & Agustine, S. S. (2020, October). Intelligent agent to form heterogeneous group based on personality traits with genetic algorithm. In 2020 International Conference on Information Technology Systems and Innovation (ICITSI) (pp. 294-299). IEEE.",
+          "Sutarno, H., Putro, B. L., Judhie, R. R., & Piantari, E. (2019, November). E-portfolio assessment model on collaborative problem solving (CPS) learning based on digital learning environment. In Journal of Physics: Conference Series (Vol. 1280, No. 3, p. 032030). IOP Publishing.",
+          "Putro, B. L., Putra, R. R. J., & Fitriasari, N. S. (2019, November). Learning Management System (LMS) model based on machine learning supports 21st century learning as the implementation of curriculum 2013. In Journal of Physics: Conference Series (Vol. 1280, No. 3, p. 032032). IOP Publishing.",
+          "Putra, R. R. J., & Putro, B. L. (2019, November). Smart education: Educational service system for equal quality education. In Journal of physics: Conference series (Vol. 1280, No. 3, p. 032029). IOP Publishing.",
+          "Setiawan, W., Munir, Senen, S. H., Nugroho, E. P., Wihardi, Y., & Nugraha, E. (2017, May). Strengthening of Indonesia school of management in the 21st century through the implementation of school management system based information technology and communications integrated. In AIP Conference Proceedings (Vol. 1848, No. 1, p. 060020). AIP Publishing LLC.",
+          "Rohendi, D. (2012). Development model for knowledge management system (KMS) to improve university's performance (case studies in Indonesia University of Education). International Journal of Computer Science Issues (IJCSI), 9(1), 1."
+        ]
+      }
+    ]
+  }
+}

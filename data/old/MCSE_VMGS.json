@@ -1,0 +1,462 @@
+{
+  "title": "Master of Computer Science Education Study Program",
+  "vision": "Become a Leading and Outstanding Master Study Program in the field of computer science/informatics education at national and international levels.",
+  "mission": [
+    "Organizing master's level education as an effort to create professional graduates who are creative, innovative, adaptive, think critically, and contribute to overcoming various problems in computer science education.",
+    "Conducting research and studies that are useful for the world of education, computer science/informatics, and society through a cross-vertilization approach between computer science and education.",
+    "Organizing community service as a real implementation of learning and research outcomes by involving educational institutions, companies/industry, professional organizations, and government.",
+    "Build national and international networks to collaborate in scientific improvement in the fields of education, research, and scientific publications."
+  ],
+  "objectives": [
+    "To produce graduates who are faithful and devoted to God Almighty, manifested by an attitude of integrity, honesty, empathy, and responsibility.",
+    "To produce graduates who are able to apply the noble values of Pancasila and have a high sense of nationalism.",
+    "To produce graduates who have competence in theories/concepts and implementations in the fields of education, software engineering, multimedia, computer networks, and other latest technologies.",
+    "Produce graduates who are able to carry out research independently to solve problems in the world of education by involving various disciplines.",
+    "Produce graduates as experts in the field of computer science education who are ready to enter and work in Indonesian and international communities.",
+    "Produce graduates who have the ability to build networks/cooperation, communication, and high self-development."
+  ],
+  "program_goals": {
+    "Students": [
+      {
+        "no": "1",
+        "goal": "Number of registered students",
+        "baseline": "30",
+        "unit": "Student",
+        "targets": {
+          "2020": "30",
+          "2021": "30",
+          "2022": "60",
+          "2023": "60",
+          "2024": "60"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "2",
+        "goal": "Number of entrepreneur students",
+        "baseline": "10",
+        "unit": "Student",
+        "targets": {
+          "2020": "15",
+          "2021": "15",
+          "2022": "20",
+          "2023": "20",
+          "2024": "25"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "3",
+        "goal": "Percentage of students who completed less than 4 semesters of study",
+        "baseline": "0",
+        "unit": "Percent",
+        "targets": {
+          "2020": "1",
+          "2021": "1",
+          "2022": "3",
+          "2023": "5",
+          "2024": "5"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "4",
+        "goal": "Number of students participating in national level championships",
+        "baseline": "3",
+        "unit": "Student",
+        "targets": {
+          "2020": "3",
+          "2021": "5",
+          "2022": "10",
+          "2023": "10",
+          "2024": "15"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "5",
+        "goal": "Number of students who won 1st place in national level competitions",
+        "baseline": "0",
+        "unit": "Student",
+        "targets": {
+          "2020": "0",
+          "2021": "1",
+          "2022": "1",
+          "2023": "2",
+          "2024": "3"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "6",
+        "goal": "Number of students who won 1st place in international level competitions",
+        "baseline": "0",
+        "unit": "Student",
+        "targets": {
+          "2020": "0",
+          "2021": "0",
+          "2022": "1",
+          "2023": "1",
+          "2024": "2"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "7",
+        "goal": "Number of students participating in international academic activities",
+        "baseline": "0",
+        "unit": "Student",
+        "targets": {
+          "2020": "1",
+          "2021": "1",
+          "2022": "2",
+          "2023": "3",
+          "2024": "4"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "8",
+        "goal": "Number of students participating in international level championships",
+        "baseline": "5",
+        "unit": "Student",
+        "targets": {
+          "2020": "5",
+          "2021": "5",
+          "2022": "5",
+          "2023": "7",
+          "2024": "7"
+        },
+        "calculation": "Annual"
+      }
+    ],
+    "Graduate": [
+      {
+        "no": "9",
+        "goal": "Number of competency certified graduates",
+        "baseline": "0",
+        "unit": "Alumni",
+        "targets": {
+          "2020": "0",
+          "2021": "5",
+          "2022": "10",
+          "2023": "15",
+          "2024": "20"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "10",
+        "goal": "Number of graduates who go straight to work",
+        "baseline": "5",
+        "unit": "Percent",
+        "targets": {
+          "2020": "10",
+          "2021": "10",
+          "2022": "20",
+          "2023": "20",
+          "2024": "30"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "11",
+        "goal": "The waiting period for graduate work is less than three months",
+        "baseline": "10",
+        "unit": "Percent",
+        "targets": {
+          "2020": "10",
+          "2021": "20",
+          "2022": "30",
+          "2023": "45",
+          "2024": "60"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "12",
+        "goal": "Percentage of graduation on time according to the quality standards of the Study Program set based on ISO 9001:2015",
+        "baseline": "10",
+        "unit": "Percent",
+        "targets": {
+          "2020": "15",
+          "2021": "25",
+          "2022": "50",
+          "2023": "55",
+          "2024": "60"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "13",
+        "goal": "Graduate’s Grade Point Average (GPA/IPK)",
+        "baseline": "3.16",
+        "unit": "",
+        "targets": {
+          "2020": "3.18",
+          "2021": "3.2",
+          "2022": "3.25",
+          "2023": "3.27",
+          "2024": "3.3"
+        },
+        "calculation": "Annual"
+      }
+    ],
+    "Lecturers and Education Personnel": [
+      {
+        "no": "14",
+        "goal": "Number of certified lecturers",
+        "baseline": "6",
+        "unit": "Lecturer",
+        "targets": {
+          "2020": "6",
+          "2021": "6",
+          "2022": "6",
+          "2023": "6",
+          "2024": "6"
+        },
+        "calculation": "Cumulative"
+      },
+      {
+        "no": "15",
+        "goal": "Number of Professors",
+        "baseline": "2",
+        "unit": "Professor",
+        "targets": {
+          "2020": "2",
+          "2021": "2",
+          "2022": "2",
+          "2023": "2",
+          "2024": "3"
+        },
+        "calculation": "Cumulative"
+      },
+      {
+        "no": "16",
+        "goal": "Number of Lecturers who are qualified as Doctorate (S3)",
+        "baseline": "6",
+        "unit": "Lecturer",
+        "targets": {
+          "2020": "6",
+          "2021": "6",
+          "2022": "6",
+          "2023": "7",
+          "2024": "8"
+        },
+        "calculation": "Cumulative"
+      },
+      {
+        "no": "17",
+        "goal": "Percentage of lecturers who received research grants at local and national levels in accordance with ISO 9001:2018",
+        "baseline": "50",
+        "unit": "Percent",
+        "targets": {
+          "2020": "60",
+          "2021": "65",
+          "2022": "70",
+          "2023": "75",
+          "2024": "100"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "18",
+        "goal": "Percentage of lecturer participation in community service activities",
+        "baseline": "50%",
+        "unit": "Percent",
+        "targets": {
+          "2020": "50",
+          "2021": "60",
+          "2022": "70",
+          "2023": "80",
+          "2024": "100"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "19",
+        "goal": "Percentage of lecturer participation in community service activities",
+        "baseline": "1",
+        "unit": "Lecturer",
+        "targets": {
+          "2020": "1",
+          "2021": "2",
+          "2022": "3",
+          "2023": "4",
+          "2024": "5"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "20",
+        "goal": "The number of human resources who have advanced their careers",
+        "baseline": "1",
+        "unit": "Person",
+        "targets": {
+          "2020": "1",
+          "2021": "1",
+          "2022": "1",
+          "2023": "1",
+          "2024": "1"
+        },
+        "calculation": "Cumulative"
+      },
+      {
+        "no": "21",
+        "goal": "Number of lecturers who take further study education",
+        "baseline": "2",
+        "unit": "Lecturer",
+        "targets": {
+          "2020": "2",
+          "2021": "2",
+          "2022": "2",
+          "2023": "2",
+          "2024": "2"
+        },
+        "calculation": "Annual"
+      }
+    ],
+    "Research": [
+      {
+        "no": "22",
+        "goal": "Number of publications/scientific works of lecturers both at the national level",
+        "baseline": "5",
+        "unit": "Article",
+        "targets": {
+          "2020": "5",
+          "2021": "5",
+          "2022": "7",
+          "2023": "8",
+          "2024": "10"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "23",
+        "goal": "Number of lecturer products that obtained Intellectual Property Rights (HKI)",
+        "baseline": "3",
+        "unit": "Product",
+        "targets": {
+          "2020": "5",
+          "2021": "10",
+          "2022": "15",
+          "2023": "20",
+          "2024": "25"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "24",
+        "goal": "Number of Lecturer's Books with ISBN",
+        "baseline": "0",
+        "unit": "Book",
+        "targets": {
+          "2020": "0",
+          "2021": "1",
+          "2022": "2",
+          "2023": "2",
+          "2024": "2"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "25",
+        "goal": "The number of articles which publication in journals and international conferences indexed or nationally accredited",
+        "baseline": "5",
+        "unit": "Article",
+        "targets": {
+          "2020": "5",
+          "2021": "10",
+          "2022": "15",
+          "2023": "20",
+          "2024": "25"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "26",
+        "goal": "Number of journals published by the Computer Science Study program",
+        "baseline": "0",
+        "unit": "Journal",
+        "targets": {
+          "2020": "0",
+          "2021": "1",
+          "2022": "1",
+          "2023": "1",
+          "2024": "1"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "27",
+        "goal": "Number of research used by the community",
+        "baseline": "1",
+        "unit": "Research",
+        "targets": {
+          "2020": "1",
+          "2021": "1",
+          "2022": "1",
+          "2023": "1",
+          "2024": "1"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "28",
+        "goal": "Percentage of lecturers giving lectures with research-based materials",
+        "baseline": "1",
+        "unit": "Percent",
+        "targets": {
+          "2020": "1",
+          "2021": "2",
+          "2022": "4",
+          "2023": "5",
+          "2024": "5"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "29",
+        "goal": "Number of collaborations with other institutions",
+        "baseline": "5",
+        "unit": "Collaboration",
+        "targets": {
+          "2020": "5",
+          "2021": "5",
+          "2022": "10",
+          "2023": "15",
+          "2024": "20"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "30",
+        "goal": "Organizing lecture activities in accordance with ISO 9001:2015 standards",
+        "baseline": "90",
+        "unit": "Percent",
+        "targets": {
+          "2020": "90",
+          "2021": "90",
+          "2022": "90",
+          "2023": "90",
+          "2024": "90"
+        },
+        "calculation": "Annual"
+      },
+      {
+        "no": "31",
+        "goal": "Total community service",
+        "baseline": "2",
+        "unit": "Program",
+        "targets": {
+          "2020": "2",
+          "2021": "2",
+          "2022": "2",
+          "2023": "3",
+          "2024": "3"
+        },
+        "calculation": "Annual"
+      }
+    ]
+  }
+}

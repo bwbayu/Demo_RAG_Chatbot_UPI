@@ -1,0 +1,790 @@
+{
+  "title": "Vision and Mission of Computer Science Study Program",
+  "content": {
+    "vision": "Become a leading and outstanding study program in the field of Computer Science at the National level and contribute to the ASEAN level.",
+    "mission": [
+      "Organize quality and professional education and develop computer science disciplines according to stakeholder demands.",
+      "Perform innovative and creative research by considering the following aspect as local wisdom, cross-fertilization with education, and multidisciplinary to contribute at the ASEAN level.",
+      "Disseminate and apply the experience and results of innovative and creative research in computer science for the benefit of stakeholders.",
+      "Organize the governance of study program, perform strength of networks and create partnerships with professional institutions and general institutions, as well as improve the quality of human resources that are globally competitive within the scope of National and ASEAN."
+    ],
+    "objective": [
+      "Provide graduates in the field of computer science who uphold religious values towards faith and piety to God Almighty which is manifested by an attitude of integrity, honesty, empathy, and responsibility.",
+      "Provide graduates who apply the noble values of Pancasila and have a high sense of nationalism.",
+      "Provide graduates who master theoretical and product competencies in the field of computer science who are professional and reliable.",
+      "Provide graduates who have collaborative skills, communication, and high self-development.",
+      "Promote and develop local wisdom through theory and research products in computer science.",
+      "Deliver contribution to stakeholders in concept and learning technology in education by combining science and technology in computer science.",
+      "Provide research collaboration to solve the problems effectively and efficiently with involving several disciplines (Biology, Physics, Mathematics, Electrics, Spot, Food Service, Education Science) dan implement the result of research in social life.",
+      "Make study program as a tool to create professional resources in a computer science program, high quality, reliable, trustworthy, and globally competitive.",
+      "Create collaboration and maritime network with stakeholders at national and international levels in ASEAN."
+    ],
+    "targets": {
+      "data": [
+        {
+          "category": "Student",
+          "items": [
+            {
+              "No": 1,
+              "Target": "Number of students registered",
+              "Baseline": "40",
+              "Unit": "Person",
+              "2016": "40",
+              "2017": "40",
+              "2018": "40",
+              "2019": "80",
+              "2020": "80",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 2,
+              "Target": "Number of student entrepreneurs",
+              "Baseline": "10",
+              "Unit": "Person",
+              "2016": "15",
+              "2017": "20",
+              "2018": "25",
+              "2019": "30",
+              "2020": "35",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 3,
+              "Target": "Percentage of students completing the study less than 8 semesters",
+              "Baseline": "0",
+              "Unit": "Percent",
+              "2016": "1",
+              "2017": "3",
+              "2018": "5",
+              "2019": "7",
+              "2020": "10",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 4,
+              "Target": "Number of students participating in national competition",
+              "Baseline": "10",
+              "Unit": "Person",
+              "2016": "15",
+              "2017": "20",
+              "2018": "25",
+              "2019": "30",
+              "2020": "35",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 5,
+              "Target": "Number of students achieving first place at national competition",
+              "Baseline": "1",
+              "Unit": "Person",
+              "2016": "1",
+              "2017": "2",
+              "2018": "2",
+              "2019": "2",
+              "2020": "3",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 6,
+              "Target": "Number of students achieving first place at international competition",
+              "Baseline": "0",
+              "Unit": "Person",
+              "2016": "0",
+              "2017": "0",
+              "2018": "0",
+              "2019": "0",
+              "2020": "1",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 7,
+              "Target": "Number of students participating in academic activities at the international level",
+              "Baseline": "0",
+              "Unit": "Person",
+              "2016": "1",
+              "2017": "1",
+              "2018": "2",
+              "2019": "3",
+              "2020": "4",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 8,
+              "Target": "Number of students participating in international competition",
+              "Baseline": "0",
+              "Unit": "Person",
+              "2016": "1",
+              "2017": "1",
+              "2018": "2",
+              "2019": "3",
+              "2020": "4",
+              "Calculation": "Yearly"
+            }
+          ]
+        },
+        {
+          "category": "Graduate",
+          "items": [
+            {
+              "No": 9,
+              "Target": "Number of competency certified graduates",
+              "Baseline": "0",
+              "Unit": "Person",
+              "2016": "0",
+              "2017": "0",
+              "2018": "20",
+              "2019": "25",
+              "2020": "35",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 10,
+              "Target": "Number of graduates who go straight to work",
+              "Baseline": "5",
+              "Unit": "Percent",
+              "2016": "10",
+              "2017": "10",
+              "2018": "20",
+              "2019": "20",
+              "2020": "30",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 11,
+              "Target": "The waiting period working of graduates is less than three months",
+              "Baseline": "10",
+              "Unit": "Percent",
+              "2016": "20",
+              "2017": "30",
+              "2018": "50",
+              "2019": "55",
+              "2020": "60",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 12,
+              "Target": "Percentage of Graduation On-Time according to the standard of quality of Study program based on ISO 9001:2015",
+              "Baseline": "10",
+              "Unit": "Percent",
+              "2016": "15",
+              "2017": "25",
+              "2018": "50",
+              "2019": "55",
+              "2020": "60",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 13,
+              "Target": "Average of Graduates Index",
+              "Baseline": "3.16",
+              "Unit": null,
+              "2016": "3.18",
+              "2017": "3.2",
+              "2018": "3.25",
+              "2019": "3.27",
+              "2020": "3.3",
+              "Calculation": "Yearly"
+            }
+          ]
+        },
+        {
+          "category": "Lecturers and Staffs",
+          "items": [
+            {
+              "No": 14,
+              "Target": "Number of lecturers Certified",
+              "Baseline": "15",
+              "Unit": "Person",
+              "2016": "15",
+              "2017": "15",
+              "2018": "15",
+              "2019": "16",
+              "2020": "16",
+              "Calculation": "Cumulative"
+            },
+            {
+              "No": 15,
+              "Target": "Number of Professor",
+              "Baseline": "1",
+              "Unit": "Person",
+              "2016": "1",
+              "2017": "1",
+              "2018": "2",
+              "2019": "2",
+              "2020": "2",
+              "Calculation": "Cumulative"
+            },
+            {
+              "No": 16,
+              "Target": "Number of lecturers with doctoral qualified",
+              "Baseline": "3",
+              "Unit": "Person",
+              "2016": "4",
+              "2017": "5",
+              "2018": "5",
+              "2019": "6",
+              "2020": "7",
+              "Calculation": "Cumulative"
+            },
+            {
+              "No": 17,
+              "Target": "Percentage of lecturers get research grant at the local and national level based on ISO 9001:2018",
+              "Baseline": "50",
+              "Unit": "Percent",
+              "2016": "60",
+              "2017": "65",
+              "2018": "70",
+              "2019": "75",
+              "2020": "100",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 18,
+              "Target": "Percentage of lecturers participating in community service",
+              "Baseline": "50%",
+              "Unit": "Percent",
+              "2016": "50",
+              "2017": "60",
+              "2018": "70",
+              "2019": "80",
+              "2020": "100",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 19,
+              "Target": "Number of lecturers involved or participating in international level activities",
+              "Baseline": "1",
+              "Unit": "Person",
+              "2016": "1",
+              "2017": "2",
+              "2018": "3",
+              "2019": "4",
+              "2020": "5",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 20,
+              "Target": "Number of lecturers who have increased their careers",
+              "Baseline": "1",
+              "Unit": "Person",
+              "2016": "1",
+              "2017": "1",
+              "2018": "1",
+              "2019": "1",
+              "2020": "1",
+              "Calculation": "Cumulative"
+            },
+            {
+              "No": 21,
+              "Target": "Number of lecturers who continue their studies",
+              "Baseline": "2",
+              "Unit": "Person",
+              "2016": "2",
+              "2017": "2",
+              "2018": "2",
+              "2019": "2",
+              "2020": "2",
+              "Calculation": "Yearly"
+            }
+          ]
+        },
+        {
+          "category": "Researches",
+          "items": [
+            {
+              "No": 22,
+              "Target": "Number of publication/scientific work at the national level",
+              "Baseline": "5",
+              "Unit": "publication",
+              "2016": "5",
+              "2017": "5",
+              "2018": "7",
+              "2019": "8",
+              "2020": "10",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 23,
+              "Target": "Number of lecturers achieving Intellectual Property Rights(HKI)",
+              "Baseline": "3",
+              "Unit": "HKI",
+              "2016": "5",
+              "2017": "10",
+              "2018": "15",
+              "2019": "20",
+              "2020": "25",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 24,
+              "Target": "Number of lecturers having ISBN Book",
+              "Baseline": "0",
+              "Unit": "Book",
+              "2016": "0",
+              "2017": "1",
+              "2018": "2",
+              "2019": "2",
+              "2020": "2",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 25,
+              "Target": "Number of articles that published at the indexed journal and international conference or accredited journal and accredited conference at national level",
+              "Baseline": "5",
+              "Unit": "Article",
+              "2016": "5",
+              "2017": "10",
+              "2018": "15",
+              "2019": "20",
+              "2020": "25",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 26,
+              "Target": "Number of journals published by the Computer Science Study program",
+              "Baseline": "0",
+              "Unit": "Journal",
+              "2016": "0",
+              "2017": "0",
+              "2018": "2",
+              "2019": "2",
+              "2020": "2",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 27,
+              "Target": "Number of research utilized by society",
+              "Baseline": "1",
+              "Unit": "Research",
+              "2016": "1",
+              "2017": "1",
+              "2018": "1",
+              "2019": "1",
+              "2020": "1",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 28,
+              "Target": "Percentage of lecturers provide lecture with material based on the result of research",
+              "Baseline": "1",
+              "Unit": "Percent",
+              "2016": "1",
+              "2017": "2",
+              "2018": "4",
+              "2019": "5",
+              "2020": "5",
+              "Calculation": "Yearly"
+            }
+          ]
+        },
+        {
+          "category": "Researches",
+          "items": [
+            {
+              "No": 29,
+              "Target": "Number of collaborations with the institutions",
+              "Baseline": "30",
+              "Unit": "Unit",
+              "2016": "50",
+              "2017": "55",
+              "2018": "60",
+              "2019": "65",
+              "2020": "70",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 30,
+              "Target": "Perform study that is suitable with the standard of ISO 9001:2015",
+              "Baseline": "90",
+              "Unit": "Percent",
+              "2016": "90",
+              "2017": "90",
+              "2018": "90",
+              "2019": "90",
+              "2020": "90",
+              "Calculation": "Yearly"
+            },
+            {
+              "No": 31,
+              "Target": "Number of community services",
+              "Baseline": "2",
+              "Unit": "Unit",
+              "2016": "2",
+              "2017": "2",
+              "2018": "3",
+              "2019": "4",
+              "2020": "4",
+              "Calculation": "Yearly"
+            }
+          ]
+        }
+      ],
+      "strategy": [
+        {
+          "Target_No": 1,
+          "Target": "Number of students registered",
+          "Strategy": [
+            "Provide procedure of registration of new students with SBMPTN, SNMPTN, and SM UPI.",
+            "Maximize performance from academic counselors.",
+            "Academic counselors can guide 20 students.",
+            "Perform UPI's policy in providing re-registration time.",
+            "Provide insight to new students in inaugural lecture every year."
+          ]
+        },
+        {
+          "Target_No": 2,
+          "Target": "Number of student entrepreneurs",
+          "Strategy": [
+            "Facilitate students to participate the competitions such as students creativity program (PKM) especially entrepreneurship and Entrepreneurial Student Program (PMW) from the Ministry of Education, Culture, Research, and Technology.",
+            "Direct student to create the thesis topic to encourage entrepreneurship.",
+            "Establish and create incubation program with alumni who build start-up."
+          ]
+        },
+        {
+          "Target_No": 3,
+          "Target": "Percentage of students completing the study less than 8 semesters",
+          "Strategy": [
+            "Maximize performance of academic counsellors with perform at least 3 times.",
+            "Support intensive for student have the highest GPA.",
+            "Provide incentive for academic counsellors who have graduates on time.",
+            "Open the potential result of seminar course for make proposal of undergraduate thesis at 6 th semester.",
+            "Provide opportunity for student who have GPA >= 3.5 to take courses with maximal 24 credits.",
+            "Study program perform short semester (SP) for acceleration the completion of the study period."
+          ]
+        },
+        {
+          "Target_No": 4,
+          "Target": "Number of students participating in national competition",
+          "Strategy": [
+            "Build special lecturers team to guide student at various competition.",
+            "Build research team from expertise group that involve students.",
+            "Provide specific skills training for preparing competition in national or international level according to interest of students.",
+            "Study program or university provide support toward excellent student.",
+            "Provide socialization to inform various competition followed by student.",
+            "Conduct sharing session with student who have achieved achievements in certain competition."
+          ]
+        },
+        {
+          "Target_No": 5,
+          "Target": "Number of students participating in international competition",
+          "Strategy": [
+            "Build special lecturers team to guide student at various competition.",
+            "Build research team from expertise group that involve students.",
+            "Provide specific skills training for preparing competition in national or international level according to interest of students.",
+            "Study program or university provide support toward excellent student.",
+            "Provide socialization to inform various competition followed by student."
+          ]
+        },
+        {
+          "Target_No": 6,
+          "Target": "Number of students achieving first place at international competition",
+          "Strategy": [
+            "Assign excellent student who have achievement in study program level to participate preparing competition training and assign student to be instructor for other students.",
+            "Facilitate quarantine place ahead of competition.",
+            "Intensify preparation ahead of competition and invlove guider.",
+            "Build special lecturers team to guide student at various competition.",
+            "Build research team from expertise group that involve students.",
+            "Provide specific skills training for preparing competition in national or international level according to interest of students.",
+            "Study program or university provide support toward excellent student."
+          ]
+        },
+        {
+          "Target_No": 7,
+          "Target": "Number of students participating in academic activities at the international level",
+          "Strategy": [
+            "Build research team from expertise group that involve students.",
+            "Provide specific skills training for preparing competition in national or international level according to interest of students.",
+            "Study program or university provide support toward excellent student.",
+            "Conduct sharing session with student who have achieved achievements in certain competition."
+          ]
+        },
+        {
+          "Target_No": 8,
+          "Target": "Number of students participating in international competition",
+          "Strategy": [
+            "Maximize cooperation that has been established with UPI through Office of International Education and Relation UPI to perform international academic activity.",
+            "Study program or university provide supporting for excellent student who have achieved achievement in academic or international competition.",
+            "Perform MoU assessment or collaboration with corporate or overseas academic institutions to conduct academic activities in international level.",
+            "Provide information about various academic activities in international level."
+          ]
+        },
+        {
+          "Target_No": 9,
+          "Target": "Number of competency certified graduates",
+          "Strategy": [
+            "Conduct Programming Competency Training specially Java with Oracle Academy.",
+            "Provide Programming Certification with the category of Java Fundamental and Java Programming from Oracle Academy on an international level.",
+            "Conduct the training to acceleration student competency periodically by expertise group for example CISCO training by technic of computer and networking system expertise group.",
+            "Provide language skills through English Club as acceleration of English language skills.",
+            "Support student to TOEIC test by Faculty and TOEFL test by UPI Language Center.",
+            "Competency Certification as requirement to perform undergraduate thesis defence."
+          ]
+        },
+        {
+          "Target_No": 10,
+          "Target": "Number of graduates who go straight to work",
+          "Strategy": [
+            "Provide insight for graduates towards experience work at industry through debriefing program, and collaboration with the Alumni Association.",
+            "Build cooperation with IT industry that recruit graduates through Career Day event that organized by study program or university.",
+            "Comply stakeholder request to perform selection of graduates.",
+            "Perform internship program effectively with realizing and connecting industry requirement with students skills.",
+            "Provide competency and certificated relate to soft skill and hard skill in computer science expertise."
+          ]
+        },
+        {
+          "Target_No": 11,
+          "Target": "The waiting period working of graduates is less than three months",
+          "Strategy": [
+            "Provide insight for graduates towards experience work at industry through debriefing program, and collaboration with the Alumni Association.",
+            "Build cooperation with IT industry that recruit graduates through Career Day event that organized by study program or university.",
+            "Comply stakeholder request to perform selection of graduates.",
+            "Perform internship program effectively with realizing and connecting industry requirement with students skills.",
+            "Perform internship program effectively with realizing and connecting industry requirement with students skills.",
+            "Collaborate with Alumni to share job vacancy information for graduate who haven’t a job."
+          ]
+        },
+        {
+          "Target_No": 12,
+          "Target": "Percentage of Graduation On-Time according to the standard of quality of Study program based on ISO 9001:2015",
+          "Strategy": [
+            "Provide facilities for students and thesis supervisors by using the facilities of the Expertise Group Room and Laboratory related to the expertise group.",
+            "Provide facilities to perform assisting undergraduate thesis by online with access http://smbs.cs.upi.edu.",
+            "maximize roles as academic counsellors to help students to contract courses at certain semester so that students can get contract 20 credits until 24 credits.",
+            "Provide intensive for academic counsellors who have graduates on time.",
+            "Study program perform short semester (SP) for acceleration the completion of the study period.",
+            "Propose undergraduate thesis at 7th semester.",
+            "Study program provide award for on-time graduates.",
+            "Curriculum review that aim to student can graduate on-time.",
+            "Undergraduate thesis coordinator maximize and organize every undergraduate thesis process procedure.",
+            "Use http://siad.cs.upi.edu page to support undergraduate thesis course and thesis defence.",
+            "Use guardianship system provided by UPI at https://siak.upi.edu/perwalian that used by online and monitor the academic progress.",
+            "Perform ISO internal Audit periodically every semester as a achievement control."
+          ]
+        },
+        {
+          "Target_No": 13,
+          "Target": "Average of Graduates Index",
+          "Strategy": [
+            "Maximizing the performance of Academic Advisor lecturers by always monitoring the GPA of their tutored students every semester, and reporting it to the study program along with the actions taken in dealing with students whose GPA is less than 3 which can be found through the website https://siak.upi.edu/perwalian.",
+            "Lecturers provide remedial opportunities for students whose final score is less than 3 or B.",
+            "A minimum GPA of 3 is used as a requirement for students to apply for scholarships and others.",
+            "Improving the qualifications and competence of lecturers in learning.",
+            "Student evaluation system improvement.",
+            "Improving input quality through promotion and institutional image.",
+            "Provide incentives to students who have the highest 5 GPAs.",
+            "Perform short semester within 1 academic year.",
+            "Provide unlimited free internet access facilities in the FPMIPA UPI environment.",
+            "Provide facilities for the availability of learning resources in the form of up-to-date books in the Study Program reading room.",
+            "Conduct Internal Quality Audit (AMI) periodically every semester."
+          ]
+        },
+        {
+          "Target_No": 14,
+          "Target": "Number of lecturers Certified",
+          "Strategy": [
+            "Provide opportunity to develop lecturer skills according to expertise group in computer science field.",
+            "Share information about lecturer certificated submission from Directorate General of Higher Education, Ministry of Education, Culture, Research, and Technology.",
+            "Facilitate lecturer to attend English course and academic potential test as requirement to propose lecturers certificated.",
+            "help to complete administration requirement that propose lecturer certificate."
+          ]
+        },
+        {
+          "Target_No": 15,
+          "Target": "Number of Professor",
+          "Strategy": [
+            "Encourage lecturers to continue their doctoral study at domestic or overseas.",
+            "Help and guide the administrative process of the Professor's application requirements.",
+            "Facilitate article writing mentoring programs for reputable international publications.",
+            "Provide intensive for journal international for reputable international publications.",
+            "Provide incentives for books written.",
+            "Provide assistance in determining peer review assessors as colleagues to assess the results of scientific works that have been achieved by lecturers for submission of academic ranks.",
+            "Facilitate lecturer collaboration research with other institutions or institutions both at domestic and overseas."
+          ]
+        },
+        {
+          "Target_No": 16,
+          "Target": "Number of lecturers with doctoral qualified",
+          "Strategy": [
+            "Encourage lecturers to continue their doctoral study at domestic or overseas.",
+            "Facilitate information on prospective promoters for lecturers who will continue their doctoral studies.",
+            "Provide the widest possible opportunity for lecturers to carry out further studies both domestically and abroad with the collaboration that has been carried out both by UPI and U-to-U (Hiroshima University, Japan; Dong Seo University, Korea Selatan) or those that have been initiated by Department of Education and Culture (UTeM Melaka, UMT Trengganu Malaysia).",
+            "Provide an opportunity to develop his doctoral research in research development at the expertise group.",
+            "Reduce the teaching burden for lecturers who are getting study assignment status with the Teaching Team.",
+            "Facilitate lecturers who continue their studies to the doctoral level to obtain a permit or study assignment letter."
+          ]
+        },
+        {
+          "Target_No": 17,
+          "Target": "Percentage of lecturers get research grant at the local and national level based on ISO 9001:2018",
+          "Strategy": [
+            "Provide assistance in writing proposals in the form of funds and facilities.",
+            "Provide information about opportunities to get research grants either from university institutions or from the Ministry of Research, Technology and Higher Education through WhatsApp social media groups sourced from LPPM.",
+            "Coordinate related to the division of the research team.",
+            "Encourage and involve young lecturers in obtaining research grants.",
+            "Encourage lecturers to make their own research roadmap.",
+            "Facilitate proposal writing workshops and research topics."
+          ]
+        },
+        {
+          "Target_No": 18,
+          "Target": "Percentage of lecturers participating in community service",
+          "Strategy": [
+            "Provide financial assistance for the procurement of community services activities sourced from the RKAT.",
+            "Provide information about opportunities to get research grants either from university institutions or from the Ministry of Research, Technology and Higher Education through WhatsApp social media groups sourced from LPPM.",
+            "Perform collaborate with student organization in community services activities.",
+            "Apply research results to community service activities.",
+            "Utilize existing partnerships to carry out community service activities."
+          ]
+        },
+        {
+          "Target_No": 19,
+          "Target": "Number of lecturers involved or participating in international level activities",
+          "Strategy": [
+            "Encourage lecturers to participate in international activities either in international seminars/conferences or representatives of the computer science study program or UPI in foreign collaborations.",
+            "Built cooperation abroad in the academic field.",
+            "Provide incentive assistance sourced from RKAT for lecturers who participate in international activities.",
+            "Utilize university MoUs to conduct research collaborations with lecturers in study programs.",
+            "Socializing and promoting lecturers who have achievements and potential to the international level.",
+            "Encourage lecturers to improve their publication reputation at the international level."
+          ]
+        },
+        {
+          "Target_No": 20,
+          "Target": "Number of lecturers who have increased their careers",
+          "Strategy": [
+            "Facilitate HR Department/Study program applications for promotions and functional positions.",
+            "Encourage human resourses to always orderly documentation based on ISO quality standards to support the Career Submission.",
+            "Facilitate article writing mentoring programs for reputable international publications.",
+            "Provide facilities and intensives to publish in international seminar proceedings indexed by Scopus.",
+            "Provide incentives for the publication of reputable international journals.",
+            "Provide opportunities to participate in training that supports their work and skills."
+          ]
+        },
+        {
+          "Target_No": 21,
+          "Target": "Number of lecturers who continue their studies",
+          "Strategy": [
+            "Encourage lecturers to continue their doctoral study at domestic or overseas.",
+            "Facilitate information on prospective promoters for lecturers who will continue their doctoral studies.",
+            "Provide the widest possible opportunity for lecturers to carry out further studies both domestically and abroad with the collaboration that has been carried out both by UPI and U-to-U (Hiroshima University, Japan; Dong Seo University, Korea Selatan) or those that have been initiated by Department of Education and Culture (UTeM Melaka, UMT Trengganu Malaysia).",
+            "Provide an opportunity to develop his doctoral research in research development at the expertise group.",
+            "Reduce the teaching burden for lecturers who are getting study assignment status with the Teaching Team.",
+            "Facilitate lecturers who continue their studies to the doctoral level to obtain a permit or study assignment letter."
+          ]
+        },
+        {
+          "Target_No": 22,
+          "Target": "Number of publication/scientific work at the national level",
+          "Strategy": [
+            "Obligation for every lecturer to publish articles in the form of journals or paper publications in national conferences requested by the Employee Performance Unit (SKP).",
+            "Departments or universities facilitate paper writing training.",
+            "Provide financial assistance for the publication of lecturers' scientific works from RKAT either from study programs or universities.",
+            "Provide subscription journals as reference material in writing scientific papers.",
+            "Disseminate information on reputable national seminar activities.",
+            "Improving the quality of student thesis to become material for scientific articles that can be published in seminars or national journals."
+          ]
+        },
+        {
+          "Target_No": 23,
+          "Target": "Number of lecturers achieving Intellectual Property Rights (HKI)",
+          "Strategy": [
+            "Encourage lecturers to register their research products with IPR.",
+            "Improve thesis quality to produce products that can be registered with IPR.",
+            "Provide or facilitate to get rewards at the University level for lecturers who get IPR.",
+            "Facilitate lecturers to attend training on IPR."
+          ]
+        },
+        {
+          "Target_No": 24,
+          "Target": "Number of lecturers having ISBN Book",
+          "Strategy": [
+            "Provide incentives sourced from RKAT for lecturers who publish books submitted by ISBN to related parties.",
+            "Facilitate subscription journals as reference material for writing books.",
+            "The study program assigns certain lecturers to write books.",
+            "Facilitate the process of submitting book publishing to publishers.",
+            "Requires lecturers in certain functional positions to write books in accordance with SKP achievement targets."
+          ]
+        },
+        {
+          "Target_No": 25,
+          "Target": "Number of articles that published at the indexed journal and international conference or accredited journal and accredited conference at national level",
+          "Strategy": [
+            "It is mandatory for every lecturer to publish articles in the form of journals or paper publications in international conferences requested by the Employee Performance Unit (SKP).",
+            "Departments or the University facilitate paper writing training.",
+            "Providing financial assistance for the publication of lecturers' scientific works from RKAT either from Study Programs or universities.",
+            "Organize international seminars at faculty and university level.",
+            "Improve the quality of student thesis to become material for scientific articles that can be published in seminars or international journals."
+          ]
+        },
+        {
+          "Target_No": 26,
+          "Target": "Number of journals published by the Computer Science Study program",
+          "Strategy": [
+            "Improve the quality of the thesis to be published as a journal article.",
+            "To obtain the availability of journal articles to be published in the JATIKOM Journal, collaboration with journal managers from other higher education institutions is carried out so that periodic journal publications are carried out.",
+            "Allocate funds for journal management in study program RKAT.",
+            "Submitting information to lecturers and students during thesis preparation to publish their articles in the Journal of Applications and Theory of Computer Science (JATIKOM)."
+          ]
+        },
+        {
+          "Target_No": 27,
+          "Target": "Number of research utilized by society",
+          "Strategy": [
+            "Encourage lecturers to conduct research based on community needs by developing KBK which can be submitted for research using the existing scheme at Simlitabmas Kemenristekdikti or at Bangdos UPI.",
+            "The University opens a research results-based service scheme to apply research results to Community Service Activities.",
+            "Providing opportunities for lecturers to apply the results of their research to Community Service Activities carried out by the Study Program every semester which are sourced from the RKAT budget.",
+            "Encourage and guide students to make thesis topics according to the lecturer's research roadmap that can provide benefits to the community.",
+            "Lecturers collaborate with other institutions to carry out research."
+          ]
+        },
+        {
+          "Target_No": 28,
+          "Target": "Percentage of lecturers provide lecture with material based on the result of research",
+          "Strategy": [
+            "Give appreciation to lecturers who apply their research results in lecture activities.",
+            "Giving flexibility and encouraging the development of Lecturer research in KBK with students.",
+            "Provides an agenda and opportunity to update the lesson plans taught by competent lecturers.",
+            "Providing the opportunity for lecturers to teach in subjects according to their research roadmap."
+          ]
+        },
+        {
+          "Target_No": 29,
+          "Target": "Number of collaborations with the institutions",
+          "Strategy": [
+            "Encouraging lecturers to participate in national and international activities, either in seminars/conferences or representatives of computer science study programs or UPI in collaboration with domestic or foreign institutions.",
+            "Cooperating with domestic and foreign academic institutions.",
+            "Providing facilities and incentives sourced from RKAT for lecturers who contribute to collaborative activities.",
+            "Optimizing the role of lecturers in professional and scientific organizations.",
+            "Utilizing the cooperation that exists in PLA activities to realize an MoU with partner agencies."
+          ]
+        },
+        {
+          "Target_No": 30,
+          "Target": "Perform study that is suitable with the standard of ISO 9001:2015",
+          "Strategy": [
+            "Lecture scheduling is made specifically for the lecturer team, space, and time with the SIAK UPI Schedule Intranet application.",
+            "Using the Lecture System or Learning Management System by sharing material, filling in BAP, attendance, giving assignments/exams on the website http://spot.upi.edu and http://elearning.cs.upi.edu in each lecture.",
+            "There is a SinnDo Assessment File System for Lecturers https://siak.upi.edu/sinndo and for students http://sino2.upi.edu/nilai/ every end of semester.",
+            "Evaluate Learning with an on-line questionnaire: http://evaluate-pbm.upi.edu every semester.",
+            "The study program socializes UPI education guidelines related to the implementation of lectures at the beginning of each academic year.",
+            "The study program monitors the implementation of each lecturer's lecture by collecting BAP every month.",
+            "An internal quality audit is conducted every semester."
+          ]
+        },
+        {
+          "Target_No": 31,
+          "Target": "Number of community services",
+          "Strategy": [
+            "Allocate budget for activities in the study program RKAT for Community Service activities.",
+            "Performing community service activities (P2M) periodically every semester.",
+            "Support with financial assistance from RKAT Study Program for the procurement of P2M activities.",
+            "Encourage lecturers to participate in P2M activities related to the implementation of computer science research through WhatsApp social media groups.",
+            "Collaborating with student organizations in the implementation of community service activities.",
+            "Applying research results to community service activities.",
+            "Take advantage of existing partnerships to carry out community service activities."
+          ]
+        }
+      ]
+    }
+  }
+}
