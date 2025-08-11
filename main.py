@@ -10,7 +10,7 @@ load_dotenv()
 PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
 HOST_PINECONE_DENSE = os.getenv('HOST_PINECONE_DENSE')
 HOST_PINECONE_SPARSE = os.getenv('HOST_PINECONE_SPARSE')
-SILICONFLOW_URL = os.getenv('SILICONFLOW_URL')
+SILICONFLOW_URL_EMBEDDING = os.getenv('SILICONFLOW_URL_EMBEDDING')
 SILICONFLOW_API_KEY = os.getenv('SILICONFLOW_API_KEY')
 NAMESPACE = os.getenv('NAMESPACE')
 EMBED_DIM = int(os.getenv('EMBED_DIM')) if os.getenv('EMBED_DIM') else None
@@ -54,12 +54,12 @@ def get_dense_embeddings(text, dim_size = 1024):
         "dimensions": dim_size
     }
 
-    response = requests.post(SILICONFLOW_URL, json=payload, headers=headers)
+    response = requests.post(SILICONFLOW_URL_EMBEDDING, json=payload, headers=headers)
 
     return response.json()['data'][0]['embedding']
 
-def get_sparse_embeddings(text, bm25_model, type):
-    if type == 'upsert':
+def get_sparse_embeddings(text, bm25_model, query_type):
+    if query_type == 'upsert':
         return bm25_model.encode_documents(text)
     else:
         return bm25_model.encode_queries(text)
