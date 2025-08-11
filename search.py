@@ -25,18 +25,15 @@ SILICONFLOW_API_KEY = os.getenv('SILICONFLOW_API_KEY')
 NAMESPACE = os.getenv('NAMESPACE')
 EMBED_DIM = int(os.getenv('EMBED_DIM')) if os.getenv('EMBED_DIM') else None
 TOP_K = 20 # 20 -> type=facility | 5 -> history, person
-print("load key done")
 
 # config
 pc = Pinecone(api_key=PINECONE_API_KEY)
 index_dense = pc.Index(host=HOST_PINECONE_DENSE)
 index_sparse = pc.Index(host=HOST_PINECONE_SPARSE)
-print("config done")
 
 # create corpus and train bm25 model
 bm25 = BM25Encoder(stem=False)
 create_corpus_train_bm25_model(bm25)
-print("load bm25 done")
 
 def search_dense_index(text: str):
     dense_response = index_dense.query(
@@ -154,11 +151,13 @@ def context_generation(query, final_results):
             "query": query
         }
     )
+    print("Question : ", query)
+    print("Response : ")
     print(response.content)
     
 
 if __name__ == "__main__": 
-    query = "explain the facilities that university has"
+    query = "what course that available on KBK package artificial intelligence"
     # search top k result
     dense_results = search_dense_index(query)
     sparse_results = search_sparse_index(query)

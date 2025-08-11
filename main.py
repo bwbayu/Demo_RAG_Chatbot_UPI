@@ -14,7 +14,6 @@ SILICONFLOW_URL_EMBEDDING = os.getenv('SILICONFLOW_URL_EMBEDDING')
 SILICONFLOW_API_KEY = os.getenv('SILICONFLOW_API_KEY')
 NAMESPACE = os.getenv('NAMESPACE')
 EMBED_DIM = int(os.getenv('EMBED_DIM')) if os.getenv('EMBED_DIM') else None
-print("load key done")
 
 # config
 pc = Pinecone(api_key=PINECONE_API_KEY)
@@ -24,7 +23,6 @@ headers = {
     "Authorization": f"Bearer {SILICONFLOW_API_KEY}",
     "Content-Type": "application/json"
 }
-print("config done")
 
 def create_corpus(corpus, folder_path):
     if os.path.isdir(folder_path):
@@ -95,24 +93,19 @@ def generate_embedding(path_files, bm25_model):
         print(f"An unexpected error occurred: {e}")
 
 # read data
-folder_path = 'data/clean'
+folder_path = 'data/final'
 
 # define bm25 model
 def create_corpus_train_bm25_model(bm25):
-    bm25_pralatih = 'model/bm25_params.json'
-    if(os.path.exists(bm25_pralatih)):
-        # load BM25 params from json
-        bm25.load(bm25_pralatih)
-    else:
-        # create bm25 corpus for sparse vector
-        bm25_corpus = []
-        create_corpus(bm25_corpus, folder_path)
+    # create bm25 corpus for sparse vector
+    bm25_corpus = []
+    create_corpus(bm25_corpus, folder_path)
 
-        # fit corpus to bm25 model
-        bm25.fit(bm25_corpus)
+    # fit corpus to bm25 model
+    bm25.fit(bm25_corpus)
 
-        # store BM25 params as json
-        bm25.dump("model/bm25_params.json")
+    # store BM25 params as json
+    bm25.dump("model/bm25_params.json")
     print("bm25 model successfully loaded")
 
 if __name__ == "__main__": 
