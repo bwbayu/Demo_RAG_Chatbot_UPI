@@ -58,8 +58,11 @@ def get_dense_embeddings(text, dim_size = 1024):
 
     return response.json()['data'][0]['embedding']
 
-def get_sparse_embeddings(text, bm25_model):
-    return bm25_model.encode_documents(text)
+def get_sparse_embeddings(text, bm25_model, type):
+    if type == 'upsert':
+        return bm25_model.encode_documents(text)
+    else:
+        return bm25_model.encode_queries(text)
 
 def generate_embedding(path_files, bm25_model):
     try:
@@ -78,7 +81,7 @@ def generate_embedding(path_files, bm25_model):
                 # get sparse embedding
                 sparse_item = {
                     "id": item['_id'], 
-                    "sparse_values": get_sparse_embeddings(item['text'], bm25_model), 
+                    "sparse_values": get_sparse_embeddings(item['text'], bm25_model, 'upsert'), 
                     "metadata": {key: value for key, value in item.items() if key not in {'_id'}}
                 }
                 sparse_vectors.append(sparse_item)

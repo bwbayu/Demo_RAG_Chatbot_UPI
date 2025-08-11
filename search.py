@@ -39,22 +39,41 @@ def search_dense_index(text: str):
         include_metadata=True,
         include_values=False
     )
-    # matches = dense_response.get("matches", []) or []
-    print(dense_response)
+    matches = dense_response.get("matches", []) or []
+    dense_result = []
+    for item in matches:
+        md = item.get("metadata") or {}
+        md = {key: value for key, value in md.items() if key not in {'lang', 'type'}}
+        dense_result.append({
+            "id": item.get("id"),
+            "similarity": item.get('score', 0.0),
+            "metadata": md
+        })
+
+    return dense_result
 
 def search_sparse_index(text: str):
     sparse_response = index_sparse.query(
         namespace=NAMESPACE,
-        sparse_vector=get_sparse_embeddings(text, bm25),
+        sparse_vector=get_sparse_embeddings(text, bm25, 'query'),
         top_k=TOP_K,
         include_metadata=True,
         include_values=False
     )
-    # matches = sparse_response.get("matches", []) or []
-    print(sparse_response)
+    matches = sparse_response.get("matches", []) or []
+    sparse_result = []
+    for item in matches:
+        md = item.get("metadata") or {}
+        md = {key: value for key, value in md.items() if key not in {'lang', 'type'}}
+        sparse_result.append({
+            "id": item.get("id"),
+            "similarity": item.get('score', 0.0),
+            "metadata": md
+        })
+
+    return sparse_result
 
 if __name__ == "__main__": 
     query = "describe the history of computer science department"
-    search_dense_index(query)
-    print("===============================")
-    search_sparse_index(query)
+    dense_result = search_dense_index(query)
+    sparse_result = search_sparse_index(query)

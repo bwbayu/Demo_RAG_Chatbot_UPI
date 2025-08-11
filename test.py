@@ -43,3 +43,8 @@ print(doc_sparse_vector)
 print("====================")
 doc_sparse_vector = bm25.encode_documents(["The brown fox is quick", "test test test test test"])
 print(doc_sparse_vector)
+
+list1 = [{1}, {2}, {3}]
+list2 = [{4}, {5}, {6}]
+list1.extend(list2)
+print(list1)
