@@ -1,6 +1,8 @@
 from pinecone.grpc import PineconeGRPC as Pinecone
-from main import get_dense_embeddings, get_sparse_embeddings, create_corpus_train_bm25_model
 from pinecone_text.sparse import BM25Encoder
+from langchain_openai import ChatOpenAI
+from langchain.prompts import ChatPromptTemplate
+from main import get_dense_embeddings, get_sparse_embeddings, create_corpus_train_bm25_model
 import os
 from dotenv import load_dotenv
 from collections import defaultdict
@@ -13,6 +15,7 @@ os.environ["GLOG_minloglevel"] = "2"
 
 # load env
 load_dotenv()
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
 HOST_PINECONE_DENSE = os.getenv('HOST_PINECONE_DENSE')
 HOST_PINECONE_SPARSE = os.getenv('HOST_PINECONE_SPARSE')
@@ -21,7 +24,7 @@ SILICONFLOW_URL_RERANK = os.getenv('SILICONFLOW_URL_RERANK')
 SILICONFLOW_API_KEY = os.getenv('SILICONFLOW_API_KEY')
 NAMESPACE = os.getenv('NAMESPACE')
 EMBED_DIM = int(os.getenv('EMBED_DIM')) if os.getenv('EMBED_DIM') else None
-TOP_K = 5 # 20 -> type=facility | 5 -> history, person
+TOP_K = 20 # 20 -> type=facility | 5 -> history, person
 print("load key done")
 
 # config
@@ -135,8 +138,27 @@ def reranking_results(query, docs, fused_results):
         print(f"Error in reranking: {response.status_code} - {response.text}")
         return 0
 
+def context_generation(query, final_results):
+    context = "\n\n".join([result['metadata'].get("text", "") for result in final_results])
+    template = f"""Answer the question based only on the following context. If any context is irrelevant to the question, do not use it:
+    {context}
+
+    Question: {query}
+    """
+    prompt = ChatPromptTemplate.from_template(template)
+    model = ChatOpenAI(model_name="o4-mini")
+    chain = prompt | model
+    response = chain.invoke(
+        {
+            "context": context, 
+            "query": query
+        }
+    )
+    print(response.content)
+    
+
 if __name__ == "__main__": 
-    query = "describe the overview of computer science education department"
+    query = "explain the facilities that university has"
     # search top k result
     dense_results = search_dense_index(query)
     sparse_results = search_sparse_index(query)
@@ -145,5 +167,6 @@ if __name__ == "__main__":
     # extract text data for reranking
     docs = [result['metadata'].get("text", '') for result in fused_results]
     final_results = reranking_results(query, docs, fused_results)
-    print("Reranked Results:")
-    print(json.dumps(final_results, indent=4))
+    # print("Reranked Results:")
+    # print(json.dumps(final_results, indent=4))
+    context_generation(query, final_results)
