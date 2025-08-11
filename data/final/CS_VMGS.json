@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "cs_proginfo_vision_001",
+    "section": "Vision",
+    "title": "Vision and Mission of Computer Science Study Program",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Vision: Become a leading and outstanding study program in the field of Computer Science at the National level and contribute to the ASEAN level."
+  },
+  {
+    "_id": "cs_proginfo_mission_001",
+    "section": "Mission",
+    "title": "Vision and Mission of Computer Science Study Program",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Mission: Organize quality and professional education and develop computer science disciplines according to stakeholder demands. Perform innovative and creative research by considering the following aspect as local wisdom, cross-fertilization with education, and multidisciplinary to contribute at the ASEAN level. Disseminate and apply the experience and results of innovative and creative research in computer science for the benefit of stakeholders. Organize the governance of study program, perform strength of networks and create partnerships with professional institutions and general institutions, as well as improve the quality of human resources that are globally competitive within the scope of National and ASEAN."
+  },
+  {
+    "_id": "cs_proginfo_objective_001",
+    "section": "Objective",
+    "title": "Vision and Mission of Computer Science Study Program",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Objective: Provide graduates in the field of computer science who uphold religious values towards faith and piety to God Almighty which is manifested by an attitude of integrity, honesty, empathy, and responsibility. Provide graduates who apply the noble values of Pancasila and have a high sense of nationalism. Provide graduates who master theoretical and product competencies in the field of computer science who are professional and reliable. Provide graduates who have collaborative skills, communication, and high self-development. Promote and develop local wisdom through theory and research products in computer science. Deliver contribution to stakeholders in concept and learning technology in education by combining science and technology in computer science. Provide research collaboration to solve the problems effectively and efficiently with involving several disciplines (Biology, Physics, Mathematics, Electrics, Spot, Food Service, Education Science) and implement the result of research in social life. Make study program as a tool to create professional resources in a computer science program, high quality, reliable, trustworthy, and globally competitive. Create collaboration and maritime network with stakeholders at national and international levels in ASEAN."
+  }
+]

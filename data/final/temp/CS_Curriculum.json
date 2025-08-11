@@ -1,0 +1,683 @@
+[
+  {
+    "_id": "cs_proginfo_overview_002",
+    "section": "Program Overview",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Program Overview : The Study Program of Computer Science,FPMIPA,UPI was established with decree number of 1342/J33/PP.03.02/2005 on March 16, 2005and began to offer courses on July 17, 2005.It has received accreditation A (excellent) from the National Accreditation Board for Higher Education (BAN PT No. 4850/SK/BAN-PT/Akred/VIII/2020). As seen in the 2018 Curriculum structure, the Computer Science Study Program focuses on several areas of study and expertise, namely:(i) Software Engineering; (ii) Robotics Control, Artificial Intelligence, and Internet of Thing (IoT); (iii) Multimedia and Design; (iv) Computer Engineering and Network Systems; (v) Big Data Analysis; and (vi) Information Systems. In the 2018 Curriculum structure, all fields of study and expertise are represented in 6 packages of elective courses. Based on the Decree of the Minister of Research, Technology and Higher Education Number 57/M/KPT/2019 of 2019 about the Name of Study Programs in Higher Education, the titles of the degree program for study programs of Computer Science is \"S.Kom.\"",
+    "Objectives": "The Study Program of Computer Science,FPMIPA,UPI was established with decree number of 1342/J33/PP.03.02/2005 on March 16, 2005and began to offer courses on July 17, 2005.It has received accreditation A (excellent) from the National Accreditation Board for Higher Education (BAN PT No. 4850/SK/BAN-PT/Akred/VIII/2020). As seen in the 2018 Curriculum structure, the Computer Science Study Program focuses on several areas of study and expertise, namely:(i) Software Engineering; (ii) Robotics Control, Artificial Intelligence, and Internet of Thing (IoT); (iii) Multimedia and Design; (iv) Computer Engineering and Network Systems; (v) Big Data Analysis; and (vi) Information Systems. In the 2018 Curriculum structure, all fields of study and expertise are represented in 6 packages of elective courses.",
+    "Title of Degree Program": "Based on the Decree of the Minister of Research, Technology and Higher Education Number 57/M/KPT/2019 of 2019 about the Name of Study Programs in Higher Education, the titles of the degree program for study programs of Computer Science is \"S.Kom.\""
+  },
+  {
+    "_id": "cs_proginfo_qualification_002",
+    "section": "Qualification Profile",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Qualification Profile : Academic: who hashigh education and work as lecturer or teacher and worker at training / education institutions. Research Assistant: who hascompetencies in assisting to identify real-worldproblems, find alternative solutions through scientific procedures, and publish and disseminate research results. Consultant: who can be an employee in companies by providing consulting services in computer science fields or other related fields. Practitioner: who hasprofessional skills in computer science field as programmer, software engineer, network engineer, multimedia designer, or data analyst. Enterpreneur: who hasand usesskills and knowledges to be an entrepreneur in computer science fields as excellence in entrepreneurship.",
+    "Qualification Profile": "Academic: who hashigh education and work as lecturer or teacher and worker at training / education institutions., Research Assistant: who hascompetencies in assisting to identify real-worldproblems, find alternative solutions through scientific procedures, and publish and disseminate research results., Consultant: who can be an employee in companies by providing consulting services in computer science fields or other related fields., Practitioner: who hasprofessional skills in computer science field as programmer, software engineer, network engineer, multimedia designer, or data analyst., Enterpreneur: who hasand usesskills and knowledges to be an entrepreneur in computer science fields as excellence in entrepreneurship."
+  },
+  {
+    "_id": "cs_proginfo_plo_002",
+    "section": "Program Learning Outcomes",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Program Learning Outcomes : PLO-1: Being a good citizen, having faith and devotion to God Almighty, proud and loving the homeland and having good morals, ethics and personality. PLO-2: Mastering literacy, critical and creative thinking competencies as well as communication and collaborationskills in the fields of mathematics, science, technology and engineering to solve various problems in an integrated and/or multidisciplinary manner. PLO-3: Mastering theoretical concepts related to computing, algorithms and programming including specialization in the fields of software engineering, artificial intelligence, multimedia, computer networks, data analysis, and information systems in accordance with the dynamics of technological development. PLO-4: Have the ability to use computer hardware and software effectively that upholds professionalism and integrity. PLO-5: Able to conduct research in the field of information technology by paying attention to the values of the humanities, scientific ethics, and scientific approach. PLO-6: Able to produce original and solution information technology products/applications to solve problems effectively and efficiently in society, industry, government, and other institutions. PLO-7: Able to disseminate innovative and creative ideas both orally and in writing through a lifelong learning process and self-development that follows the times.",
+    "Program Learning Outcomes PLO-1": "Being a good citizen, having faith and devotion to God Almighty, proud and loving the homeland and having good morals, ethics and personality.",
+    "Program Learning Outcomes PLO-2": "Mastering literacy, critical and creative thinking competencies as well as communication and collaborationskills in the fields of mathematics, science, technology and engineering to solve various problems in an integrated and/or multidisciplinary manner.",
+    "Program Learning Outcomes PLO-3": "Mastering theoretical concepts related to computing, algorithms and programming including specialization in the fields of software engineering, artificial intelligence, multimedia, computer networks, data analysis, and information systems in accordance with the dynamics of technological development.",
+    "Program Learning Outcomes PLO-4": "Have the ability to use computer hardware and software effectively that upholds professionalism and integrity.",
+    "Program Learning Outcomes PLO-5": "Able to conduct research in the field of information technology by paying attention to the values of the humanities, scientific ethics, and scientific approach.",
+    "Program Learning Outcomes PLO-6": "Able to produce original and solution information technology products/applications to solve problems effectively and efficiently in society, industry, government, and other institutions.",
+    "Program Learning Outcomes PLO-7": "Able to disseminate innovative and creative ideas both orally and in writing through a lifelong learning process and self-development that follows the times."
+  },
+  {
+    "_id": "cs_proginfo_curriculum_003_desc",
+    "section": "Structure of Curriculum — Description",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Structure of Curriculum — Description : UPI rector's regulation number 52/UN40/HK/2019 regarding Guidelines for the Implementation of Education at Universitas Pendidikan Indonesia of 2020, outlines that the study load of undergraduate program is between 144 and152 credits (or SKS, which is a credit system in Indonesia). In general, the curriculum structure of the undergraduate program consists of the core curriculum, which aims to develop the main competencies of graduates (which amounts to about 85% of the total credits can be taken by students) and the elective curriculum, which aims to strengthen the main competencies (which amounts to about 15% of the total credits can be taken by students). In detail, the curriculum structures of the undergraduate program are grouped into General Courses (MKU), Basic Education Courses (MKDK), Faculty Expertise Courses (MKKF), Field of Study Learning Courses (MKKPBS), Core Expertise Competencies Courses (MKIPS), and Study Program Elective Expertise Courses (MKKPS).",
+    "Structure of Curriculum description": "UPI rector's regulation number 52/UN40/HK/2019 regarding Guidelines for the Implementation of Education at Universitas Pendidikan Indonesia of 2020, outlines that the study load of undergraduate program is between 144 and152 credits (or SKS, which is a credit system in Indonesia). In general, the curriculum structure of the undergraduate program consists of the core curriculum, which aims to develop the main competencies of graduates (which amounts to about 85% of the total credits can be taken by students) and the elective curriculum, which aims to strengthen the main competencies (which amounts to about 15% of the total credits can be taken by students). In detail, the curriculum structures of the undergraduate program are grouped into General Courses (MKU), Basic Education Courses (MKDK), Faculty Expertise Courses (MKKF), Field of Study Learning Courses (MKKPBS), Core Expertise Competencies Courses (MKIPS), and Study Program Elective Expertise Courses (MKKPS)."
+
+  },
+  {
+    "_id": "cs_proginfo_curriculum_003_cg_1_3",
+    "section": "Structure of Curriculum — Course Groups (1-3)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Structure of Curriculum — Course Groups (1-3) : 1 - General Courses (MKU): The general courses (MKU) consist of compulsory subjects such as Religion course, Religion Educational Seminar course (these first two courses are taken by students according to their religion, which are Islam, Christianity, Catholicism, Buddhism, Confucianism, or Hinduism), Indonesian Language course, Sports Education course, Arts Education course, Civic Education course and Pancasila Education course. The study load for these courses is 2 credits (SKS) each. The aims of these courses are to increase the student’s understanding and practice of their respective religions, to develop the character 21 ASIIN SAR of Formal Science-2021of students in regard to nationality, culture, love of the homeland, and to maintain the fitness of their body., 2 - Basic Education Courses (MKDK): The basic education courses (MKDK) is a group of courses providing the students with the foundation for educational sciences, teaching and learning, educational management, and educational psychology. Moreover, the courses provide knowledge of didactic methods ofteaching and learning in the classroom. This group of courses must be taken by students who are in education study programs of UPI. This group of courses is not is not offered in the non-education programs., 3 - Faculty Expertise Courses (MKKF): The faculty expertise courses (MKKF), whose total amount is 6 credits (SKS), is a group of courses that distinguishes FPMIPA UPI’s students from other the students of other faculties. Courses offered in this group are Mathematics, Science, Technology, and Engineering (MSTR) course and Mathematics, Science, Technology and Engineering Applications (AMSTR) course. Both of these courses apply the Science, Technology, Engineering, Art, and Mathematics (STEAM) concept in the teaching and learning process. In these two courses, the students are provided with competencies such as developing literacy in mathematics, science, technology, and engineering, solving problems that exist in everyday life in a critical, creative, integrative and multidisciplinary manner through collaboration within teams with an emphasis on communicating actively and making decisions effectively by taking into account local, regional and global challenges, and forming a caring and tolerant attitude towards social, economic and environmental issues in order to realize Education for Sustainable Development (ESD) and the Sustainable Development Goals (SDGs).",
+    "Structure of Curriculum course_groups": "1 - General Courses (MKU): The general courses (MKU) consist of compulsory subjects such as Religion course, Religion Educational Seminar course (these first two courses are taken by students according to their religion, which are Islam, Christianity, Catholicism, Buddhism, Confucianism, or Hinduism), Indonesian Language course, Sports Education course, Arts Education course, Civic Education course and Pancasila Education course. The study load for these courses is 2 credits (SKS) each. The aims of these courses are to increase the student’s understanding and practice of their respective religions, to develop the character 21 ASIIN SAR of Formal Science-2021of students in regard to nationality, culture, love of the homeland, and to maintain the fitness of their body., 2 - Basic Education Courses (MKDK): The basic education courses (MKDK) is a group of courses providing the students with the foundation for educational sciences, teaching and learning, educational management, and educational psychology. Moreover, the courses provide knowledge of didactic methods ofteaching and learning in the classroom. This group of courses must be taken by students who are in education study programs of UPI. This group of courses is not is not offered in the non-education programs., 3 - Faculty Expertise Courses (MKKF): The faculty expertise courses (MKKF), whose total amount is 6 credits (SKS), is a group of courses that distinguishes FPMIPA UPI’s students from other the students of other faculties. Courses offered in this group are Mathematics, Science, Technology, and Engineering (MSTR) course and Mathematics, Science, Technology and Engineering Applications (AMSTR) course. Both of these courses apply the Science, Technology, Engineering, Art, and Mathematics (STEAM) concept in the teaching and learning process. In these two courses, the students are provided with competencies such as developing literacy in mathematics, science, technology, and engineering, solving problems that exist in everyday life in a critical, creative, integrative and multidisciplinary manner through collaboration within teams with an emphasis on communicating actively and making decisions effectively by taking into account local, regional and global challenges, and forming a caring and tolerant attitude towards social, economic and environmental issues in order to realize Education for Sustainable Development (ESD) and the Sustainable Development Goals (SDGs)."
+  },
+  {
+    "_id": "cs_proginfo_curriculum_003_cg_4_6",
+    "section": "Structure of Curriculum — Course Groups (4-6)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Structure of Curriculum — Course Groups (4-6) : 4 - Field of Study Learning Courses (MKKPBS): The field of study learning courses (MKKPBS) is a group of courses that provide students with knowledge and skills related to teaching and learning planning, teaching and learning strategies, the use of media and learning aids, and teaching and learning evaluation, which are supported by courses related to ICT literacy to support teaching and learning-nuanced courses. Through this group of courses, it is expected that students will master the 22 ASIIN SAR of Formal Science-2021knowledge and skills on how to design, implement, and evaluate teaching and learning process appropriately (if possible, by utilizing ICT tools). This group of courses is intended for students of education study programs. This group of courses is not offered to the non-education study program students., 5 - Internship Program (PPLSP/PPL): The Internship program (PPLSP) in the educationstudy program weighs 4 credits (SKS). It is developed in the form of real teaching with a block system and is placed in both odd and even semesters. PPLSP focuses on reflective models through clinical supervision not on microteaching as implemented in learning simulation activities. PPLSP is aimed at making the graduates of educational study programs master the knowledge, skills, and attitudes related to education (pedagogical knowledge and pedagogical content knowledge). In the non-education study program, this field practice course is called Internship program (PPL) carrying 4 credits (SKS). Students of non-education study program are given the opportunity to do internships work for one semester in various government or privately owned companies or agencies. The PPL course can be taken by students in semester VII. Internship provides students with the opportunity to implement the knowledge or skills that they have learned in college and to gain new experiences that they have not learned in class., 6 - Core Expertise Competency Courses (MKIPS) & Study Program Elective Expertise Courses (MKKPS): The core expertise competency courses (MKIPS) and the study program elective expertise courses (MKKPPS) are two groups of courses consisting of particular courses that represent the characteristics of each study program, i.e., Computer Science Education Study Program. MKKPPS is a group of courses that expand students’with abilities by studying the implementation of science and technology, paying attention to and applying scientific procedures and ethics to produce solutions, ideas, designs, and by being able to compile scientific descriptions of the results of their studies in the form of published report/paper. In addition, it also provides students with the skills in making appropriate and professional decisions based on the results of data analysis, and in 23 ASIIN SAR of Formal Science-2021choosing various alternative solutions both independently and in groups to solve problem at work with or without using software.",
+    "Structure of Curriculum course_groups": "4 - Field of Study Learning Courses (MKKPBS): The field of study learning courses (MKKPBS) is a group of courses that provide students with knowledge and skills related to teaching and learning planning, teaching and learning strategies, the use of media and learning aids, and teaching and learning evaluation, which are supported by courses related to ICT literacy to support teaching and learning-nuanced courses. Through this group of courses, it is expected that students will master the 22 ASIIN SAR of Formal Science-2021knowledge and skills on how to design, implement, and evaluate teaching and learning process appropriately (if possible, by utilizing ICT tools). This group of courses is intended for students of education study programs. This group of courses is not offered to the non-education study program students., 5 - Internship Program (PPLSP/PPL): The Internship program (PPLSP) in the educationstudy program weighs 4 credits (SKS). It is developed in the form of real teaching with a block system and is placed in both odd and even semesters. PPLSP focuses on reflective models through clinical supervision not on microteaching as implemented in learning simulation activities. PPLSP is aimed at making the graduates of educational study programs master the knowledge, skills, and attitudes related to education (pedagogical knowledge and pedagogical content knowledge). In the non-education study program, this field practice course is called Internship program (PPL) carrying 4 credits (SKS). Students of non-education study program are given the opportunity to do internships work for one semester in various government or privately owned companies or agencies. The PPL course can be taken by students in semester VII. Internship provides students with the opportunity to implement the knowledge or skills that they have learned in college and to gain new experiences that they have not learned in class., 6 - Core Expertise Competency Courses (MKIPS) & Study Program Elective Expertise Courses (MKKPS): The core expertise competency courses (MKIPS) and the study program elective expertise courses (MKKPPS) are two groups of courses consisting of particular courses that represent the characteristics of each study program, i.e., Computer Science Education Study Program. MKKPPS is a group of courses that expand students’with abilities by studying the implementation of science and technology, paying attention to and applying scientific procedures and ethics to produce solutions, ideas, designs, and by being able to compile scientific descriptions of the results of their studies in the form of published report/paper. In addition, it also provides students with the skills in making appropriate and professional decisions based on the results of data analysis, and in 23 ASIIN SAR of Formal Science-2021choosing various alternative solutions both independently and in groups to solve problem at work with or without using software."
+  },
+  {
+    "_id": "cs_proginfo_curriculum_003_expertise",
+    "section": "Structure of Curriculum — Group of Expertise",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Structure of Curriculum — Group of Expertise : Software Engineering, Computer Engineering and Network Systems, Multimedia and Design, Artificial Intelligence Robotics Control and IoT, Big Data Analysis, Information Systems",
+    "Structure of Curriculum group_of_expertise": "Software Engineering, Computer Engineering and Network Systems, Multimedia and Design, Artificial Intelligence Robotics Control and IoT, Big Data Analysis, Information Systems"
+  },
+  {
+    "_id": "cs_proginfo_curriculum_003_credits",
+    "section": "Structure of Curriculum — Course Type Credits",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Structure of Curriculum — Course Type Credits : General Courses (MKU): 14 SKS, University Specificity Courses (MKKU): 2 SKS, Faculty Skill Courses (MKKF): 6 SKS, Core Expertise Courses of Study Program (MKKIPS): 102 SKS, Expertise Elective Of Study Programs Courses (MKKPS): 9 SKS, Field Experience Program Courses (MKPPL): 4 SKS",
+    "Structure of Curriculum course_type_credits": "General Courses (MKU): 14 SKS, University Specificity Courses (MKKU): 2 SKS, Faculty Skill Courses (MKKF): 6 SKS, Core Expertise Courses of Study Program (MKKIPS): 102 SKS, Expertise Elective Of Study Programs Courses (MKKPS): 9 SKS, Field Experience Program Courses (MKPPL): 4 SKS"
+  },
+  {
+    "_id": "cs_proginfo_courses_001_desc",
+    "section": "List and Distribution of Courses — Description",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "List and Distribution of Courses — Description : Software Engineer, System Integrator & Developer, Special Purpose Application Developer, Academician & Researcher, Technopreneur.",
+    "List and Distribution of Courses description": "Software Engineer, System Integrator & Developer, Special Purpose Application Developer, Academician & Researcher, Technopreneur."
+  },
+  {
+    "_id": "cs_proginfo_courses_001_s1_s2",
+    "section": "List and Distribution of Courses — Semesters 1–2",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "List and Distribution of Courses — Semesters 1–2 : Semester 1 (total_sks: 18): No 1, Code KU100, Subject Religious education, SKS 2; No 2, Code KU105, Subject Civic education, SKS 2; No 3, Code KU106, Subject Indonesian, SKS 2; No 4, Code IK111, Subject Programming Fundamentals, SKS 4; No 5, Code IK112, Subject Algebra and Number Theory, SKS 4; No 6, Code IK113, Subject Discrete and Numerical Methods, SKS 4. Semester 2 (total_sks: 18): No 1, Code KU110, Subject Pancasila Education, SKS 2; No 2, Code IK121, Subject Algorithms & Data Structures, SKS 4; No 3, Code IK211, Subject Language Theory and Compilation, SKS 4; No 4, Code IK123, Subject Statistics and Data Analysis, SKS 4; No 5, Code IK112, Subject Algebra and Number Theory, SKS 4; No 6, Code IK213, Subject Database Management Systems, SKS 4.",
+    "List and Distribution of Courses": {
+      "semesters": {
+        "Semester 1": {
+          "total_sks": 18,
+          "courses": "No 1, Code KU100, Subject Religious education, SKS 2; No 2, Code KU105, Subject Civic education, SKS 2; No 3, Code KU106, Subject Indonesian, SKS 2; No 4, Code IK111, Subject Programming Fundamentals, SKS 4; No 5, Code IK112, Subject Algebra and Number Theory, SKS 4; No 6, Code IK113, Subject Discrete and Numerical Methods, SKS 4"
+        },
+        "Semester 2": {
+          "total_sks": 18,
+          "courses": "No 1, Code KU110, Subject Pancasila Education, SKS 2; No 2, Code IK121, Subject Algorithms & Data Structures, SKS 4; No 3, Code IK211, Subject Language Theory and Compilation, SKS 4; No 4, Code IK123, Subject Statistics and Data Analysis, SKS 4; No 5, Code IK112, Subject Algebra and Number Theory, SKS 4; No 6, Code IK213, Subject Database Management Systems, SKS 4"
+        }
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_courses_001_s3_s4",
+    "section": "List and Distribution of Courses — Semesters 3–4",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "List and Distribution of Courses — Semesters 3–4 : Semester 3 (total_sks: 22): No 1, Code KU300, Subject Religious Education Seminar, SKS 2; No 2, Code KU108/KU119, Subject Sports and Fitness /Art Appreciation, SKS 2; No 3, Code DK300, Subject Foundations of Education, SKS 2; No 4, Code IK221, Subject Digital and Computer Systems, SKS 4; No 5, Code IK212, Subject Object Oriented Design and Programming, SKS 4; No 6, Code IK214, Subject Artificial Intelligence, SKS 4; No 7, Code IK223, Subject Web and Mobile programming, SKS 4. Semester 4 (total_sks: 23): No 1, Code PT400, Subject ENGLISH LANGUAGE SKILLS, SKS 3; No 2, Code IK122, Subject Operating Systems and Networks, SKS 4; No 3, Code IK224, Subject Microcontroller Programming and Applications, SKS 4; No 4, Code IK222, Subject Machine Learning, SKS 4; No 5, Code IK215, Subject Distributed Parallel and Cloud Computing, SKS 4; No 6, Code IK225, Subject Software Engineering and Project Management, SKS 4.",
+    "List and Distribution of Courses": {
+      "semesters": {
+        "Semester 3": {
+          "total_sks": 22,
+          "courses": "No 1, Code KU300, Subject Religious Education Seminar, SKS 2; No 2, Code KU108/KU119, Subject Sports and Fitness /Art Appreciation, SKS 2; No 3, Code DK300, Subject Foundations of Education, SKS 2; No 4, Code IK221, Subject Digital and Computer Systems, SKS 4; No 5, Code IK212, Subject Object Oriented Design and Programming, SKS 4; No 6, Code IK214, Subject Artificial Intelligence, SKS 4; No 7, Code IK223, Subject Web and Mobile programming, SKS 4"
+        },
+        "Semester 4": {
+          "total_sks": 23,
+          "courses": "No 1, Code PT400, Subject ENGLISH LANGUAGE SKILLS, SKS 3; No 2, Code IK122, Subject Operating Systems and Networks, SKS 4; No 3, Code IK224, Subject Microcontroller Programming and Applications, SKS 4; No 4, Code IK222, Subject Machine Learning, SKS 4; No 5, Code IK215, Subject Distributed Parallel and Cloud Computing, SKS 4; No 6, Code IK225, Subject Software Engineering and Project Management, SKS 4"
+        }
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_courses_001_s5_s6",
+    "section": "List and Distribution of Courses — Semesters 5–6",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "List and Distribution of Courses — Semesters 5–6 : Semester 5 (total_sks: 10): No 1, Code , Subject MK1 Conversion MBKM, SKS 3; No 2, Code , Subject MK2 Conversion MBKM, SKS 3; No 3, Code , Subject MK3 Conversion MBKM, SKS 4. Semester 6 (total_sks: 24): No 1, Code IK321, Subject Cryptography and Information Systems Security, SKS 4; No 2, Code IK427, Subject Multimedia and Human-Computer Interaction, SKS 3; No 3, Code IK323, Subject Internet of Things Fundamentals, SKS 4; No 4, Code IK322, Subject Information Systems and Technology, SKS 4; No 5, Code , Subject KBK Choice MK, SKS 3; No 6, Code , Subject MK Choice KBK, SKS 3; No 7, Code , Subject MK Choice KBK, SKS 3.",
+    "List and Distribution of Courses": {
+      "semesters": {
+        "Semester 5": {
+          "total_sks": 10,
+          "courses": "No 1, Code , Subject MK1 Conversion MBKM, SKS 3; No 2, Code , Subject MK2 Conversion MBKM, SKS 3; No 3, Code , Subject MK3 Conversion MBKM, SKS 4"
+        },
+        "Semester 6": {
+          "total_sks": 24,
+          "courses": "No 1, Code IK321, Subject Cryptography and Information Systems Security, SKS 4; No 2, Code IK427, Subject Multimedia and Human-Computer Interaction, SKS 3; No 3, Code IK323, Subject Internet of Things Fundamentals, SKS 4; No 4, Code IK322, Subject Information Systems and Technology, SKS 4; No 5, Code , Subject KBK Choice MK, SKS 3; No 6, Code , Subject MK Choice KBK, SKS 3; No 7, Code , Subject MK Choice KBK, SKS 3"
+        }
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_courses_001_s7_s8",
+    "section": "List and Distribution of Courses — Semesters 7–8",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "List and Distribution of Courses — Semesters 7–8 : Semester 7 (total_sks: 22): No 1, Code IK417, Subject Research Methods and Seminars, SKS 4; No 2, Code IK418, Subject Consultancy Project, SKS 3; No 3, Code , Subject MK Choice KBK, SKS 4; No 4, Code , Subject MK Choice KBK, SKS 4; No 5, Code , Subject MK Choice KBK, SKS 4; No 6, Code , Subject MK Choice KBK, SKS 3. Semester 8 (total_sks: 9): No 1, Code IK588, Subject Undergraduate Thesis, SKS 6; No 2, Code IK428, Subject Entrepreneurship, SKS 3.",
+    "List and Distribution of Courses": {
+      "semesters": {
+        "Semester 7": {
+          "total_sks": 22,
+          "courses": "No 1, Code IK417, Subject Research Methods and Seminars, SKS 4; No 2, Code IK418, Subject Consultancy Project, SKS 3; No 3, Code , Subject MK Choice KBK, SKS 4; No 4, Code , Subject MK Choice KBK, SKS 4; No 5, Code , Subject MK Choice KBK, SKS 4; No 6, Code , Subject MK Choice KBK, SKS 3"
+        },
+        "Semester 8": {
+          "total_sks": 9,
+          "courses": "No 1, Code IK588, Subject Undergraduate Thesis, SKS 6; No 2, Code IK428, Subject Entrepreneurship, SKS 3"
+        }
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_courses_001_summary",
+    "section": "List and Distribution of Courses — Summary",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "List and Distribution of Courses — Summary : number_of_courses: 41, total_credits: 146",
+    "List and Distribution of Courses": {
+      "summary": {
+        "number_of_courses": 41,
+        "total_credits": 146
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_kbk_001_pkg1",
+    "section": "KBK Packages — Package 1: KBK Software Engineering",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Package 1: KBK Software Engineering: No 1, Code IK423, Subject Digital Forensics, SKS 3; No 2, Code IK424, Subject Security Governance: Analysis and Engineering, SKS 3; No 3, Code IK425, Subject Cyber Physical Systems, SKS 3; No 4, Code IK511, Subject Industrial IoT, SKS 4; No 5, Code IK512, Subject Lightweight Cryptography and IoT Security, SKS 3; No 6, Code IK513, Subject Digital and Embedded Systems Design, SKS 4; No 7, Code IK514, Subject Elliptic Curve Cryptography, SKS 4.",
+    "KBK_packages": {
+      "Package 1: KBK Software Engineering": "No 1, Code IK423, Subject Digital Forensics, SKS 3; No 2, Code IK424, Subject Security Governance: Analysis and Engineering, SKS 3; No 3, Code IK425, Subject Cyber Physical Systems, SKS 3; No 4, Code IK511, Subject Industrial IoT, SKS 4; No 5, Code IK512, Subject Lightweight Cryptography and IoT Security, SKS 3; No 6, Code IK513, Subject Digital and Embedded Systems Design, SKS 4; No 7, Code IK514, Subject Elliptic Curve Cryptography, SKS 4"
+    }
+  },
+  {
+    "_id": "cs_proginfo_kbk_001_pkg2",
+    "section": "KBK Packages — Package 2: KBK Robotics, Artificial Intelligence, and Internet Of Thing (IoT)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Package 2: KBK Robotics, Artificial Intelligence, and Internet Of Thing (IoT): No 1, Code IK423, Subject Digital Forensics, SKS 3; No 2, Code IK424, Subject Security Governance: Analysis and Engineering, SKS 3; No 3, Code IK425, Subject Cyber Physical Systems, SKS 3; No 4, Code IK511, Subject Industrial IoT, SKS 3; No 5, Code IK512, Subject Lightweight Cryptography and IoT Security, SKS 4; No 6, Code IK513, Subject Digital and Embedded Systems Design, SKS 3; No 7, Code IK514, Subject Elliptic Curve Cryptography, SKS 3; No 8, Code IK531, Subject Data Warehouse, SKS 4; No 9, Code IK532, Subject Data Mining, SKS 4; No 10, Code IK533, Subject Time Series Analysis, SKS 4; No 11, Code IK534, Subject Knowledge Base Systems, SKS 3; No 12, Code IK535, Subject Intelligent Audio Processing, SKS 3; No 13, Code IK536, Subject Social Media Analysis, SKS 3; No 14, Code IK537, Subject Generative Artificial Intelligence, SKS 4.",
+    "KBK_packages": {
+      "Package 2: KBK Robotics, Artificial Intelligence, and Internet Of Thing (IoT)": "No 1, Code IK423, Subject Digital Forensics, SKS 3; No 2, Code IK424, Subject Security Governance: Analysis and Engineering, SKS 3; No 3, Code IK425, Subject Cyber Physical Systems, SKS 3; No 4, Code IK511, Subject Industrial IoT, SKS 3; No 5, Code IK512, Subject Lightweight Cryptography and IoT Security, SKS 4; No 6, Code IK513, Subject Digital and Embedded Systems Design, SKS 3; No 7, Code IK514, Subject Elliptic Curve Cryptography, SKS 3; No 8, Code IK531, Subject Data Warehouse, SKS 4; No 9, Code IK532, Subject Data Mining, SKS 4; No 10, Code IK533, Subject Time Series Analysis, SKS 4; No 11, Code IK534, Subject Knowledge Base Systems, SKS 3; No 12, Code IK535, Subject Intelligent Audio Processing, SKS 3; No 13, Code IK536, Subject Social Media Analysis, SKS 3; No 14, Code IK537, Subject Generative Artificial Intelligence, SKS 4"
+    }
+  },
+  {
+    "_id": "cs_proginfo_kbk_001_pkg3",
+    "section": "KBK Packages — Package 3: KBK Multimedia and Design",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Package 3: KBK Multimedia and Design: No 1, Code IK463, Subject Software Quality Assurance, SKS 3, Semester 6; No 2, Code IK464, Subject Software Testing and Maintenance, SKS 3, Semester 6; No 3, Code IK465, Subject Integrated Enterprise Information Systems, SKS 3, Semester 6; No 4, Code IK551, Subject IT Strategic Planning, SKS 4, Semester 7; No 5, Code IK552, Subject E-Business, SKS 4, Semester 7; No 6, Code IK553, Subject Business Intelligence, SKS 3, Semester 7; No 7, Code IK554, Subject Decision Support Systems, SKS 3, Semester 7; No 8, Code IK555, Subject Information Systems Audit, SKS 4, Semester 7; No 9, Code IK556, Subject Business Process Management, SKS 4, Semester 7.",
+    "KBK_packages": {
+      "Package 3: KBK Multimedia and Design": "No 1, Code IK463, Subject Software Quality Assurance, SKS 3, Semester 6; No 2, Code IK464, Subject Software Testing and Maintenance, SKS 3, Semester 6; No 3, Code IK465, Subject Integrated Enterprise Information Systems, SKS 3, Semester 6; No 4, Code IK551, Subject IT Strategic Planning, SKS 4, Semester 7; No 5, Code IK552, Subject E-Business, SKS 4, Semester 7; No 6, Code IK553, Subject Business Intelligence, SKS 3, Semester 7; No 7, Code IK554, Subject Decision Support Systems, SKS 3, Semester 7; No 8, Code IK555, Subject Information Systems Audit, SKS 4, Semester 7; No 9, Code IK556, Subject Business Process Management, SKS 4, Semester 7"
+    }
+  },
+  {
+    "_id": "cs_proginfo_kbk_001_pkg4",
+    "section": "KBK Packages — Package 4: KBK Smart Multimedia and Game",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Package 4: KBK Smart Multimedia and Game: No 1, Code IK481, Subject Digital Multimedia Data Processing, SKS 3; No 2, Code IK483, Subject Computer Graphics, SKS 3; No 3, Code IK485, Subject Animation Techniques, SKS 3; No 4, Code IK487, Subject Game Narrative Design, SKS 3; No 5, Code IK489, Subject Game Programming, SKS 3; No 6, Code IK580, Subject Game Production Techniques, SKS 4; No 7, Code IK582, Subject Intelligent Multimedia, SKS 4; No 8, Code IK584, Subject Adaptive Learning Systems, SKS 4; No 9, Code IK556, Subject Metaverse Technology, SKS 4; No 10, Code IK588, Subject Capstone Project Smart Multimedia, SKS 4.",
+    "KBK_packages": {
+      "Package 4: KBK Smart Multimedia and Game": "No 1, Code IK481, Subject Digital Multimedia Data Processing, SKS 3; No 2, Code IK483, Subject Computer Graphics, SKS 3; No 3, Code IK485, Subject Animation Techniques, SKS 3; No 4, Code IK487, Subject Game Narrative Design, SKS 3; No 5, Code IK489, Subject Game Programming, SKS 3; No 6, Code IK580, Subject Game Production Techniques, SKS 4; No 7, Code IK582, Subject Intelligent Multimedia, SKS 4; No 8, Code IK584, Subject Adaptive Learning Systems, SKS 4; No 9, Code IK556, Subject Metaverse Technology, SKS 4; No 10, Code IK588, Subject Capstone Project Smart Multimedia, SKS 4"
+    }
+  },
+  {
+    "_id": "cs_proginfo_teach_001_overview_strategies",
+    "section": "Teaching Methodology — Overview & Strategies",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Teaching Methodology — Overview & Strategies : To achieve optimal program learning outcomes, each study program applies student-centered learning approachin its learning models, methods and strategies. This approach aims to encourage all students to have the ability to acquire knowledge for the future long-run, create new understandings, solve problems, do research, and communicate knowledge to others. Theapproaches, models, methods, and strategies have been agreed upon by all lecturers. Meanwhile, the head of the study program regularly controls the teaching and learning process through the Quality Control Task Force (GKM). The task of GKM is to monitor the teaching and learning process. Teaching and learning strategies are applied through various methods and approaches. The use of the teaching and learning methods and approaches depends on the formulation of the Learning Outcome Program (PLO), course characteristics, as described in the module description, didactic and pedagogical views, learning methods, and the importance of teaching and learning activities. The learning methods linked to learning outcomes for study program of Computer Science is presented in table below.",
+    "Teaching Methodology": {
+      "overview": "To achieve optimal program learning outcomes, each study program applies student-centered learning approachin its learning models, methods and strategies. This approach aims to encourage all students to have the ability to acquire knowledge for the future long-run, create new understandings, solve problems, do research, and communicate knowledge to others. Theapproaches, models, methods, and strategies have been agreed upon by all lecturers. Meanwhile, the head of the study program regularly controls the teaching and learning process through the Quality Control Task Force (GKM). The task of GKM is to monitor the teaching and learning process.",
+      "strategies_description": "Teaching and learning strategies are applied through various methods and approaches. The use of the teaching and learning methods and approaches depends on the formulation of the Learning Outcome Program (PLO), course characteristics, as described in the module description, didactic and pedagogical views, learning methods, and the importance of teaching and learning activities. The learning methods linked to learning outcomes for study program of Computer Science is presented in table below."
+    }
+  },
+  {
+    "_id": "cs_proginfo_teach_001_methods",
+    "section": "Teaching Methodology — Methods Mapping",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Teaching Methodology — Methods Mapping : PLO-1: Lecture, Discussion, Debate, Brainstorming. PLO-2: Lecture, Discussion, Symposium, Brainstorming, Laboratory’s work/Practice, Demonstration, Simulation, Field Practice. PLO-3: Lecture, Discussion, Laboratory’s work/Practice, Demonstration, Simulation. PLO-4: Lecture, Discussion, Brainstorming, Laboratory’s work/Practice, Demonstration, Simulation, Field Practice. PLO-5: Lecture, Discussion, Debate, Symposium, Brainstorming, Laboratory’s work/Practice, Field Practice. PLO-6: Lecture, Discussion, Laboratory’s work/Practice, Demonstration, Simulation, Field Practice. PLO-7: Lecture, Debate, Symposium, Field Practice.",
+    "Teaching Methodology": {
+      "methods_mapping": "PLO-1: Lecture, Discussion, Debate, Brainstorming; PLO-2: Lecture, Discussion, Symposium, Brainstorming, Laboratory’s work/Practice, Demonstration, Simulation, Field Practice; PLO-3: Lecture, Discussion, Laboratory’s work/Practice, Demonstration, Simulation; PLO-4: Lecture, Discussion, Brainstorming, Laboratory’s work/Practice, Demonstration, Simulation, Field Practice; PLO-5: Lecture, Discussion, Debate, Symposium, Brainstorming, Laboratory’s work/Practice, Field Practice; PLO-6: Lecture, Discussion, Laboratory’s work/Practice, Demonstration, Simulation, Field Practice; PLO-7: Lecture, Debate, Symposium, Field Practice"
+    }
+  },
+  {
+    "_id": "cs_proginfo_teach_001_others",
+    "section": "Teaching Methodology — Other Practicums",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Teaching Methodology : Other practicums that are held outside campus are Student Study Service Program (KKN) and Internship Program (PPLSP). For Student Study Service Program, students apply the knowledge and skills they have learned in their studies in the community, whileat the same time receive practical skills and new knowledge relevant to the theoretical knowledge they have learned . Student Study Service Program activities are done by students in groups consisting of students from different study program background to ensure theirdifferentknowledge can complement each other. Each group of Student Study Service Program is supervised by a lecturer in charge. An the end of the program, each group makes a report about the result of their Student Study Service Program and a scientific article that will be submitted to relevant journal to add to UPI scientific publications. Both are the basics things students need to do besides their individualand in group activities to receive their final score for Student Study Service Program. In Internship Program (PPLSP), students have teachingpracticums in the school classrooms where they have their internshipprogram and supervised by a teacher in charge and a lecturer. Students who take Internship Programhavetheir practicums for approximately one semester or at least sixteen face-to-face meeting in the classroom. To ensure the effectiveness of the program, students who take Internship program are not allowed to take any other coursesfor the semester. At the end of the program, each student will have an exam for the Internship Program by teaching in front of students in the classroom. Internship Program report also need to be submitted by the students individually. Both exam and report are assessed by the teacher in charge and the lecturer. The final score of the Internship Programis determined by how actively involved the students are in the program andthe results of the examination and the grade of the report. Field Practice Program (PPL) is a program for non-educationstudy program students to experience practical work in a public or private company for one semester. Studes who are taking Field Practice Program are not allowed to take any other coursesfor the semester. Students work ingroup or individuallyduring Field Practice Program in a company and supervised by two lecturers from the students’ study program and one supervisor from the company. At the end of Field Practice Program, students make individual report from the Field Practice Program activities and have an exam in the company by making a presentation in front of lecturers. The student’s active involvementand how well they do in his/her presentation presentation are the criteria to determine their final score for Field Practice Program.",
+    "Teaching Methodology": {
+      "others": "Other practicums that are held outside campus are Student Study Service Program (KKN) and Internship Program (PPLSP). For Student Study Service Program, students apply the knowledge and skills they have learned in their studies in the community, whileat the same time receive practical skills and new knowledge relevant to the theoretical knowledge they have learned . Student Study Service Program activities are done by students in groups consisting of students from different study program background to ensure theirdifferentknowledge can complement each other. Each group of Student Study Service Program is supervised by a lecturer in charge. An the end of the program, each group makes a report about the result of their Student Study Service Program and a scientific article that will be submitted to relevant journal to add to UPI scientific publications. Both are the basics things students need to do besides their individualand in group activities to receive their final score for Student Study Service Program., In Internship Program (PPLSP), students have teachingpracticums in the school classrooms where they have their internshipprogram and supervised by a teacher in charge and a lecturer. Students who take Internship Programhavetheir practicums for approximately one semester or at least sixteen face-to-face meeting in the classroom. To ensure the effectiveness of the program, students who take Internship program are not allowed to take any other coursesfor the semester. At the end of the program, each student will have an exam for the Internship Program by teaching in front of students in the classroom. Internship Program report also need to be submitted by the students individually. Both exam and report are assessed by the teacher in charge and the lecturer. The final score of the Internship Programis determined by how actively involved the students are in the program andthe results of the examination and the grade of the report., Field Practice Program (PPL) is a program for non-educationstudy program students to experience practical work in a public or private company for one semester. Studes who are taking Field Practice Program are not allowed to take any other coursesfor the semester. Students work ingroup or individuallyduring Field Practice Program in a company and supervised by two lecturers from the students’ study program and one supervisor from the company. At the end of Field Practice Program, students make individual report from the Field Practice Program activities and have an exam in the company by making a presentation in front of lecturers. The student’s active involvementand how well they do in his/her presentation presentation are the criteria to determine their final score for Field Practice Program."
+    }
+  },
+{
+    "_id": "cs_proginfo_exam_001_desc_p1",
+    "section": "Examination — Description (Part 1/5)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — Description (Part 1/5) : Assessment is designed to measure the level of student’s achievement based on the learning process and the results against predetermined targets. An assessment is usually arranged in such a way to include all the expected learning achievement targets associated with one or a number of competencies covering the aspects of knowledge, skills, and/or attitudes. The Computer Science study programs of FPMIPA UPI use the multi-component assessment concept in its assessment process to measure the successful course achievement implementation level and the students final results achievement. The knowledge aspect is measured using a written exam; aspects of skills are measured using project tasks, performance, and/or presentations; and the attitude aspect is measured using peer assessment which is carried out in the activities of project assignments, work performance, and/or presentations. Based on the 2020 UPI Education Implementation Guidelines, the assessment of the student learning process is conducted at least twice in one semester, i.e. Mid-Semester Examination (UTS) and the Final Semester Examination (UAS).",
+    "Examination": {
+      "description": "Assessment is designed to measure the level of student’s achievement based on the learning process and the results against predetermined targets. An assessment is usually arranged in such a way to include all the expected learning achievement targets associated with one or a number of competencies covering the aspects of knowledge, skills, and/or attitudes. The Computer Science study programs of FPMIPA UPI use the multi-component assessment concept in its assessment process to measure the successful course achievement implementation level and the students final results achievement. The knowledge aspect is measured using a written exam; aspects of skills are measured using project tasks, performance, and/or presentations; and the attitude aspect is measured using peer assessment which is carried out in the activities of project assignments, work performance, and/or presentations. Based on the 2020 UPI Education Implementation Guidelines, the assessment of the student learning process is conducted at least twice in one semester, i.e. Mid-Semester Examination (UTS) and the Final Semester Examination (UAS)."
+    }
+  },
+  {
+    "_id": "cs_proginfo_exam_001_desc_p2",
+    "section": "Examination — Description (Part 2/5)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — Description (Part 2/5) : Based on UPI Education Implementation Guidelines of 2020, 1 semester consists of 16 sessions with 14 sessions used for lectures, 1 session for the Mid-Semester Examination (UTS) and 1 session for the Final-Semester Examination (UAS). In general, the Mid-Semester Examination (UTS) is administered on the 8th session and the Final-Semester Examination (UAS) on the 16th meeting. The students can take the Final-Semester Examination (UAS) if they have attended at least 80% of the sessions in a particular course. The administration of Mid-Semester Examination (UTS) is left to the lecturer of the course and the cource schedule. The administration of the Final-Semester Examination (UAS), remedial teaching, and entry of grades is regulated by the Rector through he Vice Rector for Education and Student Affairs.",
+    "Examination": {
+      "description": "Based on UPI Education Implementation Guidelines of 2020, 1 semester consists of 16 sessions with 14 sessions used for lectures, 1 session for the Mid-Semester Examination (UTS) and 1 session for the Final-Semester Examination (UAS). In general, the Mid-Semester Examination (UTS) is administered on the 8th session and the Final-Semester Examination (UAS) on the 16th meeting. The students can take the Final-Semester Examination (UAS) if they have attended at least 80% of the sessions in a particular course. The administration of Mid-Semester Examination (UTS) is left to the lecturer of the course and the cource schedule. The administration of the Final-Semester Examination (UAS), remedial teaching, and entry of grades is regulated by the Rector through he Vice Rector for Education and Student Affairs."
+    }
+  },
+  {
+    "_id": "cs_proginfo_exam_001_desc_p3",
+    "section": "Examination — Description (Part 3/5)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — Description (Part 3/5) : Mid-Semester Examination (UTS) and Final-Semester Examination (UAS) are organized according to the course categories, namely General Courses (MKU) and Core Expertise Competency Courses (MKIPS and MKPPS). This categorization is designed to help students take the exam in an orderly manner according to the specified time. The General Courses (MKU) exams are administered through a computer based test (CBT) by the General Courses (MKU) Study Program. The Core Expertise Competency Courses (MKIPS and MKKPS) examinations are conducted by the respective study programs. Examination schedules of the Core Competencey Courses are prepared by the study program and published offline or online on UPI Academics. The examination schedules are prepared by considering the time and student’s load. Only a maximum of two examinations are scheduled per day per class. During the Covid-19 pandemic, tests are aministered online using the (http://spot.upi.edu), SPADA (http://spada.upi.edu) and other applications/platforms such as https://quizizz.com, https://safeexambrowser.org which can be accessed from anywhere without the students having to to come to campus.",
+    "Examination": {
+      "description": "Mid-Semester Examination (UTS) and Final-Semester Examination (UAS) are organized according to the course categories, namely General Courses (MKU) and Core Expertise Competency Courses (MKIPS and MKPPS). This categorization is designed to help students take the exam in an orderly manner according to the specified time. The General Courses (MKU) exams are administered through a computer based test (CBT) by the General Courses (MKU) Study Program. The Core Expertise Competency Courses (MKIPS and MKKPS) examinations are conducted by the respective study programs. Examination schedules of the Core Competencey Courses are prepared by the study program and published offline or online on UPI Academics. The examination schedules are prepared by considering the time and student’s load. Only a maximum of two examinations are scheduled per day per class. During the Covid-19 pandemic, tests are aministered online using the (http://spot.upi.edu), SPADA (http://spada.upi.edu) and other applications/platforms such as https://quizizz.com, https://safeexambrowser.org which can be accessed from anywhere without the students having to to come to campus."
+    }
+  },
+  {
+    "_id": "cs_proginfo_exam_001_desc_p4",
+    "section": "Examination — Description (Part 4/5)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — Description (Part 4/5) : Students who for some reason cannot take Mid-Semester Examination (UTS) and/or Final-Semester Examination (UAS) must inform the lecturer prior to the exam time and submit supporting documentary evidence for their absence. Students will only be given the opportunity to take a make up examination if their absence is caused by: (a) an illness (proven by a doctor's certificate); (b) performing a task of representing the university in intra-curricular or extra-curricular activities outside campus; or (c) other legitimate and permissible reasons. Make up examinations are administered and scheduled by the lecturer in agreement with the student. Assessment is carried out objectively and transparently, and in accordance with the regulation and procedures, and the results are informed to the students. Results are announced to provide feedback to the students on what they have done and achieved and to encourage those who have not made optimal efforts to improve themselves and obtain the better results in the future. Students who have not met the course passing criteria will receive a short-term treatment of remedial teaching and their have their semester learning plan (RPS) evaluated learning process improvement. Students who get an E (fail) in a course must sign up for the course again in the following semester. The grade to be assigned to the students is the final grade they will receive in the current semester. This is stated in the 2020 UPI Education Implementation Guidelines.",
+    "Examination": {
+      "description": "Students who for some reason cannot take Mid-Semester Examination (UTS) and/or Final-Semester Examination (UAS) must inform the lecturer prior to the exam time and submit supporting documentary evidence for their absence. Students will only be given the opportunity to take a make up examination if their absence is caused by: (a) an illness (proven by a doctor's certificate); (b) performing a task of representing the university in intra-curricular or extra-curricular activities outside campus; or (c) other legitimate and permissible reasons. Make up examinations are administered and scheduled by the lecturer in agreement with the student. Assessment is carried out objectively and transparently, and in accordance with the regulation and procedures, and the results are informed to the students. Results are announced to provide feedback to the students on what they have done and achieved and to encourage those who have not made optimal efforts to improve themselves and obtain the better results in the future. Students who have not met the course passing criteria will receive a short-term treatment of remedial teaching and their have their semester learning plan (RPS) evaluated learning process improvement. Students who get an E (fail) in a course must sign up for the course again in the following semester. The grade to be assigned to the students is the final grade they will receive in the current semester. This is stated in the 2020 UPI Education Implementation Guidelines."
+    }
+  },
+{
+    "_id": "cs_proginfo_exam_001_desc_p5_s01",
+    "section": "Examination — Description (Part 5, Segment 1/11)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — Description (Part 5, Segment 1/11) : The Internship Program(PPL) is a field activity for non-education sciencestudents. It is carried out in collaboration with public and private external institutions. Students of Mathematics Study Program who take part in the Internship Program(PPL) are guided by two lecturers from the Study Program and a person from the company where the students have their Internship Program(PPL). Internship in the Computer Science Study Program students taking the Internship Program (PPL) is supervised by a lecturer from the Study Program and a person from the company where the Internship Program(PPL) is attended. Passing and final grade of the Internship Program (PPL) is determined based on the accumulated score obtained from the supervisor, from the institution/company where the student is apprenticing, and from the supervising lecturer according to the formula stated in the PPL guidebook.",
+    "Examination": {
+      "description": "The Internship Program(PPL) is a field activity for non-education sciencestudents. It is carried out in collaboration with public and private external institutions. Students of Mathematics Study Program who take part in the Internship Program(PPL) are guided by two lecturers from the Study Program and a person from the company where the students have their Internship Program(PPL). Internship in the Computer Science Study Program students taking the Internship Program (PPL) is supervised by a lecturer from the Study Program and a person from the company where the Internship Program(PPL) is attended. Passing and final grade of the Internship Program (PPL) is determined based on the accumulated score obtained from the supervisor, from the institution/company where the student is apprenticing, and from the supervising lecturer according to the formula stated in the PPL guidebook."
+    }
+  },
+  {
+    "_id": "cs_proginfo_exam_001_desc_p5_s02",
+    "section": "Examination — Description (Part 5, Segment 2/11)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — Description (Part 5, Segment 2/11) : In addition to the Internship Program (PPL), the students also learn about the wider community environment through the Student Community Service (KKN) whose implementation is coordinated by the UPI Research and Community Service Institute (LPPM). The students can download information related to the Student Community Service (KKN) on the http://kkn.lppm.upi.edu/ page. In the Student Community Service (KKN) students groups from various disciplinary backgrounds stay for a certain period of time in a community and participate actively in the life of the community. The group is guided by a supervising lecturer who serves as a companion and assessor for the student field activities. Before the Student Community Service (KKN) activities began, the lecturers and students would respectively be given briefing by the UPI Research and Community Service Institute (LPPM). Briefing for the supervisors relates to monitoring activities and information about the Student Community Service (KKN) assessments. Briefing for the students relates to the technical implementation of the Student Community Service (KKN) on the ground and the best practices. The supervising lecturer is responsible for monitoring activities. The assessment of the Student Community Service (KKN) participants is conducted on two aspects, namely the individual aspect and the group aspect. The supervising lecturer reports the KKN students score to the UPI Research and Community Service Institute (LPPM) for further entry into the system. During the COVID-19 pandemic, UPI made some adjustment to the theme to allow participants (students) to continue to participate in activities risking their health and safety.",
+    "Examination": {
+      "description": "In addition to the Internship Program (PPL), the students also learn about the wider community environment through the Student Community Service (KKN) whose implementation is coordinated by the UPI Research and Community Service Institute (LPPM). The students can download information related to the Student Community Service (KKN) on the http://kkn.lppm.upi.edu/ page. In the Student Community Service (KKN) students groups from various disciplinary backgrounds stay for a certain period of time in a community and participate actively in the life of the community. The group is guided by a supervising lecturer who serves as a companion and assessor for the student field activities. Before the Student Community Service (KKN) activities began, the lecturers and students would respectively be given briefing by the UPI Research and Community Service Institute (LPPM). Briefing for the supervisors relates to monitoring activities and information about the Student Community Service (KKN) assessments. Briefing for the students relates to the technical implementation of the Student Community Service (KKN) on the ground and the best practices. The supervising lecturer is responsible for monitoring activities. The assessment of the Student Community Service (KKN) participants is conducted on two aspects, namely the individual aspect and the group aspect. The supervising lecturer reports the KKN students score to the UPI Research and Community Service Institute (LPPM) for further entry into the system. During the COVID-19 pandemic, UPI made some adjustment to the theme to allow participants (students) to continue to participate in activities risking their health and safety."
+    }
+  },
+  {
+    "_id": "cs_proginfo_exam_001_desc_p5_s03",
+    "section": "Examination — Description (Part 5, Segment 3/11)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — Description (Part 5, Segment 3/11) : There are two tracks for completion of undergraduate (S1) study, namely the thesis track and the non-thesis track. The non-thesis track is for students who have a GPA (IPK) of 2.00 - 2.50. They are required to take 6 credits (SKS) of courses and make a thesis substitute paper. The study program makes regulations and SOPs for completion of study without a thesis track. The thesis track can be taken by students who have passed the thesis prerequisite courses, obtaining a minimum 105 credits (SKS) and GPA (IPK) of at least 2.50, and have received recommendation from the academic supervisor lecturer.",
+    "Examination": {
+      "description": "There are two tracks for completion of undergraduate (S1) study, namely the thesis track and the non-thesis track. The non-thesis track is for students who have a GPA (IPK) of 2.00 - 2.50. They are required to take 6 credits (SKS) of courses and make a thesis substitute paper. The study program makes regulations and SOPs for completion of study without a thesis track. The thesis track can be taken by students who have passed the thesis prerequisite courses, obtaining a minimum 105 credits (SKS) and GPA (IPK) of at least 2.50, and have received recommendation from the academic supervisor lecturer."
+    }
+  },
+  {
+    "_id": "cs_proginfo_exam_001_desc_p5_s04",
+    "section": "Examination — Description (Part 5, Segment 4/11)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — Description (Part 5, Segment 4/11) : The procedures for thesis writing are as follows: thesis coordinator assigns supervisors I and II to the students; the students are guided in writing a thesis proposal; students take the thesis proposal examination. If the proposal approved by the examiners, students can continue the guidance process with the two supervisors, such as conducting activities to develop the instruments and collect data; proceed with writing the report of the data collection results, discussion, and conclusion. If the thesis writing results are considered appropriate by the supervisors, the student can take the thesis defense. The proposal writing and examination exam follows the SOP; the procedure for the thesis defense follows the SOP. The final score of the thesis includes the assessment of thesis writing and thesis defense examination. A student is said to have passed the thesis examination if his final-thesis score is at least 2.0 (on the scale of 4). The thesis research is carried out independently under the guidance of the two thesis supervisors.",
+    "Examination": {
+      "description": "The procedures for thesis writing are as follows: thesis coordinator assigns supervisors I and II to the students; the students are guided in writing a thesis proposal; students take the thesis proposal examination. If the proposal approved by the examiners, students can continue the guidance process with the two supervisors, such as conducting activities to develop the instruments and collect data; proceed with writing the report of the data collection results, discussion, and conclusion. If the thesis writing results are considered appropriate by the supervisors, the student can take the thesis defense. The proposal writing and examination exam follows the SOP; the procedure for the thesis defense follows the SOP. The final score of the thesis includes the assessment of thesis writing and thesis defense examination. A student is said to have passed the thesis examination if his final-thesis score is at least 2.0 (on the scale of 4). The thesis research is carried out independently under the guidance of the two thesis supervisors."
+    }
+  },
+  {
+    "_id": "cs_proginfo_exam_001_desc_p5_s05",
+    "section": "Examination — Description (Part 5, Segment 5/11)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — Description (Part 5, Segment 5/11) : In general, the procedure for final completion of the study through the thesis track is presented in the following flowchart below. The assessment system in four study programs includes student learning processes and outcomes. This system includesformative and summativeassessments.Formative assessment aims to obtain information that can be used to improve the learning process (program delivery), while summative assessment is used to assess the achievement of student learning outcomes (learning outcomes). The assessment guidelines generally follow the UPI Education Implementation Guidelines which can be accessed at https://dit-akademik.upi.edu/.",
+    "Examination": {
+      "description": "In general, the procedure for final completion of the study through the thesis track is presented in the following flowchart below. The assessment system in four study programs includes student learning processes and outcomes. This system includesformative and summativeassessments.Formative assessment aims to obtain information that can be used to improve the learning process (program delivery), while summative assessment is used to assess the achievement of student learning outcomes (learning outcomes). The assessment guidelines generally follow the UPI Education Implementation Guidelines which can be accessed at https://dit-akademik.upi.edu/."
+    }
+  },
+  {
+    "_id": "cs_proginfo_exam_001_desc_p5_s06",
+    "section": "Examination — Description (Part 5, Segment 6/11)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — Description (Part 5, Segment 6/11) : Principle of Benchmarking Assessment (PAP) is used to assess student’s performance in a course. With PAP student achievement of a goal/competency is assessed against predetermined criteria . The final grade of a course is the cumulative result of the components of the assignment, mid-semester exams, final-semester exams, and other assessment components. In practice, each course has its own assessment procedures and techniques appropriate to its characteristics as long as it is not in conflict with the provisions of UPI Education Implementation Guidelines. This practical assessment guideline is contained in the course syllabus/RPS developed by a lecturer. In general, each subject uses integrative assessment techniques, namely between the process and the results, and between other assessment components: attendance, quizzes, mid-semester exams (UTS), final-semester exams (UAS), assignments, practicum (if any), participation, and presentation (if any). The percentage of the assessment components include the element of attendance (5%); participation/quizzes/assignments/presentations (15%); practicum (10%); mid-semester exam (35%); and final-semester exams (35%).",
+    "Examination": {
+      "description": "Principle of Benchmarking Assessment (PAP) is used to assess student’s performance in a course. With PAP student achievement of a goal/competency is assessed against predetermined criteria . The final grade of a course is the cumulative result of the components of the assignment, mid-semester exams, final-semester exams, and other assessment components. In practice, each course has its own assessment procedures and techniques appropriate to its characteristics as long as it is not in conflict with the provisions of UPI Education Implementation Guidelines. This practical assessment guideline is contained in the course syllabus/RPS developed by a lecturer. In general, each subject uses integrative assessment techniques, namely between the process and the results, and between other assessment components: attendance, quizzes, mid-semester exams (UTS), final-semester exams (UAS), assignments, practicum (if any), participation, and presentation (if any). The percentage of the assessment components include the element of attendance (5%); participation/quizzes/assignments/presentations (15%); practicum (10%); mid-semester exam (35%); and final-semester exams (35%)."
+    }
+  },
+  {
+    "_id": "cs_proginfo_exam_001_desc_p5_s07",
+    "section": "Examination — Description (Part 5, Segment 7/11)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — Description (Part 5, Segment 7/11) : Table below is the illustrates guidelines for determining grades for each course. In compulsory courses, the minimum passing grade is C, while for elective courses the minimum passing grade is D. Students who get an E (fail), should retake the class in the following year in order to get the appropriate grade with pass criteria. Students cannot cancel the grades of courses that they have passed, unless the they transfer to a different department/study program, where they have to cancel the expertise courses of the previous study program, or in the case where a student sign up for more than the maximum study load specified in the curriculum structure.",
+    "Examination": {
+      "description": "Table below is the illustrates guidelines for determining grades for each course. In compulsory courses, the minimum passing grade is C, while for elective courses the minimum passing grade is D. Students who get an E (fail), should retake the class in the following year in order to get the appropriate grade with pass criteria. Students cannot cancel the grades of courses that they have passed, unless the they transfer to a different department/study program, where they have to cancel the expertise courses of the previous study program, or in the case where a student sign up for more than the maximum study load specified in the curriculum structure."
+    }
+  },
+  {
+    "_id": "cs_proginfo_exam_001_desc_p5_s08",
+    "section": "Examination — Description (Part 5, Segment 8/11)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — Description (Part 5, Segment 8/11) : The achievement of the course learning outcome (CLO) can be seen from the student learning outcomes in these courses which are measured using summative test instruments. Each test instrument consists of a number of questions, each of which measures the CLO in that course. Each question that will be used for the exam is validated first by the head of the KBK where the subject is located. Parallel course (the same course taught in different classes) must use the same questions and assessment criteria. The final course outcomes are then evaluated by the GKM team to ensure the achievement of PLOs related to these courses.",
+    "Examination": {
+      "description": "The achievement of the course learning outcome (CLO) can be seen from the student learning outcomes in these courses which are measured using summative test instruments. Each test instrument consists of a number of questions, each of which measures the CLO in that course. Each question that will be used for the exam is validated first by the head of the KBK where the subject is located. Parallel course (the same course taught in different classes) must use the same questions and assessment criteria. The final course outcomes are then evaluated by the GKM team to ensure the achievement of PLOs related to these courses."
+    }
+  },
+  {
+    "_id": "cs_proginfo_exam_001_desc_p5_s09",
+    "section": "Examination — Description (Part 5, Segment 9/11)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — Description (Part 5, Segment 9/11) : The results of the assessment in the form of the final grade must be inputted by the lecturer of the course into the lecturer score input system through the website https://siak.upi.edu/sinndo. If the lecturer is late in inputting the grades, the lecturer in question will receive a warning and consequences. Students can view the final grade information for the courses they contact through the website https://student.upi.edu.",
+    "Examination": {
+      "description": "The results of the assessment in the form of the final grade must be inputted by the lecturer of the course into the lecturer score input system through the website https://siak.upi.edu/sinndo. If the lecturer is late in inputting the grades, the lecturer in question will receive a warning and consequences. Students can view the final grade information for the courses they contact through the website https://student.upi.edu."
+    }
+  },
+  {
+    "_id": "cs_proginfo_exam_001_desc_p5_s10",
+    "section": "Examination — Description (Part 5, Segment 10/11)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — Description (Part 5, Segment 10/11) : Lecturers are obliged to design, manage, provide assignments/exams, provide feedback, and maintain student academic documents in an orderly manner. Relevant tothis obligation, students have the right to obtain clear and transparent information about their study results in the form of test scores, quizzes, assignments or projects, practicum, and/or presentations. Students who have questions about their grades can directly contact the lecturer to discuss the problem. If there is an error in the process of inputting the grades, the lecturer can correct the grade to match the facts as long as it is still within the period of grade entry. If input error is detected after the grade entry period is over, the lecturer can submit a request letter to the UPI Academic Directorate to correct the grade.",
+    "Examination": {
+      "description": "Lecturers are obliged to design, manage, provide assignments/exams, provide feedback, and maintain student academic documents in an orderly manner. Relevant tothis obligation, students have the right to obtain clear and transparent information about their study results in the form of test scores, quizzes, assignments or projects, practicum, and/or presentations. Students who have questions about their grades can directly contact the lecturer to discuss the problem. If there is an error in the process of inputting the grades, the lecturer can correct the grade to match the facts as long as it is still within the period of grade entry. If input error is detected after the grade entry period is over, the lecturer can submit a request letter to the UPI Academic Directorate to correct the grade."
+    }
+  },
+  {
+    "_id": "cs_proginfo_exam_001_desc_p5_s11",
+    "section": "Examination — Description (Part 5, Segment 11/11)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — Description (Part 5, Segment 11/11) : The relationship between the learning outcome, the learning strategy, and the assessment used to measure the learning outcome in Computer Science study program will be presented below. Table below, illustrates the relationship between PLO, learning strategies and assessment in Computer Science Study Program.",
+    "Examination": {
+      "description": "The relationship between the learning outcome, the learning strategy, and the assessment used to measure the learning outcome in Computer Science study program will be presented below. Table below, illustrates the relationship between PLO, learning strategies and assessment in Computer Science Study Program."
+    }
+  },
+  {
+    "_id": "cs_proginfo_exam_001_grades",
+    "section": "Examination — Course Grade Guidelines",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — Course Grade Guidelines : A, value 4.0, value_str 4,0, quality Excellent, score_min 92, score_max 100; A-, value 3.7, value_str 3,7, quality Almost Excellent, score_min 86, score_max 91; B+, value 3.4, value_str 3,4, quality Very Good, score_min 81, score_max 85; B, value 3.0, value_str 3,0, quality Good, score_min 76, score_max 80; B-, value 2.7, value_str 2,7, quality Fairly Good, score_min 71, score_max 75; C+, value 2.4, value_str 2,4, quality Very Satisfactory, score_min 66, score_max 70; C, value 2.0, value_str 2,0, quality Satisfactory, score_min 60, score_max 65; D, value 1.0, value_str 1,0, quality Poor, score_min 55, score_max 59, note Minimum requirement for graduation; E, value_str <1,0, quality Fail, score_min 0, score_max 54, note Course should be retaken",
+    "Examination": {
+      "course_grade_guidelines": "A, value 4.0, value_str 4,0, quality Excellent, score_min 92, score_max 100; A-, value 3.7, value_str 3,7, quality Almost Excellent, score_min 86, score_max 91; B+, value 3.4, value_str 3,4, quality Very Good, score_min 81, score_max 85; B, value 3.0, value_str 3,0, quality Good, score_min 76, score_max 80; B-, value 2.7, value_str 2,7, quality Fairly Good, score_min 71, score_max 75; C+, value 2.4, value_str 2,4, quality Very Satisfactory, score_min 66, score_max 70; C, value 2.0, value_str 2,0, quality Satisfactory, score_min 60, score_max 65; D, value 1.0, value_str 1,0, quality Poor, score_min 55, score_max 59, note Minimum requirement for graduation; E, value_str <1,0, quality Fail, score_min 0, score_max 54, note Course should be retaken"
+    }
+  },
+  {
+    "_id": "cs_proginfo_exam_001_plo_linkage",
+    "section": "Examination — PLO Teaching & Assessment Linkage",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — PLO Teaching & Assessment Linkage : PLO-1: teaching_methods Lectures, discussions, debates, brainstorms; assessments Multiple choice. PLO-2: teaching_methods Lectures, discussions, symposiums, brainstorming, laboratory/practicum, demonstrations, simulations, field experiences; assessments Presentations, Student project/projects, essay exams, oral exams, multiple choice exams, short answer exams. PLO-3: teaching_methods Lectures, discussions, laboratory/practicum, demonstrations, simulations; assessments Essay exams, verbal exams, multiple choice exams, short answer exams. PLO-4: teaching_methods Lectures, discussions, brainstorming, laboratory/practicum, demonstrations, simulations, field experiences; assessments Student project/projects, practicum. PLO-5: teaching_methods Lectures, discussions, debates, symposiums, brainstorming, laboratory/practicum, field experiences; assessments Scientific articles. PLO-6: teaching_methods Lectures, discussions, laboratory/practicum, demonstrations, simulations, field experiences; assessments Scientific articles. PLO-7: teaching_methods Lectures, debates, symposiums, field experiences; assessments Scientific articles, presentations.",
+    "Examination": {
+      "plo_teaching_and_assessment_linkage": "PLO-1: teaching_methods Lectures, discussions, debates, brainstorms; assessments Multiple choice; PLO-2: teaching_methods Lectures, discussions, symposiums, brainstorming, laboratory/practicum, demonstrations, simulations, field experiences; assessments Presentations, Student project/projects, essay exams, oral exams, multiple choice exams, short answer exams; PLO-3: teaching_methods Lectures, discussions, laboratory/practicum, demonstrations, simulations; assessments Essay exams, verbal exams, multiple choice exams, short answer exams; PLO-4: teaching_methods Lectures, discussions, brainstorming, laboratory/practicum, demonstrations, simulations, field experiences; assessments Student project/projects, practicum; PLO-5: teaching_methods Lectures, discussions, debates, symposiums, brainstorming, laboratory/practicum, field experiences; assessments Scientific articles; PLO-6: teaching_methods Lectures, discussions, laboratory/practicum, demonstrations, simulations, field experiences; assessments Scientific articles; PLO-7: teaching_methods Lectures, debates, symposiums, field experiences; assessments Scientific articles, presentations"
+    }
+  },
+  {
+    "_id": "cs_proginfo_exam_001_plo_mapping",
+    "section": "Examination — Mapping PLO versus Qualification Profile",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Examination — Mapping PLO versus Qualification Profile : PLO-1: Academics, Research Assistance, Consultant, Professional Practitioner, Entrepreneur; PLO-2: Academics, Research Assistance; PLO-3: Academics, Research Assistance, Consultant, Professional Practitioner, Entrepreneur; PLO-4: Consultant, Professional Practitioner, Entrepreneur; PLO-5: Academics, Research Assistance; PLO-6: Consultant, Professional Practitioner, Entrepreneur; PLO-7: Academics, Research Assistance, Consultant, Professional Practitioner, Entrepreneur",
+    "Mapping PLO versus Qualification Profile": "PLO-1: Academics, Research Assistance, Consultant, Professional Practitioner, Entrepreneur; PLO-2: Academics, Research Assistance; PLO-3: Academics, Research Assistance, Consultant, Professional Practitioner, Entrepreneur; PLO-4: Consultant, Professional Practitioner, Entrepreneur; PLO-5: Academics, Research Assistance; PLO-6: Consultant, Professional Practitioner, Entrepreneur; PLO-7: Academics, Research Assistance, Consultant, Professional Practitioner, Entrepreneur"
+  },
+  {
+    "_id": "cs_proginfo_mapping_mku_part1",
+    "section": "Mapping PLO versus Courses — General Courses (MKU) (Part 1/2)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Mapping PLO versus Courses — General Courses (MKU) (Part 1/2) : No 1, Code KU100, Course Islamic Education, Credits 2, PLO PLO-1; No 2, Code KU101, Course Protestant Education, Credits 2, PLO PLO-1; No 3, Code KU102, Course Catholic Education, Credits 2, PLO PLO-1; No 4, Code KU103, Course Hindu Education, Credits 2, PLO PLO-1; No 5, Code KU104, Course Buddhist Education, Credits 2, PLO PLO-1; No 6, Code KU109, Course Khonghucu Education, Credits 2, PLO PLO-1; No 7, Code KU110, Course Pancasila, Credits 2, PLO PLO-1, PLO-2; No 8, Code KU105, Course Civic Education, Credits 2, PLO PLO-1, PLO-2; No 9, Code KU106, Course Indonesian Language, Credits 2, PLO PLO-1; No 10, Code KU108, Course Physical Education*, Credits 2, PLO PLO-1, PLO-2",
+    "Mapping PLO versus Courses": {
+      "General Courses (MKU)": {
+        "courses": "No 1, Code KU100, Course Islamic Education, Credits 2, PLO PLO-1; No 2, Code KU101, Course Protestant Education, Credits 2, PLO PLO-1; No 3, Code KU102, Course Catholic Education, Credits 2, PLO PLO-1; No 4, Code KU103, Course Hindu Education, Credits 2, PLO PLO-1; No 5, Code KU104, Course Buddhist Education, Credits 2, PLO PLO-1; No 6, Code KU109, Course Khonghucu Education, Credits 2, PLO PLO-1; No 7, Code KU110, Course Pancasila, Credits 2, PLO PLO-1, PLO-2; No 8, Code KU105, Course Civic Education, Credits 2, PLO PLO-1, PLO-2; No 9, Code KU106, Course Indonesian Language, Credits 2, PLO PLO-1; No 10, Code KU108, Course Physical Education*, Credits 2, PLO PLO-1, PLO-2",
+        "totalCredit": 36
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_mapping_mku_part2",
+    "section": "Mapping PLO versus Courses — General Courses (MKU) (Part 2/2)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Mapping PLO versus Courses — General Courses (MKU) (Part 2/2) : No 11, Code KU119, Course Art Education*, Credits 2, PLO PLO-1, PLO-2; No 12, Code KU300, Course Seminar for Islamic Education, Credits 2, PLO PLO-1; No 13, Code KU301, Course Seminar for Protestant Education, Credits 2, PLO PLO-1; No 14, Code KU302, Course Seminar for Catholic Education, Credits 2, PLO PLO-1; No 15, Code KU303, Course Seminar for Hindu Education, Credits 2, PLO PLO-1; No 16, Code KU304, Course Seminar for Buddhist Education, Credits 2, PLO PLO-1; No 17, Code KU309, Course Seminar for Khonghucu Education, Credits 2, PLO PLO-1; No 18, Code KU400, Course Community Service Program /Student Study Service, Credits 2, PLO PLO-1, PLO-2",
+    "Mapping PLO versus Courses": {
+      "General Courses (MKU)": {
+        "courses": "No 11, Code KU119, Course Art Education*, Credits 2, PLO PLO-1, PLO-2; No 12, Code KU300, Course Seminar for Islamic Education, Credits 2, PLO PLO-1; No 13, Code KU301, Course Seminar for Protestant Education, Credits 2, PLO PLO-1; No 14, Code KU302, Course Seminar for Catholic Education, Credits 2, PLO PLO-1; No 15, Code KU303, Course Seminar for Hindu Education, Credits 2, PLO PLO-1; No 16, Code KU304, Course Seminar for Buddhist Education, Credits 2, PLO PLO-1; No 17, Code KU309, Course Seminar for Khonghucu Education, Credits 2, PLO PLO-1; No 18, Code KU400, Course Community Service Program /Student Study Service, Credits 2, PLO PLO-1, PLO-2",
+        "totalCredit": 36
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_mapping_mkku",
+    "section": "Mapping PLO versus Courses — University Specificity Courses (MKKU)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Mapping PLO versus Courses — University Specificity Courses (MKKU) : No 1, Code HU300, Course Introduction of Education, Credits 2, PLO PLO-1, PLO-2",
+    "Mapping PLO versus Courses": {
+      "University Specificity Courses (MKKU)": {
+        "courses": "No 1, Code HU300, Course Introduction of Education, Credits 2, PLO PLO-1, PLO-2",
+        "totalCredit": 2
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_mapping_mkkf",
+    "section": "Mapping PLO versus Courses — Faculty Skill Courses (MKKF)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Mapping PLO versus Courses — Faculty Skill Courses (MKKF) : No 1, Code MA100, Course Mathematics, Science, Technology and Engineering, Credits 3, PLO PLO-2; No 2, Code MA101, Course Applied Mathematics, Science, Technology and Engineering, Credits 3, PLO PLO-2",
+    "Mapping PLO versus Courses": {
+      "Faculty Skill Courses (MKKF)": {
+        "courses": "No 1, Code MA100, Course Mathematics, Science, Technology and Engineering, Credits 3, PLO PLO-2; No 2, Code MA101, Course Applied Mathematics, Science, Technology and Engineering, Credits 3, PLO PLO-2",
+        "totalCredit": 6
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_mapping_mkkips_part1",
+    "section": "Mapping PLO versus Courses — Core Expertise Courses (MKKIPS) (Part 1/4)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Mapping PLO versus Courses — Core Expertise Courses (MKKIPS) (Part 1/4) : No 1, Code IK100, Course Algorithm and Programming 1, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 2, Code IK110, Course Calculus, Credits 3, PLO PLO-2, PLO-3; No 3, Code IK120, Course Programming Paradigm, Credits 2, PLO PLO-2, PLO-3, PLO-7; No 4, Code IK130, Course Informatics Logic, Credits 3, PLO PLO-2, PLO-3; No 5, Code IK140, Course English, Credits 2, PLO PLO-1, PLO-2; No 6, Code IK150, Course Statistics, Credits 2, PLO PLO-2, PLO-3; No 7, Code IK160, Course Algorithm and Programming 2, Credits 3, PLO PLO-2, PLO-3, PLO-7; No 8, Code IK170, Course Database System, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 9, Code IK180, Course Linier Algebra and Metrics, Credits 2, PLO PLO-2, PLO-3; No 10, Code IK190, Course Professional Ethics of Information and Communication Technology, Credits 2, PLO PLO-2, PLO-3",
+    "Mapping PLO versus Courses": {
+      "Core Expertise Courses of Study Program (MKKIPS)": {
+        "courses": "No 1, Code IK100, Course Algorithm and Programming 1, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 2, Code IK110, Course Calculus, Credits 3, PLO PLO-2, PLO-3; No 3, Code IK120, Course Programming Paradigm, Credits 2, PLO PLO-2, PLO-3, PLO-7; No 4, Code IK130, Course Informatics Logic, Credits 3, PLO PLO-2, PLO-3; No 5, Code IK140, Course English, Credits 2, PLO PLO-1, PLO-2; No 6, Code IK150, Course Statistics, Credits 2, PLO PLO-2, PLO-3; No 7, Code IK160, Course Algorithm and Programming 2, Credits 3, PLO PLO-2, PLO-3, PLO-7; No 8, Code IK170, Course Database System, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 9, Code IK180, Course Linier Algebra and Metrics, Credits 2, PLO PLO-2, PLO-3; No 10, Code IK190, Course Professional Ethics of Information and Communication Technology, Credits 2, PLO PLO-2, PLO-3",
+        "totalCredit": 102
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_mapping_mkkips_part2",
+    "section": "Mapping PLO versus Courses — Core Expertise Courses (MKKIPS) (Part 2/4)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Mapping PLO versus Courses — Core Expertise Courses (MKKIPS) (Part 2/4) : No 11, Code IK200, Course Architecture and Organization Computer, Credits 3, PLO PLO-2, PLO-3; No 12, Code IK210, Course Numerical Method, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 13, Code IK220, Course Control System, Credits 3, PLO PLO-2, PLO-3; No 14, Code IK230, Course Design and Web Programming, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 15, Code IK240, Course Data Structure, Credits 3, PLO PLO-2, PLO-3; No 16, Code IK250, Course Operating System, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 17, Code IK260, Course Automata Theory and Languages, Credits 3, PLO PLO-2, PLO-3, PLO-4; No 18, Code IK270, Course Software Engineering, Credits 3, PLO PLO-2, PLO-3; No 19, Code IK280, Course Artificial Intelligence, Credits 3, PLO PLO-2, PLO-3, PLO-4; No 20, Code IK290, Course Design and Object-Oriented Programming, Credits 3, PLO PLO-2, PLO-3, PLO-4",
+    "Mapping PLO versus Courses": {
+      "Core Expertise Courses of Study Program (MKKIPS)": {
+        "courses": "No 11, Code IK200, Course Architecture and Organization Computer, Credits 3, PLO PLO-2, PLO-3; No 12, Code IK210, Course Numerical Method, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 13, Code IK220, Course Control System, Credits 3, PLO PLO-2, PLO-3; No 14, Code IK230, Course Design and Web Programming, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 15, Code IK240, Course Data Structure, Credits 3, PLO PLO-2, PLO-3; No 16, Code IK250, Course Operating System, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 17, Code IK260, Course Automata Theory and Languages, Credits 3, PLO PLO-2, PLO-3, PLO-4; No 18, Code IK270, Course Software Engineering, Credits 3, PLO PLO-2, PLO-3; No 19, Code IK280, Course Artificial Intelligence, Credits 3, PLO PLO-2, PLO-3, PLO-4; No 20, Code IK290, Course Design and Object-Oriented Programming, Credits 3, PLO PLO-2, PLO-3, PLO-4",
+        "totalCredit": 102
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_mapping_mkkips_part3",
+    "section": "Mapping PLO versus Courses — Core Expertise Courses (MKKIPS) (Part 3/4)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Mapping PLO versus Courses — Core Expertise Courses (MKKIPS) (Part 3/4) : No 21, Code IK207, Course Computer Network, Credits 3, PLO PLO-2, PLO-3, PLO-4; No 22, Code IK217, Course Information System, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 23, Code IK227, Course Techniques of Operations Research, Credits 2, PLO PLO-2, PLO-3, PLO-4; No 24, Code IK237, Course Design and Analysis of Algorithms, Credits 3, PLO PLO-2, PLO-3, PLO-4; No 25, Code IK300, Course Visual Programming and Mobile Device, Credits 3, PLO PLO-2, PLO-3, PLO-4; No 26, Code IK310, Course Cryptography, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 27, Code IK320, Course Computer Graphics and Multimedia, Credits 3, PLO PLO-2, PLO-3, PLO-4; No 28, Code IK330, Course Software Project Management, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 29, Code IK340, Course Intelligent system, Credits 2, PLO PLO-2, PLO-3, PLO-4; No 30, Code IK350, Course Computer and Human Interaction, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7",
+    "Mapping PLO versus Courses": {
+      "Core Expertise Courses of Study Program (MKKIPS)": {
+        "courses": "No 21, Code IK207, Course Computer Network, Credits 3, PLO PLO-2, PLO-3, PLO-4; No 22, Code IK217, Course Information System, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 23, Code IK227, Course Techniques of Operations Research, Credits 2, PLO PLO-2, PLO-3, PLO-4; No 24, Code IK237, Course Design and Analysis of Algorithms, Credits 3, PLO PLO-2, PLO-3, PLO-4; No 25, Code IK300, Course Visual Programming and Mobile Device, Credits 3, PLO PLO-2, PLO-3, PLO-4; No 26, Code IK310, Course Cryptography, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 27, Code IK320, Course Computer Graphics and Multimedia, Credits 3, PLO PLO-2, PLO-3, PLO-4; No 28, Code IK330, Course Software Project Management, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 29, Code IK340, Course Intelligent system, Credits 2, PLO PLO-2, PLO-3, PLO-4; No 30, Code IK350, Course Computer and Human Interaction, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7",
+        "totalCredit": 102
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_mapping_mkkips_part4",
+    "section": "Mapping PLO versus Courses — Core Expertise Courses (MKKIPS) (Part 4/4)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Mapping PLO versus Courses — Core Expertise Courses (MKKIPS) (Part 4/4) : No 31, Code IK360, Course Capita Selecta, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 32, Code IK370, Course Simulation and Modeling Techniques, Credits 2, PLO PLO-2, PLO-3; No 33, Code IK380, Course Non-Relational Databases, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 34, Code IK400, Course Research Methodology, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 35, Code IK410, Course Computer Science Entrepreneurship, Credits 2, PLO PLO-2, PLO-3, PLO-4; No 36, Code IK420, Course Seminar, Credits 2, PLO PLO-5, PLO-6, PLO-7; No 37, Code IK430, Course E-Business, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 38, Code IK598, Course Undergraduate Thesis, Credits 6, PLO PLO-1, PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 39, Code IK599, Course Thesis Defense, Credits 0, PLO PLO-2, PLO-3, PLO-7",
+    "Mapping PLO versus Courses": {
+      "Core Expertise Courses of Study Program (MKKIPS)": {
+        "courses": "No 31, Code IK360, Course Capita Selecta, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 32, Code IK370, Course Simulation and Modeling Techniques, Credits 2, PLO PLO-2, PLO-3; No 33, Code IK380, Course Non-Relational Databases, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 34, Code IK400, Course Research Methodology, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 35, Code IK410, Course Computer Science Entrepreneurship, Credits 2, PLO PLO-2, PLO-3, PLO-4; No 36, Code IK420, Course Seminar, Credits 2, PLO PLO-5, PLO-6, PLO-7; No 37, Code IK430, Course E-Business, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 38, Code IK598, Course Undergraduate Thesis, Credits 6, PLO PLO-1, PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 39, Code IK599, Course Thesis Defense, Credits 0, PLO PLO-2, PLO-3, PLO-7",
+        "totalCredit": 102
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_mapping_mkkps",
+    "section": "Mapping PLO versus Courses — Expertise Elective Of Study Programs (MKKPS)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Mapping PLO versus Courses — Expertise Elective Of Study Programs (MKKPS) : No 1, Code IK500, Course Machine Learning, Credits 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK510, Course Parallel and Distributed Computing, Credits 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 3, Code IK520, Course Project Expertise, Credits 3, PLO PLO-2, PLO-4; No 4, Code IK530, Course Mobile Application Development, Credits 3, PLO PLO-2, PLO-4",
+    "Mapping PLO versus Courses": {
+      "Expertise Elective Of Study Programs Courses (MKKPS)": {
+        "courses": "No 1, Code IK500, Course Machine Learning, Credits 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK510, Course Parallel and Distributed Computing, Credits 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 3, Code IK520, Course Project Expertise, Credits 3, PLO PLO-2, PLO-4; No 4, Code IK530, Course Mobile Application Development, Credits 3, PLO PLO-2, PLO-4",
+        "totalCredit": 12
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_mapping_kbk1",
+    "section": "Mapping PLO versus Courses — KBK Package 1: Software Engineering",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Mapping PLO versus Courses — KBK Package 1: Software Engineering : No 1, Code IK501, Course Testing and Software Management, Credits 2, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK511, Course Applied Marine Engineering, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 3, Code IK521, Course Service Computing Engineering, Credits 2, PLO PLO-2, PLO-3, PLO-7; No 4, Code IK531, Course Game Application Development, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 5, Code IK541, Course Interfacing Technique, Credits 3, PLO PLO-2, PLO-3, PLO-7; No 6, Code IK551, Course Software Quality Management, Credits 3, PLO PLO-2, PLO-3, PLO-5, PLO-6, PLO-7; No 7, Code IK561, Course Business Application Engineering, Credits 2, PLO PLO-2, PLO-3, PLO-7; No 8, Code IK571, Course Information Engineering, Credits 3, PLO PLO-2, PLO-3, PLO-7; No 9, Code IK581, Course Software Quality Assurance, Credits 2, PLO PLO-2, PLO-3, PLO-5, PLO-6, PLO-7; No 10, Code IK591, Course Compilation Techniques, Credits 3, PLO PLO-2, PLO-3, PLO-7",
+    "Mapping PLO versus Courses": {
+      "KBK Package 1: Software Engineering": {
+        "courses": "No 1, Code IK501, Course Testing and Software Management, Credits 2, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK511, Course Applied Marine Engineering, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 3, Code IK521, Course Service Computing Engineering, Credits 2, PLO PLO-2, PLO-3, PLO-7; No 4, Code IK531, Course Game Application Development, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 5, Code IK541, Course Interfacing Technique, Credits 3, PLO PLO-2, PLO-3, PLO-7; No 6, Code IK551, Course Software Quality Management, Credits 3, PLO PLO-2, PLO-3, PLO-5, PLO-6, PLO-7; No 7, Code IK561, Course Business Application Engineering, Credits 2, PLO PLO-2, PLO-3, PLO-7; No 8, Code IK571, Course Information Engineering, Credits 3, PLO PLO-2, PLO-3, PLO-7; No 9, Code IK581, Course Software Quality Assurance, Credits 2, PLO PLO-2, PLO-3, PLO-5, PLO-6, PLO-7; No 10, Code IK591, Course Compilation Techniques, Credits 3, PLO PLO-2, PLO-3, PLO-7",
+        "totalCredit": 24
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_mapping_kbk2",
+    "section": "Mapping PLO versus Courses — KBK Package 2: Robotics, AI & IoT",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Mapping PLO versus Courses — KBK Package 2: Robotics, AI & IoT : No 1, Code IK502, Course Digital Image Processing, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK512, Course Intelligent Games, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 3, Code IK522, Course Natural Language Processing, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 4, Code IK532, Course Deep Learning, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 5, Code IK542, Course Computer Vision, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 6, Code IK552, Course Internet of Things, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 7, Code IK562, Course Control and Robotics, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 8, Code IK572, Course Expert System, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 9, Code IK582, Course Speech Recognition and Synthesis, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7",
+    "Mapping PLO versus Courses": {
+      "KBK Package 2: Robotics, AI & IoT": {
+        "courses": "No 1, Code IK502, Course Digital Image Processing, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK512, Course Intelligent Games, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 3, Code IK522, Course Natural Language Processing, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 4, Code IK532, Course Deep Learning, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 5, Code IK542, Course Computer Vision, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 6, Code IK552, Course Internet of Things, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 7, Code IK562, Course Control and Robotics, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 8, Code IK572, Course Expert System, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 9, Code IK582, Course Speech Recognition and Synthesis, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7",
+        "totalCredit": 22
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_mapping_kbk3",
+    "section": "Mapping PLO versus Courses — KBK Package 3: Multimedia and Design",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Mapping PLO versus Courses — KBK Package 3: Multimedia and Design : No 1, Code IK503, Course Audio and Video Techniques, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 2, Code IK513, Course Game Programming, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 3, Code IK523, Course Visual Communication Design, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 4, Code IK533, Course Audio and Video Manipulation, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 5, Code IK543, Course Multimedia Production, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 6, Code IK553, Course Social and Media Innovation, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 7, Code IK563, Course Animation Techniques, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 8, Code IK573, Course Open Distance Learning, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7",
+    "Mapping PLO versus Courses": {
+      "KBK Package 3: Multimedia and Design": {
+        "courses": "No 1, Code IK503, Course Audio and Video Techniques, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 2, Code IK513, Course Game Programming, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 3, Code IK523, Course Visual Communication Design, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 4, Code IK533, Course Audio and Video Manipulation, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 5, Code IK543, Course Multimedia Production, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 6, Code IK553, Course Social and Media Innovation, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 7, Code IK563, Course Animation Techniques, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 8, Code IK573, Course Open Distance Learning, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7",
+        "totalCredit": 19
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_mapping_kbk4",
+    "section": "Mapping PLO versus Courses — KBK Package 4: Computer Engineering and Network Systems",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Mapping PLO versus Courses — KBK Package 4: Computer Engineering and Network Systems : No 1, Code IK504, Course Mobile Networking, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 2, Code IK514, Course Cloud Technology, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 3, Code IK524, Course Network Administration, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 4, Code IK534, Course Wireless Technology, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 5, Code IK544, Course Computer Forensics, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 6, Code IK554, Course Telecommunications Network Design, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 7, Code IK564, Course Information System Security, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 8, Code IK574, Course Advanced Computer Network, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7",
+    "Mapping PLO versus Courses": {
+      "KBK Package 4: Computer Engineering and Network Systems": {
+        "courses": "No 1, Code IK504, Course Mobile Networking, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 2, Code IK514, Course Cloud Technology, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 3, Code IK524, Course Network Administration, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 4, Code IK534, Course Wireless Technology, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 5, Code IK544, Course Computer Forensics, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 6, Code IK554, Course Telecommunications Network Design, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 7, Code IK564, Course Information System Security, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 8, Code IK574, Course Advanced Computer Network, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7",
+        "totalCredit": 19
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_mapping_kbk5",
+    "section": "Mapping PLO versus Courses — KBK Package 5: Big Data Analysis",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Mapping PLO versus Courses — KBK Package 5: Big Data Analysis : No 1, Code IK505, Course Data Mining and Warehouse, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 2, Code IK515, Course Computational Statistics, Credits 2, PLO PLO-2, PLO-3; No 3, Code IK525, Course Decision Support System, Credits 3, PLO PLO-2, PLO-3; No 4, Code IK535, Course Data Visualization, Credits 2, PLO PLO-2, PLO-3, PLO-4; No 5, Code IK545, Course Big Data Platforms, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 6, Code IK555, Course Data Analysis, Credits 2, PLO PLO-2, PLO-3, PLO-4; No 7, Code IK565, Course Time Series Data Analysis, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 8, Code IK575, Course Data Management, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 9, Code IK585, Course Financial Technology, Credits 3, PLO PLO-2, PLO-3, PLO-7",
+    "Mapping PLO versus Courses": {
+      "KBK Package 5: Big Data Analysis": {
+        "courses": "No 1, Code IK505, Course Data Mining and Warehouse, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 2, Code IK515, Course Computational Statistics, Credits 2, PLO PLO-2, PLO-3; No 3, Code IK525, Course Decision Support System, Credits 3, PLO PLO-2, PLO-3; No 4, Code IK535, Course Data Visualization, Credits 2, PLO PLO-2, PLO-3, PLO-4; No 5, Code IK545, Course Big Data Platforms, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 6, Code IK555, Course Data Analysis, Credits 2, PLO PLO-2, PLO-3, PLO-4; No 7, Code IK565, Course Time Series Data Analysis, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 8, Code IK575, Course Data Management, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 9, Code IK585, Course Financial Technology, Credits 3, PLO PLO-2, PLO-3, PLO-7",
+        "totalCredit": 21
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_mapping_kbk6",
+    "section": "Mapping PLO versus Courses — KBK Package 6: Information Systems",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Mapping PLO versus Courses — KBK Package 6: Information : No 1, Code IK506, Course Information Technology Strategic Planning, Credits 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK516, Course Architecture and Integration Enterprise Application, Credits 2, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 3, Code IK526, Course Information System for Accounting, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 4, Code IK536, Course Information System for Education, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 5, Code IK546, Course Information System Audit, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 6, Code IK556, Course IT Infrastructure and Emerging Trends, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 7, Code IK566, Course Business Intelligence, Credits 2, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 8, Code IK576, Course Application Systems for Business Functions, Credits 2, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 9, Code IK586, Course Geographic Information System, Credits 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7",
+    "Mapping PLO versus Courses": {
+      "KBK Package 6: Information Systems": {
+        "courses": "No 1, Code IK506, Course Information Technology Strategic Planning, Credits 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK516, Course Architecture and Integration Enterprise Application, Credits 2, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 3, Code IK526, Course Information System for Accounting, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 4, Code IK536, Course Information System for Education, Credits 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 5, Code IK546, Course Information System Audit, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 6, Code IK556, Course IT Infrastructure and Emerging Trends, Credits 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 7, Code IK566, Course Business Intelligence, Credits 2, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 8, Code IK576, Course Application Systems for Business Functions, Credits 2, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 9, Code IK586, Course Geographic Information System, Credits 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7",
+        "totalCredit": 21
+      }
+    }
+  },
+  {
+    "_id": "cs_proginfo_mapping_mkppl",
+    "section": "Mapping PLO versus Courses — Field Experience Program Courses (MKPPL)",
+    "title": "Computer Science Study Program Information",
+    "type": "ProgramInfo",
+    "lang": "en",
+    "text": "Mapping PLO versus Courses — Field Experience Program Courses (MKPPL) : No 1, Code IK590, Course Internship, Credits 4, PLO PLO-2, PLO-3, PLO-4, PLO-7",
+    "Mapping PLO versus Courses": {
+      "Field Experience Program Courses (MKPPL)": {
+        "courses": "No 1, Code IK590, Course Internship, Credits 4, PLO PLO-2, PLO-3, PLO-4, PLO-7",
+        "totalCredit": 4
+      }
+    }
+  }
+]
