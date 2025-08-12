@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "pcb_competency_rplmi_01",
+    "section": "Rekayasa Perangkat Lunak dan Manajemen Informasi",
+    "title": "Kelompok Bidang Keahlian",
+    "type": "kompetensi",
+    "lang": "id",
+    "text": "Grup: Rekayasa Perangkat Lunak dan Manajemen Informasi. Ketua Kelompok Riset: Dr. Asep Wahyudin, M.T. Deskripsi tidak tersedia. Anggota tidak tersedia. Ruang lingkup penelitian tidak tersedia.",
+    "group_name": "Rekayasa Perangkat Lunak dan Manajemen Informasi",
+    "description": "tidak tersedia",
+    "research_group_leader": "Dr. Asep Wahyudin, M.T.",
+    "research_group_members": "tidak tersedia",
+    "scope_of_research": "tidak tersedia",
+    "list_of_publication": "tidak tersedia"
+  },
+  {
+    "_id": "pcb_competency_multimedia_network_01",
+    "section": "Multimedia dan Jaringan",
+    "title": "Kelompok Bidang Keahlian",
+    "type": "kompetensi",
+    "lang": "id",
+    "text": "Grup: Multimedia dan Jaringan. Ketua Kelompok Riset: Prof. Rasim, M.T. Deskripsi tidak tersedia. Anggota tidak tersedia. Ruang lingkup penelitian tidak tersedia.",
+    "group_name": "Multimedia dan Jaringan",
+    "description": "tidak tersedia",
+    "research_group_leader": "Prof. Rasim, M.T.",
+    "research_group_members": "tidak tersedia",
+    "scope_of_research": "tidak tersedia",
+    "list_of_publication": "tidak tersedia"
+  },
+  {
+    "_id": "pcb_competency_artificial_intelligence_01",
+    "section": "Kecerdasan Buatan",
+    "title": "Kelompok Bidang Keahlian",
+    "type": "kompetensi",
+    "lang": "id",
+    "text": "Grup: Kecerdasan Buatan. Ketua Kelompok Riset: Yaya Wihardi, M.Kom. Deskripsi: Kelompok Bidang Keilmuan (KBK) yang berfokus dalam penelitian, pengabdian, dan pengajaran pada bidang kecerdasan buatan, sistem kontrol, robotika, IoT, big data analysis dan implementasinya dalam berbagai domain masalah Anggota: Dr. Lala Septem Riza, Dr. Yudi Wibisono, Dr. Rani Megasari. Ruang lingkup penelitian: Kecerdasan buatan, Sistem kontrol, Robotika, IoT, Big data analysis, Machine learning, Computer vision, Natural language processing, Fintech, Optimasi, Penjadwalan",
+    "group_name": "Kecerdasan Buatan",
+    "description": "Kelompok Bidang Keilmuan (KBK) yang berfokus dalam penelitian, pengabdian, dan pengajaran pada bidang kecerdasan buatan, sistem kontrol, robotika, IoT, big data analysis dan implementasinya dalam berbagai domain masalah.",
+    "research_group_leader": "Yaya Wihardi, M.Kom.",
+    "research_group_members": "Dr. Lala Septem Riza, Dr. Yudi Wibisono, Dr. Rani Megasari",
+    "scope_of_research": "Kecerdasan buatan, Sistem kontrol, Robotika, IoT, Big data analysis, Machine learning, Computer vision, Natural language processing, Fintech, Optimasi, Penjadwalan",
+    "list_of_publication": "tidak tersedia"
+  }
+]
