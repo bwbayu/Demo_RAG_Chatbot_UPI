@@ -1,0 +1,8 @@
+pinecone
+pinecone_text
+langchain_openai
+langchain
+dotenv
+streamlit
+requests
+pinecone[grpc]
