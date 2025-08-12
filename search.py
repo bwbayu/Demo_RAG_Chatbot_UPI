@@ -136,10 +136,11 @@ def reranking_results(query, docs, fused_results):
         return 0
 
 def context_generation(query, contexts, chat_history):
-    context = "\n\n".join([context['metadata'].get("text", "") for context in contexts])
-    template = f"""You are an AI assistant answering questions based strictly on the provided context and, if present, the chat history.
+    context = "\n\n".join([data['metadata'].get("text", "") for data in contexts])
+    template = """You are an AI assistant answering questions based strictly on the provided context and, if present, the chat history.
     Only use information that is clearly relevant to the question. Ignore unrelated or ambiguous context. 
     If the answer cannot be determined from the information provided, respond with: "I don't know."
+
     Context:
     {context}
 
@@ -149,6 +150,7 @@ def context_generation(query, contexts, chat_history):
     Question:
     {query}
     """
+
     prompt = ChatPromptTemplate.from_template(template)
     model = ChatOpenAI(model_name="o4-mini")
     chain = prompt | model
