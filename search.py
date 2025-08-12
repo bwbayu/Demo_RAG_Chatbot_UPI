@@ -137,17 +137,17 @@ def reranking_results(query, docs, fused_results):
 
 def context_generation(query, contexts, chat_history):
     context = "\n\n".join([data['metadata'].get("text", "") for data in contexts])
-    template = """You are an AI assistant answering questions based strictly on the provided context and, if present, the chat history.
-    Only use information that is clearly relevant to the question. Ignore unrelated or ambiguous context. 
-    If the answer cannot be determined from the information provided, respond with: "I don't know."
+    template = """Anda adalah asisten AI yang menjawab pertanyaan berdasarkan konteks yang diberikan dan, jika ada, riwayat obrolan.
+    Gunakan hanya informasi yang relevan dengan pertanyaan. Abaikan konteks yang tidak relevan atau ambigu.
+    Jika jawaban tidak dapat ditentukan dari informasi yang diberikan, jawablah dengan: "Saya tidak tahu."
 
-    Context:
+    Konteks:
     {context}
 
-    Chat history:
+    Riwayat obrolan:
     {chat_history}
 
-    Question:
+    Pertanyaan:
     {query}
     """
 

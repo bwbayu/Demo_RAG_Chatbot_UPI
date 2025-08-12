@@ -30,7 +30,7 @@ def create_corpus(corpus, folder_path):
             if len(filename.split('.')) == 2 and filename.split('.')[1] == 'json':
                 file_path=folder_path+'/'+filename
                 try:
-                    with open(file_path, 'r') as file:
+                    with open(file_path, "r", encoding="utf-8") as file:
                         data = json.load(file)
                         for item in data:
                             corpus.append(item['text'])
@@ -93,7 +93,7 @@ def generate_embedding(path_files, bm25_model):
         print(f"An unexpected error occurred: {e}")
 
 # read data
-folder_path = 'data/final'
+folder_path = 'data/final_id'
 
 # define bm25 model
 def create_corpus_train_bm25_model(bm25):

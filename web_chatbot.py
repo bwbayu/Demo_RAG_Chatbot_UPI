@@ -5,7 +5,7 @@ from PIL import Image
 
 im = Image.open("logo.png")
 # init streamlit app
-st.set_page_config(page_title="RAG Chatbot CSE UPI", page_icon=im)
+st.set_page_config(page_title="Chatbot CSE UPI", page_icon=im)
 
 # initialize chat history
 if "messages" not in st.session_state:
@@ -20,7 +20,8 @@ for message in st.session_state.messages:
         with st.chat_message("assistant"):
             st.markdown(message.content)
 
-user_question = st.chat_input("Ask anything about Computer Science UPI")
+# Ask anything about Computer Science UPI
+user_question = st.chat_input("Tanyakan apa saja tentang Ilmu Komputer UPI")
 
 if user_question:
     # get chat history (if available)
