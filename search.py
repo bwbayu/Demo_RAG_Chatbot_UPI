@@ -135,12 +135,19 @@ def reranking_results(query, docs, fused_results):
         print(f"Error in reranking: {response.status_code} - {response.text}")
         return 0
 
-def context_generation(query, final_results):
-    context = "\n\n".join([result['metadata'].get("text", "") for result in final_results])
-    template = f"""Answer the question based only on the following context. If any context is irrelevant to the question, do not use it:
+def context_generation(query, contexts, chat_history):
+    context = "\n\n".join([context['metadata'].get("text", "") for context in contexts])
+    template = f"""You are an AI assistant answering questions based strictly on the provided context and, if present, the chat history.
+    Only use information that is clearly relevant to the question. Ignore unrelated or ambiguous context. 
+    If the answer cannot be determined from the information provided, respond with: "I don't know."
+    Context:
     {context}
 
-    Question: {query}
+    Chat history:
+    {chat_history}
+
+    Question:
+    {query}
     """
     prompt = ChatPromptTemplate.from_template(template)
     model = ChatOpenAI(model_name="o4-mini")
@@ -148,16 +155,17 @@ def context_generation(query, final_results):
     response = chain.invoke(
         {
             "context": context, 
-            "query": query
+            "query": query,
+            "chat_history": chat_history
         }
     )
-    print("Question : ", query)
-    print("Response : ")
-    print(response.content)
-    
+    # print("Question : ", query)
+    # print("Response : ")
+    # print(response.content)
+    return response.content
 
-if __name__ == "__main__": 
-    query = "what course that available on KBK package artificial intelligence"
+def RAG_pipeline(query, chat_history):
+    # query = "explain the internship program in computer science department"
     # search top k result
     dense_results = search_dense_index(query)
     sparse_results = search_sparse_index(query)
@@ -165,7 +173,9 @@ if __name__ == "__main__":
     fused_results = rrf_fusion(dense_results, sparse_results)
     # extract text data for reranking
     docs = [result['metadata'].get("text", '') for result in fused_results]
-    final_results = reranking_results(query, docs, fused_results)
+    contexts = reranking_results(query, docs, fused_results)
     # print("Reranked Results:")
-    # print(json.dumps(final_results, indent=4))
-    context_generation(query, final_results)
+    # print(json.dumps(contexts, indent=4))
+    response = context_generation(query, contexts, chat_history)
+    
+    return response
