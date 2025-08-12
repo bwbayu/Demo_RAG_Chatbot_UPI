@@ -4,6 +4,7 @@ import os
 from pinecone.grpc import PineconeGRPC as Pinecone
 from dotenv import load_dotenv
 from pinecone_text.sparse import BM25Encoder
+from pinecone import ServerlessSpec
 
 # load env
 load_dotenv()
@@ -23,6 +24,37 @@ headers = {
     "Authorization": f"Bearer {SILICONFLOW_API_KEY}",
     "Content-Type": "application/json"
 }
+
+def create_index():
+    # create index or vector database for dense and sparse vector
+    dense_index_name = "dense-cs-upi"
+    sparse_index_name = "sparse-cs-upi"
+
+    if not pc.has_index(dense_index_name):
+        print("create dense index")
+        pc.create_index(
+            name=dense_index_name,
+            vector_type="dense",
+            dimension=EMBED_DIM,
+            metric="cosine",
+            spec=ServerlessSpec(
+                cloud="aws",
+                region="us-east-1"
+            ),
+            deletion_protection="disabled"
+        )
+
+    if not pc.has_index(sparse_index_name):
+        print("create sparse index")
+        pc.create_index(
+            name=sparse_index_name,
+            vector_type="sparse",
+            metric="dotproduct",
+            spec=ServerlessSpec(
+                cloud="aws", 
+                region="us-east-1"
+            )
+        )
 
 def create_corpus(corpus, folder_path):
     if os.path.isdir(folder_path):
@@ -108,7 +140,9 @@ def create_corpus_train_bm25_model(bm25):
     bm25.dump("model/bm25_params.json")
     print("bm25 model successfully loaded")
 
-if __name__ == "__main__": 
+if __name__ == "__main__":
+    # create index (if not available)
+    create_index()
     # create corpus and train bm25 model
     bm25 = BM25Encoder(stem=False)
     create_corpus_train_bm25_model(bm25)
