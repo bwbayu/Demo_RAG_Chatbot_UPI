@@ -1,0 +1,9 @@
+services:
+  app:
+    image: bwbayu/chatbot_cse_upi:v0
+    # or build: .
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    restart: unless-stopped
