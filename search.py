@@ -24,7 +24,7 @@ SILICONFLOW_URL_RERANK = os.getenv('SILICONFLOW_URL_RERANK')
 SILICONFLOW_API_KEY = os.getenv('SILICONFLOW_API_KEY')
 NAMESPACE = os.getenv('NAMESPACE')
 EMBED_DIM = int(os.getenv('EMBED_DIM')) if os.getenv('EMBED_DIM') else None
-TOP_K = 20 # 20 -> type=facility | 5 -> history, person
+TOP_K = 10
 
 # config
 pc = Pinecone(api_key=PINECONE_API_KEY)
@@ -35,13 +35,40 @@ index_sparse = pc.Index(host=HOST_PINECONE_SPARSE)
 bm25 = BM25Encoder(stem=False)
 create_corpus_train_bm25_model(bm25)
 
-def search_dense_index(text: str):
+# List of types
+TYPES = ['Sejarah', 'ProgramInfo', 'kompetensi', 'VisiMisi', 'Fasilitas', "Mata Kuliah", 'KBK/Penjurusan', 'Metode Pengajaran', 'Proses Penilaian', 'Other']
+
+def classify_query(query):
+    template = """Klasifikasikan query berikut ke salah satu kategori dari list ini: {types}.
+    Jika query sangat cocok dengan salah satu kategori, kembalikan nama kategorinya.
+    Jika ada yang bertanya terkait profil kualifikasi lulusan, capaian pembelajaran masukkan ke kategori ProgramInfo.
+    Jika tidak yakin atau tidak cocok dengan kategori spesifik, kembalikan 'Other'.
+    Hanya kembalikan nama kategori saja, tanpa penjelasan tambahan.
+
+
+    Query: {query}
+    """
+    prompt = ChatPromptTemplate.from_template(template)
+    model = ChatOpenAI(model_name="gpt-4o-mini")  # Gunakan model yang sesuai, misalnya o4-mini seperti di context_generation
+    chain = prompt | model
+    response = chain.invoke({"types": TYPES, "query": query})
+    classified_type = response.content.strip()
+    if classified_type not in TYPES:
+        classified_type = 'Other'
+    return classified_type
+
+def search_dense_index(text: str, filter_type=None):
+    filter_query = {}
+    if filter_type and filter_type != 'Other':
+        filter_query = {"type": filter_type}
+    
     dense_response = index_dense.query(
         namespace=NAMESPACE,
         vector=get_dense_embeddings(text, EMBED_DIM),
         top_k=TOP_K,
         include_metadata=True,
-        include_values=False
+        include_values=False,
+        filter=filter_query if filter_query else None
     )
     matches = dense_response.get("matches", []) or []
     dense_results = []
@@ -56,13 +83,18 @@ def search_dense_index(text: str):
 
     return dense_results
 
-def search_sparse_index(text: str):
+def search_sparse_index(text: str, filter_type=None):
+    filter_query = {}
+    if filter_type and filter_type != 'Other':
+        filter_query = {"type": filter_type}
+    
     sparse_response = index_sparse.query(
         namespace=NAMESPACE,
         sparse_vector=get_sparse_embeddings(text=text, bm25_model=bm25, query_type='search'),
         top_k=TOP_K,
         include_metadata=True,
-        include_values=False
+        include_values=False,
+        filter=filter_query if filter_query else None
     )
     matches = sparse_response.get("matches", []) or []
     sparse_results = []
@@ -101,6 +133,14 @@ def rrf_fusion(dense_results, sparse_results, k=60, top_n=TOP_K):
     return fused_results
 
 def reranking_results(query, docs, fused_results):
+    # Validate inputs
+    if not query or not isinstance(query, str):
+        print("Invalid query: Query must be a non-empty string")
+        return fused_results  # Fallback to fused results
+    if not docs or not all(isinstance(doc, str) and doc.strip() for doc in docs):
+        print("Invalid documents: All documents must be non-empty strings")
+        return fused_results  # Fallback to fused results
+    
     payload = {
         "model": "Qwen/Qwen3-Reranker-8B",
         "query": query,
@@ -133,13 +173,14 @@ def reranking_results(query, docs, fused_results):
         return final_results
     else:
         print(f"Error in reranking: {response.status_code} - {response.text}")
-        return 0
+        return fused_results
 
 def context_generation(query, contexts, chat_history):
     context = "\n\n".join([data['metadata'].get("text", "") for data in contexts])
     template = """Anda adalah asisten AI yang menjawab pertanyaan berdasarkan konteks yang diberikan dan, jika ada, riwayat obrolan.
     Gunakan hanya informasi yang relevan dengan pertanyaan. Abaikan konteks yang tidak relevan atau ambigu.
-    Jika jawaban tidak dapat ditentukan dari informasi yang diberikan, jawablah dengan: "Saya tidak tahu."
+    Jika jawaban tidak dapat ditentukan dari informasi yang diberikan, jawablah dengan: "Saya tidak tahu.".
+    Jangan berikan penjelasan yang tidak ada di konteks.
 
     Konteks:
     {context}
@@ -149,6 +190,10 @@ def context_generation(query, contexts, chat_history):
 
     Pertanyaan:
     {query}
+
+    Catatan Tambahan:
+    1. Jika ada yang bertanya terkait penjurusan berikan penjurusan KBK dari paket 1-4 atau paket 1-6
+    2. Jika memang tidak ada di konteks suruh user berikan pertanyaan yang lebih detail
     """
 
     prompt = ChatPromptTemplate.from_template(template)
@@ -167,10 +212,13 @@ def context_generation(query, contexts, chat_history):
     return response.content
 
 def RAG_pipeline(query, chat_history):
+    # Klasifikasikan query terlebih dahulu
+    classified_type = classify_query(query)
+    print(classified_type)
     # query = "explain the internship program in computer science department"
     # search top k result
-    dense_results = search_dense_index(query)
-    sparse_results = search_sparse_index(query)
+    dense_results = search_dense_index(query, filter_type=classified_type)
+    sparse_results = search_sparse_index(query, filter_type=classified_type)
     # fused dense and sparse result using RRF
     fused_results = rrf_fusion(dense_results, sparse_results)
     # extract text data for reranking
