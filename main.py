@@ -76,7 +76,7 @@ def create_corpus(corpus, folder_path):
     
     print("corpus created successfully")
 
-def get_dense_embeddings(text, dim_size = 1024):
+def get_dense_embeddings(text, dim_size=1024):
     payload = {
         "model": "Qwen/Qwen3-Embedding-8B",
         "input": text,
@@ -84,9 +84,33 @@ def get_dense_embeddings(text, dim_size = 1024):
         "dimensions": dim_size
     }
 
-    response = requests.post(SILICONFLOW_URL_EMBEDDING, json=payload, headers=headers)
+    try:
+        response = requests.post(
+            SILICONFLOW_URL_EMBEDDING,
+            json=payload,
+            headers=headers
+        )
+        response.raise_for_status()
 
-    return response.json()['data'][0]['embedding']
+        data = response.json()
+
+        # Validasi struktur response
+        if "data" not in data or not data["data"]:
+            raise ValueError("Response JSON tidak memiliki field 'data' atau kosong.")
+
+        if "embedding" not in data["data"][0]:
+            raise ValueError("Field 'embedding' tidak ditemukan di dalam 'data[0]'.")
+
+        return data["data"][0]["embedding"]
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error HTTP: {e}")
+    except ValueError as e:
+        print(f"Error data: {e}")
+    except Exception as e:
+        print(f"Error tidak terduga: {e}")
+
+    return None
 
 def get_sparse_embeddings(text, bm25_model, query_type):
     if query_type == 'upsert':
