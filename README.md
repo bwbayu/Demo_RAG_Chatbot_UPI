@@ -11,6 +11,7 @@ Results are fused with **FFR** (fusion of dense & sparse), then **reranked** by 
 
 We use **Qwen3-Embedding-8B** + **Qwen3-Reranker-8B** because they’re top-tier on the **MTEB leaderboard**. See: [https://huggingface.co/spaces/mteb/leaderboard](https://huggingface.co/spaces/mteb/leaderboard).
 
+![Qwen3 on MTEB Leaderboard](assets/benchmark.png)
 ---
 
 ## Requirements

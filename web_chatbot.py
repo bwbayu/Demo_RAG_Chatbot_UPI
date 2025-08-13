@@ -3,7 +3,7 @@ from langchain_core.messages import AIMessage, HumanMessage
 from search import RAG_pipeline
 from PIL import Image
 
-im = Image.open("logo.png")
+im = Image.open("assets/logo.png")
 # init streamlit app
 st.set_page_config(page_title="Chatbot CSE UPI", page_icon=im)
 
