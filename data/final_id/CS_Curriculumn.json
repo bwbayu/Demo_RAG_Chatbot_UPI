@@ -113,38 +113,6 @@
     "text": "List and Distribution of Courses — Summary : total mata kuliah: 41, total SKS: 146"
   },
   {
-    "_id": "cs_proginfo_kbk_001_pkg1",
-    "section": "KBK — Paket 1: KBK Rekayasa Perangkat Lunak",
-    "title": "Informasi Program Studi Ilmu Komputer",
-    "type": ["KBK/Penjurusan", "Mata Kuliah"],
-    "lang": "id",
-    "text": "Penjurusan/KBK dan Mata Kuliah  — Paket 1: KBK Rekayasa Perangkat Lunak: No 1, Code IK423, Subject Digital Forensics, SKS 3; No 2, Code IK424, Subject Security Governance: Analysis and Engineering, SKS 3; No 3, Code IK425, Subject Cyber Physical Systems, SKS 3; No 4, Code IK511, Subject Industrial IoT, SKS 4; No 5, Code IK512, Subject Lightweight Cryptography and IoT Security, SKS 3; No 6, Code IK513, Subject Digital and Embedded Systems Design, SKS 4; No 7, Code IK514, Subject Elliptic Curve Cryptography, SKS 4."
-  },
-  {
-    "_id": "cs_proginfo_kbk_001_pkg2",
-    "section": "KBK — Paket 2: KBK Robotika, Kecerdasan Buatan, dan Internet Of Thing (IoT)",
-    "title": "Informasi Program Studi Ilmu Komputer",
-    "type": ["KBK/Penjurusan", "Mata Kuliah"],
-    "lang": "id",
-    "text": "Penjurusan/KBK dan Mata Kuliah — Paket 2: KBK Robotika, Kecerdasan Buatan, dan Internet Of Thing (IoT): No 1, Code IK423, Subject Digital Forensics, SKS 3; No 2, Code IK424, Subject Security Governance: Analysis and Engineering, SKS 3; No 3, Code IK425, Subject Cyber Physical Systems, SKS 3; No 4, Code IK511, Subject Industrial IoT, SKS 3; No 5, Code IK512, Subject Lightweight Cryptography and IoT Security, SKS 4; No 6, Code IK513, Subject Digital and Embedded Systems Design, SKS 3; No 7, Code IK514, Subject Elliptic Curve Cryptography, SKS 3; No 8, Code IK531, Subject Data Warehouse, SKS 4; No 9, Code IK532, Subject Data Mining, SKS 4; No 10, Code IK533, Subject Time Series Analysis, SKS 4; No 11, Code IK534, Subject Knowledge Base Systems, SKS 3; No 12, Code IK535, Subject Intelligent Audio Processing, SKS 3; No 13, Code IK536, Subject Social Media Analysis, SKS 3; No 14, Code IK537, Subject Generative Artificial Intelligence, SKS 4."
-  },
-  {
-    "_id": "cs_proginfo_kbk_001_pkg3",
-    "section": "KBK — Paket 3: KBK Multimedia dan Desain",
-    "title": "Informasi Program Studi Ilmu Komputer",
-    "type": ["KBK/Penjurusan", "Mata Kuliah"],
-    "lang": "id",
-    "text": "Penjurusan/KBK dan Mata Kuliah — Paket 3: KBK Multimedia dan Desain: No 1, Code IK463, Subject Software Quality Assurance, SKS 3, Semester 6; No 2, Code IK464, Subject Software Testing and Maintenance, SKS 3, Semester 6; No 3, Code IK465, Subject Integrated Enterprise Information Systems, SKS 3, Semester 6; No 4, Code IK551, Subject IT Strategic Planning, SKS 4, Semester 7; No 5, Code IK552, Subject E-Business, SKS 4, Semester 7; No 6, Code IK553, Subject Business Intelligence, SKS 3, Semester 7; No 7, Code IK554, Subject Decision Support Systems, SKS 3, Semester 7; No 8, Code IK555, Subject Information Systems Audit, SKS 4, Semester 7; No 9, Code IK556, Subject Business Process Management, SKS 4, Semester 7."
-  },
-  {
-    "_id": "cs_proginfo_kbk_001_pkg4",
-    "section": "KBK — Paket 4: KBK Smart Multimedia dan Game",
-    "title": "Informasi Program Studi Ilmu Komputer",
-    "type": ["KBK/Penjurusan", "Mata Kuliah"],
-    "lang": "id",
-    "text": "Penjurusan/KBK dan Mata Kuliah — Paket 4: KBK Smart Multimedia dan Game: No 1, Code IK481, Subject Digital Multimedia Data Processing, SKS 3; No 2, Code IK483, Subject Computer Graphics, SKS 3; No 3, Code IK485, Subject Animation Techniques, SKS 3; No 4, Code IK487, Subject Game Narrative Design, SKS 3; No 5, Code IK489, Subject Game Programming, SKS 3; No 6, Code IK580, Subject Game Production Techniques, SKS 4; No 7, Code IK582, Subject Intelligent Multimedia, SKS 4; No 8, Code IK584, Subject Adaptive Learning Systems, SKS 4; No 9, Code IK556, Subject Metaverse Technology, SKS 4; No 10, Code IK588, Subject Capstone Project Smart Multimedia, SKS 4."
-  },
-  {
     "_id": "cs_proginfo_teach_001_overview_strategies",
     "section": "Metodologi Pengajaran — Ikhtisar & Strategi",
     "title": "Informasi Program Studi Ilmu Komputer",
@@ -240,6 +208,8 @@
     "lang": "id",
     "text": "Proses Penilaian - Deskripsi (Part 5, Segment 5/11) : Sistem penilaian pada empat program studi, meliputi proses dan hasil belajar mahasiswa. Sistem ini meliputi penilaian yang bersifat formatif dan bersifat sumatif. Penilaian formatif bertujuan untuk memperoleh informasi yang dapat digunakan untuk perbaikan proses pembelajaran (program delivery), adapun penilaian sumatif digunakan untuk menilai ketercapaian hasil belajar mahasiswa (learning outcome). Panduan penilaian secara umum mengikuti Pedoman Penyelenggaraan Pendidikan UPI yang dapat diakses pada laman http://www3.upi.edu/main/file/akademik"
   },
+  
+  
   {
     "_id": "cs_proginfo_exam_001_desc_p5_s06",
     "section": "Proses Penilaian - Deskripsi (Part 5, Segment 6/11)",
@@ -320,6 +290,8 @@
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Kekhasan Universitas (MKKU) : No 1, Code HU300, Pengantar Pendidikan, SKS 2, PLO PLO-1, PLO-2"
   },
+
+  
   {
     "_id": "cs_proginfo_mapping_mkkf",
     "section": "Mapping PLO versus Courses — Mata Kuliah Keahlian Fakultas (MKKF)",
@@ -368,6 +340,8 @@
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Pilihan Keahlian Program Studi (MKKPS) : No 1, Code IK500, Course Machine Learning, SKS 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK510, Komputasi Paralel dan Terdistribusi, SKS 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 3, Code IK520, Project Keahlian, SKS 3, PLO PLO-2, PLO-4; No 4, Code IK530, Course Mobile Application Development, SKS 3, PLO PLO-2, PLO-4"
   },
+
+  
   {
     "_id": "cs_proginfo_mapping_kbk1",
     "section": "Mapping PLO versus Courses — Penjurusan/KBK Paket 1: Rekayasa Perangkat Lunak",
