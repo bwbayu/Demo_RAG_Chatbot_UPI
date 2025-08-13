@@ -3,7 +3,8 @@ __pycache__/
 *.pyo
 *.pyd
 .env
-venv/
+env/
 .git
 .dockerignore
 Dockerfile
+data_old/
