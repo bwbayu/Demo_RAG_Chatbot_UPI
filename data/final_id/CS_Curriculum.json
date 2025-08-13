@@ -3,7 +3,7 @@
     "_id": "cs_proginfo_overview_002",
     "section": "Ikhtisar program",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "ProgramInfo",
+    "type": ["ProgramInfo"],
     "lang": "id",
     "text": "Ikhtisar program : Program Studi Ilmu Komputer FPMIPA UPI mulai menyelenggarakan pendidikan pada tanggal 17 Juli 2005, dengan nomor SK pendirian program studi 1342/J33/PP.03.02/2005 pada tanggal 16 Maret 2005. Berdasarkan keputusan LAM INFOKOM Nomor 002/SK/LAM-INFOKOM/Ak.Int/S/XII/2023, Program Studi Ilmu Komputer telah mendapatkan akreditasi unggul. Lulusan Program Studi Ilmu Komputer bergelar Sarjana Komputer (S.Kom). Visi Menjadi Program Studi pelopor dan unggul (Leading and Outstanding) dalam bidang Ilmu Komputer di tingkat Nasional dan berkontribusi dalam tingkat ASEAN. Keketatan pada penerimaan mahasiswa baru Prodi Ilmu Komputer tahun 2023 adalah 1:26. Berdasarkan Keputusan Menteri Riset, Teknologi, dan Pendidikan Tinggi Nomor 57/M/KPT/2019 Tahun 2019 tentang Nama Program Studi pada Perguruan Tinggi, gelar untuk lulusan Program Studi Ilmu Komputer adalah S.Kom."
   },
@@ -11,7 +11,7 @@
     "_id": "cs_proginfo_qualification_002",
     "section": "Profil Kualifikasi Lulusan",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "ProgramInfo",
+    "type": ["ProgramInfo"],
     "lang": "id",
     "text": "Profil Kualifikasi Lulusan : Berdasarkan diskusi para dosen pada beberapa focus group discussion, survey para alumni, dan harapan para mahasiswa serta pertimbangan hasil diskusi pada asosiasi profesi masing-masing program studi, berikut adalah Profil Kualifikasi Lulusan Program Studi Ilmu Komputer: Akademisi: seseorang yang yang berpendidikan tinggi dan bekerja sebagai dosen/guru dan karyawan pada lembaga pendidikan/pelatihan. Research assistance: seseorang yang mampu membantu dan melakukan penelitian bidang ilmu komputer/informatics, melalui scientific procedures, dan publish and disseminate research results. Konsultan: seseorang yang dapat menjadi tenaga kerja di perusahaan dengan memberikan layanan jasa konsultan bidang ilmu komputer atau bidang lain yang terkait. Praktisi: seseorang yang memiliki kemampuan dalam bidang Programmer, software engineer, network engineer, multimedia designer, atau data analysis secara professional. Entrepreneur: seseorang yang memiliki kemampuan untuk menjadi wirausahawan yang menggunakan keilmuannya di bidang ilmu komputer sebagai keunggulan dalam berwirausaha."
   },
@@ -19,7 +19,7 @@
     "_id": "cs_proginfo_plo_002",
     "section": "Capaian Pembelajaran",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "ProgramInfo",
+    "type": ["ProgramInfo"],
     "lang": "id",
     "text": "Capaian Pembelajaran : PLO-1: Menjadi warga negara yang beriman dan bertaqwa kepada Tuhan Yang Maha Esa, bangga dan cinta tanah air, serta memiliki moral, etika, dan kepribadian yang baik. PLO-2: Memiliki kemampuan literasi, berpikir kritis dan kreatif serta keterampilan berkomunikasi dan berkolaborasi dalam bidang matematika, sains, teknologi, dan rekayasa untuk menyelesaikan beragam masalah secara terintegrasi dan/atau multidisiplin. PLO-3: Menguasai konsep teoritis terkait komputasi, algoritma dn pemrograman meliputi spesialisasi bidang rekayasa perangkat lunak, kecerdasan buatan, multimedia, jaringan komputer, analisis data, dn system informasi sesuai dengan dinamika perkembangan teknologi. PLO-4: Memiliki kecakapan dalam menggunakan perangkat keras dan perangkat lunak computer secara tepat guna yang menjunjung tinggi profesionalisme dn integritas. PLO-5: Mampu melakukan penelitian dalam bidang teknologi informasi dengan memperhatikan nilai humaniora, etika ilmiah, dan pendekatan saintifik. PLO-6: Mampu menghasilkan produk/aplikasi teknologi informasi yang orisinal dan solutif untuk menyelesaikan masalah secara efektif dan efisiensi di masyarakat, industri, pemerintah, dan institusi lainnya. PLO-7: Mampu melakukan diseminasi gagasan-gagasan inovatif dan kreatif baik secara lisan maupun tulisan melalui proses belajar sepanjang hayat dan pengembangan diri yang mengikuti perkembangan zaman."
   },
@@ -27,7 +27,7 @@
     "_id": "cs_proginfo_curriculum_003_desc",
     "section": "Struktur Kurikulum — Deskripsi",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "ProgramInfo",
+    "type": ["ProgramInfo"],
     "lang": "id",
     "text": "Struktur Kurikulum — Deskripsi : Peraturan Rektor UPI Nomor 52/UN40/HK/2019 tentang Pedoman Penyelenggaraan Pendidikan Universitas Pendidikan Indonesia Tahun 2020, menguraikan bahwa beban studi untuk program Sarjana berjumlah 144 - 152 sks. Secara garis besar, struktur kurikulum untuk program Sarjana terdiri atas kurikulum inti (core curriculum) adalah bagian kurikulum yang bertujuan untuk mengembangkan kompetensi utama lulusan (sekitar 85% dari keseluruhan sks yang dapat diambil oleh mahasiswa) dan kurikulum pilihan (elective curriculum) adalah bagian kurikulum yang yang bertujuan untuk memperkuat kompetensi utama (sekitar 15% dari keseluruhan sks yang dapat diambil oleh mahasiswa). Secara terperinci, struktur kurikulum program Sarjana dikelompokkan atas kelompok mata kuliah umum (MKU), kelompok mata kuliah dasar kependidikan (MKDK), kelompok mata kuliah keahlian fakultas (MKKF), kelompok mata kuliah keahlian pembelajaran bidang studi (MKKPBS), kelompok mata kuliah inti program studi (MKIPS), dan kelompok mata kuliah keahlian program studi (MKKPS)."
 
@@ -36,7 +36,7 @@
     "_id": "cs_proginfo_curriculum_003_cg_1_3",
     "section": "Struktur Kurikulum — Kelompok Mata Kuliah (1-3)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Struktur Kurikulum — Kelompok Mata Kuliah (1-3) : 1 - Kelompok mata kuliah umum (MKU) universitas berisi mata kuliah–mata kuliah yang ditawarkan oleh universitas dan harus diambil oleh seluruh mahasiswa UPI tanpa kecuali. Kelompok mata kuliah tersebut terdiri atas mata kuliah agama, Seminar Pendidikan Agama (Islam, Kristen, Katolik, Budha, Konghucu, dan Hindu) dengan beban masing-masing 2 sks, mahasiswa yang mengambil mata kuliah tersebut sesuai dengan agama yang dianutnya. Di samping itu, pada kelompok ini terdapat mata kuliah Pendidikan Bahasa Indonesia, Pendidikan Olahraga, Pendidikan Seni, Pendidikan Kewarganegaraan, Pendidikan Pancasila, dan KKN dengan bobot mata kuliah masing-masing 2 sks. Kelompok mata kuliah ini diberikan dengan tujuan untuk meningkatkan pemahaman dan praktik agama masing-masing yang dianutnya, serta untuk meningkatkan karakter kebangsaan, budaya, cinta tanah air, dan untuk menjaga kebugaran tubuh., 2 - Kelompok mata kuliah dasar kependidikan (MKDK) adalah kelompok mata kuliah yang memberikan bekal kepada mahasiswa terkait dengan ilmu-ilmu kependidikan, pembelajaran, manajemen pendidikan, dan psikologi kependidikan. Kelompok mata kuliah ini wajib diikuti oleh seluruh mahasiswa program studi kependidikan di lingkungan UPI. Kelompok mata kuliah ini memberikan bekal pengetahuan berkenaan dengan didaktik metodik pelaksanaan pembelajaran di kelas, di samping itu kelompok mata kuliah ini juga untuk membedakan antara mahasiswa kependidikan dan non- kependidikan, sehingga pada program studi non-kependidikan mata kelompok mata kuliah ini tidak diberikan., 3 - Kelompok mata kuliah keahlian fakultas (MKKF) yang berbobot 6 sks adalah kelompok mata kuliah yang membedakan antara mahasiswa FPMIPA UPI dengan mahasiswa fakultas lain. Kelompok mata kuliah keahlian fakultas yang diberikan di Fakultas Pendidikan Matematika dan IPA-UPI adalah mata kuliah MSTR (Matematika, Sains, Teknologi, dan Rekayasa) dan AMSTR (Aplikasi Matematika, Sains, Teknologi, dan Rekayasa). Kedua mata kuliah ini menerapkan konsep STEAM (Science, Technology, Engineering, Art, and Mathematics) dalam proses belajar dan pembelajarannya. Kompetensi yang dibekalkan pada ke-dua mata kuliah ini adalah mengembangkan literasi matematika, sains, teknologi, dan rekayasa, serta memecahkan masalah yang ada di dalam kehidupan sehari-hari secara kritis, kreatif, integratif dan multidisipliner melalui kolaborasi di dalam tim dengan menekankan pada komunikasi secara aktif dan efektif dalam mengambil keputusan dengan mempertimbangkan tantangan lokal, regional, dan global, serta membentuk sikap peduli dan toleran terhadap permasalahan sosial, ekonomi, dan lingkungan dalam rangka mewujudkan Pendidikan untuk Pembangunan Berkelanjutan (ESD) dan Tujuan Pembangunan Berkelanjutan (SDGs)."
   },
@@ -44,7 +44,7 @@
     "_id": "cs_proginfo_curriculum_003_cg_4_6",
     "section": "Struktur Kurikulum — Kelompok Mata Kuliah (4-6)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Struktur Kurikulum — Kelompok Mata Kuliah (4-6) : 4 - Kelompok mata kuliah keahlian pembelajaran bidang studi (MKKPBS) adalah kelompok mata kuliah yang memberikan bekal kepada mahasiswa terkait dengan perencanaan pembelajaran, strategi pembelajaran, termasuk pemanfaatan media dan alat peraga pembelajaran, dan evaluasi pembelajaran, yang ditunjang oleh mata kuliah terkait dengan literasi ICT untuk mendukung mata kuliah-mata kuliah yang bernuansa pembelajaran. Melalui kelompok mata kuliah ini diharapkan mahasiswa menguasai pengetahuan dan keterampilan bagaimana merancang, mengimplementasikan, dan mengevaluasi pembelajaran secara tepat (apabila memungkinkan dengan memanfaatkan perangkat ICT). Kelompok mata kuliah ini diperuntukkan bagi mahasiswa program studi kependidikan. Untuk mahasiswa program studi non-pendidikan mata kuliah ini tidak diberikan., 5 - Kelompok mata kuliah inti program studi (MKIPS) dan kelompok mata kuliah keahlian pilihan program studi (MKKPPS) adalah dua kelompok mata kuliah yang merupakan kelompok mata kuliah khusus yang menjadi ciri khas dari masing-masing program studi, dalam hal ini Program Studi Pendidikan Matematika, Program Studi Matematika, Program Studi Pendidikan Ilmu Komputer dan Program Studi Ilmu Komputer. MKKPPS adalah kumpulan mata kuliah yang memberikan bekal kepada mahasiswa untuk memperluas kemampuan supaya dapat mengkaji implikasi pengembangan atau implementasi ilmu pengetahuan dan teknologi dengan memperhatikan dan menerapkan tata cara dan etika ilmiah dalam rangka menghasilkan solusi, gagasan, desain, menyusun deskripsi saintifik hasil kajiannya dalam bentuk laporan yang dipublikasikan. Disamping itu juga membekali keterampilan untuk mengambil keputusan yang tepat dan profesional berdasarkan hasil analisis terhadap data, serta dapat memilih berbagai solusi alternatif secara mandiri dan kelompok dalam memecahkan persoalan di lingkungan pekerjaan dengan atau tanpa menggunakan piranti lunak."
   },
@@ -52,7 +52,7 @@
     "_id": "cs_proginfo_curriculum_003_expertise",
     "section": "Struktur Kurikulum — Kelompok mata kuliah bidang keahlian",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Struktur Kurikulum — Kelompok mata kuliah bidang keahlian : Rekayasa perangkat lunak, teknik komputer dan sistem jaringan, multimedia dan desain, kontrol robotika, kecerdasan buatan, dan IOT, big data analysis, dan sistem informasi."
   },
@@ -60,7 +60,7 @@
     "_id": "cs_proginfo_curriculum_003_credits",
     "section": "Struktur Kurikulum — Jumlah SKS Mata Kuliah",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Struktur Kurikulum — Jumlah SKS Mata Kuliah : Mata Kuliah Umum (MKU) : 14 SKS, Mata Kuliah Kekhasan Universitas (MKKU) : 2 SKS, Mata Kuliah Keahlian Fakultas (MKKF) : 6 SKS, Mata Kuliah Keahlian Inti Program Studi (MKKIPS) : 102 SKS, Mata Kuliah Pilihan Keahlian Program Studi (MKKPS) : 9 SKS, Mata Kuliah Program Pengalaman Lapangan (MKPPL) : 4 SKS"
   },
@@ -68,7 +68,7 @@
     "_id": "cs_proginfo_courses_001_desc",
     "section": "List and Distribution of Courses — Deskripsi",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "ProgramInfo",
+    "type": ["ProgramInfo"],
     "lang": "id",
     "text": "List and Distribution of Courses — Deskripsi : Software Engineer, System Integrator & Developer, Special Purpose Application Developer, Academician & Researcher, Technopreneur."
   },
@@ -76,7 +76,7 @@
     "_id": "cs_proginfo_courses_001_s1_s2",
     "section": "Daftar dan Distribusi Mata Kuliah — Semester 1–2",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Daftar dan Distribusi Mata Kuliah — Semester 1–2 : Semester 1 (total sks: 18): No 1, Code KU100, Pendidikan Agama, SKS 2; No 2, Code KU105, Pendidikan Kewarganegaraan, SKS 2; No 3, Code KU106, Bahasa Indonesia, SKS 2; No 4, Code IK111, Programming Fundamentals, SKS 4; No 5, Code IK112, Algebra and Number Theory, SKS 4; No 6, Code IK113, Discrete and Numerical Methods, SKS 4. Semester 2 (total sks: 18): No 1, Code KU110, Pendidikan Pancasila, SKS 2; No 2, Code IK121, Algorithms & Data Structures, SKS 4; No 3, Code IK211, Subject Language Theory and Compilation, SKS 4; No 4, Code IK123, Subject Statistics and Data Analysis, SKS 4; No 5, Code IK112, Subject Algebra and Number Theory, SKS 4; No 6, Code IK213, Subject Database Management Systems, SKS 4."
   },
@@ -84,7 +84,7 @@
     "_id": "cs_proginfo_courses_001_s3_s4",
     "section": "Daftar dan Distribusi Mata Kuliah — Semester 3–4",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Daftar dan Distribusi Mata Kuliah — Semester 3–4 : Semester 3 (total sks: 22): No 1, Code KU300, Seminar Pendidikan Agama, SKS 2; No 2, Code KU108/KU119, Olahraga dan Kebugaran /Apresiasi Seni, SKS 2; No 3, Code DK300, Landasan Pendidikan, SKS 2; No 4, Code IK221, Subject Digital and Computer Systems, SKS 4; No 5, Code IK212, Subject Object Oriented Design and Programming, SKS 4; No 6, Code IK214, Subject Artificial Intelligence, SKS 4; No 7, Code IK223, Subject Web and Mobile programming, SKS 4. Semester 4 (total sks: 23): No 1, Code PT400, KETERAMPILAN BERBAHASA INGGRIS, SKS 3; No 2, Code IK122, Subject Operating Systems and Networks, SKS 4; No 3, Code IK224, Subject Microcontroller Programming and Applications, SKS 4; No 4, Code IK222, Subject Machine Learning, SKS 4; No 5, Code IK215, Subject Distributed Parallel and Cloud Computing, SKS 4; No 6, Code IK225, Subject Software Engineering and Project Management, SKS 4."
   },
@@ -92,7 +92,7 @@
     "_id": "cs_proginfo_courses_001_s5_s6",
     "section": "Daftar dan Distribusi Mata Kuliah — Semester 5–6",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Daftar dan Distribusi Mata Kuliah — Semester 5–6 : Semester 5 (total sks: 10): No 1, Code , MK1 Konversi MBKM, SKS 3; No 2, Code , MK2 Konversi MBKM, SKS 3; No 3, Code , MK3 Konversi MBKM, SKS 4. Semester 6 (total sks: 24): No 1, Code IK321, Subject Cryptography and Information Systems Security, SKS 4; No 2, Code IK427, Subject Multimedia and Human-Computer Interaction, SKS 3; No 3, Code IK323, Subject Internet of Things Fundamentals, SKS 4; No 4, Code IK322, Subject Information Systems and Technology, SKS 4; No 5, Code , MK Pilihan KBK, SKS 3; No 6, Code , MK Pilihan KBK, SKS 3; No 7, Code , MK Pilihan KBK, SKS 3."
   },
@@ -100,7 +100,7 @@
     "_id": "cs_proginfo_courses_001_s7_s8",
     "section": "Daftar dan Distribusi Mata Kuliah — Semester 7–8",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Daftar dan Distribusi Mata Kuliah — Semester 7–8 : Semester 7 (total sks: 22): No 1, Code IK417, Subject Research Methods and Seminars, SKS 4; No 2, Code IK418, Proyek Konsultansi, SKS 3; No 3, Code , MK Pilihan KBK, SKS 4; No 4, Code , MK Pilihan KBK, SKS 4; No 5, Code , MK Pilihan KBK, SKS 4; No 6, Code , MK Pilihan KBK, SKS 3. Semester 8 (total sks: 9): No 1, Code IK588, Subject Undergraduate Thesis, SKS 6; No 2, Code IK428, Kewirausahaan, SKS 3."
   },
@@ -108,7 +108,7 @@
     "_id": "cs_proginfo_courses_001_summary",
     "section": "List and Distribution of Courses — Summary",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "List and Distribution of Courses — Summary : total mata kuliah: 41, total SKS: 146"
   },
@@ -116,7 +116,7 @@
     "_id": "cs_proginfo_kbk_001_pkg1",
     "section": "KBK — Paket 1: KBK Rekayasa Perangkat Lunak",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["KBK/Penjurusan", "Mata Kuliah"],
     "lang": "id",
     "text": "Penjurusan/KBK — Paket 1: KBK Rekayasa Perangkat Lunak: No 1, Code IK423, Subject Digital Forensics, SKS 3; No 2, Code IK424, Subject Security Governance: Analysis and Engineering, SKS 3; No 3, Code IK425, Subject Cyber Physical Systems, SKS 3; No 4, Code IK511, Subject Industrial IoT, SKS 4; No 5, Code IK512, Subject Lightweight Cryptography and IoT Security, SKS 3; No 6, Code IK513, Subject Digital and Embedded Systems Design, SKS 4; No 7, Code IK514, Subject Elliptic Curve Cryptography, SKS 4."
   },
@@ -124,7 +124,7 @@
     "_id": "cs_proginfo_kbk_001_pkg2",
     "section": "KBK — Paket 2: KBK Robotika, Kecerdasan Buatan, dan Internet Of Thing (IoT)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["KBK/Penjurusan", "Mata Kuliah"],
     "lang": "id",
     "text": "Penjurusan/KBK — Paket 2: KBK Robotika, Kecerdasan Buatan, dan Internet Of Thing (IoT): No 1, Code IK423, Subject Digital Forensics, SKS 3; No 2, Code IK424, Subject Security Governance: Analysis and Engineering, SKS 3; No 3, Code IK425, Subject Cyber Physical Systems, SKS 3; No 4, Code IK511, Subject Industrial IoT, SKS 3; No 5, Code IK512, Subject Lightweight Cryptography and IoT Security, SKS 4; No 6, Code IK513, Subject Digital and Embedded Systems Design, SKS 3; No 7, Code IK514, Subject Elliptic Curve Cryptography, SKS 3; No 8, Code IK531, Subject Data Warehouse, SKS 4; No 9, Code IK532, Subject Data Mining, SKS 4; No 10, Code IK533, Subject Time Series Analysis, SKS 4; No 11, Code IK534, Subject Knowledge Base Systems, SKS 3; No 12, Code IK535, Subject Intelligent Audio Processing, SKS 3; No 13, Code IK536, Subject Social Media Analysis, SKS 3; No 14, Code IK537, Subject Generative Artificial Intelligence, SKS 4."
   },
@@ -132,7 +132,7 @@
     "_id": "cs_proginfo_kbk_001_pkg3",
     "section": "KBK — Paket 3: KBK Multimedia dan Desain",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["KBK/Penjurusan", "Mata Kuliah"],
     "lang": "id",
     "text": "Penjurusan/KBK — Paket 3: KBK Multimedia dan Desain: No 1, Code IK463, Subject Software Quality Assurance, SKS 3, Semester 6; No 2, Code IK464, Subject Software Testing and Maintenance, SKS 3, Semester 6; No 3, Code IK465, Subject Integrated Enterprise Information Systems, SKS 3, Semester 6; No 4, Code IK551, Subject IT Strategic Planning, SKS 4, Semester 7; No 5, Code IK552, Subject E-Business, SKS 4, Semester 7; No 6, Code IK553, Subject Business Intelligence, SKS 3, Semester 7; No 7, Code IK554, Subject Decision Support Systems, SKS 3, Semester 7; No 8, Code IK555, Subject Information Systems Audit, SKS 4, Semester 7; No 9, Code IK556, Subject Business Process Management, SKS 4, Semester 7."
   },
@@ -140,7 +140,7 @@
     "_id": "cs_proginfo_kbk_001_pkg4",
     "section": "KBK — Paket 4: KBK Smart Multimedia dan Game",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["KBK/Penjurusan", "Mata Kuliah"],
     "lang": "id",
     "text": "Penjurusan/KBK — Paket 4: KBK Smart Multimedia dan Game: No 1, Code IK481, Subject Digital Multimedia Data Processing, SKS 3; No 2, Code IK483, Subject Computer Graphics, SKS 3; No 3, Code IK485, Subject Animation Techniques, SKS 3; No 4, Code IK487, Subject Game Narrative Design, SKS 3; No 5, Code IK489, Subject Game Programming, SKS 3; No 6, Code IK580, Subject Game Production Techniques, SKS 4; No 7, Code IK582, Subject Intelligent Multimedia, SKS 4; No 8, Code IK584, Subject Adaptive Learning Systems, SKS 4; No 9, Code IK556, Subject Metaverse Technology, SKS 4; No 10, Code IK588, Subject Capstone Project Smart Multimedia, SKS 4."
   },
@@ -148,7 +148,7 @@
     "_id": "cs_proginfo_teach_001_overview_strategies",
     "section": "Metodologi Pengajaran — Ikhtisar & Strategi",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Metode Pengajaran",
+    "type": ["Metode Pengajaran"],
     "lang": "id",
     "text": "Metodologi Pengajaran — Untuk mencapai hasil belajar yang optimal, setiap program studi menerapkan pendekatan pembelajaran yang berpusat pada mahasiswa dalam model, metode, dan strategi pembelajarannya. Pendekatan ini bertujuan untuk mendorong semua mahasiswa agar memiliki kemampuan untuk memperoleh pengetahuan untuk masa depan jangka panjang, menciptakan pemahaman baru, memecahkan masalah, melakukan penelitian, dan mengkomunikasikan pengetahuan kepada orang lain. Pendekatan, model, metode, dan strategi telah disepakati oleh seluruh dosen. Sementara itu, ketua program studi secara berkala mengontrol proses belajar mengajar melalui Gugus Tugas Pengendalian Mutu (GKM). Tugas GKM adalah memantau proses belajar mengajar. Strategi belajar mengajar diterapkan melalui berbagai metode dan pendekatan. Penggunaan metode dan pendekatan belajar-mengajar tergantung pada rumusan Program Hasil Belajar (PLO), karakteristik mata kuliah, seperti yang dijelaskan dalam deskripsi modul, pandangan didaktik dan pedagogis, metode pembelajaran, dan pentingnya kegiatan belajar mengajar. Metode pembelajaran yang dikaitkan dengan hasil belajar untuk program studi Ilmu Komputer disajikan pada tabel di bawah ini:"
   },
@@ -156,7 +156,7 @@
     "_id": "cs_proginfo_teach_001_methods",
     "section": "Metodologi Pengajaran — Pemetaan Metode",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Metode Pengajaran",
+    "type": ["Metode Pengajaran"],
     "lang": "id",
     "text": "Metodologi Pengajaran — Pemetaan Metode : PLO-1: Ceramah, Diskusi, Debat, Brainstorming. PLO-2: Ceramah, Diskusi, Simposium, Brainstorming, Laboratorium/Praktikum, Demonstrasi, Simulasi, Pengalaman Lapangan. PLO-3: Ceramah, Diskusi, Laboratorium/Praktikum, Demonstrasi, Simulasi. PLO-4: Ceramah, Diskusi, Brainstorming, Laboratorium/Praktikum, Demonstrasi, Simulasi, Pengalaman Lapangan. PLO-5: Ceramah, Diskusi, Debat, Simposium, Brainstorming, Laboratorium/Praktikum, Pengalaman Lapangan. PLO-6: Ceramah, Diskusi, Laboratorium/Praktikum, Demonstrasi, Simulasi, Pengalaman Lapangan. PLO-7: Ceramah, Debat, Simposium, Pengalaman Lapangan."
   },
@@ -164,7 +164,7 @@
     "_id": "cs_proginfo_teach_001_others",
     "section": "Metodologi Pengajaran — Praktikum Lainnya",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Metode Pengajaran",
+    "type": ["Metode Pengajaran"],
     "lang": "id",
     "text": "Metodologi Pengajaran : Praktikum lain dilaksanakan di luar kampus adalah mata kuliah kuliah kerja nyata (KKN), program pengenalan lapangan satuan pendidikan (PPLSP). Pada mata kuliah KKN, mahasiswa terjun langsung di masyarakat untuk menerapkan ilmu, pengetahuan, dan keterampilan yang sudah diperolehnya di bangku kuliah yang dalam waktu bersamaan mereka mendapatkan ilmu, pengetahuan, dan keterampilan praksis terkait dengan materi teoritis yang telah mereka dapatkan di kelas, termasuk tantangan kehidupan yang nyata. Kegiatan KKN di lapangan dilakukan oleh para mahasiswa secara berkelompok dengan latar belakang keilmuan (program studi) yang beragam, dengan maksud agar keberagaman latar belakang keilmuan yang mereka miliki dapat menjadi kekuatan kelompok karena saling mengisi dan saling melengkapi. Setiap kelompok mahasiswa KKN didampingi oleh seorang dosen pembimbing lapangan. Pada penghujung kegiatan, setiap kelompok diminta membuat laporan tentang hasil KKN mereka, sekaligus diminta untuk membuat artikel ilmiah yang selanjutnya dimuat dalam jurnal yang relevan untuk menambah khasanah publikasi ilmiah UPI. Kedua hal tersebut sebagai dasar untuk penentuan nilai akhir mata kuliah KKN selain berdasarkan keaktifan mahasiswa secara individual maupun kelompok selama melaksanakan kegiatan di lapangan. Sedangkan pada mata kuliah PPLSP, mahasiswa melaksanakan praktikum pembelajaran di kelas nyata di sekolah tempat mereka melaksanakan PPLSP dengan didampingi oleh guru pamong dan dosen pembimbing. Peserta PPLSP melaksanakan praktikum kurang lebih selama satu semester atau (minimal) 16 kali pertemuan tatap muka di kelas. Untuk menjamin efektivitas kegiatan PPLSP, para mahasiswa yang sedang melaksanakan PPLSP tidak diperkenankan mengambil mata kuliah yang lain. Pada penghujung kegiatan, setiap mahasiswa melaksanakan ujian mata kuliah PPLSP melalui penampilan mengajar di depan siswa di kelas. Untuk melengkapi ujian penampilan, para mahasiswa PPLSP juga diminta untuk membuat laporan kegiatan PPLSP secara individual. Kedua hal tersebut sebagai dasar untuk penentuan nilai akhir mata kuliah PPLSP dari guru pamong dan dosen pembimbing, di samping keaktifan mahasiswa yang bersangkutan selama melaksanakan kegiatan di PPLSP di sekolah. Program Pengenalan Lapangan (PPL) yang diperuntukkan bagi mahasiswa non-pendidikan yang untuk melaksnakan kerja praktik di perusahan (pemerintah/swasta) selama satu semester. Para mahasiswa yang sedang melaksanakan PPL tidak diperkenankan mengambil mata kuliah yang lain. Pelaksanaan PPL di suatu perusahaan bisa bersifat individual atau kelompok tergantung kesediaan perusahaan dalam menerima mahasiswa PPL. Kegiatan PPL didampingi oleh dua orang dosen pembimbing dari program studi dan satu pembimbing dari perusahaan. Pada penghujung kegiatan, setiap mahasiswa PPL diminta untuk membuat laporan kegiatan PPL (individual/kelompok), selanjutnya melaksanakan ujian PPL melalui presentasi di depan para dosen penguji atau dosen pendamping di tempat mereka melaksanakan PPL. Keaktifan di tempat PPL dan presentasi kegiatan PPL menjadi dasar untuk penentuan nilai akhir mata kuliah PPL dari dosen pembimbing PPL."
   },
@@ -172,7 +172,7 @@
     "_id": "cs_proginfo_exam_001_desc_p1",
     "section": "Proses Penilaian - Deskripsi (Part 1/5)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Proses Penilaian",
+    "type": ["Proses Penilaian"],
     "lang": "id",
     "text": "Proses Penilaian - Deskripsi (Part 1/5) : Penilaian dirancang untuk mengukur sejauh mana tingkat ketercapaian mahasiswa berdasarkan proses dan hasil pembelajaran yang dilakukan berdasarkan target yang telah ditentukan. Sebuah penilaian lazimnya disusun sedemikian rupa sehingga mencakup semua target capaian pembelajaran yang diharapkan terkait dengan sebuah atau sejumlah kompetensi yang meliputi aspek pengetahuan, keterampilan, dan/atau sikap. Dalam proses penilaian, program studi Ilmu Komputer di lingkungan FPMIPA UPI menggunakan konsep penilaian multi-komponen untuk mengukur pencapaian keberhasilan implementasi mata kuliah dan pencapaian hasil akhir studi mahasiswa. Aspek pengetahuan diukur dengan menggunakan ujian tertulis; aspek keterampilan diukur dengan menggunakan tugas projek, unjuk kerja, dan/atau presentasi; dan aspek sikap diukur dengan menggunakan peer assessment yang dilakukan dalam kegiatan tugas projek, unjuk kerja, dan/atau presentasi. Berdasarkan Pedoman Penyelenggaraan Pendidikan UPI tahun 2020, penilaian proses belajar mahasiswa diadakan paling sedikit dua kali dalam satu semester, yaitu melalui Ujian Tengah Semester (UTS) dan Ujian Akhir Semester (UAS)."
   },
@@ -180,7 +180,7 @@
     "_id": "cs_proginfo_exam_001_desc_p2",
     "section": "Proses Penilaian - Deskripsi (Part 2/5)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Proses Penilaian",
+    "type": ["Proses Penilaian"],
     "lang": "id",
     "text": "Proses Penilaian - Deskripsi (Part 2/5) : Dengan merujuk pada Pedoman Penyelengaraan Pendidikan UPI Tahun 2020, Program Studi Ilmu Komputer, FPMIPA UPI mengimplementasikan frekuensi perkuliahan dalam 1 semester sebanyak 16 kali pertemuan, dengan rincian 14 kali pertemuan dilakukan untuk perkuliahan, 1 kali pertemuan dilakukan untuk UTS dan 1 kali pertemuan dilakukan untuk UAS. Pada umumnya, UTS dilaksanakan pada pertemuan ke-8 dan UAS dilaksanakan pada pertemuan ke-16. Mahasiswa dapat mengikuti UAS apabila mereka telah mengikuti perkuliahan dalam mata kuliah yang bersangkutan minimal 80%. Pelaksanaan UTS diserahkan kepada dosen pengampu matakuliah yang bersangkutan dan disesuaikan dengan jadwal perkuliahan yang telah ditetapkan. Sementara, pelaksanaan Ujian Akhir Semester (UAS), remedial teaching, dan pemasukkan nilai diatur dalam surat edaran Rektor UPI yang ditandatangani oleh Wakil Rektor Bidang Pendidikan dan Kemahasiswaan."
   },
@@ -188,7 +188,7 @@
     "_id": "cs_proginfo_exam_001_desc_p3",
     "section": "Proses Penilaian - Deskripsi (Part 3/5)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Proses Penilaian",
+    "type": ["Proses Penilaian"],
     "lang": "id",
     "text": "Proses Penilaian - Deskripsi (Part 3/5) : Pelaksanaan ujian tengah semester (UTS) dan ujian akhir semester (UAS) secara garis besar dilaksanakan dalam 2 (dua) kategori mata kuliah, yakni mata kuliah umum (MKU) dan mata kuliah keahlian bidang studi (MKIPS DAN MKPPS). Pengkategorian ini diharapkan agar mahasiswa dapat mengikuti ujian dengan tertib sesuai dengan waktu yang ditentukan. Penyelenggaran ujian MKU dilaksanakan oleh Program Studi MKU melalui computer based test (CBT), sementara penyelenggaraan ujian MKIPS dan MKPPS dilaksanakan oleh program studi masing-masing. Secara detail jadwal ujian untuk setiap mata kuliah bidang studi disusun oleh masing-masing program studi dan dipublikasikan kepada sivitas akademika secara offline atau online. Jadwal ujian dibuat dengan mempertimbangkan pilihan waktu yang tepat agar tidak membebani mahasiswa, sehingga setiap hari per angkatan maksimal dijadwalkan 'hanya' untuk 2 (dua) matakuliah. Pada kondisi pandemi Covid-19, pelaksanaan ujian dilakukan dengan cara online/daring (dalam jaringan) dengan menggunakan aplikasi SPOT (http://spot.upi.edu) dan SPADA (http://spada.upi.edu) serta beberapa aplikasi khusus untuk ujian lainnya, namun tetap dilaksanakan secara online seperti https://quizizz.com, https://safeexambrowser.org yang dapat diakses dimanapun tanpa perlu yang bersangkutan datang ke kampus."
   },
@@ -196,7 +196,7 @@
     "_id": "cs_proginfo_exam_001_desc_p4",
     "section": "Proses Penilaian - Deskripsi (Part 4/5)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Proses Penilaian",
+    "type": ["Proses Penilaian"],
     "lang": "id",
     "text": "Proses Penilaian - Deskripsi (Part 4/5) : Apabila ada mahasiswa yang tidak dapat mengikuti ujian, baik UTS maupun UAS, karena alasan tertentu, maka ia harus menginformasikan kepada dosen pengampu mata kuliah yang bersangkutan sebelum waktu ujian dan menyampaikan bukti dokumen pendukungnya. Mahasiswa yang diberi kesempatan untuk mengikuti ujian susulan adalah mahasiswa yang memiliki alasan: (a) sakit (dibuktikan dengan surat keterangan dokter); (b) mendapat tugas mewakili universitas pada kegiatan intra kurikuler atau ekstra kurikuler di luar kampus; dan (c) lainnya yang dilakukan atas ijin dari pimpinan. Waktu dan teknik pelaksanaan ujian susulan dilakukan berdasarkan kesepakatan antara dosen mata kuliah pengampu dan mahasiswa yang bersangkutan. Penilaian terhadap mata kuliah dilakukan secara objektif dan transparan, sehingga ketentuan, proses, dan hasilnya diinformasikan ke mahasiswa. Pengumuman hasil ujian dilakukan sebagai upaya memberikan umpan balik kepada mahasiswa atas apa yang telah mereka lakukan dan capai, sehingga bagi yang belum optimal melakukan upaya dapat digunakan sebagai refleksi dalam rangka memperbaiki diri agar memperoleh hasil yang lebih baik di masa mendatang. Berdasarkan hasil evaluasi pembelajaran, apabila terdapat mahasiswa yang belum mencapai kriteria kelulusan mata kuliah, maka dosen yang bersangkutan akan melakukan tindak lanjut jangka pendek berupa pemberian remedial teaching dan tindak lanjut jangka panjang berupa evaluasi terhadap RPS untuk perbaikan bagi proses pembelajaran selanjutnya. Sedangkan apabila ada mahasiswa yang memperoleh nilai E (gagal) pada suatu mata kuliah, maka mahasiswa yang bersangkutan harus mengontrak ulang mata kuliah tersebut pada semester berikutnya. Nilai yang akan ditetapkan untuk mahasiswa tersebut adalah nilai terakhir yang diperolehnya pada semester yang sedang berjalan. Hal tersebut tertuang pada Pedoman Penyelenggaraan Pendidikan UPI tahun 2020."
   },
@@ -204,7 +204,7 @@
     "_id": "cs_proginfo_exam_001_desc_p5_s01",
     "section": "Proses Penilaian - Deskripsi (Part 5, Segment 1/11)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Proses Penilaian",
+    "type": ["Proses Penilaian"],
     "lang": "id",
     "text": "Proses Penilaian - Deskripsi (Part 5, Segment 1/11) : Program Pengalaman Lapangan (PPL) merupakan program kegiatan lapangan untuk mahasiswa non kependidikan yang dilaksanakan melalui kerjasama dengan institusi eksternal seperti stakeholder atau institusi publik maupun swasta. Pada kegiatan PPL di Program Studi Matematika, setiap kelompok mahasiswa yang mengikuti kegiatan PPL dibimbing oleh dua orang dosen dari Program Studi dan satu orang perusahaan tepat kegiatan PPL dilaksanakan. Sedangkan untuk kegiatan PPL yang dilaksanakan di Program Studi Ilmu Komputer, setiap mahasiswa yang mengikuti kegiatan PPL didampingi oleh seorang dosen dari Program Studi dan satu orang dari perusahaan tempat PPL dilaksanakan. Kelulusan mata kuliah PPL ditentukan berdasarkan akumulasi nilai yang diperoleh dari pembimbing yang berasal dari institusi tempat mahasiswa magang dan dari dosen pembimbing dengan formula yang ada pada buku panduan PPL. Nilai akhir mata kuliah PPL adalah hasil akumulasi nilai dari pembimbing yang berasal dari institusi tempat PPL, nilai dosen pembimbing, dan nilai dari dosen penguji."
   },
@@ -212,7 +212,7 @@
     "_id": "cs_proginfo_exam_001_desc_p5_s02",
     "section": "Proses Penilaian - Deskripsi (Part 5, Segment 2/11)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Proses Penilaian",
+    "type": ["Proses Penilaian"],
     "lang": "id",
     "text": "Proses Penilaian - Deskripsi (Part 5, Segment 2/11) : Selain melalui PPL, mahasiswa mengenal lingkungan masyarakat luas melalui kuliah kerja nyata (KKN), yang pada pelaksanaannya dikoordinasikan oleh Lembaga Penelitian dan Pengabdian kepada Masyarakat (LPPM) UPI. Berbagai informasi terkait dengan KKN dapat diunduh oleh mahasiswa pada laman http://kkn.lppm.upi.edu/ . Pada kegiatan KKN, mahasiswa secara berkelompok dengan beragam latar belakang bidang studi tinggal menetap dalam suatu kurun waktu tertentu pada suatu komunitas atau lingkungan masyarakat dan berpartisipasi aktif dalam kehidupan komunitas atau lingkungan masyarakat tersebut. Dalam pelaksanaannya, mahasiswa dari berbagai program studi di UPI dibimbing oleh seorang dosen pembimbing yang bertugas sebagai pendamping dan penilai kegiatan lapangan mahasiswa. Sebelum kegiatan KKN dimulai, dosen pembimbing dan mahasiswa diberikan pembekalan oleh LPPM UPI secara terpisah. Pembekalan kepada dosen pembimbing berkaitan dengan monitoring kegiatan dan informasi tentang penilaian KKN. Pembekalan kepada mahasiswa berkaitan dengan teknis pelaksanaan KKN di lapangan beserta dengan best practice-nya. Dosen pembimbing melaksanakan monitoring kegiatan. Penilaian terhadap peserta KKN dilakukan pada dua aspek, yaitu aspek individu dan aspek kelompok. Mekanisme pelaporan nilai KKN mahasiswa dilakukan oleh dosen pembimbing kepada LPPM UPI untuk selanjutnya dientri ke dalam sistem. Pada masa pandemi COVID-19, UPI menyesuaikan pelaksanaan KKN bertema COVID-19, sehingga memungkinkan para peserta (mahasiswa) tetap mengikuti kegiatan, tetapi tidak mengabaikan protokol kesehatan dan keselamatan mahasiswa."
   },
@@ -220,7 +220,7 @@
     "_id": "cs_proginfo_exam_001_desc_p5_s03",
     "section": "Proses Penilaian - Deskripsi (Part 5, Segment 3/11)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Proses Penilaian",
+    "type": ["Proses Penilaian"],
     "lang": "id",
     "text": "Proses Penilaian - Deskripsi (Part 5, Segment 3/11) : Terdapat dua jalur penyelesaian akhir studi mahasiswa jenjang Sarjana (S1), yaitu jalur skripsi dan jalur tanpa skripsi. Penyelesaian akhir studi jalur tanpa skripsi diperuntukkan bagi mahasiswa yang mempunyai IPK 2.00 – 2.50. Mereka diharuskan mengambil mata kuliah sebanyak 6 SKS dan membuat makalah pengganti skripsi. Terkait hal tersebut, program studi mengatur mekanisme pelaksanaanya melalui SOP penyelesaian akhir studi jalur tanpa skripsi. Sedangkan jalur skripsi dapat ditempuh oleh mahasiswa yang telah lulus mata kuliah prasyarat skripsi, memperoleh minimal 105 SKS dan IPK minimal 2,50 dan mendapat rekomendasi dari dosen pembimbing akademik."
   },
@@ -228,7 +228,7 @@
     "_id": "cs_proginfo_exam_001_desc_p5_s04",
     "section": "Proses Penilaian - Deskripsi (Part 5, Segment 4/11)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Proses Penilaian",
+    "type": ["Proses Penilaian"],
     "lang": "id",
     "text": "Proses Penilaian - Deskripsi (Part 5, Segment 4/11) : Prosedur penulisan skripsi sebagai berikut: koordinator skripsi menetapkan pembimbing I dan II untuk mahasiswa; mahasiswa kemudian dibimbing dalam menulis proposal skirpsi; kemudian mahasiswa mengikuti ujian proposal skripsi. Apabila ujian proposal sudah dilakukan dan disetujui oleh para penguji, maka mahasiswa dapat melanjutkan proses bimbingan dengan kedua pembimbing, seperti melakukan aktivitas menyusun instrumen dan pengambilan data; kemudian dilanjutkan dengan penulisan hasil pengambilan data, pembahasan, dan penulisan kesimpulan. Apabila hasil penulisan skripsi telah dipandang layak oleh para pembimbing, maka mahasiswa yang bersangkutan dapat mengikuti ujian sidang skripsi. Proses penulisan proposal hingga ujian proposal mengikuti SOP dan prosedur ujian sidang skripsi mengikuti SOP. Nilai akhir skripsi meliputi penilaian penulisan skripsi dan penilian ujian sidang skripsi. Seorang mahasiswa dikatakan lulus ujian skripsi apabila nilai akhir-skripsinya minimal 2.0 (Skala 4). Penelitian skripsi dilakukan secara independen dibawah bimbingan dua orang pembimbing skrispi. Secara garis besar prosedur penyelesaian akhir studi melalui jalur skripsi disajikan dalam flowchart berikut."
   },
@@ -236,7 +236,7 @@
     "_id": "cs_proginfo_exam_001_desc_p5_s05",
     "section": "Proses Penilaian - Deskripsi (Part 5, Segment 5/11)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Proses Penilaian",
+    "type": ["Proses Penilaian"],
     "lang": "id",
     "text": "Proses Penilaian - Deskripsi (Part 5, Segment 5/11) : Sistem penilaian pada empat program studi, meliputi proses dan hasil belajar mahasiswa. Sistem ini meliputi penilaian yang bersifat formatif dan bersifat sumatif. Penilaian formatif bertujuan untuk memperoleh informasi yang dapat digunakan untuk perbaikan proses pembelajaran (program delivery), adapun penilaian sumatif digunakan untuk menilai ketercapaian hasil belajar mahasiswa (learning outcome). Panduan penilaian secara umum mengikuti Pedoman Penyelenggaraan Pendidikan UPI yang dapat diakses pada laman http://www3.upi.edu/main/file/akademik"
   },
@@ -244,7 +244,7 @@
     "_id": "cs_proginfo_exam_001_desc_p5_s06",
     "section": "Proses Penilaian - Deskripsi (Part 5, Segment 6/11)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Proses Penilaian",
+    "type": ["Proses Penilaian"],
     "lang": "id",
     "text": "Proses Penilaian - Deskripsi (Part 5, Segment 6/11) : Penilaian terhadap mahasiswa untuk suatu mata kuliah menggunakan prinsip Penilaian Acuan Patokan (PAP). Prinsip PAP digunakan agar nilai pencapaian mahasiswa atas tujuan/kompetensi ditentukan berdasarkan kriteria yang telah ditetapkan. Nilai akhir suatu mata kuliah merupakan hasil kumulatif dari komponen tugas, ujian tengah semester, ujian akhir semester, serta komponen penilaian lainnya. Pada praktiknya, selama masih berada dalam lingkup ketentuan UPI, setiap mata kuliah memiliki prosedur dan teknik penilaiannya sendiri sesuai dengan karakteristik mata kuliah yang bersangkutan. Pedoman praksis penilaian ini tertuang dalam silabus/RPS mata kuliah yang dikembangkan dosen pengampu. Secara umum, setiap mata kuliah menggunakan teknik penilaian integratif, yaitu antara proses dan hasil, dan antar komponen penilaian lainnya: kehadiran, kuis, ujian tengah semester (UTS), ujian akhir (UAS), tugas, praktikum (jika ada), partisipasi, dan presentasi (jika ada). Adapun persentase komponen penilaiannya meliputi unsur kehadiran (5%); partisipasi/kuis/tugas/presentasi (15%); praktikum (10%); ujian tengah semester (35%); dan ujian akhir (35%)."
   },
@@ -252,7 +252,7 @@
     "_id": "cs_proginfo_exam_001_desc_p5_s07",
     "section": "Proses Penilaian - Deskripsi (Part 5, Segment 7/11)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Proses Penilaian",
+    "type": ["Proses Penilaian"],
     "lang": "id",
     "text": "Proses Penilaian - Deskripsi (Part 5, Segment 7/11) : Pada mata kuliah wajib, nilai kelulusan minimum adalah C, sedangkan untuk mata kuliah pilihan nilai minimum kelulusanya adalah D. Untuk mahasiswa yang mendapat nilai E (tidak lulus/gagal), maka yang bersangkutan dapat mengikuti perkuliahan ulang pada tahun berikutnya agar memperoleh nilai yang sesuai dengan kriteria lulus. Mahasiswa tidak dapat membatalkan nilai mata kuliah yang sudah dinyatakan lulus, baik mata kuliah wajib maupun mata kuliah pilihan, kecuali apabila mahasiswa yang bersangkutan pindah departeman/prodi, sehingga ia membatalkan mata kuliah keahlian program studi sebelumnya atau mahasiswa mengontrak mata kuliah melebihi jumlah beban studi maksimal yang ditentukan dalam struktur kurikulum."
   },
@@ -260,7 +260,7 @@
     "_id": "cs_proginfo_exam_001_desc_p5_s08",
     "section": "Proses Penilaian - Deskripsi (Part 5, Segment 8/11)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Proses Penilaian",
+    "type": ["Proses Penilaian"],
     "lang": "id",
     "text": "Proses Penilaian - Deskripsi (Part 5, Segment 8/11) : Ketercapaian course learning outcome (CLO) dapat dilihat dari hasil belajar mahasiswa pada mata kuliah tersebut yang diukur dengan menggunakan instrumen tes sumatif. Setiap instrumen tes terdiri atas sejumlah soal yang setiap soalnya mengukur CLO pada matakuliah tersebut. Setiap soal yang akan digunakan untuk ujian, divalidasi terlebih dahulu oleh ketua KBK dimana matakuliah tersebut berada. Mata kuliah yang sama namun pelaksanaannya dilakukan secara pararel, pada saat ujian harus menggunakan soal dan kriteria penilaian yang sama. Hasil akhir capaian mata kuliah selanjutnya dievaluasi oleh tim GKM untuk memastikan ketercapaian PLO yang berkaitan dengan mata kuliah tersebut. Hasil penilaian berupa nilai akhir harus diinput oleh dosen mata kuliah yang bersangkutan kedalam sistem input nilai dosen melalui situs https://siak.upi.edu/sinndo. Apabila dosen tersebut terlambat melakukan input nilai, maka dosen yang bersangkutan akan mendapat peringatan dan konsekuensinya. Mahasiswa dapat melihat informasi nilai akhir mata kuliah yang mereka kontak melalui situs https://student.upi.edu. Sementara dosen memiliki kewajiban untuk merancang, mengelola, memberikan tugas/ujian, dan memberikan umpan balik, serta memelihara dokumen akademik mahasiswa secara tertib. Konsekuensi dari kewajiban tersebut, mahasiswa mempunyai hak untuk memperoleh informasi yang jelas dan transparan mengenai capaian hasil studi mata kuliah yang berupa nilai ujian, kuis, tugas atau proyek, praktikum, dan/atau presentasi."
   },
@@ -268,7 +268,7 @@
     "_id": "cs_proginfo_exam_001_desc_p5_s09",
     "section": "Proses Penilaian - Deskripsi (Part 5, Segment 9/11)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Proses Penilaian",
+    "type": ["Proses Penilaian"],
     "lang": "id",
     "text": "Proses Penilaian - Deskripsi (Part 5, Segment 9/11) : Apabila ada mahasiswa yang merasa nilai yang diperolehnya tidak sesuai dengan perkiraan mereka, maka mahasiswa dapat langsung menghubungi dosen yang bersangkutan untuk membicarakan permasalahan tersebut. Apabila dosen melakukan kekeliruan, misalnya ketika proses menginput nilai mahasiswa, maka dosen pengampu dapat mengubah nilai tersebut agar sesuai dengan faktanya selama rentang waktu pemasukan nilai masih berlaku. Dalam kasus kesalahan input nilai terdeteksi setelah rentang waktu pemasukan nilai berakhir, maka dosen tersebut dapat mengajukan surat permohonan kepada Direktorat Akademik UPI agar dapat menginput perubahan nilai tersebut. Selanjutnya akan disajikan tabel hubungan antara program learning outcome, strategi pembelajaran yang digunakan dan asesmen yang digunakan untuk mengukur masing-masing program learning outcome untuk masing-masing program studi."
   },
@@ -276,7 +276,7 @@
     "_id": "cs_proginfo_exam_001_grades",
     "section": "Proses Penilaian — Pedoman Penentuan Nilai Mata Kuliah",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Proses Penilaian",
+    "type": ["Proses Penilaian"],
     "lang": "id",
     "text": "Proses Penilaian — Pedoman Penentuan Nilai Mata Kuliah : A, value 4.0, value_str 4,0, Istimewa, score_min 92, score_max 100; A-, value 3.7, value_str 3,7, Hampir Istimewa, score_min 86, score_max 91; B+, value 3.4, value_str 3,4, Baik Sekali, score_min 81, score_max 85; B, value 3.0, value_str 3,0, Baik, score_min 76, score_max 80; B-, value 2.7, value_str 2,7, Cukup Baik, score_min 71, score_max 75; C+, value 2.4, value_str 2,4, Lebih Dari Cukup, score_min 66, score_max 70; C, value 2.0, value_str 2,0, Cukup, score_min 60, score_max 65; D, value 1.0, value_str 1,0, Kurang, score_min 55, score_max 59, note Minimum requirement for graduation; E, value_str <1,0, Kurang, score_min 0, score_max 54, note Course should be retaken"
   },
@@ -284,7 +284,7 @@
     "_id": "cs_proginfo_exam_001_plo_linkage",
     "section": "Proses Penilaian — PLO Teaching & Assessment Linkage",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Proses Penilaian",
+    "type": ["Proses Penilaian"],
     "lang": "id",
     "text": "Proses Penilaian — PLO Teaching & Assessment Linkage : PLO-1: teaching_methods Ceramah, diskusi, debat dan brainstorming; Pilihan ganda. PLO-2: Ceramah, diskusi, symposium, brainstorming, laboratorium/ praktikum, demonstrasi, simulasi, pengalaman lapangan; Presentasi, tugas besar/ proyek, ujian essay, ujian lisan, ujian pilihan ganda, ujian jawaban singkat. PLO-3: Ceramah, diskusi, laboratorium /praktikum, demonstrasi, dan simulasi; Ujian essay, ujian lisan, ujian pilihan ganda, dan ujian jawaban singkat. PLO-4: Ceramah, diskusi, brainstorming, laboratorium/ praktikum, demonstrasi, simulasi, dan pengalaman lapangan; Tugas besar/proyek dan praktikum. PLO-5: Ceramah, diskusi, debat, simposium, brainstorming, laboratorium/ praktikum, dan pengalaman lapangan; Artikel ilmiah. PLO-6: Ceramah, diskusi, laboratorium/ praktikum, demonstrasi, simulasi, dan pengalaman lapangan; Artikel ilmiah. PLO-7: Ceramah, debat, symposium, dan pengalaman lapangan; Presentasi dan artikel ilmiah"
   },
@@ -292,7 +292,7 @@
     "_id": "cs_proginfo_exam_001_plo_mapping",
     "section": "Proses Penilaian — pemetaan antara Capaian Pembelajaran Program Studi (PLO) terhadap Kualifikasi Lulusan",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Proses Penilaian",
+    "type": ["Proses Penilaian"],
     "lang": "id",
     "text": "Proses Penilaian — pemetaan antara Capaian Pembelajaran Program Studi (PLO) terhadap Kualifikasi Lulusan : PLO-1: Akademisi, Research Assistance, Konsultan, Praktisi, Entrepreneur; PLO-2: Akademisi, Research Assistance; PLO-3: Akademisi, Research Assistance, Konsultan, Praktisi, Entrepreneur; PLO-4: Konsultan, Praktisi, Entrepreneur; PLO-5: Akademisi, Research Assistance; PLO-6: Konsultan, Praktisi, Entrepreneur; PLO-7: Akademisi, Research Assistance, Konsultan, Praktisi, Entrepreneur"
   },
@@ -300,7 +300,7 @@
     "_id": "cs_proginfo_mapping_mku_part1",
     "section": "Mapping PLO versus Courses — Mata Kuliah Umum (MKU) (Part 1/2)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Umum (MKU) (Part 1/2) : No 1, Code KU100, Pendidikan Agama Islam, SKS 2, PLO PLO-1; No 2, Code KU101, Pendidikan Agama Kristen Protestan, SKS 2, PLO PLO-1; No 3, Code KU102, Pendidikan Agama Kristen Katolik, SKS 2, PLO PLO-1; No 4, Code KU103, Pendidikan Agama Hindu, SKS 2, PLO PLO-1; No 5, Code KU104, Pendidikan Agama Budha, SKS 2, PLO PLO-1; No 6, Code KU109, Pendidikan Agama Khonghucu, SKS 2, PLO PLO-1; No 7, Code KU110, Pendidikan Pancasila, SKS 2, PLO PLO-1, PLO-2; No 8, Code KU105, Pendidikan Kewarganegaraan, SKS 2, PLO PLO-1, PLO-2; No 9, Code KU106, Pendidikan Bahasa Indonesia, SKS 2, PLO PLO-1; No 10, Code KU108, Pendidikan Jasmani dan Olahraga*, SKS 2, PLO PLO-1, PLO-2"
   },
@@ -308,7 +308,7 @@
     "_id": "cs_proginfo_mapping_mku_part2",
     "section": "Mapping PLO versus Courses — Mata Kuliah Umum (MKU) (Part 2/2)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Umum (MKU) (Part 2/2) : No 11, Code KU119, Pendidikan Kesenian*, SKS 2, PLO PLO-1, PLO-2; No 12, Code KU300, Seminar Pendidikan Agama Islam, SKS 2, PLO PLO-1; No 13, Code KU301, Seminar Pendidikan Agama Islam, SKS 2, PLO PLO-1; No 14, Code KU302, Seminar Pendidikan Agama Kristen Katolik, SKS 2, PLO PLO-1; No 15, Code KU303, Seminar Pendidikan Agama Hindu, SKS 2, PLO PLO-1; No 16, Code KU304, Seminar Pendidikan Agama Budha, SKS 2, PLO PLO-1; No 17, Code KU309, Seminar Pendidikan Agama Khonghucu, SKS 2, PLO PLO-1; No 18, Code KU400, Kuliah Kerja Nyata (KKN), SKS 2, PLO PLO-1, PLO-2"
   },
@@ -316,7 +316,7 @@
     "_id": "cs_proginfo_mapping_mkku",
     "section": "Mapping PLO versus Courses — Mata Kuliah Kekhasan Universitas (MKKU)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Kekhasan Universitas (MKKU) : No 1, Code HU300, Pengantar Pendidikan, SKS 2, PLO PLO-1, PLO-2"
   },
@@ -324,7 +324,7 @@
     "_id": "cs_proginfo_mapping_mkkf",
     "section": "Mapping PLO versus Courses — Mata Kuliah Keahlian Fakultas (MKKF)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Keahlian Fakultas (MKKF) : No 1, Code MA100, CMSTR (Matematika, Sains, Teknologi dan Rekayasa), SKS 3, PLO PLO-2; No 2, Code MA101, Aplikasi MSTR (Matematika, Sains, Teknologi dan Rekayasa), SKS 3, PLO PLO-2"
   },
@@ -332,7 +332,7 @@
     "_id": "cs_proginfo_mapping_mkkips_part1",
     "section": "Mapping PLO versus Courses — Mata Kuliah Keahlian Inti Program Studi (MKKIPS) (Part 1/4)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Keahlian Inti Program Studi (MKKIPS) (Part 1/4) : No 1, Code IK100, Algoritma dan Pemrograman 1, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 2, Code IK110, Kalkulus, SKS 3, PLO PLO-2, PLO-3; No 3, Code IK120, Paradigma Pemrograman, SKS 2, PLO PLO-2, PLO-3, PLO-7; No 4, Code IK130, Logika Informatika, SKS 3, PLO PLO-2, PLO-3; No 5, Code IK140, Bahasa Inggris, SKS 2, PLO PLO-1, PLO-2; No 6, Code IK150, Statistika, SKS 2, PLO PLO-2, PLO-3; No 7, Code IK160, Algoritma dan Pemrograman 2, SKS 3, PLO PLO-2, PLO-3, PLO-7; No 8, Code IK170, Sistem Basis Data, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 9, Code IK180, Aljabar Linier dan Matriks, SKS 2, PLO PLO-2, PLO-3; No 10, Code IK190, Etika Profesi Teknologi Informasi dan Komunikasi, SKS 2, PLO PLO-2, PLO-3"
   },
@@ -340,7 +340,7 @@
     "_id": "cs_proginfo_mapping_mkkips_part2",
     "section": "Mapping PLO versus Courses — Mata Kuliah Keahlian Inti Program Studi (MKKIPS) (Part 2/4)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Keahlian Inti Program Studi (MKKIPS) (Part 2/4) : No 11, Code IK200, Arsitektur dan Organisasi Komputer, SKS 3, PLO PLO-2, PLO-3; No 12, Code IK210, Metode Numerik, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 13, Code IK220, Sistem Kontrol, SKS 3, PLO PLO-2, PLO-3; No 14, Code IK230, Design dan Pemrograman Web, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 15, Code IK240, Struktur Data, SKS 3, PLO PLO-2, PLO-3; No 16, Code IK250, Sistem Operasi, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 17, Code IK260, Teori Bahasa dan Automata, SKS 3, PLO PLO-2, PLO-3, PLO-4; No 18, Code IK270, Rekayasa Perangkat Lunak, SKS 3, PLO PLO-2, PLO-3; No 19, Code IK280, Kecerdasan Buatan, SKS 3, PLO PLO-2, PLO-3, PLO-4; No 20, Code IK290, Desain dan Pemrograman Berorientasi Objek, SKS 3, PLO PLO-2, PLO-3, PLO-4"
   },
@@ -348,7 +348,7 @@
     "_id": "cs_proginfo_mapping_mkkips_part3",
     "section": "Mapping PLO versus Courses — Mata Kuliah Keahlian Inti Program Studi (MKKIPS) (Part 3/4)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Keahlian Inti Program Studi (MKKIPS) (Part 3/4) : No 21, Code IK207, Jaringan Komputer, SKS 3, PLO PLO-2, PLO-3, PLO-4; No 22, Code IK217, Sistem Informasi, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 23, Code IK227, Teknik Riset Operasi, SKS 2, PLO PLO-2, PLO-3, PLO-4; No 24, Code IK237, Analisis dan Desain Algoritma, SKS 3, PLO PLO-2, PLO-3, PLO-4; No 25, Code IK300, Pemrogrman Visual dan Piranti Bergerak, SKS 3, PLO PLO-2, PLO-3, PLO-4; No 26, Code IK310, Kriptografi, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 27, Code IK320, Grafika Komputer dan Multimedia, SKS 3, PLO PLO-2, PLO-3, PLO-4; No 28, Code IK330, Manajemen Proyek Perangkat Lunak, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 29, Code IK340, Sistem Cerdas, SKS 2, PLO PLO-2, PLO-3, PLO-4; No 30, Code IK350, Interaksi Manusia dan Komputer, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7"
   },
@@ -356,7 +356,7 @@
     "_id": "cs_proginfo_mapping_mkkips_part4",
     "section": "Mapping PLO versus Courses — Mata Kuliah Keahlian Inti Program Studi (MKKIPS) (Part 4/4)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Keahlian Inti Program Studi (MKKIPS) (Part 4/4) : No 31, Code IK360, Kapita Selekta, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 32, Code IK370, Teknik Simulasi dan Pemodelan, SKS 2, PLO PLO-2, PLO-3; No 33, Code IK380, Basis Data Non Relational, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 34, Code IK400, Metodologi Penelitian, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 35, Code IK410, Kewirausahaan Ilmu Komputer, SKS 2, PLO PLO-2, PLO-3, PLO-4; No 36, Code IK420, Seminar, SKS 2, PLO PLO-5, PLO-6, PLO-7; No 37, Code IK430, E-Business, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 38, Code IK598, Skripsi, SKS 6, PLO PLO-1, PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 39, Code IK599, Sidang, SKS 0, PLO PLO-2, PLO-3, PLO-7"
   },
@@ -364,7 +364,7 @@
     "_id": "cs_proginfo_mapping_mkkps",
     "section": "Mapping PLO versus Courses — EMata Kuliah Pilihan Keahlian Program Studi (MKKPS)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Pilihan Keahlian Program Studi (MKKPS) : No 1, Code IK500, Course Machine Learning, SKS 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK510, Komputasi Paralel dan Terdistribusi, SKS 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 3, Code IK520, Project Keahlian, SKS 3, PLO PLO-2, PLO-4; No 4, Code IK530, Course Mobile Application Development, SKS 3, PLO PLO-2, PLO-4"
   },
@@ -372,7 +372,7 @@
     "_id": "cs_proginfo_mapping_kbk1",
     "section": "Mapping PLO versus Courses — Penjurusan/KBK Paket 1: Rekayasa Perangkat Lunak",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["KBK/Penjurusan", "Mata Kuliah"],
     "lang": "id",
     "text": "Mapping PLO versus Courses — Penjurusan/KBK Paket 1: Rekayasa Perangkat Lunak : No 1, Code IK501, Pengujian dan Pemeliharaan Perangkat Lunak, SKS 2, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK511, Rekayasa Aplikasi Kemaritiman*, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 3, Code IK521, Course Service Computing Engineering, SKS 2, PLO PLO-2, PLO-3, PLO-7; No 4, Code IK531, Course Game Application Development, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 5, Code IK541, Teknik Interfacing*, SKS 3, PLO PLO-2, PLO-3, PLO-7; No 6, Code IK551, Manajemen Kualitas Perangkat Lunak, SKS 3, PLO PLO-2, PLO-3, PLO-5, PLO-6, PLO-7; No 7, Code IK561, Rekayasa Aplikasi Bisnis, SKS 2, PLO PLO-2, PLO-3, PLO-7; No 8, Code IK571, Rekayasa Informasi*, SKS 3, PLO PLO-2, PLO-3, PLO-7; No 9, Code IK581, Course Software Quality Assurance, SKS 2, PLO PLO-2, PLO-3, PLO-5, PLO-6, PLO-7; No 10, Code IK591, Teknik Kompilasi*, SKS 3, PLO PLO-2, PLO-3, PLO-7"
   },
@@ -380,7 +380,7 @@
     "_id": "cs_proginfo_mapping_kbk2",
     "section": "Mapping PLO versus Courses — Penjurusan/KBK Paket 2: Robotika, Kecerdasan Buatan, dan Internet Of Thing (IoT)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["KBK/Penjurusan", "Mata Kuliah"],
     "lang": "id",
     "text": "Mapping PLO versus Courses — Penjurusan/KBK Paket 2: Robotika, Kecerdasan Buatan, dan Internet Of Thing (IoT) : No 1, Code IK502, Pengolahan Citra Digital, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK512, Course Intelligent Games, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 3, Code IK522, Pengolahan Bahasa Alami, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 4, Code IK532, Course Deep Learning, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 5, Code IK542, Course Computer Vision, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 6, Code IK552, Course Internet of Things, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 7, Code IK562, Kontrol dan Robotika, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 8, Code IK572, Course Expert System, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 9, Code IK582, Course Speech Recognition and Synthesis, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7"
   },
@@ -388,7 +388,7 @@
     "_id": "cs_proginfo_mapping_kbk3",
     "section": "Mapping PLO versus Courses — Penjurusan/KBK Paket 3: Multimedia dan Desain",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["KBK/Penjurusan", "Mata Kuliah"],
     "lang": "id",
     "text": "Mapping PLO versus Courses — Penjurusan/KBK Paket 3: Multimedia dan Desain : No 1, Code IK503, Teknik Audio dan Video, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 2, Code IK513, Course Game Programming, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 3, Code IK523, Course Visual Communication Design, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 4, Code IK533, Course Audio and Video Manipulation, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 5, Code IK543, Course Multimedia Production, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 6, Code IK553, Sosial dan Inovasi Media, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 7, Code IK563, Teknik Animasi*, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 8, Code IK573, Course Open Distance Learning, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7"
   },
@@ -396,7 +396,7 @@
     "_id": "cs_proginfo_mapping_kbk4",
     "section": "Mapping PLO versus Courses — Penjurusan/KBK Paket 4: Teknik Komputer dan Sistem Jaringan",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["KBK/Penjurusan", "Mata Kuliah"],
     "lang": "id",
     "text": "Mapping PLO versus Courses — Penjurusan/KBK Paket 4: Teknik Komputer dan Sistem Jaringan : No 1, Code IK504, Course Mobile Networking, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 2, Code IK514, Teknologi Cloud*, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 3, Code IK524, Administrasi Jaringan, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 4, Code IK534, Teknologi Nirkabel*, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 5, Code IK544, Komputer Forensik, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 6, Code IK554, Desain Jaringan Telekomunikasi*, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 7, Code IK564, Keamanan Sistem Informasi, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 8, Code IK574, Jaringan Komputer Lanjut*, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7"
   },
@@ -404,7 +404,7 @@
     "_id": "cs_proginfo_mapping_kbk5",
     "section": "Mapping PLO versus Courses — Penjurusan/KBK Paket 5: Big Data Analysis",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["KBK/Penjurusan", "Mata Kuliah"],
     "lang": "id",
     "text": "Mapping PLO versus Courses — Penjurusan/KBK Paket 5: Big Data Analysis : No 1, Code IK505, Course Data Mining and Warehouse, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 2, Code IK515, Course Computational Statistics, SKS 2, PLO PLO-2, PLO-3; No 3, Code IK525, Sistem Pendukung Keputusan*, SKS 3, PLO PLO-2, PLO-3; No 4, Code IK535, Course Data Visualization, SKS 2, PLO PLO-2, PLO-3, PLO-4; No 5, Code IK545, Course Big Data Platforms, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 6, Code IK555, Course Data Analysis, SKS 2, PLO PLO-2, PLO-3, PLO-4; No 7, Code IK565, Course Time Series Data Analysis, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 8, Code IK575, Course Data Management, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 9, Code IK585, Course Financial Technology, SKS 3, PLO PLO-2, PLO-3, PLO-7"
   },
@@ -412,7 +412,7 @@
     "_id": "cs_proginfo_mapping_kbk6",
     "section": "Mapping PLO versus Courses — Penjurusan/KBK Paket 6: Sistem Informasi",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["KBK/Penjurusan", "Mata Kuliah"],
     "lang": "id",
     "text": "Mapping PLO versus Courses — Penjurusan/KBK Paket 6: Sistem Informasi : No 1, Code IK506, Perencanaan Strategik Sistem Informasi, SKS 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK516, Arsitektur dan Integrasi Aplikasi Perusahaan, SKS 2, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 3, Code IK526, Sistem Informasi Akuntansi*, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 4, Code IK536, Sistem Informasi Pendidikan*, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 5, Code IK546, Audit Sistem Informasi, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 6, Code IK556, IT Infrastructure and Emerging Trends*, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 7, Code IK566, Course Business Intelligence, SKS 2, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 8, Code IK576, Aplikasi Sistem Fungsi Bisnis*, SKS 2, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 9, Code IK586, Sistem Informasi Geografis*, SKS 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7"
   },
@@ -420,7 +420,7 @@
     "_id": "cs_proginfo_mapping_mkppl",
     "section": "Mapping PLO versus Courses — Mata Kuliah Program Pengalaman Lapangan (MKPPL)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan/Mata Kuliah",
+    "type": ["Mata Kuliah"],
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Program Pengalaman Lapangan (MKPPL) : No 1, Code IK590, Program Pengalaman Lapangan (PPL), SKS 4, PLO PLO-2, PLO-3, PLO-4, PLO-7"
   }
