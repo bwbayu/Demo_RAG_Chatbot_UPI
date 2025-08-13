@@ -36,7 +36,7 @@
     "_id": "cs_proginfo_curriculum_003_cg_1_3",
     "section": "Struktur Kurikulum — Kelompok Mata Kuliah (1-3)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Struktur Kurikulum — Kelompok Mata Kuliah (1-3) : 1 - Kelompok mata kuliah umum (MKU) universitas berisi mata kuliah–mata kuliah yang ditawarkan oleh universitas dan harus diambil oleh seluruh mahasiswa UPI tanpa kecuali. Kelompok mata kuliah tersebut terdiri atas mata kuliah agama, Seminar Pendidikan Agama (Islam, Kristen, Katolik, Budha, Konghucu, dan Hindu) dengan beban masing-masing 2 sks, mahasiswa yang mengambil mata kuliah tersebut sesuai dengan agama yang dianutnya. Di samping itu, pada kelompok ini terdapat mata kuliah Pendidikan Bahasa Indonesia, Pendidikan Olahraga, Pendidikan Seni, Pendidikan Kewarganegaraan, Pendidikan Pancasila, dan KKN dengan bobot mata kuliah masing-masing 2 sks. Kelompok mata kuliah ini diberikan dengan tujuan untuk meningkatkan pemahaman dan praktik agama masing-masing yang dianutnya, serta untuk meningkatkan karakter kebangsaan, budaya, cinta tanah air, dan untuk menjaga kebugaran tubuh., 2 - Kelompok mata kuliah dasar kependidikan (MKDK) adalah kelompok mata kuliah yang memberikan bekal kepada mahasiswa terkait dengan ilmu-ilmu kependidikan, pembelajaran, manajemen pendidikan, dan psikologi kependidikan. Kelompok mata kuliah ini wajib diikuti oleh seluruh mahasiswa program studi kependidikan di lingkungan UPI. Kelompok mata kuliah ini memberikan bekal pengetahuan berkenaan dengan didaktik metodik pelaksanaan pembelajaran di kelas, di samping itu kelompok mata kuliah ini juga untuk membedakan antara mahasiswa kependidikan dan non- kependidikan, sehingga pada program studi non-kependidikan mata kelompok mata kuliah ini tidak diberikan., 3 - Kelompok mata kuliah keahlian fakultas (MKKF) yang berbobot 6 sks adalah kelompok mata kuliah yang membedakan antara mahasiswa FPMIPA UPI dengan mahasiswa fakultas lain. Kelompok mata kuliah keahlian fakultas yang diberikan di Fakultas Pendidikan Matematika dan IPA-UPI adalah mata kuliah MSTR (Matematika, Sains, Teknologi, dan Rekayasa) dan AMSTR (Aplikasi Matematika, Sains, Teknologi, dan Rekayasa). Kedua mata kuliah ini menerapkan konsep STEAM (Science, Technology, Engineering, Art, and Mathematics) dalam proses belajar dan pembelajarannya. Kompetensi yang dibekalkan pada ke-dua mata kuliah ini adalah mengembangkan literasi matematika, sains, teknologi, dan rekayasa, serta memecahkan masalah yang ada di dalam kehidupan sehari-hari secara kritis, kreatif, integratif dan multidisipliner melalui kolaborasi di dalam tim dengan menekankan pada komunikasi secara aktif dan efektif dalam mengambil keputusan dengan mempertimbangkan tantangan lokal, regional, dan global, serta membentuk sikap peduli dan toleran terhadap permasalahan sosial, ekonomi, dan lingkungan dalam rangka mewujudkan Pendidikan untuk Pembangunan Berkelanjutan (ESD) dan Tujuan Pembangunan Berkelanjutan (SDGs)."
   },
@@ -44,7 +44,7 @@
     "_id": "cs_proginfo_curriculum_003_cg_4_6",
     "section": "Struktur Kurikulum — Kelompok Mata Kuliah (4-6)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Struktur Kurikulum — Kelompok Mata Kuliah (4-6) : 4 - Kelompok mata kuliah keahlian pembelajaran bidang studi (MKKPBS) adalah kelompok mata kuliah yang memberikan bekal kepada mahasiswa terkait dengan perencanaan pembelajaran, strategi pembelajaran, termasuk pemanfaatan media dan alat peraga pembelajaran, dan evaluasi pembelajaran, yang ditunjang oleh mata kuliah terkait dengan literasi ICT untuk mendukung mata kuliah-mata kuliah yang bernuansa pembelajaran. Melalui kelompok mata kuliah ini diharapkan mahasiswa menguasai pengetahuan dan keterampilan bagaimana merancang, mengimplementasikan, dan mengevaluasi pembelajaran secara tepat (apabila memungkinkan dengan memanfaatkan perangkat ICT). Kelompok mata kuliah ini diperuntukkan bagi mahasiswa program studi kependidikan. Untuk mahasiswa program studi non-pendidikan mata kuliah ini tidak diberikan., 5 - Kelompok mata kuliah inti program studi (MKIPS) dan kelompok mata kuliah keahlian pilihan program studi (MKKPPS) adalah dua kelompok mata kuliah yang merupakan kelompok mata kuliah khusus yang menjadi ciri khas dari masing-masing program studi, dalam hal ini Program Studi Pendidikan Matematika, Program Studi Matematika, Program Studi Pendidikan Ilmu Komputer dan Program Studi Ilmu Komputer. MKKPPS adalah kumpulan mata kuliah yang memberikan bekal kepada mahasiswa untuk memperluas kemampuan supaya dapat mengkaji implikasi pengembangan atau implementasi ilmu pengetahuan dan teknologi dengan memperhatikan dan menerapkan tata cara dan etika ilmiah dalam rangka menghasilkan solusi, gagasan, desain, menyusun deskripsi saintifik hasil kajiannya dalam bentuk laporan yang dipublikasikan. Disamping itu juga membekali keterampilan untuk mengambil keputusan yang tepat dan profesional berdasarkan hasil analisis terhadap data, serta dapat memilih berbagai solusi alternatif secara mandiri dan kelompok dalam memecahkan persoalan di lingkungan pekerjaan dengan atau tanpa menggunakan piranti lunak."
   },
@@ -52,7 +52,7 @@
     "_id": "cs_proginfo_curriculum_003_expertise",
     "section": "Struktur Kurikulum — Kelompok mata kuliah bidang keahlian",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Struktur Kurikulum — Kelompok mata kuliah bidang keahlian : Rekayasa perangkat lunak, teknik komputer dan sistem jaringan, multimedia dan desain, kontrol robotika, kecerdasan buatan, dan IOT, big data analysis, dan sistem informasi."
   },
@@ -60,7 +60,7 @@
     "_id": "cs_proginfo_curriculum_003_credits",
     "section": "Struktur Kurikulum — Jumlah SKS Mata Kuliah",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Struktur Kurikulum — Jumlah SKS Mata Kuliah : Mata Kuliah Umum (MKU) : 14 SKS, Mata Kuliah Kekhasan Universitas (MKKU) : 2 SKS, Mata Kuliah Keahlian Fakultas (MKKF) : 6 SKS, Mata Kuliah Keahlian Inti Program Studi (MKKIPS) : 102 SKS, Mata Kuliah Pilihan Keahlian Program Studi (MKKPS) : 9 SKS, Mata Kuliah Program Pengalaman Lapangan (MKPPL) : 4 SKS"
   },
@@ -76,7 +76,7 @@
     "_id": "cs_proginfo_courses_001_s1_s2",
     "section": "Daftar dan Distribusi Mata Kuliah — Semester 1–2",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Daftar dan Distribusi Mata Kuliah — Semester 1–2 : Semester 1 (total sks: 18): No 1, Code KU100, Pendidikan Agama, SKS 2; No 2, Code KU105, Pendidikan Kewarganegaraan, SKS 2; No 3, Code KU106, Bahasa Indonesia, SKS 2; No 4, Code IK111, Programming Fundamentals, SKS 4; No 5, Code IK112, Algebra and Number Theory, SKS 4; No 6, Code IK113, Discrete and Numerical Methods, SKS 4. Semester 2 (total sks: 18): No 1, Code KU110, Pendidikan Pancasila, SKS 2; No 2, Code IK121, Algorithms & Data Structures, SKS 4; No 3, Code IK211, Subject Language Theory and Compilation, SKS 4; No 4, Code IK123, Subject Statistics and Data Analysis, SKS 4; No 5, Code IK112, Subject Algebra and Number Theory, SKS 4; No 6, Code IK213, Subject Database Management Systems, SKS 4."
   },
@@ -84,7 +84,7 @@
     "_id": "cs_proginfo_courses_001_s3_s4",
     "section": "Daftar dan Distribusi Mata Kuliah — Semester 3–4",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Daftar dan Distribusi Mata Kuliah — Semester 3–4 : Semester 3 (total sks: 22): No 1, Code KU300, Seminar Pendidikan Agama, SKS 2; No 2, Code KU108/KU119, Olahraga dan Kebugaran /Apresiasi Seni, SKS 2; No 3, Code DK300, Landasan Pendidikan, SKS 2; No 4, Code IK221, Subject Digital and Computer Systems, SKS 4; No 5, Code IK212, Subject Object Oriented Design and Programming, SKS 4; No 6, Code IK214, Subject Artificial Intelligence, SKS 4; No 7, Code IK223, Subject Web and Mobile programming, SKS 4. Semester 4 (total sks: 23): No 1, Code PT400, KETERAMPILAN BERBAHASA INGGRIS, SKS 3; No 2, Code IK122, Subject Operating Systems and Networks, SKS 4; No 3, Code IK224, Subject Microcontroller Programming and Applications, SKS 4; No 4, Code IK222, Subject Machine Learning, SKS 4; No 5, Code IK215, Subject Distributed Parallel and Cloud Computing, SKS 4; No 6, Code IK225, Subject Software Engineering and Project Management, SKS 4."
   },
@@ -92,7 +92,7 @@
     "_id": "cs_proginfo_courses_001_s5_s6",
     "section": "Daftar dan Distribusi Mata Kuliah — Semester 5–6",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Daftar dan Distribusi Mata Kuliah — Semester 5–6 : Semester 5 (total sks: 10): No 1, Code , MK1 Konversi MBKM, SKS 3; No 2, Code , MK2 Konversi MBKM, SKS 3; No 3, Code , MK3 Konversi MBKM, SKS 4. Semester 6 (total sks: 24): No 1, Code IK321, Subject Cryptography and Information Systems Security, SKS 4; No 2, Code IK427, Subject Multimedia and Human-Computer Interaction, SKS 3; No 3, Code IK323, Subject Internet of Things Fundamentals, SKS 4; No 4, Code IK322, Subject Information Systems and Technology, SKS 4; No 5, Code , MK Pilihan KBK, SKS 3; No 6, Code , MK Pilihan KBK, SKS 3; No 7, Code , MK Pilihan KBK, SKS 3."
   },
@@ -100,7 +100,7 @@
     "_id": "cs_proginfo_courses_001_s7_s8",
     "section": "Daftar dan Distribusi Mata Kuliah — Semester 7–8",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Daftar dan Distribusi Mata Kuliah — Semester 7–8 : Semester 7 (total sks: 22): No 1, Code IK417, Subject Research Methods and Seminars, SKS 4; No 2, Code IK418, Proyek Konsultansi, SKS 3; No 3, Code , MK Pilihan KBK, SKS 4; No 4, Code , MK Pilihan KBK, SKS 4; No 5, Code , MK Pilihan KBK, SKS 4; No 6, Code , MK Pilihan KBK, SKS 3. Semester 8 (total sks: 9): No 1, Code IK588, Subject Undergraduate Thesis, SKS 6; No 2, Code IK428, Kewirausahaan, SKS 3."
   },
@@ -108,7 +108,7 @@
     "_id": "cs_proginfo_courses_001_summary",
     "section": "List and Distribution of Courses — Summary",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "List and Distribution of Courses — Summary : total mata kuliah: 41, total SKS: 146"
   },
@@ -116,7 +116,7 @@
     "_id": "cs_proginfo_kbk_001_pkg1",
     "section": "KBK — Paket 1: KBK Rekayasa Perangkat Lunak",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Penjurusan/KBK — Paket 1: KBK Rekayasa Perangkat Lunak: No 1, Code IK423, Subject Digital Forensics, SKS 3; No 2, Code IK424, Subject Security Governance: Analysis and Engineering, SKS 3; No 3, Code IK425, Subject Cyber Physical Systems, SKS 3; No 4, Code IK511, Subject Industrial IoT, SKS 4; No 5, Code IK512, Subject Lightweight Cryptography and IoT Security, SKS 3; No 6, Code IK513, Subject Digital and Embedded Systems Design, SKS 4; No 7, Code IK514, Subject Elliptic Curve Cryptography, SKS 4."
   },
@@ -124,7 +124,7 @@
     "_id": "cs_proginfo_kbk_001_pkg2",
     "section": "KBK — Paket 2: KBK Robotika, Kecerdasan Buatan, dan Internet Of Thing (IoT)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Penjurusan/KBK — Paket 2: KBK Robotika, Kecerdasan Buatan, dan Internet Of Thing (IoT): No 1, Code IK423, Subject Digital Forensics, SKS 3; No 2, Code IK424, Subject Security Governance: Analysis and Engineering, SKS 3; No 3, Code IK425, Subject Cyber Physical Systems, SKS 3; No 4, Code IK511, Subject Industrial IoT, SKS 3; No 5, Code IK512, Subject Lightweight Cryptography and IoT Security, SKS 4; No 6, Code IK513, Subject Digital and Embedded Systems Design, SKS 3; No 7, Code IK514, Subject Elliptic Curve Cryptography, SKS 3; No 8, Code IK531, Subject Data Warehouse, SKS 4; No 9, Code IK532, Subject Data Mining, SKS 4; No 10, Code IK533, Subject Time Series Analysis, SKS 4; No 11, Code IK534, Subject Knowledge Base Systems, SKS 3; No 12, Code IK535, Subject Intelligent Audio Processing, SKS 3; No 13, Code IK536, Subject Social Media Analysis, SKS 3; No 14, Code IK537, Subject Generative Artificial Intelligence, SKS 4."
   },
@@ -132,7 +132,7 @@
     "_id": "cs_proginfo_kbk_001_pkg3",
     "section": "KBK — Paket 3: KBK Multimedia dan Desain",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Penjurusan/KBK — Paket 3: KBK Multimedia dan Desain: No 1, Code IK463, Subject Software Quality Assurance, SKS 3, Semester 6; No 2, Code IK464, Subject Software Testing and Maintenance, SKS 3, Semester 6; No 3, Code IK465, Subject Integrated Enterprise Information Systems, SKS 3, Semester 6; No 4, Code IK551, Subject IT Strategic Planning, SKS 4, Semester 7; No 5, Code IK552, Subject E-Business, SKS 4, Semester 7; No 6, Code IK553, Subject Business Intelligence, SKS 3, Semester 7; No 7, Code IK554, Subject Decision Support Systems, SKS 3, Semester 7; No 8, Code IK555, Subject Information Systems Audit, SKS 4, Semester 7; No 9, Code IK556, Subject Business Process Management, SKS 4, Semester 7."
   },
@@ -140,7 +140,7 @@
     "_id": "cs_proginfo_kbk_001_pkg4",
     "section": "KBK — Paket 4: KBK Smart Multimedia dan Game",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Penjurusan/KBK — Paket 4: KBK Smart Multimedia dan Game: No 1, Code IK481, Subject Digital Multimedia Data Processing, SKS 3; No 2, Code IK483, Subject Computer Graphics, SKS 3; No 3, Code IK485, Subject Animation Techniques, SKS 3; No 4, Code IK487, Subject Game Narrative Design, SKS 3; No 5, Code IK489, Subject Game Programming, SKS 3; No 6, Code IK580, Subject Game Production Techniques, SKS 4; No 7, Code IK582, Subject Intelligent Multimedia, SKS 4; No 8, Code IK584, Subject Adaptive Learning Systems, SKS 4; No 9, Code IK556, Subject Metaverse Technology, SKS 4; No 10, Code IK588, Subject Capstone Project Smart Multimedia, SKS 4."
   },
@@ -300,7 +300,7 @@
     "_id": "cs_proginfo_mapping_mku_part1",
     "section": "Mapping PLO versus Courses — Mata Kuliah Umum (MKU) (Part 1/2)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Umum (MKU) (Part 1/2) : No 1, Code KU100, Pendidikan Agama Islam, SKS 2, PLO PLO-1; No 2, Code KU101, Pendidikan Agama Kristen Protestan, SKS 2, PLO PLO-1; No 3, Code KU102, Pendidikan Agama Kristen Katolik, SKS 2, PLO PLO-1; No 4, Code KU103, Pendidikan Agama Hindu, SKS 2, PLO PLO-1; No 5, Code KU104, Pendidikan Agama Budha, SKS 2, PLO PLO-1; No 6, Code KU109, Pendidikan Agama Khonghucu, SKS 2, PLO PLO-1; No 7, Code KU110, Pendidikan Pancasila, SKS 2, PLO PLO-1, PLO-2; No 8, Code KU105, Pendidikan Kewarganegaraan, SKS 2, PLO PLO-1, PLO-2; No 9, Code KU106, Pendidikan Bahasa Indonesia, SKS 2, PLO PLO-1; No 10, Code KU108, Pendidikan Jasmani dan Olahraga*, SKS 2, PLO PLO-1, PLO-2"
   },
@@ -308,7 +308,7 @@
     "_id": "cs_proginfo_mapping_mku_part2",
     "section": "Mapping PLO versus Courses — Mata Kuliah Umum (MKU) (Part 2/2)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Umum (MKU) (Part 2/2) : No 11, Code KU119, Pendidikan Kesenian*, SKS 2, PLO PLO-1, PLO-2; No 12, Code KU300, Seminar Pendidikan Agama Islam, SKS 2, PLO PLO-1; No 13, Code KU301, Seminar Pendidikan Agama Islam, SKS 2, PLO PLO-1; No 14, Code KU302, Seminar Pendidikan Agama Kristen Katolik, SKS 2, PLO PLO-1; No 15, Code KU303, Seminar Pendidikan Agama Hindu, SKS 2, PLO PLO-1; No 16, Code KU304, Seminar Pendidikan Agama Budha, SKS 2, PLO PLO-1; No 17, Code KU309, Seminar Pendidikan Agama Khonghucu, SKS 2, PLO PLO-1; No 18, Code KU400, Kuliah Kerja Nyata (KKN), SKS 2, PLO PLO-1, PLO-2"
   },
@@ -316,7 +316,7 @@
     "_id": "cs_proginfo_mapping_mkku",
     "section": "Mapping PLO versus Courses — Mata Kuliah Kekhasan Universitas (MKKU)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Kekhasan Universitas (MKKU) : No 1, Code HU300, Pengantar Pendidikan, SKS 2, PLO PLO-1, PLO-2"
   },
@@ -324,7 +324,7 @@
     "_id": "cs_proginfo_mapping_mkkf",
     "section": "Mapping PLO versus Courses — Mata Kuliah Keahlian Fakultas (MKKF)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Keahlian Fakultas (MKKF) : No 1, Code MA100, CMSTR (Matematika, Sains, Teknologi dan Rekayasa), SKS 3, PLO PLO-2; No 2, Code MA101, Aplikasi MSTR (Matematika, Sains, Teknologi dan Rekayasa), SKS 3, PLO PLO-2"
   },
@@ -332,7 +332,7 @@
     "_id": "cs_proginfo_mapping_mkkips_part1",
     "section": "Mapping PLO versus Courses — Mata Kuliah Keahlian Inti Program Studi (MKKIPS) (Part 1/4)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Keahlian Inti Program Studi (MKKIPS) (Part 1/4) : No 1, Code IK100, Algoritma dan Pemrograman 1, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 2, Code IK110, Kalkulus, SKS 3, PLO PLO-2, PLO-3; No 3, Code IK120, Paradigma Pemrograman, SKS 2, PLO PLO-2, PLO-3, PLO-7; No 4, Code IK130, Logika Informatika, SKS 3, PLO PLO-2, PLO-3; No 5, Code IK140, Bahasa Inggris, SKS 2, PLO PLO-1, PLO-2; No 6, Code IK150, Statistika, SKS 2, PLO PLO-2, PLO-3; No 7, Code IK160, Algoritma dan Pemrograman 2, SKS 3, PLO PLO-2, PLO-3, PLO-7; No 8, Code IK170, Sistem Basis Data, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 9, Code IK180, Aljabar Linier dan Matriks, SKS 2, PLO PLO-2, PLO-3; No 10, Code IK190, Etika Profesi Teknologi Informasi dan Komunikasi, SKS 2, PLO PLO-2, PLO-3"
   },
@@ -340,7 +340,7 @@
     "_id": "cs_proginfo_mapping_mkkips_part2",
     "section": "Mapping PLO versus Courses — Mata Kuliah Keahlian Inti Program Studi (MKKIPS) (Part 2/4)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Keahlian Inti Program Studi (MKKIPS) (Part 2/4) : No 11, Code IK200, Arsitektur dan Organisasi Komputer, SKS 3, PLO PLO-2, PLO-3; No 12, Code IK210, Metode Numerik, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 13, Code IK220, Sistem Kontrol, SKS 3, PLO PLO-2, PLO-3; No 14, Code IK230, Design dan Pemrograman Web, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 15, Code IK240, Struktur Data, SKS 3, PLO PLO-2, PLO-3; No 16, Code IK250, Sistem Operasi, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 17, Code IK260, Teori Bahasa dan Automata, SKS 3, PLO PLO-2, PLO-3, PLO-4; No 18, Code IK270, Rekayasa Perangkat Lunak, SKS 3, PLO PLO-2, PLO-3; No 19, Code IK280, Kecerdasan Buatan, SKS 3, PLO PLO-2, PLO-3, PLO-4; No 20, Code IK290, Desain dan Pemrograman Berorientasi Objek, SKS 3, PLO PLO-2, PLO-3, PLO-4"
   },
@@ -348,7 +348,7 @@
     "_id": "cs_proginfo_mapping_mkkips_part3",
     "section": "Mapping PLO versus Courses — Mata Kuliah Keahlian Inti Program Studi (MKKIPS) (Part 3/4)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Keahlian Inti Program Studi (MKKIPS) (Part 3/4) : No 21, Code IK207, Jaringan Komputer, SKS 3, PLO PLO-2, PLO-3, PLO-4; No 22, Code IK217, Sistem Informasi, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 23, Code IK227, Teknik Riset Operasi, SKS 2, PLO PLO-2, PLO-3, PLO-4; No 24, Code IK237, Analisis dan Desain Algoritma, SKS 3, PLO PLO-2, PLO-3, PLO-4; No 25, Code IK300, Pemrogrman Visual dan Piranti Bergerak, SKS 3, PLO PLO-2, PLO-3, PLO-4; No 26, Code IK310, Kriptografi, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 27, Code IK320, Grafika Komputer dan Multimedia, SKS 3, PLO PLO-2, PLO-3, PLO-4; No 28, Code IK330, Manajemen Proyek Perangkat Lunak, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 29, Code IK340, Sistem Cerdas, SKS 2, PLO PLO-2, PLO-3, PLO-4; No 30, Code IK350, Interaksi Manusia dan Komputer, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7"
   },
@@ -356,7 +356,7 @@
     "_id": "cs_proginfo_mapping_mkkips_part4",
     "section": "Mapping PLO versus Courses — Mata Kuliah Keahlian Inti Program Studi (MKKIPS) (Part 4/4)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Keahlian Inti Program Studi (MKKIPS) (Part 4/4) : No 31, Code IK360, Kapita Selekta, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 32, Code IK370, Teknik Simulasi dan Pemodelan, SKS 2, PLO PLO-2, PLO-3; No 33, Code IK380, Basis Data Non Relational, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 34, Code IK400, Metodologi Penelitian, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 35, Code IK410, Kewirausahaan Ilmu Komputer, SKS 2, PLO PLO-2, PLO-3, PLO-4; No 36, Code IK420, Seminar, SKS 2, PLO PLO-5, PLO-6, PLO-7; No 37, Code IK430, E-Business, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 38, Code IK598, Skripsi, SKS 6, PLO PLO-1, PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 39, Code IK599, Sidang, SKS 0, PLO PLO-2, PLO-3, PLO-7"
   },
@@ -364,7 +364,7 @@
     "_id": "cs_proginfo_mapping_mkkps",
     "section": "Mapping PLO versus Courses — EMata Kuliah Pilihan Keahlian Program Studi (MKKPS)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Pilihan Keahlian Program Studi (MKKPS) : No 1, Code IK500, Course Machine Learning, SKS 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK510, Komputasi Paralel dan Terdistribusi, SKS 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 3, Code IK520, Project Keahlian, SKS 3, PLO PLO-2, PLO-4; No 4, Code IK530, Course Mobile Application Development, SKS 3, PLO PLO-2, PLO-4"
   },
@@ -372,7 +372,7 @@
     "_id": "cs_proginfo_mapping_kbk1",
     "section": "Mapping PLO versus Courses — Penjurusan/KBK Paket 1: Rekayasa Perangkat Lunak",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Mapping PLO versus Courses — Penjurusan/KBK Paket 1: Rekayasa Perangkat Lunak : No 1, Code IK501, Pengujian dan Pemeliharaan Perangkat Lunak, SKS 2, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK511, Rekayasa Aplikasi Kemaritiman*, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 3, Code IK521, Course Service Computing Engineering, SKS 2, PLO PLO-2, PLO-3, PLO-7; No 4, Code IK531, Course Game Application Development, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 5, Code IK541, Teknik Interfacing*, SKS 3, PLO PLO-2, PLO-3, PLO-7; No 6, Code IK551, Manajemen Kualitas Perangkat Lunak, SKS 3, PLO PLO-2, PLO-3, PLO-5, PLO-6, PLO-7; No 7, Code IK561, Rekayasa Aplikasi Bisnis, SKS 2, PLO PLO-2, PLO-3, PLO-7; No 8, Code IK571, Rekayasa Informasi*, SKS 3, PLO PLO-2, PLO-3, PLO-7; No 9, Code IK581, Course Software Quality Assurance, SKS 2, PLO PLO-2, PLO-3, PLO-5, PLO-6, PLO-7; No 10, Code IK591, Teknik Kompilasi*, SKS 3, PLO PLO-2, PLO-3, PLO-7"
   },
@@ -380,7 +380,7 @@
     "_id": "cs_proginfo_mapping_kbk2",
     "section": "Mapping PLO versus Courses — Penjurusan/KBK Paket 2: Robotika, Kecerdasan Buatan, dan Internet Of Thing (IoT)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Mapping PLO versus Courses — Penjurusan/KBK Paket 2: Robotika, Kecerdasan Buatan, dan Internet Of Thing (IoT) : No 1, Code IK502, Pengolahan Citra Digital, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK512, Course Intelligent Games, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 3, Code IK522, Pengolahan Bahasa Alami, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 4, Code IK532, Course Deep Learning, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 5, Code IK542, Course Computer Vision, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 6, Code IK552, Course Internet of Things, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 7, Code IK562, Kontrol dan Robotika, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 8, Code IK572, Course Expert System, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 9, Code IK582, Course Speech Recognition and Synthesis, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7"
   },
@@ -388,7 +388,7 @@
     "_id": "cs_proginfo_mapping_kbk3",
     "section": "Mapping PLO versus Courses — Penjurusan/KBK Paket 3: Multimedia dan Desain",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Mapping PLO versus Courses — Penjurusan/KBK Paket 3: Multimedia dan Desain : No 1, Code IK503, Teknik Audio dan Video, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 2, Code IK513, Course Game Programming, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 3, Code IK523, Course Visual Communication Design, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 4, Code IK533, Course Audio and Video Manipulation, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 5, Code IK543, Course Multimedia Production, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 6, Code IK553, Sosial dan Inovasi Media, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 7, Code IK563, Teknik Animasi*, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 8, Code IK573, Course Open Distance Learning, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7"
   },
@@ -396,7 +396,7 @@
     "_id": "cs_proginfo_mapping_kbk4",
     "section": "Mapping PLO versus Courses — Penjurusan/KBK Paket 4: Teknik Komputer dan Sistem Jaringan",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Mapping PLO versus Courses — Penjurusan/KBK Paket 4: Teknik Komputer dan Sistem Jaringan : No 1, Code IK504, Course Mobile Networking, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 2, Code IK514, Teknologi Cloud*, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 3, Code IK524, Administrasi Jaringan, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 4, Code IK534, Teknologi Nirkabel*, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 5, Code IK544, Komputer Forensik, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 6, Code IK554, Desain Jaringan Telekomunikasi*, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 7, Code IK564, Keamanan Sistem Informasi, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 8, Code IK574, Jaringan Komputer Lanjut*, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7"
   },
@@ -404,7 +404,7 @@
     "_id": "cs_proginfo_mapping_kbk5",
     "section": "Mapping PLO versus Courses — Penjurusan/KBK Paket 5: Big Data Analysis",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Mapping PLO versus Courses — Penjurusan/KBK Paket 5: Big Data Analysis : No 1, Code IK505, Course Data Mining and Warehouse, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 2, Code IK515, Course Computational Statistics, SKS 2, PLO PLO-2, PLO-3; No 3, Code IK525, Sistem Pendukung Keputusan*, SKS 3, PLO PLO-2, PLO-3; No 4, Code IK535, Course Data Visualization, SKS 2, PLO PLO-2, PLO-3, PLO-4; No 5, Code IK545, Course Big Data Platforms, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 6, Code IK555, Course Data Analysis, SKS 2, PLO PLO-2, PLO-3, PLO-4; No 7, Code IK565, Course Time Series Data Analysis, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 8, Code IK575, Course Data Management, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-7; No 9, Code IK585, Course Financial Technology, SKS 3, PLO PLO-2, PLO-3, PLO-7"
   },
@@ -412,7 +412,7 @@
     "_id": "cs_proginfo_mapping_kbk6",
     "section": "Mapping PLO versus Courses — Penjurusan/KBK Paket 6: Sistem Informasi",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "KBK/Penjurusan",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Mapping PLO versus Courses — Penjurusan/KBK Paket 6: Sistem Informasi : No 1, Code IK506, Perencanaan Strategik Sistem Informasi, SKS 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK516, Arsitektur dan Integrasi Aplikasi Perusahaan, SKS 2, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 3, Code IK526, Sistem Informasi Akuntansi*, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 4, Code IK536, Sistem Informasi Pendidikan*, SKS 3, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 5, Code IK546, Audit Sistem Informasi, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 6, Code IK556, IT Infrastructure and Emerging Trends*, SKS 2, PLO PLO-2, PLO-3, PLO-4, PLO-5, PLO-6, PLO-7; No 7, Code IK566, Course Business Intelligence, SKS 2, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 8, Code IK576, Aplikasi Sistem Fungsi Bisnis*, SKS 2, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 9, Code IK586, Sistem Informasi Geografis*, SKS 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7"
   },
@@ -420,7 +420,7 @@
     "_id": "cs_proginfo_mapping_mkppl",
     "section": "Mapping PLO versus Courses — Mata Kuliah Program Pengalaman Lapangan (MKPPL)",
     "title": "Informasi Program Studi Ilmu Komputer",
-    "type": "Mata Kuliah",
+    "type": "KBK/Penjurusan/Mata Kuliah",
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Program Pengalaman Lapangan (MKPPL) : No 1, Code IK590, Program Pengalaman Lapangan (PPL), SKS 4, PLO PLO-2, PLO-3, PLO-4, PLO-7"
   }
