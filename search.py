@@ -49,7 +49,8 @@ def classify_query(query):
     Query: {query}
     """
     prompt = ChatPromptTemplate.from_template(template)
-    model = ChatOpenAI(model_name="gpt-4o-mini")  # Gunakan model yang sesuai, misalnya o4-mini seperti di context_generation
+    # gpt-4.1-mini / gpt-4.1-nano / o4-mini
+    model = ChatOpenAI(model_name="gpt-4.1-nano")
     chain = prompt | model
     response = chain.invoke({"types": TYPES, "query": query})
     classified_type = response.content.strip()
@@ -192,12 +193,11 @@ def context_generation(query, contexts, chat_history):
     {query}
 
     Catatan Tambahan:
-    1. Jika ada yang bertanya terkait penjurusan berikan penjurusan KBK dari paket 1-4 atau paket 1-6
-    2. Jika memang tidak ada di konteks suruh user berikan pertanyaan yang lebih detail
+    1. Jika memang tidak ada di konteks suruh user berikan pertanyaan yang lebih detail
     """
 
     prompt = ChatPromptTemplate.from_template(template)
-    model = ChatOpenAI(model_name="o4-mini")
+    model = ChatOpenAI(model_name="gpt-4.1-nano")
     chain = prompt | model
     response = chain.invoke(
         {
