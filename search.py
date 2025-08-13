@@ -36,32 +36,41 @@ bm25 = BM25Encoder(stem=False)
 create_corpus_train_bm25_model(bm25)
 
 # List of types
-TYPES = ['Sejarah', 'ProgramInfo', 'kompetensi', 'VisiMisi', 'Fasilitas', "Mata Kuliah", 'KBK/Penjurusan', 'Metode Pengajaran', 'Proses Penilaian', 'Other']
+TYPES = ['Sejarah', 'ProgramInfo', 'kompetensi', 'VisiMisi', 'Fasilitas', 'KBK/Penjurusan/Mata Kuliah', 'Metode Pengajaran', 'Proses Penilaian', 'Other']
 
-def classify_query(query):
-    template = """Klasifikasikan query berikut ke salah satu kategori dari list ini: {types}.
-    Jika query sangat cocok dengan salah satu kategori, kembalikan nama kategorinya.
-    Jika ada yang bertanya terkait profil kualifikasi lulusan, capaian pembelajaran masukkan ke kategori ProgramInfo.
-    Jika tidak yakin atau tidak cocok dengan kategori spesifik, kembalikan 'Other'.
-    Hanya kembalikan nama kategori saja, tanpa penjelasan tambahan.
-
+def classify_query(query, chat_history):
+    template = """Klasifikasikan query berikut dan, jika ada, riwayat obrolan ke dalam satu atau lebih kategori dari list ini: {types}.
+    Kembalikan daftar kategori yang relevan dalam format JSON (misalnya, ["ProgramInfo", "Fasilitas"]).
+    Jika ada yang bertanya terkait profil kualifikasi lulusan, capaian pembelajaran masukkan ke kategori ["ProgramInfo"].
+    Jika ada yang bertanya terkait tujuan masukkan ke kategori ["VisiMisi"]
+    Jika ada yang bertanya terkait program magang atau internship atau KKN masukkan ke kategori ["KBK/Penjurusan/Mata Kuliah]
+    Jika tidak ada kategori spesifik yang cocok atau Anda tidak yakin, kembalikan ["Other"].
+    Hanya kembalikan daftar kategori dalam format JSON, tanpa penjelasan tambahan.
 
     Query: {query}
+
+    Riwayat obrolan:
+    {chat_history}
     """
     prompt = ChatPromptTemplate.from_template(template)
     # gpt-4.1-mini / gpt-4.1-nano / o4-mini
-    model = ChatOpenAI(model_name="gpt-4.1-nano")
+    model = ChatOpenAI(model_name="gpt-4.1-mini")
     chain = prompt | model
-    response = chain.invoke({"types": TYPES, "query": query})
-    classified_type = response.content.strip()
-    if classified_type not in TYPES:
-        classified_type = 'Other'
-    return classified_type
+    try:
+        response = chain.invoke({"types": TYPES, "query": query, "chat_history": chat_history})
+        classified_types = json.loads(response.content.strip())
+        # Validate that all returned types are in TYPES
+        classified_types = [t for t in classified_types if t in TYPES]
+        # If no valid types or empty, return ["Other"]
+        return classified_types if classified_types else ["Other"]
+    except json.JSONDecodeError as e:
+        print(f"Failed to parse classify_query response: {response.content}, error: {str(e)}")
+        return ["Other"]
 
-def search_dense_index(text: str, filter_type=None):
+def search_dense_index(text: str, filter_types=None):
     filter_query = {}
-    if filter_type and filter_type != 'Other':
-        filter_query = {"type": filter_type}
+    if filter_types and filter_types != ["Other"]:
+        filter_query = {"type": {"$in": filter_types}}
     
     dense_response = index_dense.query(
         namespace=NAMESPACE,
@@ -81,13 +90,12 @@ def search_dense_index(text: str, filter_type=None):
             "similarity": item.get('score', 0.0),
             "metadata": md
         })
-
     return dense_results
 
-def search_sparse_index(text: str, filter_type=None):
+def search_sparse_index(text: str, filter_types=None):
     filter_query = {}
-    if filter_type and filter_type != 'Other':
-        filter_query = {"type": filter_type}
+    if filter_types and filter_types != ["Other"]:
+        filter_query = {"type": {"$in": filter_types}}
     
     sparse_response = index_sparse.query(
         namespace=NAMESPACE,
@@ -107,7 +115,6 @@ def search_sparse_index(text: str, filter_type=None):
             "similarity": item.get('score', 0.0),
             "metadata": md
         })
-
     return sparse_results
 
 """
@@ -176,49 +183,55 @@ def reranking_results(query, docs, fused_results):
         print(f"Error in reranking: {response.status_code} - {response.text}")
         return fused_results
 
-def context_generation(query, contexts, chat_history):
+def context_generation(query, contexts, chat_history, streaming=True):
     context = "\n\n".join([data['metadata'].get("text", "") for data in contexts])
     template = """Anda adalah asisten AI yang menjawab pertanyaan berdasarkan konteks yang diberikan dan, jika ada, riwayat obrolan.
     Gunakan hanya informasi yang relevan dengan pertanyaan. Abaikan konteks yang tidak relevan atau ambigu.
+    Jika memang tidak ada di konteks suruh user berikan pertanyaan yang lebih detail. Prioritaskan ini dibandingkan "Saya tidak tahu." 
     Jika jawaban tidak dapat ditentukan dari informasi yang diberikan, jawablah dengan: "Saya tidak tahu.".
     Jangan berikan penjelasan yang tidak ada di konteks.
 
     Konteks:
     {context}
 
-    Riwayat obrolan:
-    {chat_history}
-
     Pertanyaan:
     {query}
 
-    Catatan Tambahan:
-    1. Jika memang tidak ada di konteks suruh user berikan pertanyaan yang lebih detail
+    Riwayat obrolan:
+    {chat_history}
+
     """
 
     prompt = ChatPromptTemplate.from_template(template)
-    model = ChatOpenAI(model_name="gpt-4.1-nano")
+    model = ChatOpenAI(model_name="gpt-4.1-mini", streaming=streaming)
     chain = prompt | model
-    response = chain.invoke(
-        {
-            "context": context, 
+    if(streaming == False):
+        # Output Bulk
+        response = chain.invoke(
+            {
+                "context": context, 
+                "query": query,
+                "chat_history": chat_history
+            }
+        )
+
+        return response.content
+    else:
+        # Output Streaming
+        return chain.stream({
+            "context": context,
             "query": query,
             "chat_history": chat_history
-        }
-    )
-    # print("Question : ", query)
-    # print("Response : ")
-    # print(response.content)
-    return response.content
+        })
 
-def RAG_pipeline(query, chat_history):
+def RAG_pipeline(query, chat_history, streaming=True):
     # Klasifikasikan query terlebih dahulu
-    classified_type = classify_query(query)
+    classified_type = classify_query(query, chat_history)
     print(classified_type)
     # query = "explain the internship program in computer science department"
     # search top k result
-    dense_results = search_dense_index(query, filter_type=classified_type)
-    sparse_results = search_sparse_index(query, filter_type=classified_type)
+    dense_results = search_dense_index(query, filter_types=classified_type)
+    sparse_results = search_sparse_index(query, filter_types=classified_type)
     # fused dense and sparse result using RRF
     fused_results = rrf_fusion(dense_results, sparse_results)
     # extract text data for reranking
@@ -226,6 +239,5 @@ def RAG_pipeline(query, chat_history):
     contexts = reranking_results(query, docs, fused_results)
     # print("Reranked Results:")
     # print(json.dumps(contexts, indent=4))
-    response = context_generation(query, contexts, chat_history)
     
-    return response
+    return context_generation(query, contexts, chat_history, streaming=streaming)

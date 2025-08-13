@@ -32,11 +32,18 @@ if user_question:
 
         st.session_state.messages.append(HumanMessage(user_question))
 
-    # get response from RAG
-    ai_message = RAG_pipeline(query=user_question, chat_history=chat_history)
-
-    # add AI message to chat history and display it
     with st.chat_message("assistant"):
-        st.markdown(ai_message)
-
-        st.session_state.messages.append(AIMessage(ai_message))
+        # Placeholder untuk menampilkan streaming response
+        response_container = st.empty()
+        full_response = ""
+        
+        # Call RAG_pipeline and get the streaming response
+        stream = RAG_pipeline(query=user_question, chat_history=chat_history)
+        
+        # Stream the response using st.write_stream
+        for chunk in stream:
+            full_response += chunk.content
+            response_container.markdown(full_response)
+        
+        # Add final AI message to chat history
+        st.session_state.messages.append(AIMessage(full_response))
