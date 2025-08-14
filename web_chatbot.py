@@ -3,8 +3,8 @@ from langchain_core.messages import AIMessage, HumanMessage
 from search import RAG_pipeline
 from PIL import Image
 
-# max history chat (6 bot, 6 human)
-MAX_TURNS = 12 
+# max history chat (5 bot, 5 human)
+MAX_TURNS = 10
 im = Image.open("assets/logo.png")
 # init streamlit app
 st.set_page_config(page_title="Chatbot CSE UPI", page_icon=im)
@@ -27,7 +27,7 @@ for message in st.session_state.messages:
 def disable_chat_input():
     st.session_state.processing = True
 
-# Ask anything about Computer Science UPI
+# input chat
 user_question = st.chat_input(
     "Tanyakan apa saja tentang Ilmu Komputer UPI",
     disabled=st.session_state.processing,

@@ -208,8 +208,6 @@
     "lang": "id",
     "text": "Proses Penilaian - Deskripsi (Part 5, Segment 5/11) : Sistem penilaian pada empat program studi, meliputi proses dan hasil belajar mahasiswa. Sistem ini meliputi penilaian yang bersifat formatif dan bersifat sumatif. Penilaian formatif bertujuan untuk memperoleh informasi yang dapat digunakan untuk perbaikan proses pembelajaran (program delivery), adapun penilaian sumatif digunakan untuk menilai ketercapaian hasil belajar mahasiswa (learning outcome). Panduan penilaian secara umum mengikuti Pedoman Penyelenggaraan Pendidikan UPI yang dapat diakses pada laman http://www3.upi.edu/main/file/akademik"
   },
-  
-  
   {
     "_id": "cs_proginfo_exam_001_desc_p5_s06",
     "section": "Proses Penilaian - Deskripsi (Part 5, Segment 6/11)",
@@ -290,8 +288,6 @@
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Kekhasan Universitas (MKKU) : No 1, Code HU300, Pengantar Pendidikan, SKS 2, PLO PLO-1, PLO-2"
   },
-
-  
   {
     "_id": "cs_proginfo_mapping_mkkf",
     "section": "Mapping PLO versus Courses — Mata Kuliah Keahlian Fakultas (MKKF)",
@@ -340,8 +336,6 @@
     "lang": "id",
     "text": "Mapping PLO versus Courses — Mata Kuliah Pilihan Keahlian Program Studi (MKKPS) : No 1, Code IK500, Course Machine Learning, SKS 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 2, Code IK510, Komputasi Paralel dan Terdistribusi, SKS 3, PLO PLO-2, PLO-4, PLO-5, PLO-6, PLO-7; No 3, Code IK520, Project Keahlian, SKS 3, PLO PLO-2, PLO-4; No 4, Code IK530, Course Mobile Application Development, SKS 3, PLO PLO-2, PLO-4"
   },
-
-  
   {
     "_id": "cs_proginfo_mapping_kbk1",
     "section": "Mapping PLO versus Courses — Penjurusan/KBK Paket 1: Rekayasa Perangkat Lunak",
