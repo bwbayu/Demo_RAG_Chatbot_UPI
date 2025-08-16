@@ -2,7 +2,16 @@ pinecone
 pinecone_text
 langchain_openai
 langchain
+langchain_core
+langchain_experimental
+langchain-google-genai
+google-genai
+beautifulsoup4
 dotenv
 streamlit
 requests
 pinecone[grpc]
+loguru
+fastapi[standard]
+uvicorn[standard]
+slowapi

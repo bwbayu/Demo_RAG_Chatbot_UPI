@@ -3,7 +3,7 @@ services:
     image: bwbayu/chatbot_cse_upi:latest
     # or build: .
     ports:
-      - "8080:8080"
+      - "8501:8501"
     env_file:
       - .env
     restart: unless-stopped
