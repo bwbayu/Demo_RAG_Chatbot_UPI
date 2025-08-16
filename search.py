@@ -41,13 +41,19 @@ except Exception as e:
     print("WARN: gagal load bm25 params", e)
 
 # List of types
-TYPES = ['Sejarah', 'ProgramInfo', 'keahlian', 'VisiMisi', 'Fasilitas', 'KBK/Penjurusan', 'Mata Kuliah', 'Metode Pengajaran', 'Proses Penilaian', 'Other']
+TYPES = ['Berita', 'Fasilitas', 'Fasilitas Departemen Ilmu Komputer', 'Fasilitas Fakultas/FPMIPA', 'Fasilitas Universitas/UPI', 'KBK/Penjurusan', 'Mata Kuliah', 'Metode Pengajaran', 
+         'Person', 'Program Info Ilmu Komputer', 'Program Info Pendidikan Ilmu Komputer', 'Proses Penilaian', 'Sasaran Program', 'Sasaran Program Ilmu Komputer', 
+         'Sasaran Program Magister Pendidikan Ilmu Komputer', 'Sejarah', 'Tujuan', 'Visi dan Misi', 'Visi dan Misi Ilmu Komputer', 'Visi dan Misi Magister Pendidikan Ilmu Komputer', 
+         'Visi dan Misi Pendidikan Ilmu Komputer', 'alumni', 'beasiswa', 'keahlian', 'keluarga mahasiswa komputer', 'mata kuliah magister pendidikan ilmu komputer', 
+         'mata kuliah pendidikan ilmu komputer', 'metode pengajaran pendidikan ilmu komputer', 'metode penilaian pendidikan ilmu komputer', 'pelayanan administrasi', 
+         'pendaftaran', 'penjaminan mutu', 'pertukaran mahasiswa', 'prestasi', 'program info magister pendidikan ilmu komputer', 'program info pendidikan ilmu komputer']
 
 def classify_query(query, chat_history):
     template = """Klasifikasikan query berikut dan, jika ada, riwayat obrolan ke dalam satu atau lebih kategori dari list ini: {types}.
     Kembalikan daftar kategori yang relevan dalam format list of string (misalnya, ["KBK/Penjurusan", "Mata Kuliah"]).
     Jika ada yang bertanya terkait profil kualifikasi lulusan, capaian pembelajaran masukkan ke kategori ["ProgramInfo"].
-    Jika ada yang bertanya terkait tujuan masukkan ke kategori ["VisiMisi"]
+    Jika ada yang bertanya terkait tujuan masukkan ke kategori ["Visi dan Misi"]
+    Jika ada yang bertanya terkait Ilkom maka merujuk pada Ilmu Komputer dan pendilkom pada Pendidikan Ilmu Komputer
     Jika tidak ada kategori spesifik yang cocok atau Anda tidak yakin, kembalikan ["Other"].
     Hanya kembalikan daftar kategori dalam format list of string, tanpa penjelasan tambahan.
 
@@ -72,7 +78,6 @@ def classify_query(query, chat_history):
         return ["Other"]
 
 def search_dense_index(text: str, filter_types=None):
-    print(datetime.now())
     filter_query = {}
     if filter_types and filter_types != ["Other"]:
         filter_query = {"type": {"$in": filter_types}}
@@ -85,8 +90,7 @@ def search_dense_index(text: str, filter_types=None):
         include_values=False,
         filter=filter_query if filter_query else None
     )
-    print("get response")
-    print(datetime.now())
+    
     matches = dense_response.get("matches", []) or []
     dense_results = []
     for item in matches:
@@ -96,8 +100,7 @@ def search_dense_index(text: str, filter_types=None):
             "similarity": item.get('score', 0.0),
             "text": text
         })
-    print("filter response")
-    print(datetime.now())
+    
     return dense_results
 
 def search_sparse_index(text: str, filter_types=None):
@@ -113,8 +116,7 @@ def search_sparse_index(text: str, filter_types=None):
         include_values=False,
         filter=filter_query if filter_query else None
     )
-    print("get response")
-    print(datetime.now())
+    
     matches = sparse_response.get("matches", []) or []
     sparse_results = []
     for item in matches:
@@ -124,8 +126,7 @@ def search_sparse_index(text: str, filter_types=None):
             "similarity": item.get('score', 0.0),
             "text": text
         })
-    print("filter response")
-    print(datetime.now())
+    
     return sparse_results
 
 """
@@ -198,6 +199,7 @@ def context_generation(query, contexts, chat_history, streaming=True):
     context = "\n\n".join([data.get("text", "") for data in contexts])
     template = """Anda adalah asisten AI yang menjawab pertanyaan berdasarkan konteks yang diberikan dan, jika ada, riwayat obrolan.
     Gunakan hanya informasi yang relevan dengan pertanyaan. Abaikan konteks yang tidak relevan atau ambigu.
+    Jika ada yang bertanya terkait Ilkom maka merujuk pada Ilmu Komputer dan pendilkom pada Pendidikan Ilmu Komputer.
     Jika memang tidak ada di konteks suruh user berikan pertanyaan yang lebih detail. Prioritaskan ini dibandingkan "Saya tidak tahu." 
     Jika jawaban tidak dapat ditentukan dari informasi yang diberikan, jawablah dengan: "Saya tidak tahu.".
     Jangan berikan penjelasan yang tidak ada di konteks.
@@ -227,11 +229,9 @@ def RAG_pipeline(query, chat_history, streaming=True):
     print("classify")
     classified_type = classify_query(query, chat_history)
     print(classified_type)
-    # query = "explain the internship program in computer science department"
     # search top k result
     print("dense")
     dense_results = search_dense_index(query, filter_types=classified_type)
-    time.sleep(0.5)
     print("sparse")
     sparse_results = search_sparse_index(query, filter_types=classified_type)
     # fused dense and sparse result using RRF
@@ -244,8 +244,5 @@ def RAG_pipeline(query, chat_history, streaming=True):
     contexts = reranking_results(query, docs, fused_results)
     print(datetime.now())
     print("generation")
-    time.sleep(0.5)
-    # print("Reranked Results:")
-    # print(json.dumps(contexts, indent=4))
     
     return context_generation(query, contexts, chat_history, streaming=streaming)

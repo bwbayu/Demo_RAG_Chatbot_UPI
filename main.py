@@ -30,7 +30,7 @@ def create_index():
     dense_index_name = "dense-cs-upi"
     sparse_index_name = "sparse-cs-upi"
 
-    if not pc.has_index(dense_index_name):
+    if dense_index_name not in pc.list_indexes().names():
         print("create dense index")
         pc.create_index(
             name=dense_index_name,
@@ -44,7 +44,7 @@ def create_index():
             deletion_protection="disabled"
         )
 
-    if not pc.has_index(sparse_index_name):
+    if sparse_index_name not in pc.list_indexes().names():
         print("create sparse index")
         pc.create_index(
             name=sparse_index_name,
@@ -120,7 +120,7 @@ def get_sparse_embeddings(text, bm25_model, query_type):
 
 def generate_embedding(path_files, bm25_model):
     try:
-        with open(path_files, 'r') as file:
+        with open(path_files, "r", encoding="utf-8") as file: 
             data = json.load(file)
             dense_vectors = []
             sparse_vectors = []
@@ -131,22 +131,29 @@ def generate_embedding(path_files, bm25_model):
                     "values": get_dense_embeddings(item['text'], EMBED_DIM), 
                     "metadata": {key: value for key, value in item.items() if key not in {'_id'}}
                 }
-                dense_vectors.append(dense_item)
+                if dense_item["values"] is not None:
+                    dense_vectors.append(dense_item)
+
                 # get sparse embedding
-                sparse_item = {
-                    "id": item['_id'], 
-                    "sparse_values": get_sparse_embeddings(item['text'], bm25_model, 'upsert'), 
-                    "metadata": {key: value for key, value in item.items() if key not in {'_id'}}
-                }
-                sparse_vectors.append(sparse_item)
+                sparse_vals = bm25_model.encode_documents([item["text"]])[0]
+                if sparse_vals and sparse_vals.get("indices") and sparse_vals.get("values"):
+                    sparse_item = {
+                        "id": item["_id"],
+                        "values": [],
+                        "sparse_values": sparse_vals,
+                        "metadata": {k: v for k, v in item.items() if k not in {"_id"}}
+                    }
+                    sparse_vectors.append(sparse_item)
             
             return dense_vectors, sparse_vectors
+
     except FileNotFoundError:
         print(f"Error: {path_files} not found. Please ensure the file exists in the correct directory.")
     except json.JSONDecodeError:
         print(f"Error: Could not decode JSON from {path_files}. The file might be malformed.")
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
+
 
 # read data
 folder_path = 'data/final_id'

@@ -1,0 +1,66 @@
+[
+  {
+    "query": "Siapa Kepala Prodi Ilmu Komputer?",
+    "gold_doc_ids": ["cs_person_muhammad_nursalman_001"],
+    "gold_answer": "Kepala Prodi Ilmu Komputer adalah Dr. Muhammad Nursalman, M.T.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Siapa Kepala Prodi Pendidikan Ilmu Komputer (S1 & S2)?",
+    "gold_doc_ids": ["cs_person_lala_septem_riza_002"],
+    "gold_answer": "Kepala Prodi Pendidikan Ilmu Komputer (S1 & S2) adalah Prof. Dr. Lala Septem Riza, M.T.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Siapa Sekretaris Prodi Pendidikan Ilmu Komputer (S1 & S2)?",
+    "gold_doc_ids": ["cs_person_wahyudin_003"],
+    "gold_answer": "Sekretaris Prodi Pendidikan Ilmu Komputer (S1 & S2) adalah Dr. Wahyudin, M.T.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Apa visi Program Studi Ilmu Komputer?",
+    "gold_doc_ids": ["cs_proginfo_vision_001"],
+    "gold_answer": "Visi Program Studi Ilmu Komputer adalah menjadi Program Studi pelopor dan unggul (Leading and Outstanding) dalam bidang Ilmu Komputer di tingkat Nasional dan berkontribusi dalam tingkat ASEAN.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Apa misi Program Studi Ilmu Komputer?",
+    "gold_doc_ids": ["cs_proginfo_mission_001"],
+    "gold_answer": "Misi Program Studi Ilmu Komputer adalah menyelenggarakan pendidikan bermutu, penelitian inovatif, dan pengabdian masyarakat berbasis ilmu komputer dengan kontribusi nasional dan ASEAN.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Apa tujuan Program Studi Ilmu Komputer?",
+    "gold_doc_ids": ["cs_proginfo_objective_001"],
+    "gold_answer": "Tujuan Program Studi Ilmu Komputer adalah menghasilkan lulusan profesional yang beriman, berintegritas, menguasai teori dan praktik ilmu komputer, serta berdaya saing global.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Apa visi Program Studi Pendidikan Ilmu Komputer?",
+    "gold_doc_ids": ["cse_proginfo_vision_001"],
+    "gold_answer": "Visi Program Studi Pendidikan Ilmu Komputer adalah menjadi Program Studi pelopor dan unggul dalam bidang Pendidikan Ilmu Komputer di tingkat Nasional serta terekognisi di tingkat ASEAN.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Apa misi Program Studi Magister Pendidikan Ilmu Komputer?",
+    "gold_doc_ids": ["cs_master_proginfo_mission_001"],
+    "gold_answer": "Misi Program Studi Magister Pendidikan Ilmu Komputer adalah menyelenggarakan pendidikan magister, riset, pengabdian masyarakat, serta membangun jejaring nasional dan internasional di bidang Pendidikan Ilmu Komputer.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Fasilitas apa saja yang ada di Departemen Ilmu Komputer?",
+    "gold_doc_ids": [
+      "cs_facility_001",
+      "cs_facility_002",
+      "cs_facility_003",
+      "cs_facility_004",
+      "cs_facility_006",
+      "cs_facility_007",
+      "cs_facility_008",
+      "cs_facility_009",
+      "cs_facility_010"
+    ],
+    "gold_answer": "Fasilitas Departemen Ilmu Komputer meliputi Laboratorium Praktikum, Laboratorium Big Data Analysis, Laboratorium Umum, Laboratorium Teknik Komputer dan Sistem Jaringan, Laboratorium Rekayasa Perangkat Lunak, Laboratorium Sistem Informasi, Laboratorium Matematik, Informatika, dan Elektronika, Laboratorium AI & Robotik, dan Laboratorium Multimedia & Desain.",
+    "generated_answer": ""
+  }
+]

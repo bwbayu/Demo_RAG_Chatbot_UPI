@@ -11,7 +11,8 @@ dotenv
 streamlit
 requests
 pinecone[grpc]
-loguru
 fastapi[standard]
 uvicorn[standard]
 slowapi
+protoc-gen-openapiv2
+rouge
