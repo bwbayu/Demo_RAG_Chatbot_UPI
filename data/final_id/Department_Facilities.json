@@ -3,72 +3,72 @@
     "_id": "cs_facility_001",
     "section": "Laboratorium Praktikum",
     "title": "Fasilitas Departemen Ilmu Komputer",
-    "type": ["Fasilitas"],
+    "type": ["Fasilitas", "Fasilitas Departemen Ilmu Komputer"],
     "lang": "id",
-    "text": "Laboratorium Praktikum adalah salah satu fasilitas laboratorium di Departemen Pendidikan Ilmu Komputer Universitas Pendidikan Indonesia sebagai sarana penunjang perkuliahan mahasiswa ketika di kelas. Lab ini digunakan setiap hari kerja oleh mahasiswa untuk kegiatan praktikum pembelajaran." 
+    "text": "Fasilitas Departemen Ilmu Komputer : Laboratorium Praktikum adalah salah satu fasilitas laboratorium di Departemen Pendidikan Ilmu Komputer Universitas Pendidikan Indonesia sebagai sarana penunjang perkuliahan mahasiswa ketika di kelas. Lab ini digunakan setiap hari kerja oleh mahasiswa untuk kegiatan praktikum pembelajaran." 
   },
   {
     "_id": "cs_facility_002",
     "section": "Laboratorium Big Data Analysis",
     "title": "Fasilitas Departemen Ilmu Komputer",
-    "type": ["Fasilitas"],
+    "type": ["Fasilitas", "Fasilitas Departemen Ilmu Komputer"],
     "lang": "id",
-    "text": "Merupakan salah satu laboratorium di Departemen Ilmu Komputer yang fokus dalam pembelajaran dan penelitian mengenai Perancangan Data, Manajemen Data dan berbagai penerapan teknologi termasuk Teknologi Big Data, Teknologi Visualisasi Data, Data Mining, Machine Learning, yang digunakan untuk melakukan Analisis Data. Laboratorium ini membekali mahasiswa dengan pengetahuan dan keterampilan yang dibutuhkan untuk menjadi tenaga profesional sebagai Data Engineer, Data Analyst, Data Scientist, dan profesi lainnya yang berhubungan dengan pengolahan data."
+    "text": "Fasilitas Departemen Ilmu Komputer : Merupakan salah satu laboratorium di Departemen Ilmu Komputer yang fokus dalam pembelajaran dan penelitian mengenai Perancangan Data, Manajemen Data dan berbagai penerapan teknologi termasuk Teknologi Big Data, Teknologi Visualisasi Data, Data Mining, Machine Learning, yang digunakan untuk melakukan Analisis Data. Laboratorium ini membekali mahasiswa dengan pengetahuan dan keterampilan yang dibutuhkan untuk menjadi tenaga profesional sebagai Data Engineer, Data Analyst, Data Scientist, dan profesi lainnya yang berhubungan dengan pengolahan data."
   },
   {
     "_id": "cs_facility_003",
     "section": "Laboratorium Umum",
     "title": "Fasilitas Departemen Ilmu Komputer",
-    "type": ["Fasilitas"],
+    "type": ["Fasilitas", "Fasilitas Departemen Ilmu Komputer"],
     "lang": "id",
-    "text": "Laboratorium Umum adalah salah satu fasilitas laboratorium di Departemen Pendidikan Ilmu Komputer UPI. Lab ini digunakan untuk memfasilitasi mahasiswa untuk belajar secara mandiri atau kelompok dan jaringan internet yang cepat. Lab ini dapat dikunjungi mahasiswa setiap hari kerja. Lab ini juga digunakan untuk menunjang sarana praktikum perkuliahan."
+    "text": "Fasilitas Departemen Ilmu Komputer : Laboratorium Umum adalah salah satu fasilitas laboratorium di Departemen Pendidikan Ilmu Komputer UPI. Lab ini digunakan untuk memfasilitasi mahasiswa untuk belajar secara mandiri atau kelompok dan jaringan internet yang cepat. Lab ini dapat dikunjungi mahasiswa setiap hari kerja. Lab ini juga digunakan untuk menunjang sarana praktikum perkuliahan."
   },
   {
     "_id": "cs_facility_004",
     "section": "Laboratorium Teknik Komputer dan Sistem Jaringan",
     "title": "Fasilitas Departemen Ilmu Komputer",
-    "type": ["Fasilitas"],
+    "type": ["Fasilitas", "Fasilitas Departemen Ilmu Komputer"],
     "lang": "id",
-    "text": "Laboratorium Jaringan Komputer atau biasa disebut dengan LabNet merupakan laboratorium yang bergerak di bidang penelitian, pengembangan, dan pemanfaatan produk-produk jaringan komputer, baik secara arsitektur maupun infrastruktur. Selain itu, LabNet mengedepankan edukasi untuk civitas akademika di bidang jaringan komputer. Tim LabNet juga turut memberikan layanan perbaikan, perawatan, serta pengamanan pada jaringan FPMIPA UPI."
+    "text": "Fasilitas Departemen Ilmu Komputer : Laboratorium Jaringan Komputer atau biasa disebut dengan LabNet merupakan laboratorium yang bergerak di bidang penelitian, pengembangan, dan pemanfaatan produk-produk jaringan komputer, baik secara arsitektur maupun infrastruktur. Selain itu, LabNet mengedepankan edukasi untuk civitas akademika di bidang jaringan komputer. Tim LabNet juga turut memberikan layanan perbaikan, perawatan, serta pengamanan pada jaringan FPMIPA UPI."
   },
   {
     "_id": "cs_facility_006",
     "section": "Laboratorium Rekayasa Perangakat Lunak",
     "title": "Fasilitas Departemen Ilmu Komputer",
-    "type": ["Fasilitas"],
+    "type": ["Fasilitas", "Fasilitas Departemen Ilmu Komputer"],
     "lang": "id",
-    "text": "Laboratorium Rekayasa Perangkat Lunak merupakan salah satu laboratorium di Departemen Pendidikan Ilmu Komputer Universitas Pendidikan Indonesia yang digunakan sebagai tempat pembelajaran mengenai bagaimana merekayasa perangkat lunak. Perangkat lunak sendiri adalah sebuah program komputer yang disertai dengan dokumentasi dari proses pembuatan program itu sendiri beserta hasil analisis dan perancangan dari program itu sendiri. Sebuah program komputer belum dianggap sebagai perangkat lunak jika tanpa disertai dengan dokumentasi perangkat lunak. Rekayasa adalah penerapan ilmu dan teknologi untuk menyelesaikan permasalahan yang dihadapi manusia, maka rekayasa perangkat lunak adalah penerapan ilmu dan teknologi untuk menyelesaikan permasalahan manusia dengan membuat sebuah perangkat lunak. Rekayasa perangkat lunak merupakan sebuah proses yang terencana dalam membuat sebuah perangkat lunak."
+    "text": "Fasilitas Departemen Ilmu Komputer : Laboratorium Rekayasa Perangkat Lunak merupakan salah satu laboratorium di Departemen Pendidikan Ilmu Komputer Universitas Pendidikan Indonesia yang digunakan sebagai tempat pembelajaran mengenai bagaimana merekayasa perangkat lunak. Perangkat lunak sendiri adalah sebuah program komputer yang disertai dengan dokumentasi dari proses pembuatan program itu sendiri beserta hasil analisis dan perancangan dari program itu sendiri. Sebuah program komputer belum dianggap sebagai perangkat lunak jika tanpa disertai dengan dokumentasi perangkat lunak. Rekayasa adalah penerapan ilmu dan teknologi untuk menyelesaikan permasalahan yang dihadapi manusia, maka rekayasa perangkat lunak adalah penerapan ilmu dan teknologi untuk menyelesaikan permasalahan manusia dengan membuat sebuah perangkat lunak. Rekayasa perangkat lunak merupakan sebuah proses yang terencana dalam membuat sebuah perangkat lunak."
   },
   {
     "_id": "cs_facility_007",
     "section": "Laboratorium Sistem Informasi",
     "title": "Fasilitas Departemen Ilmu Komputer",
-    "type": ["Fasilitas"],
+    "type": ["Fasilitas", "Fasilitas Departemen Ilmu Komputer"],
     "lang": "id",
-    "text": "Merupakan salah satu laboratorium di Program Studi Pendidikan Ilmu Komputer Universitas Pendidikan Indonesia yang digunakan sebagai tempat penelitian dan pembelajaran mengenai bagaimana mengembangkan Sistem Informasi. Laboratorium Sistem Informasi diharapkan mampu menaungi berbagai riset keahlian Sistem Informasi mulai dari manajemen informasi, analisis bisnis dan pengembangan aplikasi, fungsional bisnis dan sistem perusahaan, dan sistem informasi pendidikan."
+    "text": "Fasilitas Departemen Ilmu Komputer : Merupakan salah satu laboratorium di Program Studi Pendidikan Ilmu Komputer Universitas Pendidikan Indonesia yang digunakan sebagai tempat penelitian dan pembelajaran mengenai bagaimana mengembangkan Sistem Informasi. Laboratorium Sistem Informasi diharapkan mampu menaungi berbagai riset keahlian Sistem Informasi mulai dari manajemen informasi, analisis bisnis dan pengembangan aplikasi, fungsional bisnis dan sistem perusahaan, dan sistem informasi pendidikan."
   },
   {
     "_id": "cs_facility_008",
     "section": "Laboratorium Matematik, Informatika, dan Elektronika",
     "title": "Fasilitas Departemen Ilmu Komputer",
-    "type": ["Fasilitas"],
+    "type": ["Fasilitas", "Fasilitas Departemen Ilmu Komputer"],
     "lang": "id",
-    "text": "Laboratorium Matematika informatik, dan elektronika, merupakan laboratorium di Departemen Pendidikan Ilmu Komputer FPMIPA UPI yang didedikasikan untuk pelaksanaan praktikum Rangkaian Elektronika serta pelatihan dan riset yang berhubungan dengan Informatika dan Elektronika. Selain itu mahasiswa juga dapat menggunakan fasilitas dan alat-alat yang tersedia di lab untuk membantu proses pembelajaran diluar praktikum, penyelesaian masalah-masalah elektronika, informatika dan lainnya."
+    "text": "Fasilitas Departemen Ilmu Komputer : Laboratorium Matematika informatik, dan elektronika, merupakan laboratorium di Departemen Pendidikan Ilmu Komputer FPMIPA UPI yang didedikasikan untuk pelaksanaan praktikum Rangkaian Elektronika serta pelatihan dan riset yang berhubungan dengan Informatika dan Elektronika. Selain itu mahasiswa juga dapat menggunakan fasilitas dan alat-alat yang tersedia di lab untuk membantu proses pembelajaran diluar praktikum, penyelesaian masalah-masalah elektronika, informatika dan lainnya."
   },
   {
     "_id": "cs_facility_009",
     "section": "Laboratorium AI & Robotik",
     "title": "Fasilitas Departemen Ilmu Komputer",
-    "type": ["Fasilitas"],
+    "type": ["Fasilitas", "Fasilitas Departemen Ilmu Komputer"],
     "lang": "id",
-    "text": "Laboratorium ini merupakan salah satu laboratorium di Departemen Pendidikan Ilmu Komputer yang berfokus dalam penelitian dan pengajaran pada bidang kecerdasan buatan, sistem kontrol, robotika dan implementasinya dalam berbagai domain masalah. Di laboratorium ini dikaji berbagai teknik dan metode yang dapat membuat sistem komputer dapat mengindera (melihat dan mendengar), belajar dan mengambil keputusan sebagaimana layaknya manusia."
+    "text": "Fasilitas Departemen Ilmu Komputer : Laboratorium ini merupakan salah satu laboratorium di Departemen Pendidikan Ilmu Komputer yang berfokus dalam penelitian dan pengajaran pada bidang kecerdasan buatan, sistem kontrol, robotika dan implementasinya dalam berbagai domain masalah. Di laboratorium ini dikaji berbagai teknik dan metode yang dapat membuat sistem komputer dapat mengindera (melihat dan mendengar), belajar dan mengambil keputusan sebagaimana layaknya manusia."
   },
   {
     "_id": "cs_facility_010",
     "section": "Laboratorium Multimedia & Desain",
     "title": "Fasilitas Departemen Ilmu Komputer",
-    "type": ["Fasilitas"],
+    "type": ["Fasilitas", "Fasilitas Departemen Ilmu Komputer"],
     "lang": "id",
-    "text": "Laboratorium ini merupakan salah satu laboratorium di Departemen Pendidikan Ilmu Komputer yang berfokus dalam penelitian dan pengajaran pada bidang multimedia pembelajaran, virtual reality, augmented reality, animasi, pembelajaran jarak jauh, pemrograman game, intelligent tutoring system, teknologi pembelajaran setelah sekolah, dan implementasinya yang bermuara pada hilirisasi yang bermanfaat untuk masyarakat. Di laboratorium ini dikaji teknik dan metode animasi, multimedia dan virtuality khususnya dalam mendukung pembelajaran sehingga menghasilkan pembelajaran yang aktif, inovatif, kreatif, efektif dan menyenangkan (PAIKEM)."
+    "text": "Fasilitas Departemen Ilmu Komputer : Laboratorium ini merupakan salah satu laboratorium di Departemen Pendidikan Ilmu Komputer yang berfokus dalam penelitian dan pengajaran pada bidang multimedia pembelajaran, virtual reality, augmented reality, animasi, pembelajaran jarak jauh, pemrograman game, intelligent tutoring system, teknologi pembelajaran setelah sekolah, dan implementasinya yang bermuara pada hilirisasi yang bermanfaat untuk masyarakat. Di laboratorium ini dikaji teknik dan metode animasi, multimedia dan virtuality khususnya dalam mendukung pembelajaran sehingga menghasilkan pembelajaran yang aktif, inovatif, kreatif, efektif dan menyenangkan (PAIKEM)."
   }
 ]

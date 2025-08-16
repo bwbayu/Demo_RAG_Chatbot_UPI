@@ -10,8 +10,7 @@
     "description": "tidak tersedia",
     "research_group_leader": "Dr. Asep Wahyudin, M.T.",
     "research_group_members": "tidak tersedia",
-    "scope_of_research": "tidak tersedia",
-    "list_of_publication": "tidak tersedia"
+    "scope_of_research": "tidak tersedia"
   },
   {
     "_id": "pcb_competency_multimedia_network_01",
@@ -24,8 +23,7 @@
     "description": "tidak tersedia",
     "research_group_leader": "Prof. Rasim, M.T.",
     "research_group_members": "tidak tersedia",
-    "scope_of_research": "tidak tersedia",
-    "list_of_publication": "tidak tersedia"
+    "scope_of_research": "tidak tersedia"
   },
   {
     "_id": "pcb_competency_artificial_intelligence_01",
@@ -33,12 +31,76 @@
     "title": "Kelompok Bidang Keahlian",
     "type": ["keahlian"],
     "lang": "id",
-    "text": "Kelompok Bidang Keahlian Grup: Kecerdasan Buatan. Ketua Kelompok Riset: Yaya Wihardi, M.Kom. Deskripsi: Kelompok Bidang Keilmuan (KBK) yang berfokus dalam penelitian, pengabdian, dan pengajaran pada bidang kecerdasan buatan, sistem kontrol, robotika, IoT, big data analysis dan implementasinya dalam berbagai domain masalah Anggota: Dr. Lala Septem Riza, Dr. Yudi Wibisono, Dr. Rani Megasari. Ruang lingkup penelitian: Kecerdasan buatan, Sistem kontrol, Robotika, IoT, Big data analysis, Machine learning, Computer vision, Natural language processing, Fintech, Optimasi, Penjadwalan",
+    "text": "Kelompok Bidang Keahlian Grup: Kecerdasan Buatan. Ketua Kelompok Riset: Yaya Wihardi, M.Kom. Deskripsi: Kelompok Bidang Keilmuan (KBK) yang berfokus dalam penelitian, pengabdian, dan pengajaran pada bidang kecerdasan buatan, sistem kontrol, robotika, IoT, analisis big data dan implementasinya pada berbagai domain masalah. Anggota: Dr. Lala Septem Riza, Dr. Yudi Wibisono, Dr. Rani Megasari. Ruang lingkup penelitian: kecerdasan buatan, sistem kontrol, robotika, IoT, analisis big data, pembelajaran mesin, visi komputer, pemrosesan bahasa alami, fintech, optimasi, penjadwalan.",
     "group_name": "Kecerdasan Buatan",
-    "description": "Kelompok Bidang Keilmuan (KBK) yang berfokus dalam penelitian, pengabdian, dan pengajaran pada bidang kecerdasan buatan, sistem kontrol, robotika, IoT, big data analysis dan implementasinya dalam berbagai domain masalah.",
+    "description": "Kelompok Bidang Keilmuan (KBK) yang berfokus dalam penelitian, pengabdian, dan pengajaran pada bidang kecerdasan buatan, sistem kontrol, robotika, IoT, analisis big data dan implementasinya pada berbagai domain masalah.",
     "research_group_leader": "Yaya Wihardi, M.Kom.",
     "research_group_members": "Dr. Lala Septem Riza, Dr. Yudi Wibisono, Dr. Rani Megasari",
-    "scope_of_research": "Kecerdasan buatan, Sistem kontrol, Robotika, IoT, Big data analysis, Machine learning, Computer vision, Natural language processing, Fintech, Optimasi, Penjadwalan",
-    "list_of_publication": "tidak tersedia"
+    "scope_of_research": "kecerdasan buatan, sistem kontrol, robotika, IoT, analisis big data, pembelajaran mesin, visi komputer, pemrosesan bahasa alami, fintech, optimasi, penjadwalan"
+  },
+  {
+    "_id": "pceb_competency_digital_pedagogik_didaktik_01",
+    "section": "Digital, Pedagogik, dan Didaktik",
+    "title": "Kelompok Bidang Keahlian",
+    "type": ["keahlian"],
+    "lang": "id",
+    "text": "Kelompok Bidang Keahlian Grup: Digital, Pedagogik, dan Didaktik. Ketua Kelompok Riset: Harsa Wara Prabawa, S.Si., M.Pd. Deskripsi: KBK DPD berfokus pada kajian aspek didaktik dan pedagogik yang dikaitkan dengan konten serta alat digital dalam pembelajaran; cakupan tidak hanya di kelas, tetapi juga di luar kelas. Anggota: Enjang Ali Nurdin, Eki Nugraha, Jajang Kusnendar, Nsuki Syariati Fathimah, Andini Setya Arianti. Ruang lingkup penelitian: KBK DPD berfokus pada kajian aspek didaktik dan pedagogik, khususnya konten yang disajikan melalui sarana digital dalam pembelajaran.",
+    "group_name": "Digital, Pedagogik, dan Didaktik",
+    "description": "KBK DPD berfokus pada kajian terkait aspek didaktik dan pedagogik, khususnya yang dikaitkan dengan konten dan alat digital dalam pembelajaran. Ruang lingkup kajian meliputi aktivitas pendidikan dan pedagogik di dalam kelas serta pembelajaran di luar kelas.",
+    "research_group_leader": "Harsa Wara Prabawa, S.Si., M.Pd.",
+    "research_group_members": "Enjang Ali Nurdin, Eki Nugraha, Jajang Kusnendar, Nsuki Syariati Fathimah, Andini Setya Arianti",
+    "scope_of_research": "KBK DPD berfokus pada kajian aspek didaktik dan pedagogik, khususnya konten yang disajikan melalui sarana digital dalam pembelajaran"
+  },
+  {
+    "_id": "pceb_competency_sle_01",
+    "section": "Lingkungan Pembelajaran Cerdas",
+    "title": "Kelompok Bidang Keahlian",
+    "type": ["keahlian"],
+    "lang": "id",
+    "text": "Kelompok Bidang Keahlian Grup: Lingkungan Pembelajaran Cerdas. Ketua Kelompok Riset: Budi Laksono Putro, M.T. Deskripsi: Teknologi cerdas untuk lingkungan pembelajaran (Smart Learning Environment). Anggota: Dr. Budi Laksono Putro S.Si. M.T., Drs. Eka Fitrajaya Rahman, M.T., Enjun Junaeti, M.Si., Erna Piantari, M.T., Erlangga, M.T. Ruang lingkup penelitian: teknologi pembelajaran, lingkungan pembelajaran cerdas.",
+    "group_name": "Lingkungan Pembelajaran Cerdas",
+    "description": "Teknologi cerdas untuk lingkungan pembelajaran (Smart Learning Environment).",
+    "research_group_leader": "Budi Laksono Putro, M.T.",
+    "research_group_members": "Dr. Budi Laksono Putro S.Si. M.T., Drs. Eka Fitrajaya Rahman, M.T., Enjun Junaeti, M.Si., Erna Piantari, M.T., Erlangga, M.T.",
+    "scope_of_research": "teknologi pembelajaran, lingkungan pembelajaran cerdas"
+  },
+  {
+    "_id": "pceb_competency_steam_01",
+    "section": "Model STEAM untuk Pembelajaran Ilmu Komputer",
+    "title": "Kelompok Bidang Keahlian",
+    "type": ["keahlian"],
+    "lang": "id",
+    "text": "Kelompok Bidang Keahlian Grup: Model STEAM untuk Pembelajaran Ilmu Komputer. Ketua Kelompok Riset: Dr. H. Enjang Ali Nurdin, M.Kom. Deskripsi: KBK ranah pendidikan yang lahir dari kebutuhan dan urgensi pendidikan ilmu komputer di perguruan tinggi serta implementasinya di sekolah; tantangan semakin meningkat seiring tuntutan masyarakat. Anggota: DR. Wahyudin, M.T., Jajang Kusnendar, M.T., Drs. Eka Fitrajaya, M.T. Ruang lingkup penelitian: kajian/penelitian serta implementasi ilmiah pendidikan ilmu komputer (perencanaan, pelaksanaan, evaluasi); perencanaan dan perancangan aplikasi pembelajaran dan evaluasi; kajian dan penelitian pedagogi digital.",
+    "group_name": "Model STEAM untuk Pembelajaran Ilmu Komputer",
+    "description": "KBK di bidang pendidikan yang lahir dari kebutuhan dan urgensi pendidikan ilmu komputer di perguruan tinggi serta implementasinya dalam sistem sekolah. Tantangan di bidang ini meningkat seiring tuntutan masyarakat.",
+    "research_group_leader": "Dr. H. Enjang Ali Nurdin, M.Kom.",
+    "research_group_members": "DR. Wahyudin M.T, Jajang Kusnendar M.T, Drs. Eka Fitrajaya M.T.",
+    "scope_of_research": "kajian dan penelitian serta implementasi ilmiah pendidikan ilmu komputer (perencanaan, pelaksanaan, evaluasi); perencanaan dan perancangan aplikasi pembelajaran dan evaluasi; kajian dan penelitian pedagogi digital"
+  },
+  {
+    "_id": "pcem_competency_tbls_01",
+    "section": "Sistem Pembelajaran Berbasis Teknologi",
+    "title": "Kelompok Bidang Keahlian",
+    "type": ["keahlian"],
+    "lang": "id",
+    "text": "Kelompok Bidang Keahlian Grup: Sistem Pembelajaran Berbasis Teknologi. Ketua Kelompok Riset: Dr. Rasim, M.T. Deskripsi: Integrasi TIK dalam pembelajaran untuk meningkatkan capaian belajar, HOTS, literasi TIK, serta efektivitas, efisiensi, dan daya tarik proses belajar. Bentuk pemanfaatan mencakup pembelajaran berbasis komputer/web (e-learning), CAL, dan pembelajaran berbasis AVA. Anggota: Dr. Lala Septem Riza, M.T., Dr. Rani Megasari, M.T., Dr. Yudi Wibisono, M.T., Dr. M. Nursalman, M.T., Didin Wahyudin, M.T., Ph.D. Ruang lingkup penelitian: media pembelajaran; PJJ/MOOC/Pembelajaran Jarak Jauh Terbuka; AI/ML dan IoT untuk pendidikan; evaluasi pembelajaran berbasis teknologi; pembelajaran berbantuan augmented dan virtual; gim edukasi.",
+    "group_name": "Sistem Pembelajaran Berbasis Teknologi",
+    "description": "Upaya peningkatan capaian belajar melalui pemanfaatan TIK dalam model pembelajaran berbasis teknologi/elektronik. Integrasi TIK dibutuhkan untuk mengembangkan keterampilan berpikir tingkat tinggi, literasi TIK, dan meningkatkan efektivitas, efisiensi, serta daya tarik pembelajaran. Contoh pemanfaatan: pembelajaran berbasis komputer/web (e-learning), Computer-Assisted Learning (CAL), dan pembelajaran berbasis audio-visual.",
+    "research_group_leader": "Dr. Rasim, M.T.",
+    "research_group_members": "Dr. Lala Septem Riza, M.T., Dr. Rani Megasari, M.T., Dr. Yudi Wibisono, M.T., Dr. M. Nursalman, M.T., Didin Wahyudin, M.T., Ph.D.",
+    "scope_of_research": "media pembelajaran, PJJ/MOOC/Pembelajaran Jarak Jauh Terbuka, AI/ML dan IoT untuk pendidikan, evaluasi pembelajaran berbasis teknologi, pembelajaran berbantuan augmented dan virtual, gim edukasi"
+  },
+  {
+    "_id": "pcem_competency_policy_ict_01",
+    "section": "Kebijakan Pendidikan dan Manajemen Pendidikan TIK",
+    "title": "Kelompok Bidang Keahlian",
+    "type": ["keahlian"],
+    "lang": "id",
+    "text": "Kelompok Bidang Keahlian Grup: Kebijakan Pendidikan dan Manajemen Pendidikan TIK. Ketua Kelompok Riset: Prof. Dr. Munir, M.IT. Deskripsi: Kebijakan pendidikan mengatur sistem pendidikan nasional—di Indonesia antara lain melalui UU No. 20 Tahun 2003—untuk memandu penyelenggara dan masyarakat mengembangkan pendidikan inovatif demi tercapainya tujuan pendidikan nasional. Anggota: Dr. Budi Laksono Putro, M.T., Dr. Wahyudin, M.T., Dr. Enjang Ali Nurdin, M.Kom, Dr. Asep Wahyudin, M.T. Ruang lingkup penelitian: lingkungan pembelajaran cerdas, kajian kurikulum dan pembelajaran, manajemen lembaga pendidikan (smart web school), sistem pendukung keputusan sekolah cerdas.",
+    "group_name": "Kebijakan Pendidikan dan Manajemen Pendidikan TIK",
+    "description": "Kebijakan pendidikan adalah keputusan yang mengatur sistem pendidikan untuk mencapai tujuan pendidikan nasional. Di Indonesia, kerangka utamanya antara lain melalui Undang-Undang No. 20 Tahun 2003 tentang Sistem Pendidikan Nasional. Kebijakan ini memfasilitasi penyelenggara dan masyarakat dalam mengembangkan pendidikan yang inovatif.",
+    "research_group_leader": "Prof. Dr. Munir, M.IT.",
+    "research_group_members": "Dr. Budi Laksono Putro, M.T., Dr. Wahyudin, M.T., Dr. Enjang Ali Nurdin, M.Kom, Dr. Asep Wahyudin, M.T.",
+    "scope_of_research": "lingkungan pembelajaran cerdas, kajian kurikulum dan pembelajaran, manajemen lembaga pendidikan (smart web school), sistem pendukung keputusan sekolah cerdas"
   }
 ]

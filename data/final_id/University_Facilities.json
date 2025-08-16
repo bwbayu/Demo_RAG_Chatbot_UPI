@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "upi_facility_001",
+    "section": "Kolam Renang UPI",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Kolam Renang UPI : Universitas Pendidikan Indonesia menyediakan kolam renang untuk sivitas akademika dan umum. Tarif mahasiswa UPI: Rp5.000 (weekday) dan Rp10.000 (weekend). Tarif umum: Rp10.000 (weekday) dan Rp20.000 (weekend). Jam operasional 08.00–15.30 WIB."
+  },
+  {
+    "_id": "upi_facility_002",
+    "section": "Stadion",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Stadion : Stadion UPI digunakan untuk kegiatan olahraga, perkuliahan, dan acara kemahasiswaan. Fasilitas: trek lari, lapangan sepak bola, terapi kaki, pull up, lompat jauh, lempar lembing, lempar cakram, lontar martil, tolak peluru, serta tribun berkapasitas ±500 penonton."
+  },
+  {
+    "_id": "upi_facility_003",
+    "section": "Lapangan Tenis Indoor & Outdoor",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Lapangan Tenis Indoor & Outdoor : Lapangan tenis UPI berstandar nasional untuk pendidikan dan kejuaraan. Umumnya dipakai mahasiswa FPOK, juga untuk latihan softball dan baseball oleh klub/UKM kampus."
+  },
+  {
+    "_id": "upi_facility_004",
+    "section": "Lapangan Golf",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Lapangan Golf : Berlokasi di area atas kampus dekat Cilimus. Desain unik dengan ukuran dan topografi yang variatif, memanfaatkan lingkungan alam terbuka yang sejuk sebagai arena olahraga golf."
+  },
+  {
+    "_id": "upi_facility_005",
+    "section": "Lapangan Badminton",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Lapangan Badminton : Berada di Sport Hall UPI, sering digunakan untuk kejuaraan nasional dan kegiatan kemahasiswaan."
+  },
+  {
+    "_id": "upi_facility_006",
+    "section": "Lapangan Hoki",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Lapangan Hoki : Terletak di Gedung Gymnasium UPI dan pernah digunakan untuk kompetisi tingkat nasional, termasuk Pekan Olahraga Nasional (PON)."
+  },
+  {
+    "_id": "upi_facility_007",
+    "section": "Lintasan Jogging",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Lintasan Jogging : Berlokasi di Stadion UPI, diperuntukkan bagi cabang atletik dan lomba lari, serta digunakan untuk kepentingan perkuliahan maupun umum."
+  },
+  {
+    "_id": "upi_facility_008",
+    "section": "Lapangan Basket",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Lapangan Basket : Berada di Gedung Gymnasium UPI, digunakan untuk perkuliahan dan kegiatan kemahasiswaan."
+  },
+  {
+    "_id": "upi_facility_009",
+    "section": "Lapangan Softball",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Lapangan Softball : Fasilitas lapangan untuk proses perkuliahan, pembinaan, dan pertandingan tingkat nasional cabang softball."
+  },
+  {
+    "_id": "upi_facility_010",
+    "section": "Masjid Al-Furqon",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Masjid Al-Furqon : Salah satu ikon UPI. Digunakan untuk kegiatan keagamaan mahasiswa dan dosen, terbuka untuk umum, melayani salat berjamaah lima waktu dan Salat Jumat."
+  },
+  {
+    "_id": "upi_facility_011",
+    "section": "Direktorat Sistem dan Teknologi Informasi (STI)",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Direktorat Sistem dan Teknologi Informasi (STI) : Penyelenggara pengembangan sistem informasi, layanan aplikasi TI, teknologi pembelajaran digital, serta infrastruktur keamanan sistem dan TI."
+  },
+  {
+    "_id": "upi_facility_012",
+    "section": "Balai Bahasa",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Balai Bahasa : Menyediakan fasilitas belajar bahasa asing bagi sivitas akademika (terutama yang akan studi ke luar negeri) dan bagi mahasiswa/tenaga administrasi asing yang belajar Bahasa Indonesia. Dilengkapi sarana elektronik dan rekaman."
+  },
+  {
+    "_id": "upi_facility_013",
+    "section": "Perpustakaan",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Perpustakaan : Pusat informasi bagi sivitas UPI dan umum, dengan ruang baca, buku teks, jurnal, disertasi/tesis/skripsi, dan sumber lainnya. Jam layanan: Senin–Kamis 08.00–18.00 WIB; Jumat 08.00–11.00 WIB dan 13.30–18.30 WIB."
+  },
+  {
+    "_id": "upi_facility_014",
+    "section": "University Centre (UC)",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, University Centre (UC) : Gedung 6 lantai yang sering menjadi lokasi pelatihan penulisan jurnal dan konferensi. Menampung kesekretariatan berbagai UPT: UPI Press, Unit Layanan Terpadu UPI, Direktorat International Affairs, dan UPI TV."
+  },
+  {
+    "_id": "upi_facility_015",
+    "section": "Museum Pendidikan UPI",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Museum Pendidikan UPI : Museum Pendidikan Nasional yang menyajikan gambaran pendidikan di masa lalu hingga masa depan, berlokasi di area kampus UPI."
+  },
+  {
+    "_id": "upi_facility_016",
+    "section": "Poliklinik (Fasilitas Kesehatan)",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Poliklinik (Fasilitas Kesehatan) : Layanan kesehatan bagi sivitas akademika. Mahasiswa cukup melampirkan fotokopi Kartu Tanda Mahasiswa untuk mendapatkan pembiayaan berobat gratis. Poliklinik juga melayani masyarakat sekitar."
+  },
+  {
+    "_id": "upi_facility_017",
+    "section": "Gymnasium",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Gymnasium : Gedung serbaguna untuk Basket, Bola Voli, Futsal, Tenis Meja, Bulutangkis, serta kegiatan lain seperti pembelajaran, wisuda, orientasi kampus, hingga kejuaraan nasional dan internasional."
+  },
+  {
+    "_id": "upi_facility_018",
+    "section": "Taman UPI",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Taman UPI : Terletak di belakang Gedung Rektorat. Fasilitas terbuka untuk semua; akses melalui pintu utama untuk kendaraan roda dua/empat dan pejalan kaki. Tersedia petugas keamanan dan halte."
+  },
+  {
+    "_id": "upi_facility_019",
+    "section": "Gedung Pascasarjana (SPs)",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Gedung Pascasarjana (SPs) : Bervisi meraih pengakuan internasional penyelenggaraan pendidikan pascasarjana bidang pendidikan, ilmu murni, dan profesi tingkat Asia 2025. Upaya: kolaborasi dengan lembaga nasional/internasional, program internasional bersama kampus luar negeri, dan desain program yang terbuka bagi masyarakat global."
+  },
+  {
+    "_id": "upi_facility_020",
+    "section": "Ruang Server",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Ruang Server : Ruang untuk mengendalikan dan memantau situs pembelajaran UPI. Digunakan oleh dosen/teknisi dan administrator ahli TI dan jaringan. Fasilitas mirip laboratorium komputer dengan beberapa unit komputer operasional."
+  },
+  {
+    "_id": "upi_facility_021",
+    "section": "Perbankan",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Perbankan : Tersedia KCP BNI, ATM BJB, ATM BRI, dan ATM Mandiri. Mahasiswa mendapat KTM Combo yang berfungsi sebagai kartu debit BNI dan BNI TapCash. Memudahkan pembayaran UKT, parkir, dan transaksi lain."
+  },
+  {
+    "_id": "upi_facility_022",
+    "section": "Gedung Rektorat",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Gedung Rektorat : Bangunan ikonik bergaya arsitektur Eropa dan Hindia Belanda, dahulu dikenal sebagai Villa Isola. Kini berfungsi sebagai pusat administrasi dan menjadi saksi sejarah penting UPI."
+  },
+  {
+    "_id": "upi_facility_023",
+    "section": "Gedung LPPM",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Gedung LPPM : Lembaga pendukung universitas yang strategis dalam membangun citra positif UPI melalui penelitian dan pengabdian kepada masyarakat; berperan mengembangkan, memperluas, dan meningkatkan mutu kegiatan tersebut."
+  },
+  {
+    "_id": "upi_facility_024",
+    "section": "Gedung BPU Achmad Sanusi",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Gedung BPU Achmad Sanusi : Gedung serbaguna dinamai tokoh rektor IKIP Bandung ke-2, Prof. Dr. H. Achmad Sanusi, S.H., M.AP. Digunakan untuk acara resmi kampus dan dapat disewa masyarakat (termasuk resepsi pernikahan)."
+  },
+  {
+    "_id": "upi_facility_025",
+    "section": "Asrama",
+    "title": "Fasilitas UPI",
+    "type": ["Fasilitas", "Fasilitas Universitas/UPI"],
+    "lang": "id",
+    "text": "Fasilitas Universitas/UPI, Asrama : Fasilitas hunian mahasiswa UPI dengan dua gedung (putra dan putri). Bertujuan menyediakan lingkungan tinggal yang kondusif, aman, dan nyaman selama studi."
+  }
+]

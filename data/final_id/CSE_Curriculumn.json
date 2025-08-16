@@ -1,0 +1,394 @@
+[
+  {
+    "_id": "cs_curriculum_pik_tujuan_001",
+    "section": "Tujuan",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Tujuan Program Studi Pendidikan Ilmu Komputer FPMIPA UPI didirikan pada tanggal 16 Maret 2005 dengan SK pendirian 1341/J33/PP.03.02/2005. Peringkat akreditasi nasional BAN PT dari Program Studi Pendidikan Ilmu Komputer adalah A dengan SK 2501/SK/BAN-PT/Akred/S/IX/2018. Program Studi Pendidikan Ilmu Komputer memiliki kajian bidang ilmu pendidikan untuk mencetak calon guru pada rumpun ilmu Teknologi Informasi dan Komunikasi (TKI), yang didalamnya terdapat konsentrasi Rekayasa Perangkat Lunak (RPL), Teknik Komputer dan Jaringan (TKJ), Multimedia; dan Teknologi Komunikasi dan Informasi (TIK)."
+  },
+  {
+    "_id": "cs_curriculum_pik_gelar_001",
+    "section": "Gelar Program Studi",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Gelar Program Studi Pendidikan Ilmu Komputer Berdasarkan Keputusan Menteri Riset, Teknologi, dan Pendidikan Tinggi Nomor 57/M/KPT/2019 Tahun 2019 tentang Nama Program Studi pada Perguruan Tinggi, gelar untuk lulusan Program Studi Pendidikan Ilmu Komputer adalah “S.Pd.”"
+  },
+  {
+    "_id": "cs_curriculum_pik_profil_001",
+    "section": "Profil Kualifikasi Lulusan",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Profil Kualifikasi Lulusan Pendidikan Ilmu Komputer Berdasarkan diskusi para dosen pada beberapa focus group discussion, survey para alumni, dan harapan para mahasiswa serta pertimbangan hasil diskusi pada asosiasi profesi masing-masing program studi, berikut adalah qualification profile dari Program Studi Pendidikan Ilmu Komputer pada cluster formal science: Educator: seseorang yang memiliki kompetensi untuk mendidik, mengajar, membimbing, mengarahkan, melatih, menilai, mengevaluasi, dan mengembangkan pendidikan dan pembelajaran dalam bidang ilmu komputer. Praktisi: seseorang yang dapat bekerja di dunia industri yang memerlukan keahlian khusus dalam bidang ilmu komputer (IT Engineer), misalkan programmer, network engineer, dan multimedia designer. Enterpreuner: seseorang yang dapat bekerja secara mandiri dengan memanfaatkan keilmuan di bidang ilmu komputer"
+  },
+  {
+    "_id": "cs_curriculum_pik_plo_001",
+    "section": "Capaian Pembelajaran (PLO)",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Capaian Pembelajaran Pendidikan Ilmu Komputer Berikut ini adalah Capaian Pembelajaran Pendidikan Ilmu Komputer: PLO-1: Menjadi warga negara yang beriman dan bertaqwa kepada Tuhan Yang Maha Esa, bangga dan cinta tanah air, serta memiliki moral, etika, dan kepribadian yang baik. PLO-2: Memiliki kemampuan literasi, berpikir kritis dan kreatif, keterampilan komunikasi dan kolaborasi dalam matematika, sains, teknologi, dan rekayasa untuk menyelesaikan masalah secara integratif dan/atau multidisipliner. PLO-3: Menguasai teori dan pengetahuan pedagogik yang berkaitan dengan perencanaan, pelaksanaan serta evaluasi dalam proses pembelajaran. PLO-4: Mampu menerapkan pemikiran logis, kritis, sistematis, dan inovatif dalam konteks pengembangan atau implementasi ilmu pengetahuan dan teknologi yang memperhatikan dan menerapkan nilai humaniora yang sesuai dengan bidang pendidikan ilmu komputer. PLO-5: Mampu mengintegrasikan kecakapan (1) belajar dan berinovasi (learning and innovation skills), (2) penguasaan informasi, media, dan teknologi (information, media and technology skills), dan (3) pengembangan karir dan kecakapan hidup (life and career skills) PLO-6: Memiliki insisatif dan keingintahuan sebagai bekal untuk life-long learning. PLO-7: Mampu memecahkan permasalahan ilmu komputer dengan menggunakan pendekatan matematika komputasi dan algoritma. PLO-8: Mampu mengelola proyek pengembangan perangkat lunak dengan berkolaborasi interdisipliner. PLO-9: Mampu mengembangkan ilmu pengetahuan dan teknologi dengan memperhatikan pendekatan saintifik dan etika ilmiah untuk menumbuhkan pengalaman sebagai bekal bekerja dilapangan. PLO-10: Mampu menerapkan ilmu pedagogik secara kreatif dan inovatif yang sesuai dengan karakteristik peserta didik dan lingkungan belajar."
+  },
+  {
+    "_id": "cs_curriculum_pik_struktur_pengantar_002",
+    "section": "Struktur Kurikulum — Pengantar",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "5. Struktur Kurikulum Peraturan Rektor UPI Nomor 52/UN40/HK/2019 tentang Pedoman Penyelenggaraan Pendidikan Universitas Pendidikan Indonesia Tahun 2020, menguraikan bahwa beban studi untuk program Sarjana berjumlah 144 - 152 sks. Secara garis besar, struktur kurikulum untuk program Sarjana terdiri atas kurikulum inti (core curriculum) adalah bagian kurikulum yang bertujuan untuk mengembangkan kompetensi utama lulusan (sekitar 85% dari keseluruhan sks yang dapat diambil oleh mahasiswa) dan kurikulum pilihan (elective curriculum) adalah bagian kurikulum yang yang bertujuan untuk memperkuat kompetensi utama (sekitar 15% dari keseluruhan sks yang dapat diambil oleh mahasiswa). Secara terperinci, struktur kurikulum program Sarjana dikelompokkan atas kelompok mata kuliah umum (MKU), kelompok mata kuliah dasar kependidikan (MKDK), kelompok mata kuliah keahlian fakultas (MKKF), kelompok mata kuliah keahlian pembelajaran bidang studi (MKKPBS), kelompok mata kuliah inti program studi (MKIPS), dan kelompok mata kuliah keahlian program studi (MKKPS)."
+  },
+  {
+    "_id": "cs_curriculum_pik_mku_mkdk_002",
+    "section": "Struktur Kurikulum — MKU & MKDK",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum Kelompok mata kuliah umum (MKU) universitas berisi mata kuliah–mata kuliah yang ditawarkan oleh universitas dan harus diambil oleh seluruh mahasiswa UPI tanpa kecuali. Kelompok mata kuliah tersebut terdiri atas mata kuliah agama, Seminar Pendidikan Agama (Islam, Kristen, Katolik, Budha, Konghucu, dan Hindu) dengan beban masing-masing 2 sks, mahasiswa yang mengambil mata kuliah tersebut sesuai dengan agama yang dianutnya. Di samping itu, pada kelompok ini terdapat mata kuliah Pendidikan Bahasa Indonesia, Pendidikan Olahraga, Pendidikan Seni, Pendidikan Kewarganegaraan, Pendidikan Pancasila, dan KKN dengan bobot mata kuliah masing-masing 2 sks. Kelompok mata kuliah ini diberikan dengan tujuan untuk meningkatkan pemahaman dan praktik agama masing-masing yang dianutnya, serta untuk meningkatkan karakter kebangsaan, budaya, cinta tanah air, dan untuk menjaga kebugaran tubuh. Kelompok mata kuliah dasar kependidikan (MKDK) adalah kelompok mata kuliah yang memberikan bekal kepada mahasiswa terkait dengan ilmu-ilmu kependidikan, pembelajaran, manajemen pendidikan, dan psikologi kependidikan. Kelompok mata kuliah ini wajib diikuti oleh seluruh mahasiswa program studi kependidikan di lingkungan UPI. Kelompok mata kuliah ini memberikan bekal pengetahuan berkenaan dengan didaktik metodik pelaksanaan pembelajaran di kelas, di samping itu kelompok mata kuliah ini juga untuk membedakan antara mahasiswa kependidikan dan non- kependidikan, sehingga pada program studi non-kependidikan mata kelompok mata kuliah ini tidak diberikan."
+  },
+  {
+    "_id": "cs_curriculum_pik_mkkf_mkkpbs_002",
+    "section": "Struktur Kurikulum — MKKF & MKKPBS",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum Kelompok mata kuliah keahlian fakultas (MKKF) yang berbobot 6 sks adalah kelompok mata kuliah yang membedakan antara mahasiswa FPMIPA UPI dengan mahasiswa fakultas lain. Kelompok mata kuliah keahlian fakultas yang diberikan di Fakultas Pendidikan Matematika dan IPA-UPI adalah mata kuliah MSTR (Matematika, Sains, Teknologi, dan Rekayasa) dan AMSTR (Aplikasi Matematika, Sains, Teknologi, dan Rekayasa). Kedua mata kuliah ini menerapkan konsep STEAM (Science, Technology, Engineering, Art, and Mathematics) dalam proses belajar dan pembelajarannya. Kompetensi yang dibekalkan pada ke-dua mata kuliah ini adalah mengembangkan literasi matematika, sains, teknologi, dan rekayasa, serta memecahkan masalah yang ada di dalam kehidupan sehari-hari secara kritis, kreatif, integratif dan multidisipliner melalui kolaborasi di dalam tim dengan menekankan pada komunikasi secara aktif dan efektif dalam mengambil keputusan dengan mempertimbangkan tantangan lokal, regional, dan global, serta membentuk sikap peduli dan toleran terhadap permasalahan sosial, ekonomi, dan lingkungan dalam rangka mewujudkan Pendidikan untuk Pembangunan Berkelanjutan (ESD) dan Tujuan Pembangunan Berkelanjutan (SDGs). Kelompok mata kuliah keahlian pembelajaran bidang studi (MKKPBS) adalah kelompok mata kuliah yang memberikan bekal kepada mahasiswa terkait dengan perencanaan pembelajaran, strategi pembelajaran, termasuk pemanfaatan media dan alat peraga pembelajaran, dan evaluasi pembelajaran, yang ditunjang oleh mata kuliah terkait dengan literasi ICT untuk mendukung mata kuliah-mata kuliah yang bernuansa pembelajaran. Melalui kelompok mata kuliah ini diharapkan mahasiswa menguasai pengetahuan dan keterampilan bagaimana merancang, mengimplementasikan, dan mengevaluasi pembelajaran secara tepat (apabila memungkinkan dengan memanfaatkan perangkat ICT). Kelompok mata kuliah ini diperuntukkan bagi mahasiswa program studi kependidikan. Untuk mahasiswa program studi non-pendidikan mata kuliah ini tidak diberikan."
+  },
+  {
+    "_id": "cs_curriculum_pik_pplsp_ppl_002",
+    "section": "Struktur Kurikulum — PPLSP / PPL",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum Program Pengenalan Lapangan Satuan Pendidikan (PPLSP) pada program studi pendidikan berbobot 4 sks yang dikembangkan dalam bentuk real teaching dengan sistem blok yang ditempatkan pada semester ganjil maupun semester genap. PPLSP menitikberatkan pada model reflektif melalui supervisi klinis, tidak menekankan pada microteaching sebagaimana dilaksanakan pada kegiatan simulasi pembelajaran. Hal ini dimaksudkan agar para lulusan program studi kependidikan menguasai pengetahuan, keterampilan, dan sikap yang terkait dengan pendidikan (pedagogical knowledge, pedagogical content knowledge). Sedangkan untuk program studi non pendidikan mata kuliah praktik lapangan ini disebut Program Pengenalan Lapangan (PPL) dengan bobot 4 sks. Melalui mata kuliah PPL ini mahasiswa non pendidikan diberi kesempatan untuk melakukan magang kerja selama satu semester di berbagai perusahaan atau instansi, baik milik pemerintah maupun milik swasta (bisnis/industri). Mata kuliah PPL tersebut dapat dikontrak oleh mahasiswa pada semester VII. Pada pelaksanaan kegiatan magang, mahasiswa memperoleh kesempatan untuk mengimplementasikan ilmu, pengetahuan, atau keterampilan yang telah diperoleh selama mengikuti perkuliahan di kelas sekaligus untuk mendapatkan pengalaman baru yang tidak diperoleh dalam aktivitas perkuliahan."
+  },
+  {
+    "_id": "cs_curriculum_pik_mkips_mkkpps_kbk_002",
+    "section": "Struktur Kurikulum — MKIPS, MKKPPS & KBK",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum Kelompok mata kuliah inti program studi (MKIPS) dan kelompok mata kuliah keahlian pilihan program studi (MKKPPS) adalah dua kelompok mata kuliah yang merupakan kelompok mata kuliah khusus yang menjadi ciri khas dari masing-masing program studi, dalam hal ini Program Studi Pendidikan Ilmu Komputer. MKKPPS adalah kumpulan mata kuliah yang memberikan bekal kepada mahasiswa untuk memperluas kemampuan supaya dapat mengkaji implikasi pengembangan atau implementasi ilmu pengetahuan dan teknologi dengan memperhatikan dan menerapkan tata cara dan etika ilmiah dalam rangka menghasilkan solusi, gagasan, desain, menyusun deskripsi saintifik hasil kajiannya dalam bentuk laporan yang dipublikasikan. Disamping itu juga membekali keterampilan untuk mengambil keputusan yang tepat dan profesional berdasarkan hasil analisis terhadap data, serta dapat memilih berbagai solusi alternatif secara mandiri dan kelompok dalam memecahkan persoalan di lingkungan pekerjaan dengan atau tanpa menggunakan piranti lunak. Tabel Kelompok Bidang Keahlian di Program Studi Pendidikan Ilmu Komputer Program Studi Pendidikan Ilmu Komputer 1. Rekayasa Perangkat Lunak 2. Teknik Komputer dan Sistem Jaringan 3. Multimedia dan Desain 4. Pembelajaran Ilmu Komputer"
+  },
+  {
+    "_id": "cs_curriculum_pik_penempatan_rincian_002",
+    "section": "Struktur Kurikulum — Penempatan & Rincian SKS",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum Penempatan mata kuliah program studi pada setiap semester diatur sedemikian rupa, sehingga mata kuliah pada semester tertentu yang menjadi prasyarat untuk mata kuliah-mata kuliah pada semester berikutnya dapat terpenuhi. Pengaturan ini diharapkan dapat menunjang kebutuhan mahasiswa terkait dengan penguasaan materi yang disajikan pada semua mata kuliah secara tepat dan komprehensif untuk mencapai semua PLO yang telah ditetapkan. Harapan lain dari kebijakan ini adalah mahasiswa dapat menyelesaikan studinya sesuai dengan rentang waktu yang telah ditetapkan di dalam kurikulum yang berlaku. Penempatan mata kuliah pada setiap semester juga mempertimbangkan aspek keluasan dan kedalaman kajian bidang pada masing-masing program studi. Aspek keluasan dan kedalaman materi mata kuliah telah dikaji dengan cermat dan proporsional oleh para dosen yang berpengalaman dan menguasai konten materi beserta pembelajarannya serta dosen pengampu mata kuliah yang bersangkutan. Aspek keluasan struktur program dapat dilihat dari hubungan antara suatu mata kuliah dengan mata kuliah lainnya pada struktur kurikulum, mata kuliah dari disiplin ilmu yang berbeda dan/atau penerapannya dalam kehidupan (fenomena) sehari-hari. Sedangkan aspek kedalaman bidang kajian ditinjau dari kompleksitas dan tingkat kesulitan dari suatu mata kuliah dibandingkan dengan mata kuliah lainnya. Penempatan mata kuliah untuk setiap semester beserta keterkaitan antar mata kuliah yang menggambarkan keluasan dan kedalaman masing-masing mata kuliah pada program studi pendidikan ilmu komputer Rincian Jenis kelompok mata kuliah Program Studi Pendidikan Ilmu Komputer yang tersedia dapat dilihat pada tabel dibawah ini: Jenis Mata Kuliah — Beban SKS - Mata Kuliah Umum (MKU): 16 SKS - Mata Kuliah Program Pengalaman Lapangan (MKPPL): 4 SKS - Mata Kuliah Dasar Kependidikan (MKDK): 8 SKS - Mata Kuliah Keahlian Fakultas (MKKF): 6 SKS - Mata Kuliah Keahlian Pembelajaran Ilmu Komputer (MKKPBS): 12 SKS - Mata Kuliah Keahlian Inti Program Studi (MKKIPS): 84 SKS - Mata Kuliah Pilihan Pendidik: 18 SKS Mata kuliah keahlian pada Prodi Pendidikan Ilmu Komputer terbagi kedalam 4 paket mata kuliah atau disebut Kelompok Bidang Keahlian (KBK). Keempat KBK tersebut yaitu, Rekayasa Perangkat Lunak, Teknik Komputer dan Jaringan, Multimedia dan Desain, dan Pengajaran dan Pembelajaran Ilmu Komputer."
+  },
+  {
+    "_id": "cs_curriculum_pik_list_pengantar_001",
+    "section": "Daftar & Distribusi Mata Kuliah — Pengantar",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["mata kuliah pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum mata kuliah pendidikan ilmu komputer 6. Daftar & Distribusi Mata Kuliah Berikut adalah daftar lengkap mata kuliah pada Program Studi Pendidikan Ilmu Komputer beserta distribusi semesternya. Modul/Handbook tiap mata kuliah dapat diakses melalui tautan pada nama mata kuliah atau unduh berkas modul di sini: https://drive.google.com/file/d/1LBAdA4dLvft0v_u0hwyMzfOXtABpjZnw/view?usp=sharing"
+  },
+  {
+    "_id": "cs_curriculum_pik_list_mku_001_part1",
+    "section": "A. Mata Kuliah Umum (MKU) — Bagian 1/2",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["mata kuliah pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum mata kuliah pendidikan ilmu komputer Format: NO. KODE — Mata Kuliah (tautan) — SKS — Semester 1) KU100 — Pendidikan Agama Islam — 2 SKS — Smt 1 — https://drive.google.com/file/d/1i-QSnB5e5MJDubKkQxyJOIy4r863FU_v/view?usp=sharing 2) KU101 — Pendidikan Agama Kristen — 2 SKS — Smt 1 — https://drive.google.com/file/d/1CWgSv8zt4pHmtdU5kFayncjTQjuD2OMt/view?usp=sharing 3) KU102 — Pendidikan Agama Katolik — 2 SKS — Smt 1 — https://drive.google.com/file/d/1pYNU-ajapThR5HQJtO6nLGiDohJRoyRr/view?usp=sharing 4) KU103 — Pendidikan Agama Hindu — 2 SKS — Smt 1 — https://drive.google.com/file/d/1FG5pRj7f9L1X51EqoQtBGKg3rrFMdxYD/view?usp=sharing 5) KU104 — Pendidikan Agama Buddha — 2 SKS — Smt 1 — https://drive.google.com/file/d/1rEeoimg_8a6Gk8Ara-22at2jUg0B6J0S/view?usp=sharing 6) KU109 — Pendidikan Agama Khonghucu — 2 SKS — Smt 1 — https://drive.google.com/file/d/1-z6kGw7dcgh0Ti0Chn8QNa-3XIdqVWPo/view?usp=sharing 7) KU110 — Pancasila — 2 SKS — Smt 2 — https://drive.google.com/file/d/19w7bq4QvKpSj5WjADee3dgMTDp9ti1zv/view?usp=sharing 8) KU105 — Pendidikan Kewarganegaraan — 2 SKS — Smt 1 — https://drive.google.com/file/d/1baS39qtx38ReiuUutftUFoGL2nxXqrxt/view?usp=sharing 9) KU106 — Bahasa Indonesia — 2 SKS — Smt 1 — https://drive.google.com/file/d/1VE22P6AGMm0fAqLKLzRp9Hy-9E8hmKbs/view?usp=sharing 10) KU108 — Pendidikan Jasmani* — 2 SKS — Smt 2 — https://drive.google.com/file/d/1MGN2cZYhax_dopVM_M1obb7Jl4iZPAMu/view?usp=sharing"
+  },
+  {
+    "_id": "cs_curriculum_pik_list_mku_001_part2",
+    "section": "A. Mata Kuliah Umum (MKU) — Bagian 2/2",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["mata kuliah pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum mata kuliah pendidikan ilmu komputer Format: NO. KODE — Mata Kuliah (tautan) — SKS — Semester 11) KU119 — Pendidikan Seni* — 2 SKS — Smt 2 — https://drive.google.com/file/d/17hHK2A-9R8fnJPpz57bc4iKlLXawnnpU/view?usp=sharing 12) KU300 — Seminar Pendidikan Agama Islam — 2 SKS — Smt 6 — https://drive.google.com/file/d/1TlqL-CpxJgJDWXGU7zAyQvzi4ZqaaE02/view?usp=sharing 13) KU301 — Seminar Pendidikan Agama Kristen — 2 SKS — Smt 6 — https://drive.google.com/file/d/1GX8ySfsQPCvk47jwRd9LJmLJjvoEQZY0/view?usp=sharing 14) KU302 — Seminar Pendidikan Agama Katolik — 2 SKS — Smt 6 — https://drive.google.com/file/d/1WgXJa5hsIWpl1kaTmD95mAA-dPxig017/view?usp=sharing 15) KU303 — Seminar Pendidikan Agama Hindu — 2 SKS — Smt 6 — https://drive.google.com/file/d/1fGeBJK1xFfqrFFEvaX8VXYaHopS1U4YM/view?usp=sharing 16) KU304 — Seminar Pendidikan Agama Buddha — 2 SKS — Smt 6 — https://drive.google.com/file/d/1GfqHWYo7WODivUcHpFEM8lsN8HyoSXi5/view?usp=sharing 17) KU309 — Seminar Pendidikan Agama Khonghucu — 2 SKS — Smt 6 — https://drive.google.com/file/d/1w9airLeY4KJJWzOb66QerOQq6Z2svkzR/view?usp=sharing 18) KU400 — Kuliah Kerja Nyata (KKN) — 2 SKS — Smt 7 — https://drive.google.com/file/d/1jSniH1JGYtTshon0uXHChHyfrIi4qoeo/view?usp=sharing Rekap SKS per semester (MKU): S1=14, S2=6, S3=4, S4=0, S5=0, S6=2, S7=2, S8=0"
+  },
+  {
+    "_id": "cs_curriculum_pik_list_mkppl_001",
+    "section": "B. Mata Kuliah Program Pengalaman Lapangan (MKPPL)",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["mata kuliah pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum mata kuliah pendidikan ilmu komputer Format: NO. KODE — Mata Kuliah (tautan) — SKS — Semester 1) KU590 — Pengalaman Lapangan Kependidikan / Magang — 4 SKS — Smt 8 — https://drive.google.com/file/d/1G82MK_EmaBs9hqf7ioNbjPUhP2wkYVk-/view?usp=sharing Rekap SKS per semester (MKPPL): S8=4"
+  },
+  {
+    "_id": "cs_curriculum_pik_list_mkdk_001",
+    "section": "C. Mata Kuliah Dasar Kependidikan (MKDK)",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["mata kuliah pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum mata kuliah pendidikan ilmu komputer Format: NO. KODE — Mata Kuliah (tautan) — SKS — Semester 1) DK300 — Landasan Pendidikan — 2 SKS — Smt 2 — https://drive.google.com/file/d/10CS31MONiFfF1Sxc-5QJo1_9UzQMpEiW/view?usp=sharing 2) DK301 — Psikologi Pendidikan dan Bimbingan — 2 SKS — Smt 1 — https://drive.google.com/file/d/1YRM3bGTNJVZn9lpISJhyGLBXlbOGb4LN/view?usp=sharing 3) DK303 — Kurikulum dan Pembelajaran — 2 SKS — Smt 4 — https://drive.google.com/file/d/1XPJC2NB3e3lQfobF4600xnZKy1DrCHsg/view?usp=sharing 4) DK304 — Manajemen Pendidikan — 2 SKS — Smt 4 — https://drive.google.com/file/d/1ZM-kl5aKY-f8Ovp9iaTfVh4-NuHrgTrD/view?usp=sharing Rekap SKS per semester (MKDK): S1=2, S2=2, S4=4"
+  },
+  {
+    "_id": "cs_curriculum_pik_list_mkkf_001",
+    "section": "D. Mata Kuliah Keahlian Fakultas (MKKF)",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["mata kuliah pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum mata kuliah pendidikan ilmu komputer Format: NO. KODE — Mata Kuliah (tautan) — SKS — Semester 1) MA100 — Matematika, Sains, Teknologi, dan Rekayasa (MSTR) — 3 SKS — Smt 1 — https://drive.google.com/file/d/1aPKuRMohqSHajVYRVjD2JT0RJb2y33tL/view?usp=sharing 2) MA101 — Aplikasi Matematika, Sains, Teknologi, dan Rekayasa (AMSTR) — 3 SKS — Smt 2 — https://drive.google.com/file/d/1z76nI0UWKj6t2CYvrDwug_9kUwaT_HeD/view?usp=sharing Rekap SKS per semester (MKKF): S1=3, S2=3"
+  },
+  {
+    "_id": "cs_curriculum_pik_list_mkkpbs_001",
+    "section": "E. Mata Kuliah Keahlian Pembelajaran Ilmu Komputer (MKKPBS)",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["mata kuliah pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum mata kuliah pendidikan ilmu komputer Format: NO. KODE — Mata Kuliah (tautan) — SKS — Semester 1) IK400 — Strategi Pembelajaran Ilmu Komputer — 3 SKS — Smt 4 — https://drive.google.com/file/d/1gmczxjF6Yw7jpnH4m_wINcJ1VlUOxdzE/view?usp=sharing 2) IK401 — Evaluasi Pembelajaran Ilmu Komputer — 3 SKS — Smt 5 — https://drive.google.com/file/d/1jPdRxd898qWpXX0c6fsywl3ApVU4YZco/view?usp=sharing 3) IK402 — Perencanaan Pembelajaran Ilmu Komputer — 3 SKS — Smt 8 — https://drive.google.com/file/d/1kBP_7upTyqjv0DhklO2YBLNObVTQA7it/view?usp=sharing 4) IK403 — Literasi Teknologi & Media Pembelajaran Ilmu Komputer — 3 SKS — Smt 8 — https://drive.google.com/file/d/1IkxD5bLkxSOQCLJ9O59aNFJZ0M4e9jmm/view?usp=sharing Rekap SKS per semester (MKKPBS): S4=3, S5=3, S8=6"
+  },
+  {
+    "_id": "cs_curriculum_pik_list_mkkips_001_part1",
+    "section": "F. MKKIPS — Inti — Bagian 1/2",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["mata kuliah pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum mata kuliah pendidikan ilmu komputer Format: NO. KODE — Mata Kuliah (tautan) — SKS — Semester 1) IK111 — Pengantar Teknologi dan Informasi — 3 SKS — Smt 1 — https://drive.google.com/file/d/14r6XA3KEdc9wPkZ_avOAN4Cary7StgOC/view?usp=sharing 2) IK121 — Arsitektur & Organisasi Komputer — 3 SKS — Smt 1 — https://drive.google.com/file/d/18UXzCMWLXKSodRTFrEd3DEKREcoRWkeh/view?usp=sharing 3) IK131 — Algoritma dan Pemrograman — 3 SKS — Smt 2 — https://drive.google.com/file/d/1yDoGU3GR6lmQ-4Ej6XsWFi--POdfJnZN/view?usp=sharing 4) IK141 — Struktur Data — 3 SKS — Smt 2 — https://drive.google.com/file/d/1j0n3lJEN1sJxAI_zDfomHVj-FGMlf2oo/view?usp=sharing 5) IK211 — Sistem Basis Data — 3 SKS — Smt 3 — https://drive.google.com/file/d/18x7BEoEn2RMdMoJ_WI6vq5SqUKctAhMF/view?usp=sharing 6) IK151 — Bahasa Inggris — 2 SKS — Smt 1 — https://drive.google.com/file/d/1G_tYSi9mKUt5KwSgWWhw_uD1WE-2YHGE/view?usp=sharing 7) IK161 — Kalkulus — 3 SKS — Smt 2 — https://drive.google.com/file/d/1UEgFzkl977eA4albxIyejBu7czARMI43/view?usp=sharing 8) IK221 — Matematika Diskrit — 3 SKS — Smt 3 — https://drive.google.com/file/d/1M1-OnbeZ_OwnsNq9ZEK4mJZcjXZidUQi/view?usp=sharing 9) IK311 — Aljabar Linear & Matriks — 3 SKS — Smt 6 — https://drive.google.com/file/d/1zkods5BFcRZAbUpzjEmvwBUl-TPG3SOw/view?usp=sharing 10) IK171 — Statistika — 2 SKS — Smt 2 — https://drive.google.com/file/d/1XzwLLTx64Khi51v5tGzmojz_vf-I8oxO/view?usp=sharing"
+  },
+  {
+    "_id": "cs_curriculum_pik_list_mkkips_001_part2",
+    "section": "F. MKKIPS — Inti — Bagian 2/2",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["mata kuliah pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum mata kuliah pendidikan ilmu komputer Format: NO. KODE — Mata Kuliah (tautan) — SKS — Semester 11) IK231 — Berpikir Komputasional — 2 SKS — Smt 3 — https://drive.google.com/file/d/1AuMdJ1C2Pwda2KY0Ux4F1WIVTNP3AlDV/view?usp=sharing 12) IK241 — Metode Numerik — 3 SKS — Smt 4 — https://drive.google.com/file/d/1Xt35ufBc8kwVCxo4tBz5zRun5ItL05Vg/view?usp=sharing 13) IK251 — Kapita Selekta — 2 SKS — Smt 4 — https://drive.google.com/file/d/1-5qiU2WXQbYsQwm2YPo6gZreylVaZUre/view?usp=sharing 14) IK321 — Seminar — 3 SKS — Smt 6 — https://drive.google.com/file/d/15kVjVxSDFowkgG0ZV7k9M8bUhNkhxDav/view?usp=sharing 15) IK261 — Kewirausahaan — 2 SKS — Smt 7 — https://drive.google.com/file/d/1prhTK9xpqIA7TTG4YhuCgHhPPecg6D1M/view?usp=sharing 16) IK271 — Etika Profesi — 2 SKS — Smt 4 — https://drive.google.com/file/d/1_zCczrKULLgU_IPIQQYUWu7yMeTd6XvT/view?usp=sharing 17) IK331 — Metodologi Penelitian Ilmu Komputer — 3 SKS — Smt 5 — https://drive.google.com/file/d/1cL_EKgXZsPp7HwGB1cHvt6Ge1vvV8VVT/view?usp=sharing 18) IK598 — Skripsi — 6 SKS — Smt 8 — https://drive.google.com/file/d/1AxImFqhV0TgHinL1VdRrU-p_qPjLUOG1/view?usp=sharing 19) IK599 — Ujian Sidang Skripsi — 0 SKS — Smt 8 — https://drive.google.com/file/d/1VMWs6AZXAdPzgeIp9cnufmoNIhSc7LJZ/view?usp=sharing 20) IK281 — Sistem Operasi — 3 SKS — Smt 5 — https://drive.google.com/file/d/1q1RTWlWfnVvz4p4f45ByMZLsUo8ZMMde/view?usp=sharing Jumlah SKS (bagian inti MKKIPS): 54"
+  },
+  {
+    "_id": "cs_curriculum_pik_list_mkkips_rpl_001",
+    "section": "F.1. MKKIPS — Rekayasa Perangkat Lunak",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["mata kuliah pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum mata kuliah pendidikan ilmu komputer Format: NO. KODE — Mata Kuliah (tautan) — SKS — Semester 21) IK312 — Rekayasa Perangkat Lunak — 3 SKS — Smt 7 — https://drive.google.com/file/d/1t19ZpMWMm2S8xPluNVBGncr8id0hN_i7/view?usp=sharing 22) IK212 — Pemrograman Internet — 3 SKS — Smt 5 — https://drive.google.com/file/d/1kXyzTPlQSPICEUg8F4gWNxr-K9AqWVXY/view?usp=sharing 23) IK222 — Pemrograman Berorientasi Objek — 3 SKS — Smt 5 — https://drive.google.com/file/d/1ZfUY6D2Q0KgREwqUoSvJDxYnS5Rgc2o4/view?usp=sharing 24) IK322 — Pemrograman Mobile — 3 SKS — Smt 6 — https://drive.google.com/file/d/1hdh99HLOwrsZ3wD0l3lfaA4IymIRBmxG/view?usp=sharing Jumlah SKS (RPL): 12"
+  },
+  {
+    "_id": "cs_curriculum_pik_list_mkkips_jarkom_001",
+    "section": "F.2. MKKIPS — Teknik Komputer & Jaringan",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["mata kuliah pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum mata kuliah pendidikan ilmu komputer Format: NO. KODE — Mata Kuliah (tautan) — SKS — Semester 25) IK113 — Rangkaian Elektronika — 3 SKS — Smt 3 — https://drive.google.com/file/d/1kNsEAjPIKlUyAITpyv54YC-71y6D8x9O/view?usp=sharing 26) IK213 — Jaringan Komputer — 3 SKS — Smt 3 — https://drive.google.com/file/d/1ss1oR52vwS2TK-SWKumvUHX74aKkqDSv/view?usp=sharing 27) IK313 — Infrastruktur Jaringan & Administrasi Sistem — 3 SKS — Smt 6 — https://drive.google.com/file/d/1F781lzDmmQgD08FEpCPHjM3BgO9hqEOA/view?usp=sharing Jumlah SKS (TKJ): 9"
+  },
+  {
+    "_id": "cs_curriculum_pik_list_mkkips_multimedia_001",
+    "section": "F.3. MKKIPS — Multimedia",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["mata kuliah pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum mata kuliah pendidikan ilmu komputer Format: NO. KODE — Mata Kuliah (tautan) — SKS — Semester 28) IK314 — Pengolahan Audio & Video — 3 SKS — Smt 6 — https://drive.google.com/file/d/1toucJHS33ouNUFp6JHKn2SOHT-4Rof04/view?usp=sharing 29) IK324 — Animasi — 3 SKS — Smt 6 — https://drive.google.com/file/d/1_q9sPhAqAFVlM6cd6yYBgxv_mcYeFQtr/view?usp=sharing 30) IK214 — Desain Grafis — 3 SKS — Smt 3 — https://drive.google.com/file/d/1QdRhA7-EbvJs4AvHmbuYBLD2LOW0R2il/view?usp=sharing Jumlah SKS (Multimedia): 9 Rekap total SKS (MKKIPS keseluruhan): 54 (inti) + 12 (RPL) + 9 (TKJ) + 9 (Multimedia) = 84"
+  },
+  {
+    "_id": "cs_curriculum_pik_list_elektif_001_part1",
+    "section": "G. Mata Kuliah Pilihan Pendidik (Elektif) — Bagian 1/2",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["mata kuliah pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum mata kuliah pendidikan ilmu komputer Format: NO. KODE — Mata Kuliah (tautan) — SKS — Semester 1) IK317 — Manajemen & Sistem Informasi Pendidikan — 3 SKS — Smt 7 — https://drive.google.com/file/d/10xzyeHY14Ek4jGCLVxHkySbvBHAq27Dq/view?usp=sharing 2) IK327 — Kecerdasan Buatan (AI) — 3 SKS — Smt 7 — https://drive.google.com/file/d/1ueHwdEab0OXYQdDGW6791MDelAAXStt4/view?usp=sharing 3) IK337 — Komputer dan Masyarakat — 3 SKS — Smt 7 — https://drive.google.com/file/d/1rNK-mtFRhIfIAU9D8WnJajBIavYD7ZiL/view?usp=sharing 4) IK347 — Desain dan Analisis Algoritma — 3 SKS — Smt 6 — https://drive.google.com/file/d/1OGUODoKruTLSPjh-UtpOu38aUTmOnlcH/view?usp=sharing 5) IK357 — Interaksi Manusia dan Komputer — 3 SKS — Smt 5 — https://drive.google.com/file/d/17YZ0uMVCEuQtySN5hbylWdnBGgD9Px84/view?usp=sharing 6) IK367 — Business Intelligence — 3 SKS — Smt 7 — https://drive.google.com/file/d/1ItpG3gz6B28tLh1IzzCSmfYOk3dzjR2H/view?usp=sharing 7) IK377 — Manajemen Informasi — 3 SKS — Smt 6 — https://drive.google.com/file/d/16BzmhKFXPlKE4tynqU8upNOAc6qW5DVN/view?usp=sharing 8) IK387 — Internet of Things (IoT) — 3 SKS — Smt 7 — https://drive.google.com/file/d/1Q7z19yK77wO7-V8VOvsk03K_iI_hgU4c/view?usp=sharing 9) IK397 — Keamanan Sistem Informasi — 3 SKS — Smt 7 — https://drive.google.com/file/d/1QHDpqevx3Fk9-CPmBY1ZBTcYfDZtsT1N/view?usp=sharing 10) IK318 — Teknologi Internet — 3 SKS — Smt 6 — https://drive.google.com/file/d/14-iaKcdVM5yA0cZ1PzoFSmXj9BJ-5-RJ/view?usp=sharing"
+  },
+  {
+    "_id": "cs_curriculum_pik_list_elektif_001_part2",
+    "section": "G. Mata Kuliah Pilihan Pendidik (Elektif) — Bagian 2/2",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["mata kuliah pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum mata kuliah pendidikan ilmu komputer Format: NO. KODE — Mata Kuliah (tautan) — SKS — Semester 11) IK328 — Pedagogi Digital — 3 SKS — Smt 6 — https://drive.google.com/file/d/18_TzOYnr-RCqXcvXlVCpvfWYpDIPiV_C/view?usp=sharing 12) IK338 — Teknologi Videografi — 3 SKS — Smt 6 — https://drive.google.com/file/d/1rsyPdnaMyQ5p3fc7Kq4e17aWkQwVUjHQ/view?usp=sharing 13) IK348 — Teknologi Desain Motion Graphic — 3 SKS — Smt 7 — https://drive.google.com/file/d/1zoiihxayIUuwqP6hdSrAMBMTH87UsmbJ/view?usp=sharing 14) IK358 — Perencanaan Strategis Teknologi Informasi — 3 SKS — Smt 7 — https://drive.google.com/file/d/1FPIj8RfcKkwh5o6dfafYsMXnbZKxy8sl/view?usp=sharing 15) IK368 — Sistem Informasi — 3 SKS — Smt 6 — https://drive.google.com/file/d/12KjqLLv-zj3z8TaXLDXgguxg1fRLykSk/view?usp=sharing 16) IK378 — M-Learning — 3 SKS — Smt 7 — https://drive.google.com/file/d/1O-cLByYBuscp5daqRpyPiaz0Pkc_qnY2/view?usp=sharing 17) IK388 — Keamanan Multimedia — 3 SKS — Smt 7 — https://drive.google.com/file/d/1-srAm8wDIXMURXbu_ZZrZr4j7bcIyMcD/view?usp=sharing Rekap SKS per semester (Elektif): S5=3, S6=18, S7=33"
+  },
+  {
+    "_id": "cs_curriculum_pik_list_rekap_total_001",
+    "section": "Rekapitulasi SKS Seluruh Kelompok",
+    "title": "Kurikulum Pendidikan Ilmu Komputer",
+    "type": ["mata kuliah pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Struktur Kurikulum mata kuliah pendidikan ilmu komputer Total SKS keseluruhan: 146 Distribusi SKS per semester (total semua kelompok): S1=19, S2=20, S3=20, S4=20, S5=20, S6=20, S7=17, S8=10"
+  },
+  {
+    "_id": "cs_metode_pengajaran_pik_001",
+    "section": "Pendekatan & Pemetaan PLO",
+    "title": "Metode Pengajaran Pendidikan Ilmu Komputer",
+    "type": ["metode pengajaran pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Metode Pengajaran Pendidikan Ilmu Komputer Untuk mencapai hasil belajar yang optimal, setiap program studi menerapkan pendekatan pembelajaran yang berpusat pada mahasiswa dalam model, metode, dan strategi pembelajarannya. Pendekatan ini bertujuan untuk mendorong semua mahasiswa agar memiliki kemampuan untuk memperoleh pengetahuan untuk masa depan jangka panjang, menciptakan pemahaman baru, memecahkan masalah, melakukan penelitian, dan mengkomunikasikan pengetahuan kepada orang lain. Pendekatan, model, metode, dan strategi telah disepakati oleh seluruh dosen. Sementara itu, ketua program studi secara berkala mengontrol proses belajar mengajar melalui Gugus Tugas Pengendalian Mutu (GKM). Tugas GKM adalah memantau proses belajar mengajar. Strategi belajar mengajar diterapkan melalui berbagai metode dan pendekatan. Penggunaan metode dan pendekatan belajar-mengajar tergantung pada rumusan Program Hasil Belajar (PLO), karakteristik mata kuliah, seperti yang dijelaskan dalam deskripsi modul, pandangan didaktik dan pedagogis, metode pembelajaran, dan pentingnya kegiatan belajar mengajar. Pemetaan Metode Pembelajaran terhadap PLO Program Studi Pendidikan Ilmu Komputer (ringkas per PLO): Format: PLO — Metode yang digunakan (dipilih dari: Kuliah, Diskusi, Debat, Simposium, Curah Gagasan, Praktikum/Lab, Demonstrasi, Simulasi, Praktik Lapangan) - PLO-1 — Kuliah, Diskusi, Curah Gagasan - PLO-2 — Kuliah, Diskusi, Simposium, Curah Gagasan, Praktikum/Lab, Demonstrasi, Simulasi, Praktik Lapangan - PLO-3 — Kuliah, Diskusi, Curah Gagasan - PLO-4 — Kuliah, Diskusi, Curah Gagasan, Praktikum/Lab, Demonstrasi - PLO-5 — Kuliah, Diskusi, Debat, Simposium, Curah Gagasan, Demonstrasi, Simulasi, Praktik Lapangan - PLO-6 — Kuliah, Diskusi, Curah Gagasan - PLO-7 — Kuliah, Diskusi, Curah Gagasan, Praktikum/Lab, Demonstrasi, Simulasi - PLO-8 — Kuliah, Diskusi, Curah Gagasan, Praktikum/Lab, Demonstrasi, Simulasi, Praktik Lapangan - PLO-9 — Kuliah, Diskusi, Curah Gagasan, Praktikum/Lab, Demonstrasi - PLO-10 — Kuliah, Diskusi, Debat, Simposium, Curah Gagasan, Praktikum/Lab, Demonstrasi, Simulasi"
+  },
+  {
+    "_id": "cs_metode_pengajaran_pik_002",
+    "section": "Praktikum Lapangan: KKN & PPLSP",
+    "title": "Metode Pengajaran Pendidikan Ilmu Komputer",
+    "type": ["metode pengajaran pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Metode Pengajaran Pendidikan Ilmu Komputer Praktikum lain dilaksanakan di luar kampus adalah mata kuliah kuliah kerja nyata (KKN), program pengenalan lapangan satuan pendidikan (PPLSP). Pada mata kuliah KKN, mahasiswa terjun langsung di masyarakat untuk menerapkan ilmu, pengetahuan, dan keterampilan yang sudah diperolehnya di bangku kuliah yang dalam waktu bersamaan mereka mendapatkan ilmu, pengetahuan, dan keterampilan praksis terkait dengan materi teoritis yang telah mereka dapatkan di kelas, termasuk tantangan kehidupan yang nyata. Kegiatan KKN di lapangan dilakukan oleh para mahasiswa secara berkelompok dengan latar belakang keilmuan (program studi) yang beragam, dengan maksud agar keberagaman latar belakang keilmuan yang mereka miliki dapat menjadi kekuatan kelompok karena saling mengisi dan saling melengkapi. Setiap kelompok mahasiswa KKN didampingi oleh seorang dosen pembimbing lapangan. Pada penghujung kegiatan, setiap kelompok diminta membuat laporan tentang hasil KKN mereka, sekaligus diminta untuk membuat artikel ilmiah yang selanjutnya dimuat dalam jurnal yang relevan untuk menambah khasanah publikasi ilmiah UPI. Kedua hal tersebut sebagai dasar untuk penentuan nilai akhir mata kuliah KKN selain berdasarkan keaktifan mahasiswa secara individual maupun kelompok selama melaksanakan kegiatan di lapangan. Sedangkan pada mata kuliah PPLSP, mahasiswa melaksanakan praktikum pembelajaran di kelas nyata di sekolah tempat mereka melaksanakan PPLSP dengan didampingi oleh guru pamong dan dosen pembimbing. Peserta PPLSP melaksanakan praktikum kurang lebih selama satu semester atau (minimal) 16 kali pertemuan tatap muka di kelas. Untuk menjamin efektivitas kegiatan PPLSP, para mahasiswa yang sedang melaksanakan PPLSP tidak diperkenankan mengambil mata kuliah yang lain. Pada penghujung kegiatan, setiap mahasiswa melaksanakan ujian mata kuliah PPLSP melalui penampilan mengajar di depan siswa di kelas. Untuk melengkapi ujian penampilan, para mahasiswa PPLSP juga diminta untuk membuat laporan kegiatan PPLSP secara individual. Kedua hal tersebut sebagai dasar untuk penentuan nilai akhir mata kuliah PPLSP dari guru pamong dan dosen pembimbing, di samping keaktifan mahasiswa yang bersangkutan selama melaksanakan kegiatan di PPLSP di sekolah."
+  },
+  {
+    "_id": "cs_penilaian_pik_001",
+    "section": "Konsep & Frekuensi Penilaian",
+    "title": "Metode Penilaian Pendidikan Ilmu Komputer",
+    "type": ["metode penilaian pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "metode penilaian pendidikan ilmu komputer Penilaian dirancang untuk mengukur sejauh mana tingkat ketercapaian mahasiswa berdasarkan proses dan hasil pembelajaran yang dilakukan berdasarkan target yang telah ditentukan. Sebuah penilaian lazimnya disusun sedemikian rupa sehingga mencakup semua target capaian pembelajaran yang diharapkan terkait dengan sebuah atau sejumlah kompetensi yang meliputi aspek pengetahuan, keterampilan, dan/atau sikap.\n\nDalam proses penilaian, program studi Pendidikan Ilmu Komputer di lingkungan FPMIPA UPI menggunakan konsep penilaian multi-komponen untuk mengukur pencapaian keberhasilan implementasi mata kuliah dan pencapaian hasil akhir studi mahasiswa. Aspek pengetahuan diukur dengan menggunakan ujian tertulis; aspek keterampilan diukur dengan menggunakan tugas projek, unjuk kerja, dan/atau presentasi; dan aspek sikap diukur dengan menggunakan peer assessment yang dilakukan dalam kegiatan tugas projek, unjuk kerja, dan/atau presentasi. Berdasarkan Pedoman Penyelenggaraan Pendidikan UPI tahun 2020, penilaian proses belajar mahasiswa diadakan paling sedikit dua kali dalam satu semester, yaitu melalui Ujian Tengah Semester (UTS) dan Ujian Akhir Semester (UAS).\n\nDengan merujuk pada Pedoman Penyelengaraan Pendidikan UPI Tahun 2020, Program Studi Pendidikan Ilmu Komputer, FPMIPA UPI mengimplementasikan frekuensi perkuliahan dalam 1 semester sebanyak 16 kali pertemuan, dengan rincian 14 kali pertemuan dilakukan untuk perkuliahan, 1 kali pertemuan dilakukan untuk UTS dan 1 kali pertemuan dilakukan untuk UAS. Pada umumnya, UTS dilaksanakan pada pertemuan ke-8 dan UAS dilaksanakan pada pertemuan ke-16. Mahasiswa dapat mengikuti UAS apabila mereka telah mengikuti perkuliahan dalam mata kuliah yang bersangkutan minimal 80%. Pelaksanaan UTS diserahkan kepada dosen pengampu matakuliah yang bersangkutan dan disesuaikan dengan jadwal perkuliahan yang telah ditetapkan. Sementara, pelaksanaan Ujian Akhir Semester (UAS), remedial teaching, dan pemasukkan nilai diatur dalam surat edaran Rektor UPI yang ditandatangani oleh Wakil Rektor Bidang Pendidikan dan Kemahasiswaan."
+  },
+  {
+    "_id": "cs_penilaian_pik_002",
+    "section": "Kategori Ujian, Jadwal & Mekanisme",
+    "title": "Metode Penilaian Pendidikan Ilmu Komputer",
+    "type": ["metode penilaian pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "metode penilaian pendidikan ilmu komputer Pelaksanaan ujian tengah semester (UTS) dan ujian akhir semester (UAS) secara garis besar dilaksanakan dalam 2 (dua) kategori mata kuliah, yakni mata kuliah umum (MKU) dan mata kuliah keahlian bidang studi (MKIPS DAN MKPPS). Pengkategorian ini diharapkan agar mahasiswa dapat mengikuti ujian dengan tertib sesuai dengan waktu yang ditentukan. Penyelenggaran ujian MKU dilaksanakan oleh Program Studi MKU melalui computer based test (CBT), sementara penyelenggaraan ujian MKIPS dan MKPPS dilaksanakan oleh program studi masing-masing. Secara detail jadwal ujian untuk setiap mata kuliah bidang studi disusun oleh masing-masing program studi dan dipublikasikan kepada sivitas akademika secara offline atau online. Jadwal ujian dibuat dengan mempertimbangkan pilihan waktu yang tepat agar tidak membebani mahasiswa, sehingga setiap hari per angkatan maksimal dijadwalkan “hanya” untuk 2 (dua) matakuliah.\n\nPada kondisi pandemi Covid-19, pelaksanaan ujian dilakukan dengan cara online/daring (dalam jaringan) dengan menggunakan aplikasi SPOT (http://spot.upi.edu) dan SPADA (http://spada.upi.edu) serta beberapa aplikasi khusus untuk ujian lainnya, namun tetap dilaksanakan secara online seperti https://quizizz.com, https://safeexambrowser.org yang dapat diakses dimanapun tanpa perlu yang bersangkutan datang ke kampus."
+  },
+  {
+    "_id": "cs_penilaian_pik_003",
+    "section": "Ujian Susulan & Transparansi",
+    "title": "Metode Penilaian Pendidikan Ilmu Komputer",
+    "type": ["metode penilaian pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "metode penilaian pendidikan ilmu komputer Apabila ada mahasiswa yang tidak dapat mengikuti ujian, baik UTS maupun UAS, karena alasan tertentu, maka ia harus menginformasikan kepada dosen pengampu mata kuliah yang bersangkutan sebelum waktu ujian dan menyampaikan bukti dokumen pendukungnya. Mahasiswa yang diberi kesempatan untuk mengikuti ujian susulan adalah mahasiswa yang memiliki alasan: (a) sakit (dibuktikan dengan surat keterangan dokter); (b) mendapat tugas mewakili universitas pada kegiatan intra kurikuler atau ekstra kurikuler di luar kampus; dan (c) lainnya yang dilakukan atas ijin dari pimpinan. Waktu dan teknik pelaksanaan ujian susulan dilakukan berdasarkan kesepakatan antara dosen mata kuliah pengampu dan mahasiswa yang bersangkutan. Penilaian terhadap mata kuliah dilakukan secara objektif dan transparan, sehingga ketentuan, proses, dan hasilnya diinformasikan ke mahasiswa. Pengumuman hasil ujian dilakukan sebagai upaya memberikan umpan balik kepada mahasiswa atas apa yang telah mereka lakukan dan capai, sehingga bagi yang belum optimal melakukan upaya dapat digunakan sebagai refleksi dalam rangka memperbaiki diri agar memperoleh hasil yang lebih baik di masa mendatang."
+  },
+  {
+    "_id": "cs_penilaian_pik_004",
+    "section": "Remedial, PPLSP & KKN",
+    "title": "Metode Penilaian Pendidikan Ilmu Komputer",
+    "type": ["metode penilaian pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "metode penilaian pendidikan ilmu komputer Berdasarkan hasil evaluasi pembelajaran, apabila terdapat mahasiswa yang belum mencapai kriteria kelulusan mata kuliah, maka dosen yang bersangkutan akan melakukan tindak lanjut jangka pendek berupa pemberian remedial teaching dan tindak lanjut jangka panjang berupa evaluasi terhadap RPS untuk perbaikan bagi proses pembelajaran selanjutnya. Sedangkan apabila ada mahasiswa yang memperoleh nilai E (gagal) pada suatu mata kuliah, maka mahasiswa yang bersangkutan harus mengontrak ulang mata kuliah tersebut pada semester berikutnya. Nilai yang akan ditetapkan untuk mahasiswa tersebut adalah nilai terakhir yang diperolehnya pada semester yang sedang berjalan. Hal tersebut tertuang pada Pedoman Penyelenggaraan Pendidikan UPI tahun 2020.\n\nProgram Pengenalan Lapangan Satuan Pendidikan (PPLSP) merupakan program lapangan yang mengenalkan mahasiswa prodi pendidikan terhadap lingkungan pendidikan/sekolah, wawasan dalam praktik observasi pembelajaran, dan praktik melaksanakan proses belajar mengajar. Program ini bertujuan untuk membimbing mahasiswa calon guru dalam mengintegrasikan pengetahuan dan keterampilannya untuk karir masa depannya. Komponen penilaian terhadap PPLSP diatur dalam buku manual PPLSP.\n\nMahasiswa peserta PPLSP dapat mengikuti uajian praktik mengajar (PPLSP) apabila ia telah memenuhi semua persyaratan — sebagaimana diatur dalam manual buku magang, di antaranya telah melakukan praktik mengajar selama 16 pertemuan dan aktivitas akademik lain dibawah bimbingan guru pamong dan dosen pembimbing. Komponen penilaian ujian PPLSP meliputi laporan individual - yang berisi laporan aktivitas kegiatan PPLSP selama 16 pertemuan, dan penilaian ujian praktik mengajar yang dinilai oleh tiga orang penilai, yaitu guru pamong, kepala sekolah, dan dosen pembimbing. Nilai minimum kelulusan program PLSP adalah B. Sebagai catatan, karena pertimbangan adanya pandemi Covid-19, kegiatan ujian dan penilaian tes mengajar dilaksanakan secara daring dengan menggunakan google form yang tersedia pada laman https://bit.ly/penilaianpplspdosen.\n\nSelain melalui PPL/PPLSP, mahasiswa mengenal lingkungan masyarakat luas melalui kuliah kerja nyata (KKN), yang pada pelaksanaannya dikoordinasikan oleh Lembaga Penelitian dan Pengabdian kepada Masyarakat (LPPM) UPI. Berbagai informasi terkait dengan KKN dapat diunduh oleh mahasiswa pada laman http://kkn.lppm.upi.edu/.\n\nPada kegiatan KKN, mahasiswa secara berkelompok dengan beragam latar belakang bidang studi tinggal menetap dalam suatu kurun waktu tertentu pada suatu komunitas atau lingkungan masyarakat dan berpartisipasi aktif dalam kehidupan komunitas atau lingkungan masyarakat tersebut. Dalam pelaksanaannya, mahasiswa dari berbagai program studi di UPI dibimbing oleh seorang dosen pembimbing yang bertugas sebagai pendamping dan penilai kegiatan lapangan mahasiswa. Sebelum kegiatan KKN dimulai, dosen pembimbing dan mahasiswa diberikan pembekalan oleh LPPM UPI secara terpisah. Pembekalan kepada dosen pembimbing berkaitan dengan monitoring kegiatan dan informasi tentang penilaian KKN. Pembekalan kepada mahasiswa berkaitan dengan teknis pelaksanaan KKN di lapangan beserta dengan best practice-nya. Dosen pembimbing melaksanakan monitoring kegiatan. Penilaian terhadap peserta KKN dilakukan pada dua aspek, yaitu aspek individu dan aspek kelompok. Mekanisme pelaporan nilai KKN mahasiswa dilakukan oleh dosen pembimbing kepada LPPM UPI untuk selanjutnya dientri ke dalam sistem. Pada masa pandemi COVID-19, UPI menyesuaikan pelaksanaan KKN bertema COVID-19, sehingga memungkinkan para peserta (mahasiswa) tetap mengikuti kegiatan, tetapi tidak mengabaikan protokol kesehatan dan keselamatan mahasiswa."
+  },
+  {
+    "_id": "cs_penilaian_pik_005",
+    "section": "Jalur Akhir Studi & Prosedur Skripsi",
+    "title": "Metode Penilaian Pendidikan Ilmu Komputer",
+    "type": ["metode penilaian pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "metode penilaian pendidikan ilmu komputer Terdapat dua jalur penyelesaian akhir studi mahasiswa jenjang Sarjana (S1), yaitu jalur skripsi dan jalur tanpa skripsi. Penyelesaian akhir studi jalur tanpa skripsi diperuntukkan bagi mahasiswa yang mempunyai IPK 2.00 – 2.50. Mereka diharuskan mengambil mata kuliah sebanyak 6 SKS dan membuat makalah pengganti skripsi. Terkait hal tersebut, program studi mengatur mekanisme pelaksanaanya melalui SOP penyelesaian akhir studi jalur tanpa skripsi. Sedangkan jalur skripsi dapat ditempuh oleh mahasiswa yang telah lulus mata kuliah prasyarat skripsi, memperoleh minimal 105 SKS dan IPK minimal 2,50 dan mendapat rekomendasi dari dosen pembimbing akademik.\n\nProsedur penulisan skripsi sebagai berikut: koordinator skripsi menetapkan pembimbing I dan II untuk mahasiswa; mahasiswa kemudian dibimbing dalam menulis proposal skirpsi; kemudian mahasiswa mengikuti ujian proposal skripsi. Apabila ujian proposal sudah dilakukan dan disetujui oleh para penguji, maka mahasiswa dapat melanjutkan proses bimbingan dengan kedua pembimbing, seperti melakukan aktivitas menyusun instrumen dan pengambilan data; kemudian dilanjutkan dengan penulisan hasil pengambilan data, pembahasan, dan penulisan kesimpulan. Apabila hasil penulisan skripsi telah dipandang layak oleh para pembimbing, maka mahasiswa yang bersangkutan dapat mengikuti ujian sidang skripsi. Proses penulisan proposal hingga ujian proposal mengikuti SOP dan prosedur ujian sidang skripsi mengikuti SOP. Nilai akhir skripsi meliputi penilaian penulisan skripsi dan penilian ujian sidang skripsi. Seorang mahasiswa dikatakan lulus ujian skripsi apabila nilai akhir-skripsinya minimal 2.0 (Skala 4). Penelitian skripsi dilakukan secara independen dibawah bimbingan dua orang pembimbing skrispi. Secara garis besar prosedur penyelesaian akhir studi melalui jalur skripsi disajikan dalam flowchart berikut."
+  },
+  {
+    "_id": "cs_penilaian_pik_006",
+    "section": "Sistem Umum & PAP",
+    "title": "Metode Penilaian Pendidikan Ilmu Komputer",
+    "type": ["metode penilaian pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "metode penilaian pendidikan ilmu komputer Sistem penilaian pada empat program studi, meliputi proses dan hasil belajar mahasiswa. Sistem ini meliputi penilaian yang bersifat formatif dan bersifat sumatif. Penilaian formatif bertujuan untuk memperoleh informasi yang dapat digunakan untuk perbaikan proses pembelajaran (program delivery), adapun penilaian sumatif digunakan untuk menilai ketercapaian hasil belajar mahasiswa (learning outcome). Panduan penilaian secara umum mengikuti Pedoman Penyelenggaraan Pendidikan UPI yang dapat diakses pada laman http://www3.upi.edu/main/file/akademik/ea9ce-pedoman-penyelenggaraan-pendidikan-upi-tahun-2019.pdf.\n\nPenilaian terhadap mahasiswa untuk suatu mata kuliah menggunakan prinsip Penilaian Acuan Patokan (PAP). Prinsip PAP digunakan agar nilai pencapaian mahasiswa atas tujuan/kompetensi ditentukan berdasarkan kriteria yang telah ditetapkan. Nilai akhir suatu mata kuliah merupakan hasil kumulatif dari komponen tugas, ujian tengah semester, ujian akhir semester, serta komponen penilaian lainnya. Pada praktiknya, selama masih berada dalam lingkup ketentuan UPI, setiap mata kuliah memiliki prosedur dan teknik penilaiannya sendiri sesuai dengan karakteristik mata kuliah yang bersangkutan. Pedoman praksis penilaian ini tertuang dalam silabus/RPS mata kuliah yang dikembangkan dosen pengampu.\n\nSecara umum, setiap mata kuliah menggunakan teknik penilaian integratif, yaitu antara proses dan hasil, dan antar komponen penilaian lainnya: kehadiran, kuis, ujian tengah semester (UTS), ujian akhir (UAS), tugas, praktikum (jika ada), partisipasi, dan presentasi (jika ada). Adapun persentase komponen penilaiannya meliputi unsur kehadiran (5%); partisipasi/kuis/tugas/presentasi (15%); praktikum (10%); ujian tengah semester (35%); dan ujian akhir (35%)."
+  },
+  {
+    "_id": "cs_penilaian_pik_007",
+    "section": "Pedoman Penentuan Nilai (Tabel)",
+    "title": "Metode Penilaian Pendidikan Ilmu Komputer",
+    "type": ["metode penilaian pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "metode penilaian pendidikan ilmu komputer Pedoman Penentuan Nilai Mata Kuliah (ditata ulang agar rapi dalam string)\nKolom: Nilai Huruf — Bobot — Derajat Kualitas — Rentang Nilai — Keterangan\n- A — 4,0 — Sangat Unggul — 92–100 —\n- A- — 3,7 — Hampir Sangat Unggul — 86–91 —\n- B+ — 3,4 — Sangat Baik — 81–85 —\n- B — 3,0 — Baik — 76–80 —\n- B- — 2,7 — Cukup Baik — 71–75 —\n- C+ — 2,4 — Sangat Memuaskan — 66–70 —\n- C — 2,0 — Memuaskan — 60–65 —\n- D — 1,0 — Kurang — 55–59 — Syarat kelulusan minimum\n- E — <1,0 — Gagal — di bawah 55 — Mata kuliah harus diulang\n\nPada mata kuliah wajib, nilai kelulusan minimum adalah C, sedangkan untuk mata kuliah pilihan nilai minimum kelulusanya adalah D. Untuk mahasiswa yang mendapat nilai E (tidak lulus/gagal), maka yang bersangkutan dapat mengikuti perkuliahan ulang pada tahun berikutnya agar memperoleh nilai yang sesuai dengan kriteria lulus.\n\nMahasiswa tidak dapat membatalkan nilai mata kuliah yang sudah dinyatakan lulus, baik mata kuliah wajib maupun mata kuliah pilihan, kecuali apabila mahasiswa yang bersangkutan pindah departeman/prodi, sehingga ia membatalkan mata kuliah keahlian program studi sebelumnya atau mahasiswa mengontrak mata kuliah melebihi jumlah beban studi maksimal yang ditentukan dalam struktur kurikulum."
+  },
+  {
+    "_id": "cs_penilaian_pik_008",
+    "section": "CLO, Input Nilai & Hak Mahasiswa",
+    "title": "Metode Penilaian Pendidikan Ilmu Komputer",
+    "type": ["metode penilaian pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "metode penilaian pendidikan ilmu komputer Ketercapaian course learning outcome (CLO) dapat dilihat dari hasil belajar mahasiswa pada mata kuliah tersebut yang diukur dengan menggunakan instrumen tes sumatif. Setiap instrumen tes terdiri atas sejumlah soal yang setiap soalnya mengukur CLO pada matakuliah tersebut. Setiap soal yang akan digunakan untuk ujian, divalidasi terlebih dahulu oleh ketua KBK dimana matakuliah tersebut berada. Mata kuliah yang sama namun pelaksanaannya dilakukan secara pararel, pada saat ujian harus menggunakan soal dan kriteria penilaian yang sama. Hasil akhir capaian mata kuliah selanjutnya dievaluasi oleh tim GKM untuk memastikan ketercapaian PLO yang berkaitan dengan mata kuliah tersebut. Hasil penilaian berupa nilai akhir harus diinput oleh dosen mata kuliah yang bersangkutan kedalam sistem input nilai dosen melalui situs https://siak.upi.edu/sinndo. Apabila dosen tersebut terlambat melakukan input nilai, maka dosen yang bersangkutan akan mendapat peringatan dan konsekuensinya.\n\nMahasiswa dapat melihat informasi nilai akhir mata kuliah yang mereka kontak melalui situs https://student.upi.edu. Sementara dosen memiliki kewajiban untuk merancang, mengelola, memberikan tugas/ujian, dan memberikan umpan balik, serta memelihara dokumen akademik mahasiswa secara tertib. Konsekuensi dari kewajiban tersebut, mahasiswa mempunyai hak untuk memperoleh informasi yang jelas dan transparan mengenai capaian hasil studi mata kuliah yang berupa nilai ujian, kuis, tugas atau proyek, praktikum, dan/atau presentasi.\n\nApabila ada mahasiswa yang merasa nilai yang diperolehnya tidak sesuai dengan perkiraan mereka, maka mahasiswa dapat langsung menghubungi dosen yang bersangkutan untuk membicarakan permasalahan tersebut. Apabila dosen melakukan kekeliruan, misalnya ketika proses menginput nilai mahasiswa, maka dosen pengampu dapat mengubah nilai tersebut agar sesuai dengan faktanya selama rentang waktu pemasukan nilai masih berlaku. Dalam kasus kesalahan input nilai terdeteksi setelah rentang waktu pemasukan nilai berakhir, maka dosen tersebut dapat mengajukan surat permohonan kepada Direktorat Akademik UPI agar dapat menginput perubahan nilai tersebut."
+  },
+  {
+    "_id": "cs_penilaian_pik_009",
+    "section": "Pemetaan PLO vs Profil Kualifikasi (Tabel)",
+    "title": "Pemetaan PLO vs Profil Kualifikasi Pendidikan Ilmu Komputer",
+    "type": ["Program Info Pendidikan Ilmu Komputer"],
+    "lang": "id",
+    "text": "Pemetaan PLO vs Profil Kualifikasi Pendidikan Ilmu Komputer Tabel Keterkaitan PLO dan Assessment Program Studi Pendidikan Ilmu Komputer (ditata ulang agar rapi)\nKolom: Kode PLO — Pendidik — Asisten Peneliti — Wirausaha\n- PLO-1 — √ — √ — √\n- PLO-2 — √ — √ — √\n- PLO-3 — √ —  — √\n- PLO-4 — √ — √ — √\n- PLO-5 — √ — √ — √\n- PLO-6 — √ — √ — √\n- PLO-7 — √ — √ — √\n- PLO-8 —  — √ — √\n- PLO-9 — √ — √ — √\n- PLO-10 — √ —  —"
+  },
+  {
+    "_id": "cs_proginfo_plomapping_001",
+    "section": "MKU (1/2)",
+    "title": "Pemetaan PLO terhadap Mata Kuliah",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Pemetaan PLO terhadap Mata Kuliah MATA KULIAH UMUM (MKU) — Pemetaan ke PLO (ditata agar rapi dalam string)\nKolom: No — Kode — Mata Kuliah — SKS — PLO-1 — PLO-2 — PLO-3 — PLO-4 — PLO-5 — PLO-6 — PLO-7 — PLO-8 — PLO-9 — PLO-10\n1 — KU100 — Pendidikan Agama Islam — 2 — √ —  —  —  —  —  — √ —  —  —\n2 — KU101 — Pendidikan Agama Kristen — 2 — √ —  —  —  —  —  —  —  —  —\n3 — KU102 — Pendidikan Agama Katolik — 2 — √ —  —  —  —  —  —  —  —  —\n4 — KU103 — Pendidikan Agama Hindu — 2 — √ —  —  —  —  —  —  —  —  —\n5 — KU104 — Pendidikan Agama Buddha — 2 — √ —  —  —  —  —  —  —  —  —\n6 — KU109 — Pendidikan Agama Khonghucu — 2 — √ —  —  —  —  —  —  —  —  —\n7 — KU110 — Pancasila — 2 — √ —  —  —  —  —  —  —  —  —\n8 — KU105 — Pendidikan Kewarganegaraan — 2 — √ —  —  —  —  —  —  —  —  —\n9 — KU106 — Bahasa Indonesia — 2 — √ —  —  —  —  —  —  —  —  —\n10 — KU108 — Pendidikan Jasmani* — 2 — √ —  —  —  —  —  —  —  —  —\nTotal SKS (bagian 1): 20"
+  },
+  {
+    "_id": "cs_proginfo_plomapping_002",
+    "section": "MKU (2/2)",
+    "title": "Pemetaan PLO terhadap Mata Kuliah",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Pemetaan PLO terhadap Mata Kuliah MATA KULIAH UMUM (MKU) — lanjutan\nKolom: No — Kode — Mata Kuliah — SKS — PLO-1 — PLO-2 — PLO-3 — PLO-4 — PLO-5 — PLO-6 — PLO-7 — PLO-8 — PLO-9 — PLO-10\n11 — KU119 — Pendidikan Seni* — 2 — √ —  —  —  —  —  —  —  —  —\n12 — KU300 — Seminar Pendidikan Agama Islam — 2 — √ —  —  —  —  —  —  —  —  —\n13 — KU301 — Seminar Pendidikan Agama Kristen — 2 — √ —  —  —  —  —  —  —  —  —\n14 — KU302 — Seminar Pendidikan Agama Katolik — 2 — √ —  —  —  —  —  —  —  —  —\n15 — KU303 — Seminar Pendidikan Agama Hindu — 2 — √ —  —  —  —  —  —  —  —  —\n16 — KU304 — Seminar Pendidikan Agama Buddha — 2 — √ —  —  —  —  —  —  —  —  —\n17 — KU309 — Seminar Pendidikan Agama Khonghucu — 2 — √ —  —  —  —  —  —  —  —  —\n18 — KU400 — Kuliah Kerja Nyata (KKN) — 2 — √ —  —  —  —  —  —  —  —  —\nTotal SKS (bagian 2): 16 — Total SKS MKU: 36"
+  },
+  {
+    "_id": "cs_proginfo_plomapping_003",
+    "section": "MKPPL",
+    "title": "Pemetaan PLO terhadap Mata Kuliah",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Pemetaan PLO terhadap Mata Kuliah PROGRAM PENGALAMAN LAPANGAN (MKPPL)\nKolom: No — Kode — Mata Kuliah — SKS — PLO-1 — PLO-2 — PLO-3 — PLO-4 — PLO-5 — PLO-6 — PLO-7 — PLO-8 — PLO-9 — PLO-10\n1 — IK590 — Program Pengalaman Lapangan Pendidikan / Magang — 4 — √ — √ — √ — √ — √ —  —  —  — √ — √\nTotal SKS: 4"
+  },
+  {
+    "_id": "cs_proginfo_plomapping_004",
+    "section": "MKDK",
+    "title": "Pemetaan PLO terhadap Mata Kuliah",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Pemetaan PLO terhadap Mata Kuliah MATA KULIAH DASAR KEPENDIDIKAN (MKDK)\nKolom: No — Kode — Mata Kuliah — SKS — PLO-1 — PLO-2 — PLO-3 — PLO-4 — PLO-5 — PLO-6 — PLO-7 — PLO-8 — PLO-9 — PLO-10\n1 — DK300 — Landasan Pendidikan — 2 —  —  — √ — √ —  —  —  —  —  —  —\n2 — DK301 — Psikologi Pendidikan dan Bimbingan — 2 —  —  — √ —  —  —  —  —  —  —  —\n3 — DK303 — Kurikulum dan Pembelajaran — 2 —  —  — √ —  —  —  —  —  —  —  —\n4 — DK304 — Manajemen Pendidikan — 2 —  —  — √ —  — √ —  —  —  —  —\nTotal SKS: 8"
+  },
+  {
+    "_id": "cs_proginfo_plomapping_005",
+    "section": "MKKF",
+    "title": "Pemetaan PLO terhadap Mata Kuliah",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Pemetaan PLO terhadap Mata Kuliah MATA KULIAH KEAHLIAN FAKULTAS (MKKF)\nKolom: No — Kode — Mata Kuliah — SKS — PLO-1 — PLO-2 — PLO-3 — PLO-4 — PLO-5 — PLO-6 — PLO-7 — PLO-8 — PLO-9 — PLO-10\n1 — MA100 — Matematika, Sains, Teknologi, dan Rekayasa — 3 —  — √ —  —  —  —  —  —  —  —  —\n2 — MA200 — Aplikasi Matematika, Sains, Teknologi, dan Rekayasa — 3 —  — √ —  — √ —  —  —  —  —  —  —\nTotal SKS: 6"
+  },
+  {
+    "_id": "cs_proginfo_plomapping_006",
+    "section": "MKKPBS",
+    "title": "Pemetaan PLO terhadap Mata Kuliah",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Pemetaan PLO terhadap Mata Kuliah MATA KULIAH KEAHLIAN PEMBELAJARAN ILMU KOMPUTER (MKKPBS)\nKolom: No — Kode — Mata Kuliah — SKS — PLO-1 — PLO-2 — PLO-3 — PLO-4 — PLO-5 — PLO-6 — PLO-7 — PLO-8 — PLO-9 — PLO-10\n1 — IK400 — Strategi Pembelajaran Ilmu Komputer — 3 —  —  — √ — √ —  —  —  —  —  —  —\n2 — IK401 — Evaluasi Pembelajaran Ilmu Komputer — 3 —  —  — √ — √ —  —  —  —  —  —  —\n3 — IK402 — Perencanaan Pembelajaran Ilmu Komputer — 3 —  —  — √ —  — √ —  —  —  —  —  —\n4 — IK403 — Literasi Teknologi & Media Pembelajaran Ilmu Komputer — 3 —  —  — √ —  — √ —  —  —  —  —  —\nTotal SKS: 12"
+  },
+  {
+    "_id": "cs_proginfo_plomapping_007",
+    "section": "MKKIPS (1/2)",
+    "title": "Pemetaan PLO terhadap Mata Kuliah",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Pemetaan PLO terhadap Mata Kuliah MATA KULIAH KEAHLIAN INTI PROGRAM STUDI (MKKIPS) — bagian 1\nKolom: No — Kode — Mata Kuliah — SKS — PLO-1 — PLO-2 — PLO-3 — PLO-4 — PLO-5 — PLO-6 — PLO-7 — PLO-8 — PLO-9 — PLO-10\n1 — IK111 — Pengantar Teknologi Informasi — 3 —  — √ —  —  —  —  —  —  —  —  —\n2 — IK121 — Arsitektur & Organisasi Komputer — 3 —  — √ —  —  —  —  —  —  —  —  —\n3 — IK131 — Algoritma & Pemrograman — 3 —  — √ —  — √ —  —  —  —  —  —  —\n4 — IK141 — Struktur Data — 3 —  — √ —  — √ —  —  — √ —  —  —  —\n5 — IK151 — Bahasa Inggris — 2 —  —  —  — √ — √ —  —  —  —  —  —\n6 — IK161 — Kalkulus — 3 —  — √ —  —  —  —  —  —  —  —  —\n7 — IK171 — Statistika — 2 —  — √ —  — √ —  —  — √ —  —  —  —\n8 — IK211 — Sistem Basis Data — 3 —  — √ —  —  —  —  —  —  —  —  —\n9 — IK221 — Matematika Diskrit — 3 —  — √ —  —  —  —  —  —  —  —  —\n10 — IK231 — Berpikir Komputasional — 2 —  — √ —  — √ —  —  —  —  —  —  —\nSubtotal SKS (bagian 1): 27"
+  },
+  {
+    "_id": "cs_proginfo_plomapping_008",
+    "section": "MKKIPS (2/2)",
+    "title": "Pemetaan PLO terhadap Mata Kuliah",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Pemetaan PLO terhadap Mata Kuliah MATA KULIAH KEAHLIAN INTI PROGRAM STUDI (MKKIPS) — bagian 2\nKolom: No — Kode — Mata Kuliah — SKS — PLO-1 — PLO-2 — PLO-3 — PLO-4 — PLO-5 — PLO-6 — PLO-7 — PLO-8 — PLO-9 — PLO-10\n11 — IK241 — Metode Numerik — 3 —  —  —  —  —  — √ —  —  —  —  —\n12 — IK251 — Kapita Selekta — 2 —  —  — √ —  —  —  —  —  —  —  —\n13 — IK261 — Kewirausahaan — 2 —  —  — √ — √ —  — √ —  —  —  —  —\n14 — IK271 — Etika Profesi — 2 — √ —  —  —  —  —  —  — √ —  —  —\n15 — IK281 — Sistem Operasi — 3 —  —  —  —  —  — √ —  — √ —  —  —\n16 — IK311 — Aljabar Linear & Matriks — 3 —  —  —  —  —  — √ —  —  —  —  —\n17 — IK321 — Seminar — 3 —  —  — √ —  —  —  —  —  —  —  —\n18 — IK331 — Metodologi Penelitian Ilmu Komputer — 3 —  — √ — √ —  —  —  —  —  —  —  —\n19 — IK598 — Skripsi — 6 —  — √ — √ — √ — √ —  —  — √ — √ — √\n20 — IK599 — Ujian Sidang Skripsi — 0 —  — √ — √ — √ — √ —  —  — √ — √ — √\nSubtotal SKS (bagian 2): 27 — Total SKS MKKIPS: 54"
+  },
+  {
+    "_id": "cs_proginfo_plomapping_009",
+    "section": "Keahlian: Rekayasa Perangkat Lunak",
+    "title": "Pemetaan PLO terhadap Mata Kuliah",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Pemetaan PLO terhadap Mata Kuliah KEAHLIAN: REKAYASA PERANGKAT LUNAK\nKolom: No — Kode — Mata Kuliah — SKS — PLO-1 — PLO-2 — PLO-3 — PLO-4 — PLO-5 — PLO-6 — PLO-7 — PLO-8 — PLO-9 — PLO-10\n1 — IK212 — Pemrograman Internet — 3 —  — √ — √ —  —  — √ —  —  —  —  —\n2 — IK222 — Pemrograman Berorientasi Objek — 3 —  — √ — √ —  —  — √ —  —  —  —  —\n3 — IK312 — Rekayasa Perangkat Lunak — 3 —  — √ — √ —  —  — √ —  —  —  —  —\n4 — IK322 — Pemrograman Mobile — 3 —  — √ — √ —  —  — √ —  —  —  —  —\nTotal SKS: 12"
+  },
+  {
+    "_id": "cs_proginfo_plomapping_010",
+    "section": "Keahlian: Komputer & Jaringan",
+    "title": "Pemetaan PLO terhadap Mata Kuliah",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Pemetaan PLO terhadap Mata Kuliah KEAHLIAN: TEKNIK KOMPUTER & JARINGAN\nKolom: No — Kode — Mata Kuliah — SKS — PLO-1 — PLO-2 — PLO-3 — PLO-4 — PLO-5 — PLO-6 — PLO-7 — PLO-8 — PLO-9 — PLO-10\n1 — IK113 — Rangkaian Elektronika — 3 —  —  —  —  —  — √ —  — √ —  —  —\n2 — IK213 — Jaringan Komputer — 3 —  —  —  —  —  — √ —  — √ —  —  —\n3 — IK313 — Infrastruktur Jaringan & Administrasi Sistem — 3 —  —  —  —  —  — √ —  — √ —  —  —\nTotal SKS: 9"
+  },
+  {
+    "_id": "cs_proginfo_plomapping_011",
+    "section": "Keahlian: Multimedia",
+    "title": "Pemetaan PLO terhadap Mata Kuliah",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Pemetaan PLO terhadap Mata Kuliah KEAHLIAN: MULTIMEDIA\nKolom: No — Kode — Mata Kuliah — SKS — PLO-1 — PLO-2 — PLO-3 — PLO-4 — PLO-5 — PLO-6 — PLO-7 — PLO-8 — PLO-9 — PLO-10\n1 — IK214 — Desain Grafis — 3 —  — √ —  —  — √ —  —  —  —  —  —\n2 — IK314 — Pengolahan Audio & Video — 3 —  — √ —  — √ —  —  —  —  —  —  —\n3 — IK324 — Animasi — 3 —  — √ —  — √ — √ —  —  —  —  —  —\nTotal SKS: 9 — Total SKS Keahlian (3 kelompok): 30"
+  },
+  {
+    "_id": "cs_proginfo_plomapping_012",
+    "section": "MK Pilihan (1/2)",
+    "title": "Pemetaan PLO terhadap Mata Kuliah",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Pemetaan PLO terhadap Mata Kuliah MATA KULIAH PILIHAN UNTUK PENDIDIK — bagian 1\nKolom: No — Kode — Mata Kuliah — SKS — PLO-1 — PLO-2 — PLO-3 — PLO-4 — PLO-5 — PLO-6 — PLO-7 — PLO-8 — PLO-9 — PLO-10\n1 — IK317 — Manajemen & Sistem Informasi untuk Pendidikan — 3 —  —  — √ —  —  —  —  —  —  —  —\n2 — IK318 — Teknologi Internet — 3 —  —  —  —  —  — √ —  — √ —  —  —\n3 — IK327 — Kecerdasan Buatan (AI) — 3 —  —  — √ —  —  — √ —  —  —  —  —\n4 — IK328 — Pedagogi Digital — 3 —  —  —  —  — √ — √ —  — √ —  —  —\n5 — IK337 — Komputer & Masyarakat — 3 —  —  —  —  —  — √ —  — √ —  —  —\n6 — IK338 — Teknologi Videografi — 3 —  —  —  —  —  — √ —  —  — √ —  —\n7 — IK347 — Desain & Analisis Algoritma — 3 —  — √ —  —  —  — √ —  —  —  —  —\n8 — IK348 — Teknologi Desain Motion Graphic — 3 —  —  —  —  —  — √ —  —  — √ —  —\n9 — IK357 — Interaksi Manusia & Komputer — 3 —  —  —  —  —  — √ —  — √ —  — √\n10 — IK358 — Perencanaan Strategis TI — 3 —  —  —  —  —  — √ —  —  —  —  —\nSubtotal SKS (bagian 1): 30"
+  },
+  {
+    "_id": "cs_proginfo_plomapping_013",
+    "section": "MK Pilihan (2/2)",
+    "title": "Pemetaan PLO terhadap Mata Kuliah",
+    "type": ["program info pendidikan ilmu komputer"],
+    "lang": "id",
+    "text": "Pemetaan PLO terhadap Mata Kuliah MATA KULIAH PILIHAN UNTUK PENDIDIK — bagian 2\nKolom: No — Kode — Mata Kuliah — SKS — PLO-1 — PLO-2 — PLO-3 — PLO-4 — PLO-5 — PLO-6 — PLO-7 — PLO-8 — PLO-9 — PLO-10\n11 — IK367 — Business Intelligence — 3 —  —  —  —  — √ —  —  —  —  —  —\n12 — IK368 — Sistem Informasi — 3 —  —  —  —  —  — √ —  —  —  —  —\n13 — IK377 — Manajemen Informasi — 3 —  —  —  —  —  — √ —  — √ —  —  —\n14 — IK378 — Mobile Learning (M-Learning) — 3 —  —  —  —  —  — √ —  —  —  —  —\n15 — IK387 — Internet of Things (IoT) — 3 —  —  —  —  —  — √ —  — √ —  —  —\n16 — IK388 — Keamanan Multimedia — 3 —  —  —  —  — √ — √ —  —  — √ —  —\n17 — IK397 — Keamanan Sistem Informasi — 3 —  —  —  —  —  — √ —  — √ —  —  —\nSubtotal SKS (bagian 2): 21 — Total SKS MK Pilihan: 51"
+  }
+]

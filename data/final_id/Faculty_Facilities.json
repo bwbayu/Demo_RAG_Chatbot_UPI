@@ -1,0 +1,154 @@
+[
+  {
+    "_id": "fpmipa_facility_001",
+    "section": "Kelas Pintar",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Kelas Pintar : Kelas Pintar adalah ruang kelas modern dengan infrastruktur digital untuk memfasilitasi pembelajaran tatap muka maupun jarak jauh. Fitur meliputi papan tulis layar sentuh, perangkat aktivitas pembelajaran, sistem siaran, sistem konferensi video, dan fitur digital lainnya."
+  },
+  {
+    "_id": "fpmipa_facility_002",
+    "section": "Kebun Botani",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Kebun Botani : UPI merupakan satu-satunya universitas di Kota Bandung yang memiliki Kebun Botani sebagai miniatur hutan di kampus. Kebun botani UPI ditata sebagai miniatur hutan tropis yang terintegrasi dengan taman dan kebun percobaan, berisi beragam spesies flora khas Indonesia (khususnya Jawa Barat) serta beberapa jenis fauna dari berbagai daerah di Indonesia."
+  },
+  {
+    "_id": "fpmipa_facility_003",
+    "section": "Auditorium",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Auditorium : Auditorium JICA FPMIPA UPI berlokasi di lantai 2 dan 3 Gedung FPMIPA A (Barat). Ruang ini digunakan untuk kuliah umum, seminar, konferensi, dan lokakarya, baik tingkat lokal, nasional, maupun internasional."
+  },
+  {
+    "_id": "fpmipa_facility_004",
+    "section": "Laboratorium Kimia",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Laboratorium Kimia : Laboratorium kimia adalah tempat untuk melakukan eksperimen atau penelitian. Laboratorium ini menyediakan berbagai peralatan untuk kebutuhan praktikum kimia seperti gelas ukur, reagen, alat pembakaran, dan lain-lain."
+  },
+  {
+    "_id": "fpmipa_facility_005",
+    "section": "Laboratorium Bumi dan Antariksa",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Laboratorium Bumi dan Antariksa : Laboratorium ini menyediakan berbagai sarana kebumian dan keantariksaan seperti globe, teropong/binokular, teleskop, kompas, neraca, dan sebagainya."
+  },
+  {
+    "_id": "fpmipa_facility_006",
+    "section": "Laboratorium Biologi",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Laboratorium Biologi : Laboratorium Biologi meliputi Lab Struktur Tumbuhan, Lab Ekologi, Lab Fisiologi, Lab Struktur Hewan, Lab Mikrobiologi, Lab Riset, Lab PBM, serta Lab Botani/Kebun Botani. Dilengkapi berbagai alat analitik untuk kegiatan laboratorium maupun lapangan guna menunjang proses perkuliahan."
+  },
+  {
+    "_id": "fpmipa_facility_007",
+    "section": "Ruang Ibadah (Mushola)",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Ruang Ibadah (Mushola) : Mushola Gedung FPMIPA berada di lantai 1. Tersedia rak sepatu yang tertata rapi serta area wudu terpisah untuk laki-laki dan perempuan."
+  },
+  {
+    "_id": "fpmipa_facility_008",
+    "section": "Ruang Kelas FPMIPA A",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Ruang Kelas FPMIPA A : Gedung FPMIPA A memiliki berbagai ruang kelas dengan ukuran dan kapasitas beragam. Setiap kelas dilengkapi fasilitas pendukung untuk menciptakan suasana belajar yang kondusif dan menyenangkan sehingga kegiatan pembelajaran berjalan optimal."
+  },
+  {
+    "_id": "fpmipa_facility_009",
+    "section": "Ruang Layanan Akademik",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Ruang Layanan Akademik : Pengunjung yang membutuhkan layanan akademik dapat datang ke ruang layanan untuk diarahkan sesuai kebutuhannya. Tersedia pula ruang dosen di lantai 1 yang dibuat senyaman mungkin untuk mendukung penyelesaian pekerjaan dosen."
+  },
+  {
+    "_id": "fpmipa_facility_010",
+    "section": "Mading (Majalah Dinding)",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Mading (Majalah Dinding) : Mading memuat pengumuman kegiatan, artikel karya mahasiswa, informasi mahasiswa berprestasi, info lomba, foto kegiatan fakultas, dokumentasi tiap himpunan, dan lainnya. Mading ditempatkan di lokasi strategis agar mudah diakses mahasiswa dan dosen."
+  },
+  {
+    "_id": "fpmipa_facility_011",
+    "section": "Pojok Mahasiswa dan Showroom",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Pojok Mahasiswa dan Showroom : Pojok Mahasiswa kerap menjadi tempat favorit karena dapat dimanfaatkan untuk berbagai aktivitas, baik akademik maupun non-akademik."
+  },
+  {
+    "_id": "fpmipa_facility_012",
+    "section": "Ruang Rapat Fakultas",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Ruang Rapat Fakultas : Berlokasi di lantai 2 Gedung FPMIPA A. Kapasitas ±30–50 orang dalam formasi melingkar, dilengkapi proyektor, sistem suara, dan penyejuk udara. Digunakan untuk rapat dosen, pimpinan fakultas, mitra (industri, sekolah, atau pihak eksternal), serta kepentingan program studi dan departemen."
+  },
+  {
+    "_id": "fpmipa_facility_013",
+    "section": "Ruang Dekan",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Ruang Dekan : Ruang kerja Dekan dan Wakil Dekan FPMIPA untuk aktivitas harian. Di sini pimpinan dan staf asisten dekan melakukan rapat pimpinan, pekerjaan administrasi fakultas, serta fungsi ruang istirahat bagi pimpinan."
+  },
+  {
+    "_id": "fpmipa_facility_014",
+    "section": "Parkir FPMIPA",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Parkir FPMIPA : Area parkir JICA merupakan fasilitas pelengkap Gedung JICA FPMIPA UPI dengan dua zona parkir. Setiap zona menampung sekitar 20 mobil, total kapasitas sekitar 40 mobil."
+  },
+  {
+    "_id": "fpmipa_facility_015",
+    "section": "Ruang Mekanikal / Pengolahan Limbah",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Ruang Mekanikal / Pengolahan Limbah : Ruang mekanikal (Instalasi Pengolahan Limbah/JICA) di Gedung FPMIPA A digunakan untuk proses pengolahan limbah di lingkungan UPI, terdiri atas pipa gas, tabung, drum, tangki NaOH dan HCl, serta area pemantauan keberlangsungan proses."
+  },
+  {
+    "_id": "fpmipa_facility_016",
+    "section": "Kantin FPMIPA",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Kantin FPMIPA : Kantin menyediakan makanan dan minuman bagi sivitas akademika FPMIPA. Pilihan menu beragam dengan harga relatif terjangkau."
+  },
+  {
+    "_id": "fpmipa_facility_017",
+    "section": "Gedung FPMIPA",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Gedung FPMIPA : FPMIPA UPI memiliki tiga gedung: FPMIPA A (sering disebut Gedung JICA, hasil kerja sama dengan pemerintah Jepang), FPMIPA B sebagai gedung kedua, dan FPMIPA C sebagai gedung ketiga yang sebelumnya dikenal sebagai GIK (Gedung Ilmu Komputer)."
+  },
+  {
+    "_id": "fpmipa_facility_018",
+    "section": "Ruang Bengkel Mekanik dan Kaca",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Ruang Bengkel Mekanik dan Kaca : Ruang bengkel JICA FPMIPA UPI memfasilitasi pekerjaan terkait mekanik, dilengkapi berbagai peralatan yang dibutuhkan untuk praktik dan pemeliharaan permesinan."
+  },
+  {
+    "_id": "fpmipa_facility_019",
+    "section": "Fasilitas Disabilitas",
+    "title": "Fasilitas FPMIPA",
+    "type": ["Fasilitas", "Fasilitas Fakultas/FPMIPA"],
+    "lang": "id",
+    "text": "Fasilitas Fakultas/FPMIPA, Fasilitas Disabilitas : Di Gedung FPMIPA A tersedia fasilitas untuk mendukung penyandang disabilitas, guna memudahkan akses bagi pengunjung, dosen, dan mahasiswa UPI."
+  }
+]

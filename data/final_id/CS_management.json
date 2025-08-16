@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "cs_person_muhammad_nursalman_001",
+    "section": "Kepala Prodi Ilmu Komputer",
+    "title": "Dr. Muhammad Nursalman, M.T.",
+    "type": ["Person"],
+    "lang": "id",
+    "text": "Kepala Prodi Ilmu Komputer : nama Dr. Muhammad Nursalman, M.T., nip 197909292006041002, email mnursalman@upi.edu"
+  },
+  {
+    "_id": "cs_person_lala_septem_riza_002",
+    "section": "Kepala Prodi Pendidikan Ilmu Komputer (S1 & S2)",
+    "title": "Prof. Dr. Lala Septem Riza, M.T.",
+    "type": ["Person"],
+    "lang": "id",
+    "text": "Kepala Prodi Pendidikan Ilmu Komputer (S1 & S2) : nama Prof. Dr. Lala Septem Riza, M.T., nip 197809262008121001, email lala.s.riza@upi.edu"
+  },
+  {
+    "_id": "cs_person_wahyudin_003",
+    "section": "Sekretaris Prodi Pendidikan Ilmu Komputer (S1 & S2)",
+    "title": "Dr. Wahyudin, M.T.",
+    "type": ["Person"],
+    "lang": "id",
+    "text": "Sekretaris Prodi Pendidikan Ilmu Komputer (S1 & S2) : nama Dr. Wahyudin, M.T., nip 197304242008121001, email wahyudin_sanusi@upi.edu"
+  }
+]
