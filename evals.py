@@ -1,77 +1,105 @@
 import json
-from search import classify_query, search_dense_index, search_sparse_index, rrf_fusion, reranking_results, context_generation
+from collections import defaultdict
 from rouge import Rouge
+from search import classify_query, search_dense_index, search_sparse_index, rrf_fusion, reranking_results, context_generation
 
 def retrieval_pipeline(query, top_k=10):
-    # eval retrieval
     classified_type = classify_query(query, chat_history="")
     dense_results = search_dense_index(query, filter_types=classified_type)
     sparse_results = search_sparse_index(query, filter_types=classified_type)
     fused_results = rrf_fusion(dense_results, sparse_results, top_n=top_k)
-    fused_docs = [result['text'] for result in fused_results]
-    rerank_results = reranking_results(query, fused_docs, fused_results)
-    top_ids = [data['id'] for data in rerank_results]
-    return top_ids, rerank_results
+    fused_docs = [r['text'] for r in fused_results]
+    rerank = reranking_results(query, fused_docs, fused_results)
+    top_ids = [d['id'] for d in rerank]
+    return top_ids, rerank
 
 def evaluate_rag(eval_data, k=10, evaluating_generation=True, save_path=None):
-    correct = 0
-    total = 0
-    reciprocal_ranks = []
-    scores = []
     rouge = Rouge()
 
+    total = 0
+    overall_correct = 0
+    overall_rr_sum = 0.0
+
+    type_total = defaultdict(int)
+    type_correct = defaultdict(int)
+    type_rr_sum = defaultdict(float)
+
+    gen_scores = []
+
     for item in eval_data:
-        # retrieval evaluation
-        query, gold_ids, gold_answer = (
-            item["query"],
-            set(item["gold_doc_ids"]),
-            item["gold_answer"],
-        )
-        retrieved, reranking_results = retrieval_pipeline(query, top_k=k)
+        query = item["query"]
+        gold_ids = set(item["gold_doc_ids"])
+        gold_answer = item.get("gold_answer", "")
+        item_type = item.get("type", "other")
 
-        if gold_ids.intersection(retrieved):
-            correct += 1
+        retrieved, rerank_ctx = retrieval_pipeline(query, top_k=k)
 
-        for rank, doc in enumerate(retrieved, start=1):
-            if doc in gold_ids:
-                reciprocal_ranks.append(1.0 / rank)
+        hit_rank = None
+        for rank, doc_id in enumerate(retrieved, start=1):
+            if doc_id in gold_ids:
+                hit_rank = rank
                 break
 
         total += 1
+        type_total[item_type] += 1
 
-        # generation evaluation
+        if hit_rank is not None:
+            overall_correct += 1
+            type_correct[item_type] += 1
+            rr = 1.0 / hit_rank
+            overall_rr_sum += rr
+            type_rr_sum[item_type] += rr
+        else:
+            pass
+
         if evaluating_generation:
             generation_output = context_generation(
-                query, contexts=reranking_results, chat_history="", streaming=False
+                query, contexts=rerank_ctx, chat_history="", streaming=False
             )
             item["generated_answer"] = generation_output
-            if generation_output.strip():
+            if generation_output and gold_answer:
                 score = rouge.get_scores(generation_output, gold_answer, avg=True)
-                scores.append(score["rouge-l"]["f"])
+                gen_scores.append(score["rouge-l"]["f"])
 
-    # metrics
-    recall_at_k = correct / total
-    mrr = sum(reciprocal_ranks) / len(eval_data)
+    overall = {
+        "count": total,
+        "recall@k": (overall_correct / total) if total else 0.0,
+        "MRR": (overall_rr_sum / total) if total else 0.0,
+    }
+
+    by_type = {}
+    for t in sorted(type_total.keys()):
+        n = type_total[t]
+        by_type[t] = {
+            "count": n,
+            "recall@k": (type_correct[t] / n) if n else 0.0,
+            "MRR": (type_rr_sum[t] / n) if n else 0.0,
+        }
+
+    result = {"overall": overall, "by_type": by_type}
 
     if evaluating_generation:
         if save_path:
             with open(save_path, "w", encoding="utf-8") as f:
                 json.dump(eval_data, f, ensure_ascii=False, indent=2)
-        avg_score = sum(scores) / len(scores) if scores else 0.0
-        return {"recall@k": recall_at_k, "MRR": mrr, "Avg ROUGE-L": avg_score}
+        result["Avg ROUGE-L"] = (sum(gen_scores) / len(gen_scores)) if gen_scores else 0.0
 
-    return {"recall@k": recall_at_k, "MRR": mrr}
+    return result
 
 
 if __name__ == "__main__":
     with open("data/eval/rag_eval.json", "r", encoding="utf-8") as f:
         eval_data = json.load(f)
 
-    retrieval_result = evaluate_rag(
+    results = evaluate_rag(
         eval_data=eval_data,
         k=10,
         evaluating_generation=False,
-        save_path="data/eval/rag_eval_with_gen.json",
+        save_path="data/eval/rag_eval_with_gen.json"
     )
 
-    print(retrieval_result)
+    print("=== OVERALL ===")
+    print(results["overall"])
+    print("\n=== BY TYPE ===")
+    for t, m in results["by_type"].items():
+        print(f"{t:>20}: {m}")
