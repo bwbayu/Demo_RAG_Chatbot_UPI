@@ -193,8 +193,6 @@ def reranking_results(query, docs, fused_results, top_k=10):
         
         return final_results
     else:
-        print(query)
-        print(docs)
         print(f"Error in reranking: {response.status_code} - {response.text}")
         return fused_results
 
