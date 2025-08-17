@@ -8,6 +8,8 @@ MAX_TURNS = 10
 im = Image.open("assets/logo.png")
 # init streamlit app
 st.set_page_config(page_title="Chatbot CSE UPI", page_icon=im)
+st.header("Mari Tanyakan Berbagai Hal Terkait Departemen Pendidikan Ilmu Komputer")
+st.markdown("<small>Jawaban dihasilkan otomatis dan mungkin tidak selalu benar. Verifikasi ke sumber resmi https://cs.upi.edu/.</small>", unsafe_allow_html=True)
 
 # initialize chat history
 if "messages" not in st.session_state:
