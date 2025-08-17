@@ -152,7 +152,7 @@ def rrf_fusion(dense_results, sparse_results, k=60, top_n=TOP_K):
 
     return fused_results
 
-def reranking_results(query, docs, fused_results):
+def reranking_results(query, docs, fused_results, top_k=10):
     # Validate inputs
     if not query or not isinstance(query, str):
         print("Invalid query: Query must be a non-empty string")
@@ -165,6 +165,7 @@ def reranking_results(query, docs, fused_results):
         "model": "Qwen/Qwen3-Reranker-8B",
         "query": query,
         "documents": docs,
+        "top_n": top_k,
         "return_documents": False
     }
 
@@ -192,6 +193,8 @@ def reranking_results(query, docs, fused_results):
         
         return final_results
     else:
+        print(query)
+        print(docs)
         print(f"Error in reranking: {response.status_code} - {response.text}")
         return fused_results
 
@@ -226,23 +229,14 @@ def context_generation(query, contexts, chat_history, streaming=True):
 
 def RAG_pipeline(query, chat_history, streaming=True):
     # Klasifikasikan query terlebih dahulu
-    print("classify")
     classified_type = classify_query(query, chat_history)
-    print(classified_type)
     # search top k result
-    print("dense")
     dense_results = search_dense_index(query, filter_types=classified_type)
-    print("sparse")
     sparse_results = search_sparse_index(query, filter_types=classified_type)
     # fused dense and sparse result using RRF
-    print("fuseion")
     fused_results = rrf_fusion(dense_results, sparse_results)
     # extract text data for reranking
     docs = [result['text'] for result in fused_results]
-    print(datetime.now())
-    print("ranking")
     contexts = reranking_results(query, docs, fused_results)
-    print(datetime.now())
-    print("generation")
     
     return context_generation(query, contexts, chat_history, streaming=streaming)

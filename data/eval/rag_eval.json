@@ -9,15 +9,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_person_muhammad_nursalman_001",
+      "cs_person_muhammad_nursalman_001",
       "cs_person_lala_septem_riza_002",
+      "cs_person_lala_septem_riza_002",
+      "cs_news_75_3",
+      "cs_news_29_1",
       "cs_person_wahyudin_003",
-      "cs_person_munir_s2pik_028",
-      "cs_person_wahyudin_s2pik_032",
-      "cs_person_enjang_ali_nurdin_s2pik_030",
-      "cs_person_asep_wahyudin_s1ik_006",
-      "cs_person_yudi_ahmad_hambali_s1ik_008",
-      "cs_person_rasim_s1ik_007",
-      "cs_person_herbert_siregar_s1pik_018"
+      "cs_person_wahyudin_003",
+      "cse_doc_1",
+      "cs_proginfo_overview_002"
     ]
   },
   {
@@ -30,15 +30,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_person_lala_septem_riza_002",
+      "cs_person_lala_septem_riza_002",
       "cs_person_muhammad_nursalman_001",
+      "cs_person_muhammad_nursalman_001",
+      "cs_news_75_3",
+      "cs_news_52_1",
       "cs_person_wahyudin_003",
-      "cs_person_munir_s2pik_028",
-      "cs_person_asep_wahyudin_s2pik_031",
-      "cs_person_wahyudin_s2pik_032",
-      "cs_person_enjang_ali_nurdin_s2pik_030",
-      "cs_person_muhammad_nursalman_s2pik_035",
-      "cs_person_herbert_siregar_s1pik_018",
-      "cs_person_didin_wahyudin_s2pik_038"
+      "cs_person_wahyudin_003",
+      "cse_doc_1",
+      "cs_person_munir_s2pik_028"
     ]
   },
   {
@@ -51,15 +51,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_person_wahyudin_003",
+      "cs_person_wahyudin_003",
+      "cs_news_75_2",
+      "cs_person_lala_septem_riza_002",
       "cs_person_lala_septem_riza_002",
       "cse_doc_1",
       "cs_person_asep_wahyudin_s2pik_031",
+      "cs_person_asep_wahyudin_s2pik_031",
       "cs_person_wahyudin_s2pik_032",
-      "cs_person_munir_s2pik_028",
-      "cs_person_enjang_ali_nurdin_s2pik_030",
-      "cs_person_herbert_siregar_s1pik_018",
-      "cs_person_muhammad_nursalman_s2pik_035",
-      "cs_person_didin_wahyudin_s2pik_038"
+      "cs_person_munir_s2pik_028"
     ]
   },
   {
@@ -72,15 +72,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_proginfo_vision_001",
+      "cs_proginfo_vision_001",
       "cse_proginfo_vision_001",
+      "cse_proginfo_vision_001",
+      "cs_master_proginfo_vision_001",
       "cs_master_proginfo_vision_001",
       "cs_proginfo_overview_002",
       "cs_proginfo_mission_001",
-      "cse_mag_kurikulum_tujuan_001",
-      "cs_master_proginfo_mission_001",
-      "cse_proginfo_mission_001",
-      "cs_proginfo_objective_001",
-      "cs_person_yaya_wihardi_s1ik_012"
+      "cs_proginfo_mission_001",
+      "cse_mag_kurikulum_tujuan_001"
     ]
   },
   {
@@ -93,15 +93,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_proginfo_mission_001",
+      "cs_proginfo_mission_001",
       "cse_proginfo_mission_001",
       "cs_master_proginfo_mission_001",
       "cs_proginfo_objective_001",
+      "cs_proginfo_objective_001",
       "cse_mag_kurikulum_tujuan_001",
       "cse_proginfo_vision_001",
-      "cs_proginfo_vision_001",
       "cs_master_proginfo_vision_001",
-      "cs_master_proginfo_goals_001",
-      "cs_quality_assurance_cycle_001"
+      "cs_proginfo_vision_001"
     ]
   },
   {
@@ -114,15 +114,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_proginfo_objective_001",
+      "cs_proginfo_objective_001",
       "cs_master_proginfo_goals_001",
       "cse_mag_kurikulum_tujuan_001",
       "cs_curriculum_pik_tujuan_001",
       "cs_proginfo_mission_001",
+      "cs_proginfo_mission_001",
       "cse_proginfo_mission_001",
-      "cs_proginfo_vision_001",
-      "cs_master_proginfo_mission_001",
-      "cse_proginfo_vision_001",
-      "cs_master_proginfo_vision_001"
+      "cse_proginfo_mission_001",
+      "cs_proginfo_vision_001"
     ]
   },
   {
@@ -135,15 +135,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cse_proginfo_vision_001",
+      "cse_proginfo_vision_001",
       "cs_master_proginfo_vision_001",
       "cs_proginfo_vision_001",
       "cs_proginfo_overview_002",
       "cs_master_proginfo_mission_001",
       "cse_proginfo_mission_001",
+      "cse_proginfo_mission_001",
       "cs_proginfo_mission_001",
-      "cse_mag_kurikulum_tujuan_001",
-      "cs_master_proginfo_goals_001",
-      "cs_person_yaya_wihardi_s1ik_012"
+      "cse_mag_kurikulum_tujuan_001"
     ]
   },
   {
@@ -156,15 +156,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_master_proginfo_mission_001",
+      "cs_master_proginfo_mission_001",
       "cse_proginfo_mission_001",
       "cs_proginfo_mission_001",
       "cse_mag_kurikulum_tujuan_001",
       "cs_master_proginfo_goals_001",
+      "cs_master_proginfo_goals_001",
       "cs_master_proginfo_vision_001",
-      "cse_mag_kurikulum_gelar_001",
-      "cse_mag_kurikulum_analisis_lptk_001b",
-      "cs_proginfo_vision_001",
-      "cse_proginfo_vision_001"
+      "cs_master_proginfo_vision_001",
+      "cse_mag_kurikulum_gelar_001"
     ]
   },
   {
@@ -185,15 +185,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_facility_008",
+      "cs_facility_008",
+      "cs_news_180_1",
+      "cs_facility_001",
       "cs_facility_001",
       "cs_facility_010",
       "cs_facility_003",
+      "cs_facility_003",
       "cs_facility_002",
-      "cs_facility_009",
-      "cs_facility_007",
-      "cs_facility_004",
-      "cs_facility_006",
-      "cs_news_151_1"
+      "cs_facility_009"
     ]
   },
   {
@@ -207,14 +207,14 @@
     "retrieve_ids": [
       "cs_admission_s1_001",
       "cs_proginfo_overview_002",
+      "cs_proginfo_overview_002",
+      "cs_news_122_1",
+      "cs_proginfo_objective_001",
+      "cs_proginfo_curriculum_003_cg_4_6",
       "cs_proginfo_qualification_002",
-      "cs_proginfo_curriculum_003_desc",
-      "cs_proginfo_plo_002",
-      "cs_admission_s2_001",
-      "cs_news_216_1",
-      "cs_proginfo_vision_001",
-      "cs_proginfo_courses_001_desc",
-      "cs_news_100_1"
+      "cs_proginfo_mission_001",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002",
+      "cs_proginfo_curriculum_003_desc"
     ]
   },
   {
@@ -227,15 +227,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_alumni_tracer_001",
+      "cs_alumni_tracer_001",
       "cs_proginfo_qualification_002",
+      "cs_alumni_stakeholder_001",
       "cs_alumni_stakeholder_001",
       "cs_curriculum_pik_profil_001",
       "cs_alumni_ika_001",
       "cs_proginfo_objective_001",
       "cs_news_88_1",
-      "cs_news_216_1",
-      "cs_news_140_1",
-      "cs_quality_assurance_internal_002"
+      "cs_news_216_1"
     ]
   },
   {
@@ -248,15 +248,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_alumni_ika_001",
+      "cs_alumni_ika_001",
       "cs_news_181_1",
       "cs_news_125_1",
+      "cs_news_150_1",
       "cs_kemakom_group_2",
       "cs_kemakom_group_1",
+      "cs_news_29_1",
       "cs_person_muhammad_nursalman_001",
-      "cs_person_lala_septem_riza_002",
-      "cs_alumni_stakeholder_001",
-      "cs_person_yudi_ahmad_hambali_s1ik_008",
-      "cs_alumni_tracer_001"
+      "cs_news_171_1"
     ]
   },
   {
@@ -269,15 +269,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_alumni_stakeholder_001",
+      "cs_alumni_stakeholder_001",
       "cs_proginfo_objective_001",
+      "cs_curriculum_pik_profil_001",
       "cs_proginfo_qualification_002",
+      "cs_proginfo_qualification_002",
+      "csik_prog_goals_2016_strategies_1_15",
       "cs_proginfo_exam_001_desc_p1",
-      "cs_proginfo_plo_002",
-      "cs_proginfo_exam_001_desc_p5_s01",
-      "cs_proginfo_exam_001_plo_mapping",
-      "cs_proginfo_exam_001_desc_p5_s06",
-      "cs_alumni_tracer_001",
-      "cs_proginfo_exam_001_plo_linkage"
+      "cs_proginfo_exam_001_desc_p1",
+      "cs_proginfo_plo_002"
     ]
   },
   {
@@ -290,15 +290,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "pcb_competency_artificial_intelligence_01",
+      "pcb_competency_artificial_intelligence_01",
       "pceb_competency_steam_01",
+      "cs_news_132_1",
+      "pceb_competency_sle_01",
       "pceb_competency_sle_01",
       "pceb_competency_digital_pedagogik_didaktik_01",
+      "pceb_competency_digital_pedagogik_didaktik_01",
       "pcb_competency_multimedia_network_01",
-      "pcb_competency_rplmi_01",
-      "cs_person_lala_septem_riza_s1pik_013",
-      "cs_person_lala_septem_riza_s2pik_029",
-      "cs_person_lala_septem_riza_s1ik_002",
-      "cs_person_yaya_wihardi_s1ik_012"
+      "pcb_competency_multimedia_network_01"
     ]
   },
   {
@@ -311,15 +311,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "pcb_competency_artificial_intelligence_01",
+      "pcb_competency_artificial_intelligence_01",
       "pceb_competency_sle_01",
+      "pceb_competency_sle_01",
+      "pceb_competency_steam_01",
       "pceb_competency_steam_01",
       "pcem_competency_tbls_01",
       "pcem_competency_policy_ict_01",
-      "cs_proginfo_curriculum_003_expertise",
-      "cs_facility_009",
-      "pceb_competency_digital_pedagogik_didaktik_01",
-      "pcb_competency_rplmi_01",
-      "pcb_competency_multimedia_network_01"
+      "pcem_competency_policy_ict_01",
+      "cs_proginfo_curriculum_003_expertise"
     ]
   },
   {
@@ -332,15 +332,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "pcem_competency_tbls_01",
+      "pcem_competency_tbls_01",
+      "pceb_competency_sle_01",
       "pceb_competency_sle_01",
       "pcem_competency_policy_ict_01",
+      "pcem_competency_policy_ict_01",
+      "pceb_competency_steam_01",
       "pceb_competency_steam_01",
       "pceb_competency_digital_pedagogik_didaktik_01",
-      "pcb_competency_artificial_intelligence_01",
-      "pcb_competency_multimedia_network_01",
-      "pcb_competency_rplmi_01",
-      "cs_person_budi_laksono_putro_s2pik_037",
-      "cs_person_budi_laksono_putro_s1pik_020"
+      "pceb_competency_digital_pedagogik_didaktik_01"
     ]
   },
   {
@@ -353,15 +353,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "fpmipa_facility_001",
+      "fpmipa_facility_001",
+      "fpmipa_facility_008",
       "fpmipa_facility_008",
       "fpmipa_facility_012",
+      "cs_curriculum_pik_mkkf_mkkpbs_002",
+      "cs_news_153_1",
       "fpmipa_facility_018",
       "fpmipa_facility_007",
-      "fpmipa_facility_003",
-      "fpmipa_facility_019",
-      "fpmipa_facility_017",
-      "fpmipa_facility_016",
-      "fpmipa_facility_015"
+      "fpmipa_facility_003"
     ]
   },
   {
@@ -374,15 +374,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "fpmipa_facility_003",
+      "fpmipa_facility_003",
       "fpmipa_facility_017",
+      "fpmipa_facility_017",
+      "cs_news_180_1",
+      "cs_news_20_1",
+      "fpmipa_facility_012",
       "fpmipa_facility_012",
       "fpmipa_facility_015",
-      "fpmipa_facility_014",
-      "fpmipa_facility_002",
-      "fpmipa_facility_019",
-      "fpmipa_facility_018",
-      "fpmipa_facility_007",
-      "fpmipa_facility_010"
+      "cs_news_225_1"
     ]
   },
   {
@@ -395,15 +395,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "fpmipa_facility_007",
+      "fpmipa_facility_007",
       "fpmipa_facility_003",
+      "fpmipa_facility_003",
+      "cs_news_180_1",
+      "fpmipa_facility_012",
       "fpmipa_facility_012",
       "fpmipa_facility_017",
-      "fpmipa_facility_009",
-      "fpmipa_facility_019",
-      "fpmipa_facility_008",
-      "fpmipa_facility_014",
-      "fpmipa_facility_013",
-      "fpmipa_facility_016"
+      "fpmipa_facility_017",
+      "fpmipa_facility_009"
     ]
   },
   {
@@ -416,15 +416,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "fpmipa_facility_012",
+      "fpmipa_facility_012",
       "fpmipa_facility_008",
-      "fpmipa_facility_013",
+      "fpmipa_facility_008",
+      "cs_news_180_1",
+      "fpmipa_facility_014",
       "fpmipa_facility_014",
       "fpmipa_facility_003",
-      "fpmipa_facility_018",
-      "fpmipa_facility_007",
-      "fpmipa_facility_001",
-      "fpmipa_facility_016",
-      "fpmipa_facility_015"
+      "fpmipa_facility_003",
+      "fpmipa_facility_013"
     ]
   },
   {
@@ -437,15 +437,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "fpmipa_facility_014",
+      "fpmipa_facility_014",
       "fpmipa_facility_012",
+      "fpmipa_facility_012",
+      "cs_news_180_1",
+      "fpmipa_facility_017",
       "fpmipa_facility_017",
       "fpmipa_facility_008",
-      "fpmipa_facility_003",
-      "fpmipa_facility_018",
-      "fpmipa_facility_015",
-      "fpmipa_facility_007",
-      "fpmipa_facility_019",
-      "fpmipa_facility_016"
+      "fpmipa_facility_008",
+      "fpmipa_facility_003"
     ]
   },
   {
@@ -458,15 +458,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "fpmipa_facility_017",
+      "fpmipa_facility_017",
       "fpmipa_facility_003",
+      "fpmipa_facility_003",
+      "upi_facility_024",
+      "fpmipa_facility_008",
       "fpmipa_facility_008",
       "fpmipa_facility_015",
       "fpmipa_facility_014",
-      "fpmipa_facility_019",
-      "fpmipa_facility_018",
-      "fpmipa_facility_012",
-      "fpmipa_facility_002",
-      "fpmipa_facility_016"
+      "fpmipa_facility_014"
     ]
   },
   {
@@ -479,15 +479,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "fpmipa_facility_006",
+      "fpmipa_facility_006",
+      "fpmipa_facility_005",
       "fpmipa_facility_005",
       "fpmipa_facility_004",
+      "fpmipa_facility_004",
+      "cs_news_180_1",
       "cs_facility_008",
-      "fpmipa_facility_017",
-      "fpmipa_facility_018",
-      "fpmipa_facility_008",
-      "fpmipa_facility_003",
-      "fpmipa_facility_007",
-      "fpmipa_facility_019"
+      "fpmipa_facility_015",
+      "fpmipa_facility_017"
     ]
   },
   {
@@ -500,15 +500,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "fpmipa_facility_011",
+      "fpmipa_facility_011",
+      "cs_kemakom_group_1",
+      "fpmipa_facility_012",
       "fpmipa_facility_012",
       "fpmipa_facility_010",
+      "fpmipa_facility_010",
       "fpmipa_facility_013",
-      "fpmipa_facility_003",
-      "fpmipa_facility_008",
-      "fpmipa_facility_018",
-      "fpmipa_facility_019",
-      "fpmipa_facility_016",
-      "fpmipa_facility_007"
+      "fpmipa_facility_013",
+      "fpmipa_facility_003"
     ]
   },
   {
@@ -521,15 +521,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "fpmipa_facility_015",
+      "fpmipa_facility_015",
+      "fpmipa_facility_018",
       "fpmipa_facility_018",
       "fpmipa_facility_003",
+      "fpmipa_facility_003",
+      "cs_news_180_1",
       "fpmipa_facility_008",
-      "fpmipa_facility_012",
-      "fpmipa_facility_009",
-      "fpmipa_facility_013",
-      "fpmipa_facility_007",
-      "fpmipa_facility_019",
-      "fpmipa_facility_016"
+      "fpmipa_facility_008",
+      "fpmipa_facility_012"
     ]
   },
   {
@@ -542,15 +542,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "upi_facility_001",
+      "upi_facility_001",
+      "upi_facility_013",
       "upi_facility_013",
       "upi_facility_010",
+      "upi_facility_010",
+      "cs_news_99_1",
       "upi_facility_016",
-      "upi_facility_018",
-      "upi_facility_003",
-      "upi_facility_002",
-      "upi_facility_021",
-      "upi_facility_008",
-      "upi_facility_005"
+      "upi_facility_016",
+      "upi_facility_018"
     ]
   },
   {
@@ -563,15 +563,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "upi_facility_002",
+      "upi_facility_002",
+      "upi_facility_007",
       "upi_facility_007",
       "upi_facility_017",
+      "upi_facility_017",
+      "fpmipa_facility_014",
       "upi_facility_006",
-      "upi_facility_005",
-      "upi_facility_003",
-      "upi_facility_018",
-      "upi_facility_009",
-      "upi_facility_008",
-      "upi_facility_010"
+      "upi_facility_006",
+      "upi_facility_005"
     ]
   },
   {
@@ -584,15 +584,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "upi_facility_007",
+      "upi_facility_007",
+      "upi_facility_002",
       "upi_facility_002",
       "upi_facility_018",
+      "upi_facility_018",
+      "upi_facility_004",
       "upi_facility_004",
       "upi_facility_006",
-      "upi_facility_015",
-      "upi_facility_008",
-      "upi_facility_005",
-      "upi_facility_014",
-      "upi_facility_010"
+      "upi_facility_006"
     ]
   },
   {
@@ -605,15 +605,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "upi_facility_013",
+      "upi_facility_013",
+      "upi_facility_001",
       "upi_facility_001",
       "upi_facility_010",
+      "upi_facility_010",
       "upi_facility_014",
-      "upi_facility_015",
-      "upi_facility_018",
-      "upi_facility_023",
-      "upi_facility_002",
-      "upi_facility_021",
-      "upi_facility_012"
+      "upi_facility_014",
+      "upi_facility_016",
+      "upi_facility_015"
     ]
   },
   {
@@ -626,15 +626,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "upi_facility_014",
+      "upi_facility_014",
       "upi_facility_025",
+      "upi_facility_008",
+      "upi_facility_010",
       "upi_facility_010",
       "upi_facility_023",
+      "upi_facility_023",
       "upi_facility_012",
-      "upi_facility_007",
-      "upi_facility_020",
-      "upi_facility_002",
-      "upi_facility_009",
-      "upi_facility_021"
+      "upi_facility_012"
     ]
   },
   {
@@ -647,15 +647,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "upi_facility_016",
+      "upi_facility_016",
+      "cs_news_44_2",
+      "cs_news_7_2",
       "upi_facility_001",
-      "upi_facility_021",
+      "upi_facility_013",
       "upi_facility_013",
       "upi_facility_010",
-      "upi_facility_025",
-      "upi_facility_002",
-      "upi_facility_018",
-      "upi_facility_014",
-      "upi_facility_003"
+      "upi_facility_010",
+      "cs_news_44_1"
     ]
   },
   {
@@ -668,15 +668,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "upi_facility_021",
+      "upi_facility_021",
+      "upi_facility_016",
       "upi_facility_013",
+      "upi_facility_013",
+      "cs_news_199_1",
       "upi_facility_014",
       "upi_facility_011",
-      "upi_facility_010",
-      "upi_facility_002",
-      "upi_facility_018",
-      "upi_facility_017",
-      "upi_facility_012",
-      "upi_facility_003"
+      "upi_facility_011",
+      "cs_news_7_1"
     ]
   },
   {
@@ -689,15 +689,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "upi_facility_017",
+      "upi_facility_017",
       "upi_facility_008",
+      "upi_facility_008",
+      "cs_news_7_1",
+      "upi_facility_006",
       "upi_facility_006",
       "upi_facility_002",
-      "upi_facility_007",
-      "upi_facility_005",
-      "upi_facility_003",
-      "upi_facility_009",
-      "upi_facility_010",
-      "upi_facility_023"
+      "upi_facility_002",
+      "upi_facility_007"
     ]
   },
   {
@@ -710,15 +710,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "upi_facility_010",
+      "upi_facility_010",
       "upi_facility_022",
+      "upi_facility_022",
+      "cs_news_220_1",
+      "upi_facility_002",
       "upi_facility_002",
       "upi_facility_023",
-      "upi_facility_008",
-      "upi_facility_014",
-      "upi_facility_007",
-      "upi_facility_025",
-      "upi_facility_018",
-      "upi_facility_001"
+      "upi_facility_023",
+      "upi_facility_008"
     ]
   },
   {
@@ -731,15 +731,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cse_mag_kurikulum_gelar_001",
+      "cse_mag_kurikulum_gelar_001",
       "cs_curriculum_pik_gelar_001",
       "cse_mag_kurikulum_profil_001",
+      "cse_mag_kurikulum_profil_001",
+      "cs_proginfo_overview_002",
+      "cs_master_proginfo_mission_001",
       "cse_mag_kurikulum_tujuan_001",
-      "cse_mag_kurikulum_cpl_pengetahuan_001",
-      "cse_mag_kurikulum_analisis_lptk_001b",
-      "cse_mag_kurikulum_struktur_002",
-      "cse_mag_kurikulum_analisis_lptk_001a",
-      "cse_mag_plo_qual_map_002",
-      "cse_mag_kurikulum_kajian_001b"
+      "cse_mag_kurikulum_tujuan_001",
+      "cs_master_proginfo_goals_001"
     ]
   },
   {
@@ -754,13 +754,13 @@
       "cse_mag_kurikulum_struktur_002",
       "cs_curriculum_pik_list_rekap_total_001",
       "cse_mag_kurikulum_mkkips_001",
+      "cse_mag_kurikulum_mkkps_001",
+      "cs_proginfo_courses_001_s1_s2",
+      "cse_mag_kurikulum_tesis_001",
+      "cs_proginfo_courses_001_s5_s6",
+      "cs_proginfo_courses_001_s7_s8",
       "cs_curriculum_pik_list_mkkf_001",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk5",
-      "cs_proginfo_mapping_kbk2"
+      "cs_curriculum_pik_list_pengantar_001"
     ]
   },
   {
@@ -772,16 +772,16 @@
     "gold_answer": "MKKPs 7 SKS, MKKIPS 17 SKS, MKKPPS 6 SKS, Tesis 8 SKS.",
     "generated_answer": "",
     "retrieve_ids": [
+      "cse_mag_kurikulum_struktur_002",
       "cse_mag_kurikulum_tesis_001",
+      "cse_mag_kurikulum_tesis_001",
+      "cs_curriculum_pik_list_rekap_total_001",
+      "cs_proginfo_curriculum_003_credits",
       "cse_mag_kurikulum_matrikulasi_001",
       "cse_mag_kurikulum_mkkips_001",
-      "cse_mag_kurikulum_mkkps_001",
-      "cse_mag_kurikulum_mkkpps_001",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk2"
+      "cse_mag_kurikulum_mkkips_001",
+      "cs_curriculum_pik_list_mkkips_multimedia_001",
+      "cse_mag_kurikulum_mkkps_001"
     ]
   },
   {
@@ -794,15 +794,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cse_mag_kurikulum_mkkips_001",
+      "cse_mag_kurikulum_mkkips_001",
       "cs_proginfo_curriculum_003_credits",
       "cse_mag_kurikulum_mkkpps_001",
-      "cse_mag_kurikulum_mkkps_001",
+      "cse_mag_kurikulum_mkkpps_001",
       "cs_proginfo_mapping_mkkps",
+      "cse_mag_kurikulum_mkkps_001",
+      "cse_mag_kurikulum_mkkps_001",
       "cse_mag_kurikulum_matrikulasi_001",
-      "cse_mag_kurikulum_struktur_002",
-      "cse_mag_kurikulum_tesis_001",
-      "cs_curriculum_pik_list_pengantar_001",
-      "cse_mag_kurikulum_gelar_001"
+      "cse_mag_kurikulum_struktur_002"
     ]
   },
   {
@@ -815,15 +815,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cse_mag_kurikulum_mkkips_001",
+      "cse_mag_kurikulum_mkkips_001",
       "cs_curriculum_pik_list_mkkips_001_part2",
       "cs_curriculum_pik_mkips_mkkpps_kbk_002",
+      "cs_proginfo_curriculum_003_cg_4_6",
       "cse_mag_kurikulum_matrikulasi_001",
       "cse_mag_kurikulum_mkkps_001",
+      "cse_mag_kurikulum_mkkps_001",
       "cs_proginfo_curriculum_003_credits",
-      "cse_mag_kurikulum_struktur_002",
-      "cs_curriculum_pik_penempatan_rincian_002",
-      "cse_mag_kurikulum_mkkpps_001",
-      "cse_mag_kurikulum_tesis_001"
+      "cse_mag_kurikulum_struktur_002"
     ]
   },
   {
@@ -836,15 +836,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cse_mag_kurikulum_tesis_001",
+      "cse_mag_kurikulum_tesis_001",
       "cse_mag_kurikulum_struktur_002",
       "cs_proginfo_courses_001_s7_s8",
       "cse_mag_kurikulum_matrikulasi_001",
       "cse_mag_kurikulum_mkkips_001",
       "cse_mag_kurikulum_mkkps_001",
+      "cse_mag_kurikulum_mkkps_001",
       "cse_mag_kurikulum_mkkpps_001",
-      "cse_mag_kurikulum_kajian_001b",
-      "cs_proginfo_curriculum_003_credits",
-      "cs_quality_assurance_sop_001"
+      "cse_mag_kurikulum_kajian_001b"
     ]
   },
   {
@@ -857,15 +857,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cse_mag_kurikulum_matrikulasi_001",
+      "cse_mag_kurikulum_matrikulasi_001",
       "cse_mag_kurikulum_struktur_002",
       "cse_mag_kurikulum_mkkips_001",
-      "cse_mag_kurikulum_mkkps_001",
+      "cse_mag_kurikulum_mkkips_001",
       "cs_proginfo_curriculum_003_credits",
+      "cse_mag_kurikulum_mkkps_001",
+      "cse_mag_kurikulum_mkkps_001",
       "cse_mag_kurikulum_mkkpps_001",
-      "cs_curriculum_pik_list_rekap_total_001",
-      "cse_mag_kurikulum_tesis_001",
-      "cs_proginfo_courses_001_summary",
-      "cs_curriculum_pik_list_mkppl_001"
+      "cse_mag_kurikulum_mkkpps_001"
     ]
   },
   {
@@ -879,6 +879,7 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_master_proginfo_goals_001",
+      "cs_master_proginfo_goals_001",
       "cse_mag_kurikulum_tujuan_001",
       "cs_master_proginfo_mission_001",
       "cse_mag_kurikulum_analisis_lptk_001b",
@@ -886,8 +887,7 @@
       "cs_master_proginfo_vision_001",
       "cse_mag_kurikulum_gelar_001",
       "cs_news_149_1",
-      "cs_news_216_1",
-      "cs_news_91_1"
+      "cs_news_216_1"
     ]
   },
   {
@@ -900,15 +900,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cse_doc_1",
-      "cs_facility_001",
-      "cs_facility_008",
-      "cs_facility_007",
-      "cs_facility_003",
-      "cs_facility_006",
-      "cs_facility_004",
-      "cs_facility_010",
-      "cs_facility_002",
-      "cs_facility_009"
+      "cs_news_177_1",
+      "cs_news_195_1",
+      "cs_news_146_1",
+      "cs_kemakom_group_1",
+      "cs_alumni_ika_001",
+      "cs_proginfo_overview_002",
+      "cs_curriculum_pik_tujuan_001",
+      "cs_news_153_1",
+      "cs_kemakom_group_2"
     ]
   },
   {
@@ -924,12 +924,12 @@
       "cs_curriculum_pik_gelar_001",
       "cs_news_172_1",
       "cs_proginfo_overview_002",
+      "cs_proginfo_overview_002",
+      "cs_news_149_1",
+      "cs_news_161_1",
+      "cs_news_52_1",
       "cs_curriculum_pik_mkips_mkkpps_kbk_002",
-      "cs_proginfo_qualification_002",
-      "cs_proginfo_plo_002",
-      "cs_penilaian_pik_009",
-      "cs_proginfo_curriculum_003_desc",
-      "cs_proginfo_courses_001_desc"
+      "cs_proginfo_curriculum_003_cg_4_6"
     ]
   },
   {
@@ -949,8 +949,8 @@
       "cs_news_122_1",
       "cs_person_wahyudin_003",
       "cs_curriculum_pik_gelar_001",
-      "cse_proginfo_mission_001",
-      "cs_penilaian_pik_009"
+      "cs_master_proginfo_mission_001",
+      "cse_proginfo_mission_001"
     ]
   },
   {
@@ -969,9 +969,9 @@
       "cs_news_169_1",
       "csik_prog_goals_2016_strategies_1_15",
       "cse_mag_kurikulum_profil_001",
+      "cs_news_209_1",
       "cs_admission_s2_001",
-      "cs_news_167_1",
-      "cs_penilaian_pik_009"
+      "cs_news_167_1"
     ]
   },
   {
@@ -984,15 +984,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_admission_s1_001",
+      "cs_admission_s1_001",
       "cs_news_7_1",
+      "cs_admission_s2_001",
       "cs_admission_s2_001",
       "cse_doc_1",
       "cs_proginfo_curriculum_003_desc",
       "cs_proginfo_exam_001_desc_p5_s03",
       "cs_curriculum_pik_struktur_pengantar_002",
-      "cs_penilaian_pik_005",
-      "cs_news_12_1",
-      "cs_news_216_1"
+      "cs_penilaian_pik_005"
     ]
   },
   {
@@ -1005,15 +1005,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_admission_s2_001",
+      "cs_admission_s2_001",
+      "cs_admission_s1_001",
       "cs_admission_s1_001",
       "cs_news_7_1",
       "upi_facility_001",
       "cs_news_216_1",
       "cs_scholarship_jfls",
       "cs_news_173_1",
-      "cs_admin_services_001",
-      "cs_news_156_1",
-      "cs_scholarship_beasiswa_unggulan"
+      "cs_admin_services_001"
     ]
   },
   {
@@ -1026,15 +1026,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_admission_s1_001",
+      "cs_admission_s1_001",
       "csik_prog_goals_2016_students",
       "cse_doc_1",
       "cs_proginfo_overview_002",
       "csik_prog_goals_2016_graduates",
       "csik_prog_goals_2016_research",
-      "cs_admin_services_001",
+      "cs_news_152_1",
       "cs_admission_s2_001",
-      "cs_proginfo_vision_001",
-      "cs_scholarship_ppa"
+      "cs_admission_s2_001"
     ]
   },
   {
@@ -1047,15 +1047,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_admission_s1_001",
+      "cs_admission_s1_001",
       "cs_proginfo_overview_002",
       "cse_doc_1",
+      "cse_mag_kurikulum_struktur_002",
       "cs_curriculum_pik_tujuan_001",
       "cse_proginfo_mission_001",
       "cs_news_199_1",
       "cs_penilaian_pik_009",
-      "cs_admin_services_001",
-      "cs_admission_s2_001",
-      "cse_proginfo_vision_001"
+      "cs_admin_services_001"
     ]
   },
   {
@@ -1068,15 +1068,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_admission_s2_001",
+      "cs_admission_s2_001",
+      "cs_admission_s1_001",
       "cse_doc_1",
       "cs_admission_s1_001",
       "cs_proginfo_curriculum_003_desc",
       "cs_curriculum_pik_struktur_pengantar_002",
       "cs_admin_services_001",
       "cs_news_216_1",
-      "cs_scholarship_jfls",
-      "cs_scholarship_beasiswa_unggulan",
-      "cs_proginfo_exam_001_desc_p5_s07"
+      "cs_scholarship_jfls"
     ]
   },
   {
@@ -1089,15 +1089,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_admission_s2_001",
+      "cs_admission_s2_001",
+      "cs_admission_s1_001",
       "cs_admission_s1_001",
       "cs_penilaian_pik_006",
       "cs_proginfo_exam_001_desc_p5_s06",
       "cs_news_7_1",
       "cs_news_43_1",
       "cs_proginfo_exam_001_desc_p1",
-      "cs_penilaian_pik_004",
-      "cs_news_216_1",
-      "cs_proginfo_exam_001_desc_p3"
+      "cs_penilaian_pik_004"
     ]
   },
   {
@@ -1110,15 +1110,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_alumni_tracer_001",
+      "cs_alumni_tracer_001",
+      "cs_alumni_stakeholder_001",
       "cs_alumni_stakeholder_001",
       "cs_quality_assurance_internal_002",
       "cs_proginfo_qualification_002",
+      "cs_news_203_1",
       "cs_proginfo_exam_001_desc_p5_s05",
       "cs_alumni_ika_001",
-      "cs_penilaian_pik_003",
-      "cs_news_88_1",
-      "cs_proginfo_exam_001_desc_p4",
-      "cs_news_216_1"
+      "cs_penilaian_pik_003"
     ]
   },
   {
@@ -1135,11 +1135,11 @@
       "cs_news_125_1",
       "cs_kemakom_group_2",
       "cs_kemakom_group_1",
+      "cs_news_171_1",
       "cs_person_lala_septem_riza_002",
       "cs_person_muhammad_nursalman_001",
-      "cs_person_herbert_siregar_s1pik_018",
-      "cs_person_yudi_ahmad_hambali_s1ik_008",
-      "cs_person_eki_nugraha_s1pik_022"
+      "cs_news_128_1",
+      "cs_person_wahyudin_003"
     ]
   },
   {
@@ -1152,15 +1152,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_alumni_stakeholder_001",
+      "cs_alumni_stakeholder_001",
       "cs_proginfo_objective_001",
       "cs_alumni_ika_001",
       "cs_news_129_1",
       "cs_proginfo_mission_001",
       "cs_proginfo_qualification_002",
       "cse_mag_kurikulum_analisis_profesi_001",
-      "cs_news_80_1",
-      "cs_news_140_1",
-      "cs_alumni_tracer_001"
+      "cs_curriculum_pik_profil_001",
+      "cs_news_80_1"
     ]
   },
   {
@@ -1173,15 +1173,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_alumni_stakeholder_001",
+      "cs_alumni_stakeholder_001",
+      "cs_news_75_2",
       "cs_curriculum_pik_profil_001",
       "cse_mag_kurikulum_profil_001",
       "cs_proginfo_qualification_002",
       "cs_alumni_ika_001",
       "cs_alumni_tracer_001",
-      "cs_proginfo_exam_001_plo_mapping",
-      "cs_news_157_1",
-      "cse_proginfo_goals_lulusan_001",
-      "cs_news_18_1"
+      "cs_alumni_tracer_001",
+      "cs_proginfo_exam_001_plo_mapping"
     ]
   },
   {
@@ -1194,14 +1194,14 @@
     "generated_answer": "",
     "retrieve_ids": [
       "pceb_competency_sle_01",
+      "cs_news_52_1",
       "pcem_competency_policy_ict_01",
       "pcb_competency_artificial_intelligence_01",
+      "pceb_competency_digital_pedagogik_didaktik_01",
       "cs_proginfo_curriculum_003_cg_4_6",
       "cs_curriculum_pik_mkkf_mkkpbs_002",
       "pcem_competency_tbls_01",
-      "cs_proginfo_mapping_kbk2",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk3",
+      "pceb_competency_steam_01",
       "cs_news_132_1"
     ]
   },
@@ -1215,15 +1215,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "pcem_competency_tbls_01",
+      "pcem_competency_tbls_01",
+      "pceb_competency_sle_01",
       "pceb_competency_sle_01",
       "pcem_competency_policy_ict_01",
+      "pcem_competency_policy_ict_01",
+      "pceb_competency_steam_01",
       "pceb_competency_steam_01",
       "pceb_competency_digital_pedagogik_didaktik_01",
-      "pcb_competency_artificial_intelligence_01",
-      "pcb_competency_multimedia_network_01",
-      "pcb_competency_rplmi_01",
-      "cs_person_budi_laksono_putro_s2pik_037",
-      "cs_person_budi_laksono_putro_s1pik_020"
+      "pceb_competency_digital_pedagogik_didaktik_01"
     ]
   },
   {
@@ -1236,15 +1236,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "pcem_competency_policy_ict_01",
+      "pceb_competency_steam_01",
       "pcem_competency_tbls_01",
+      "pceb_competency_digital_pedagogik_didaktik_01",
       "pcb_competency_multimedia_network_01",
+      "pceb_competency_sle_01",
       "pcb_competency_rplmi_01",
+      "pcb_competency_artificial_intelligence_01",
       "cs_person_enjang_ali_nurdin_s1pik_015",
-      "cs_person_munir_s2pik_028",
-      "cs_person_munir_s1ik_001",
-      "cs_person_asep_wahyudin_s2pik_031",
-      "cs_person_wahyudin_s1pik_016",
-      "cs_person_enjang_ali_nurdin_s2pik_030"
+      "cs_person_enjang_ali_nurdin_s1pik_015"
     ]
   },
   {
@@ -1257,15 +1257,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "pcb_competency_multimedia_network_01",
+      "pcb_competency_multimedia_network_01",
+      "pceb_competency_steam_01",
+      "pceb_competency_steam_01",
+      "pcem_competency_policy_ict_01",
+      "pceb_competency_digital_pedagogik_didaktik_01",
       "pcb_competency_rplmi_01",
-      "cs_proginfo_curriculum_003_expertise",
-      "cs_person_nusuki_syariati_fathimah_s1pik_027",
-      "cs_person_munir_s1ik_001",
-      "cs_person_jajang_kusnendar_s1pik_017",
-      "cs_person_andini_setya_arianti_s1pik_026",
-      "cs_person_eddy_prasetyo_nugroho_s1ik_010",
-      "cs_person_rasim_s2pik_036",
-      "cs_person_yudi_ahmad_hambali_s1ik_008"
+      "pcb_competency_rplmi_01",
+      "pceb_competency_sle_01",
+      "pceb_competency_sle_01"
     ]
   },
   {
@@ -1278,15 +1278,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_proginfo_overview_002",
+      "cs_proginfo_overview_002",
+      "cs_news_11_1",
       "cs_curriculum_pik_tujuan_001",
       "cse_doc_1",
       "cs_news_179_1",
+      "cs_news_150_1",
+      "cs_news_128_1",
       "cs_proginfo_curriculum_003_desc",
-      "cs_proginfo_qualification_002",
-      "cs_news_122_1",
-      "cs_proginfo_plo_002",
-      "cs_news_151_1",
-      "cs_proginfo_courses_001_desc"
+      "cs_news_140_1"
     ]
   },
   {
@@ -1298,16 +1298,16 @@
     "gold_answer": "Gelar lulusan adalah Sarjana Komputer (S.Kom).",
     "generated_answer": "",
     "retrieve_ids": [
+      "cse_doc_1",
+      "cs_proginfo_overview_002",
       "cs_proginfo_overview_002",
       "cs_curriculum_pik_gelar_001",
       "cse_mag_kurikulum_gelar_001",
       "cs_proginfo_qualification_002",
       "cs_proginfo_curriculum_003_desc",
+      "cs_news_150_1",
       "cs_news_179_1",
-      "cs_news_47_1",
-      "cs_curriculum_pik_tujuan_001",
-      "cs_proginfo_plo_002",
-      "cs_proginfo_courses_001_desc"
+      "cs_news_47_1"
     ]
   },
   {
@@ -1319,16 +1319,16 @@
     "gold_answer": "Total SKS adalah 146 (total mata kuliah 41).",
     "generated_answer": "",
     "retrieve_ids": [
-      "cs_proginfo_courses_001_summary",
-      "cs_proginfo_courses_001_s7_s8",
-      "cs_proginfo_curriculum_003_credits",
-      "cs_proginfo_courses_001_s1_s2",
-      "cs_proginfo_courses_001_s5_s6",
-      "cs_proginfo_courses_001_s3_s4",
       "cs_curriculum_pik_list_rekap_total_001",
-      "cs_proginfo_curriculum_003_expertise",
-      "cs_proginfo_curriculum_003_cg_1_3",
-      "cs_proginfo_mapping_mkkips_part1"
+      "cs_proginfo_courses_001_summary",
+      "cs_proginfo_courses_001_summary",
+      "cs_proginfo_curriculum_003_credits",
+      "cs_proginfo_curriculum_003_credits",
+      "cse_mag_kurikulum_struktur_002",
+      "cs_curriculum_pik_list_mkkips_multimedia_001",
+      "cs_proginfo_courses_001_s1_s2",
+      "cs_proginfo_plomapping_006",
+      "cs_proginfo_courses_001_s3_s4"
     ]
   },
   {
@@ -1343,13 +1343,13 @@
       "cs_proginfo_curriculum_003_credits",
       "cse_mag_kurikulum_struktur_002",
       "cs_curriculum_pik_list_rekap_total_001",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_curriculum_pik_list_mku_001_part2",
+      "cs_proginfo_curriculum_003_desc",
       "cs_proginfo_plomapping_002",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk5",
-      "cs_proginfo_mapping_kbk2"
+      "cs_proginfo_plomapping_001",
+      "cs_proginfo_plomapping_004"
     ]
   },
   {
@@ -1362,15 +1362,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_proginfo_plo_002",
+      "cs_proginfo_mapping_mkkips_part2",
       "cs_penilaian_pik_009",
+      "cs_proginfo_mapping_mkkips_part4",
       "cs_proginfo_mapping_mkkips_part3",
       "cs_proginfo_plomapping_006",
       "cse_doc_1",
       "cs_proginfo_overview_002",
       "cs_proginfo_curriculum_003_desc",
-      "cs_proginfo_qualification_002",
-      "cs_proginfo_courses_001_desc",
-      "cs_news_15_2"
+      "cs_quality_assurance_cycle_001"
     ]
   },
   {
@@ -1383,15 +1383,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_proginfo_courses_001_s1_s2",
+      "cs_proginfo_courses_001_s1_s2",
+      "cs_curriculum_pik_list_mkkips_001_part1",
       "cs_curriculum_pik_list_mkkf_001",
+      "cs_curriculum_pik_list_mkkpbs_001",
+      "cs_curriculum_pik_list_mkdk_001",
+      "cs_proginfo_mapping_mkkips_part1",
       "cse_mag_kurikulum_mkkips_001",
-      "cs_curriculum_pik_penempatan_rincian_002",
-      "cs_proginfo_curriculum_003_credits",
-      "cs_proginfo_curriculum_003_expertise",
-      "cs_proginfo_curriculum_003_cg_4_6",
-      "cs_proginfo_courses_001_s3_s4",
-      "cs_proginfo_courses_001_s5_s6",
-      "cs_proginfo_courses_001_s7_s8"
+      "cse_mag_kurikulum_struktur_002",
+      "cs_curriculum_pik_list_mkppl_001"
     ]
   },
   {
@@ -1405,14 +1405,14 @@
     "retrieve_ids": [
       "cs_proginfo_curriculum_003_desc",
       "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_proginfo_curriculum_003_cg_1_3",
       "cs_curriculum_pik_mku_mkdk_002",
+      "cs_proginfo_curriculum_003_cg_4_6",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002",
+      "cs_curriculum_pik_mkkf_mkkpbs_002",
+      "cs_proginfo_curriculum_003_credits",
       "cs_curriculum_pik_penempatan_rincian_002",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk2",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk5"
+      "cse_mag_kurikulum_struktur_002"
     ]
   },
   {
@@ -1425,15 +1425,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_proginfo_teach_001_methods",
+      "cs_proginfo_teach_001_methods",
       "cs_metode_pengajaran_pik_001",
       "cs_proginfo_mapping_mkkips_part2",
       "cs_penilaian_pik_009",
       "cs_proginfo_teach_001_overview_strategies",
+      "cs_proginfo_teach_001_overview_strategies",
       "cs_proginfo_plomapping_006",
       "cs_proginfo_mapping_mkppl",
-      "cs_proginfo_plomapping_003",
-      "cs_facility_010",
-      "cs_proginfo_teach_001_others"
+      "cs_proginfo_plomapping_003"
     ]
   },
   {
@@ -1447,14 +1447,14 @@
     "retrieve_ids": [
       "cs_penilaian_pik_007",
       "cs_proginfo_exam_001_grades",
+      "cs_proginfo_exam_001_grades",
+      "cs_proginfo_exam_001_desc_p5_s07",
       "cs_proginfo_exam_001_desc_p5_s07",
       "cs_proginfo_exam_001_desc_p5_s06",
+      "cs_proginfo_exam_001_desc_p5_s06",
       "cs_proginfo_exam_001_desc_p4",
-      "cs_proginfo_exam_001_desc_p5_s08",
-      "cs_penilaian_pik_008",
-      "cs_proginfo_exam_001_desc_p1",
-      "cs_proginfo_exam_001_desc_p5_s09",
-      "cs_proginfo_exam_001_desc_p3"
+      "cs_proginfo_exam_001_desc_p4",
+      "cs_penilaian_pik_006"
     ]
   },
   {
@@ -1467,15 +1467,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_proginfo_exam_001_desc_p5_s06",
+      "cs_proginfo_exam_001_desc_p5_s06",
       "cs_penilaian_pik_006",
       "cs_proginfo_exam_001_desc_p5_s08",
+      "cs_proginfo_exam_001_desc_p5_s08",
       "cs_proginfo_exam_001_desc_p1",
+      "cs_proginfo_exam_001_desc_p1",
+      "cs_penilaian_pik_001",
       "cs_penilaian_pik_008",
-      "cs_proginfo_exam_001_desc_p3",
-      "cs_proginfo_exam_001_desc_p2",
-      "cs_proginfo_exam_001_desc_p5_s07",
-      "cs_proginfo_exam_001_desc_p4",
-      "cs_proginfo_exam_001_desc_p5_s05"
+      "cs_proginfo_exam_001_desc_p3"
     ]
   },
   {
@@ -1488,15 +1488,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_proginfo_exam_001_desc_p2",
+      "cs_proginfo_exam_001_desc_p2",
       "cs_penilaian_pik_001",
       "cs_proginfo_exam_001_desc_p3",
+      "cs_proginfo_exam_001_desc_p3",
+      "cs_penilaian_pik_002",
       "cs_proginfo_exam_001_desc_p1",
       "cs_proginfo_exam_001_desc_p4",
-      "cs_proginfo_exam_001_desc_p5_s06",
-      "cs_news_120_1",
-      "cs_proginfo_exam_001_desc_p5_s07",
-      "cs_proginfo_exam_001_plo_linkage",
-      "cs_proginfo_exam_001_desc_p5_s04"
+      "cs_proginfo_exam_001_desc_p4",
+      "cs_proginfo_exam_001_desc_p5_s06"
     ]
   },
   {
@@ -1509,15 +1509,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_proginfo_exam_001_desc_p5_s03",
+      "cs_proginfo_exam_001_desc_p5_s03",
       "cs_penilaian_pik_005",
+      "cse_doc_1",
       "cs_proginfo_exam_001_desc_p5_s04",
+      "cs_proginfo_exam_001_desc_p5_s04",
+      "cs_penilaian_pik_001",
       "cs_proginfo_exam_001_desc_p1",
-      "cs_proginfo_exam_001_desc_p5_s06",
-      "cs_proginfo_exam_001_desc_p2",
-      "cs_proginfo_exam_001_plo_mapping",
-      "cs_proginfo_exam_001_desc_p5_s08",
-      "cs_proginfo_exam_001_desc_p5_s01",
-      "cs_proginfo_exam_001_desc_p5_s05"
+      "cs_proginfo_exam_001_desc_p1",
+      "cs_penilaian_pik_006"
     ]
   },
   {
@@ -1530,15 +1530,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_quality_assurance_cycle_001",
+      "cs_quality_assurance_cycle_001",
+      "cs_quality_assurance_external_001",
       "cs_quality_assurance_external_001",
       "cs_quality_assurance_internal_002",
+      "cs_quality_assurance_internal_002",
+      "cs_quality_assurance_internal_001",
       "cs_quality_assurance_internal_001",
       "cs_quality_assurance_sop_001",
-      "cs_prestasi_group_2",
-      "cs_news_44_1",
-      "cs_exchange_mbkm_perm_001",
-      "cs_exchange_mbkm_other_001",
-      "cs_news_217_1"
+      "cs_prestasi_group_2"
     ]
   },
   {
@@ -1551,15 +1551,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_quality_assurance_cycle_001",
+      "cs_quality_assurance_cycle_001",
       "cs_quality_assurance_internal_001",
+      "cs_quality_assurance_internal_001",
+      "cs_quality_assurance_internal_002",
       "cs_quality_assurance_internal_002",
       "csik_prog_goals_2016_collab_qms_pkm",
       "cs_news_28_1",
       "cs_quality_assurance_external_001",
-      "cs_quality_assurance_sop_001",
-      "cs_news_31_1",
-      "cs_news_16_1",
-      "cs_proginfo_plomapping_004"
+      "cs_quality_assurance_external_001"
     ]
   },
   {
@@ -1572,15 +1572,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_quality_assurance_internal_001",
+      "cs_quality_assurance_internal_001",
+      "cs_news_75_2",
+      "cs_person_lala_septem_riza_002",
       "cs_person_lala_septem_riza_002",
       "cs_person_muhammad_nursalman_001",
       "cs_quality_assurance_external_001",
       "cs_person_wahyudin_003",
-      "cs_quality_assurance_internal_002",
-      "cs_quality_assurance_cycle_001",
-      "cs_person_munir_s2pik_028",
-      "cs_person_wahyudin_s1pik_016",
-      "cs_quality_assurance_sop_001"
+      "cs_person_wahyudin_003",
+      "cs_quality_assurance_internal_002"
     ]
   },
   {
@@ -1593,15 +1593,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_quality_assurance_internal_001",
+      "cs_quality_assurance_internal_001",
+      "cs_quality_assurance_internal_002",
       "cs_quality_assurance_internal_002",
       "csik_prog_goals_2016_strategies_1_15",
       "cs_quality_assurance_external_001",
+      "cs_quality_assurance_external_001",
       "cs_quality_assurance_cycle_001",
-      "cs_news_226_1",
-      "cs_proginfo_exam_001_desc_p5_s08",
-      "cs_proginfo_teach_001_others",
-      "cs_quality_assurance_sop_001",
-      "cs_news_10_1"
+      "cs_exchange_mbkm_perm_001",
+      "cs_news_226_1"
     ]
   },
   {
@@ -1617,12 +1617,12 @@
       "cs_quality_assurance_internal_001",
       "cs_news_179_1",
       "cs_proginfo_exam_001_desc_p5_s08",
+      "cs_proginfo_exam_001_desc_p1",
       "cs_penilaian_pik_008",
-      "cs_quality_assurance_cycle_001",
-      "cs_quality_assurance_external_001",
       "cs_news_15_2",
       "cs_news_32_2",
-      "cs_quality_assurance_sop_001"
+      "cs_news_167_1",
+      "cs_proginfo_overview_002"
     ]
   },
   {
@@ -1634,16 +1634,16 @@
     "gold_answer": "Kemajuan: Agustus–September; Laporan akhir: November–Desember.",
     "generated_answer": "",
     "retrieve_ids": [
-      "cs_admin_services_001",
       "cs_quality_assurance_internal_002",
-      "upi_facility_023",
       "cs_proginfo_exam_001_desc_p5_s02",
-      "cs_proginfo_teach_001_others",
-      "cs_metode_pengajaran_pik_002",
       "cs_penilaian_pik_004",
-      "cs_news_63_1",
       "csik_prog_goals_2016_strategies_16_31",
-      "cs_proginfo_exam_001_desc_p5_s04"
+      "cs_proginfo_exam_001_desc_p5_s04",
+      "upi_facility_023",
+      "csik_prog_goals_2016_strategies_1_15",
+      "cs_admin_services_001",
+      "cs_metode_pengajaran_pik_002",
+      "cs_proginfo_teach_001_others"
     ]
   },
   {
@@ -1677,15 +1677,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_quality_assurance_internal_002",
+      "cs_quality_assurance_internal_002",
+      "cs_quality_assurance_cycle_001",
       "cs_quality_assurance_cycle_001",
       "cs_quality_assurance_internal_001",
+      "cs_quality_assurance_internal_001",
+      "csik_prog_goals_2016_collab_qms_pkm",
       "cs_proginfo_exam_001_desc_p1",
       "cs_penilaian_pik_001",
-      "csik_prog_goals_2016_graduates",
-      "cse_proginfo_goals_lulusan_001",
-      "cs_quality_assurance_external_001",
-      "cs_person_harsa_wara_prabawa_s1pik_019",
-      "cs_quality_assurance_sop_001"
+      "csik_prog_goals_2016_graduates"
     ]
   },
   {
@@ -1699,14 +1699,14 @@
     "retrieve_ids": [
       "cs_quality_assurance_external_001",
       "cs_news_152_1",
+      "cs_curriculum_pik_tujuan_001",
       "cs_news_11_1",
+      "cs_news_157_1",
+      "cs_proginfo_overview_002",
       "cs_proginfo_overview_002",
       "cs_news_150_1",
-      "cs_penilaian_pik_009",
-      "cs_proginfo_plo_002",
-      "cs_proginfo_qualification_002",
-      "cs_proginfo_curriculum_003_desc",
-      "cs_proginfo_courses_001_desc"
+      "cs_news_179_1",
+      "cs_quality_assurance_cycle_001"
     ]
   },
   {
@@ -1720,14 +1720,14 @@
     "retrieve_ids": [
       "cs_quality_assurance_external_001",
       "cs_news_85_1",
+      "cs_news_198_1",
+      "csik_prog_goals_2016_strategies_1_15",
+      "cs_quality_assurance_cycle_001",
+      "cs_quality_assurance_internal_001",
+      "cse_proginfo_goals_kerjasama_001",
+      "csik_prog_goals_2016_collab_qms_pkm",
       "fpmipa_facility_017",
-      "fpmipa_facility_015",
-      "fpmipa_facility_003",
-      "fpmipa_facility_019",
-      "fpmipa_facility_018",
-      "fpmipa_facility_014",
-      "fpmipa_facility_008",
-      "fpmipa_facility_007"
+      "fpmipa_facility_017"
     ]
   },
   {
@@ -1745,10 +1745,10 @@
       "cs_news_193_1",
       "cs_news_7_1_1",
       "cs_admin_services_001",
+      "cs_admin_services_001",
       "fpmipa_facility_009",
       "cs_news_220_1",
-      "cs_news_28_1",
-      "cs_news_195_1"
+      "cs_news_28_1"
     ]
   },
   {
@@ -1762,14 +1762,14 @@
     "retrieve_ids": [
       "cs_quality_assurance_sop_001",
       "cs_exchange_mbkm_perm_001",
+      "cs_mbkm_programs_001",
       "cs_news_67_1",
       "cs_news_167_1",
-      "cs_news_96_1",
       "cs_news_44_1",
+      "cs_news_96_1",
       "cs_mbkm_desc_001",
-      "upi_facility_021",
-      "upi_facility_018",
-      "cs_admission_s2_001"
+      "cs_mbkm_programs_002",
+      "cs_news_90_1"
     ]
   },
   {
@@ -1782,15 +1782,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_person_lala_septem_riza_002",
+      "cs_person_lala_septem_riza_002",
+      "cs_person_lala_septem_riza_s1ik_002",
       "cs_person_lala_septem_riza_s1ik_002",
       "cs_person_lala_septem_riza_s2pik_029",
+      "cs_person_lala_septem_riza_s2pik_029",
+      "cs_person_lala_septem_riza_s1pik_013",
       "cs_person_lala_septem_riza_s1pik_013",
       "cs_person_wahyudin_003",
-      "cs_news_4_1",
-      "cs_person_muhammad_nursalman_001",
-      "cs_person_rasim_s1ik_007",
-      "cs_person_herbert_siregar_s1pik_018",
-      "cs_news_127_1"
+      "cs_person_wahyudin_003"
     ]
   },
   {
@@ -1803,15 +1803,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_person_jajang_kusnendar_s1pik_017",
+      "cs_person_jajang_kusnendar_s1pik_017",
+      "cs_person_rasim_s1ik_007",
       "cs_person_rasim_s1ik_007",
       "cs_person_asep_wahyudin_s1ik_006",
       "cs_person_budi_laksono_putro_s1pik_020",
       "cs_person_rani_megasari_s1ik_005",
       "cs_person_yudi_ahmad_hambali_s1ik_008",
-      "cs_person_herbert_siregar_s1pik_018",
-      "cs_proginfo_mapping_mkkips_part2",
-      "cs_proginfo_courses_001_s3_s4",
-      "cs_proginfo_mapping_mkkips_part3"
+      "cs_person_yudi_ahmad_hambali_s1ik_008",
+      "cs_person_herbert_siregar_s1pik_018"
     ]
   },
   {
@@ -1824,15 +1824,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_person_muhammad_nursalman_s2pik_035",
+      "cs_person_muhammad_nursalman_s2pik_035",
+      "cs_person_muhammad_nursalman_s1ik_004",
       "cs_person_muhammad_nursalman_s1ik_004",
       "cs_person_muhammad_nursalman_001",
+      "cs_person_muhammad_nursalman_001",
+      "cs_person_munir_s1ik_001",
       "cs_person_munir_s1ik_001",
       "cs_person_rasim_s1ik_007",
-      "cs_person_munir_s2pik_028",
-      "cs_person_rani_megasari_s1ik_005",
-      "cs_person_yudi_wibisono_s1ik_003",
-      "cs_person_yudi_ahmad_hambali_s1ik_008",
-      "cs_person_eki_nugraha_s1pik_022"
+      "cs_person_rasim_s1ik_007"
     ]
   },
   {
@@ -1845,15 +1845,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_person_rani_megasari_s2pik_033",
+      "cs_person_rani_megasari_s2pik_033",
       "cs_person_rani_megasari_s1ik_005",
+      "cs_person_rani_megasari_s1ik_005",
+      "pcb_competency_artificial_intelligence_01",
+      "cs_news_77_1",
+      "pcem_competency_tbls_01",
+      "cs_news_161_1",
       "cs_proginfo_curriculum_003_cg_1_3",
-      "cs_person_rasim_s2pik_036",
-      "cs_person_rasim_s1ik_007",
-      "cs_person_lala_septem_riza_s1ik_002",
-      "cs_person_lala_septem_riza_s1pik_013",
-      "cs_person_lala_septem_riza_s2pik_029",
-      "cs_person_eka_fitrajaya_rahman_s1pik_014",
-      "cs_person_andri_mulyadi_tendik_039"
+      "cs_proginfo_curriculum_003_cg_4_6"
     ]
   },
   {
@@ -1866,15 +1866,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_person_yaya_wihardi_s1ik_012",
+      "cs_person_yaya_wihardi_s1ik_012",
+      "cs_person_lala_septem_riza_s1ik_002",
       "cs_person_lala_septem_riza_s1ik_002",
       "cs_person_lala_septem_riza_s1pik_013",
+      "cs_person_lala_septem_riza_s1pik_013",
+      "cs_person_lala_septem_riza_s2pik_029",
       "cs_person_lala_septem_riza_s2pik_029",
       "cs_person_wahyudin_s1pik_016",
-      "cs_person_rasim_s1ik_007",
-      "cs_person_wahyudin_s2pik_032",
-      "cs_person_herbert_siregar_s1pik_018",
-      "cs_person_yudi_wibisono_s1ik_003",
-      "cs_person_yudi_wibisono_s2pik_034"
+      "cs_person_wahyudin_s1pik_016"
     ]
   },
   {
@@ -1887,15 +1887,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_person_lala_septem_riza_s1ik_002",
+      "cs_person_lala_septem_riza_s1ik_002",
+      "cs_person_yudi_wibisono_s1ik_003",
       "cs_person_yudi_wibisono_s1ik_003",
       "cs_person_lala_septem_riza_s1pik_013",
+      "cs_person_lala_septem_riza_s1pik_013",
+      "cs_person_eddy_prasetyo_nugroho_s1ik_010",
       "cs_person_eddy_prasetyo_nugroho_s1ik_010",
       "cs_person_rosa_ariani_sukamto_s1ik_011",
-      "cs_person_budi_laksono_putro_s1pik_020",
-      "cs_person_herbert_siregar_s1pik_018",
-      "cs_proginfo_mapping_mkkps",
-      "cs_person_budi_laksono_putro_s2pik_037",
-      "cs_person_enjang_ali_nurdin_s2pik_030"
+      "cs_person_rosa_ariani_sukamto_s1ik_011"
     ]
   },
   {
@@ -1908,15 +1908,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_scholarship_djarum_2020",
+      "cs_scholarship_djarum_2020",
+      "cs_scholarship_kse",
       "cs_scholarship_kse",
       "cs_scholarship_ppa",
+      "cs_scholarship_ppa",
+      "cs_scholarship_beasiswa_unggulan",
       "cs_scholarship_beasiswa_unggulan",
       "cs_scholarship_jfls",
-      "cs_news_231_1",
-      "cs_news_216_1",
-      "cs_news_42_1",
-      "cs_news_173_1",
-      "cse_mag_kurikulum_struktur_002"
+      "cs_scholarship_jfls"
     ]
   },
   {
@@ -1929,15 +1929,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_scholarship_djarum_2020",
+      "cs_scholarship_djarum_2020",
+      "cs_scholarship_kse",
       "cs_scholarship_kse",
       "cs_scholarship_beasiswa_unggulan",
+      "cs_scholarship_beasiswa_unggulan",
+      "cs_scholarship_jfls",
       "cs_scholarship_jfls",
       "cs_scholarship_ppa",
-      "cs_news_216_1",
-      "cs_news_156_1",
-      "cs_admission_s2_001",
-      "cs_news_185_1",
-      "cs_admission_s1_001"
+      "cs_scholarship_ppa"
     ]
   },
   {
@@ -1950,15 +1950,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_scholarship_ppa",
+      "cs_scholarship_ppa",
+      "cs_scholarship_kse",
       "cs_scholarship_kse",
       "cs_scholarship_djarum_2020",
+      "cs_scholarship_djarum_2020",
+      "cs_scholarship_jfls",
       "cs_scholarship_jfls",
       "cs_scholarship_beasiswa_unggulan",
-      "cs_news_216_1",
-      "cs_news_42_1",
-      "cs_news_8_2",
-      "cs_penilaian_pik_005",
-      "cs_proginfo_exam_001_desc_p5_s03"
+      "cs_scholarship_beasiswa_unggulan"
     ]
   },
   {
@@ -1971,15 +1971,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_scholarship_kse",
+      "cs_scholarship_kse",
+      "cs_scholarship_djarum_2020",
       "cs_scholarship_djarum_2020",
       "cs_scholarship_ppa",
+      "cs_scholarship_ppa",
+      "cs_scholarship_jfls",
       "cs_scholarship_jfls",
       "cs_scholarship_beasiswa_unggulan",
-      "cs_news_216_1",
-      "cs_news_42_1",
-      "cs_exchange_plsp_001",
-      "cs_news_215_1",
-      "cse_mag_kurikulum_struktur_002"
+      "cs_scholarship_beasiswa_unggulan"
     ]
   },
   {
@@ -1992,15 +1992,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_scholarship_jfls",
+      "cs_scholarship_jfls",
+      "cs_scholarship_beasiswa_unggulan",
       "cs_scholarship_beasiswa_unggulan",
       "cs_scholarship_ppa",
+      "cs_scholarship_ppa",
+      "cs_scholarship_djarum_2020",
       "cs_scholarship_djarum_2020",
       "cs_scholarship_kse",
-      "cs_news_216_1",
-      "cs_news_52_1",
-      "cs_news_42_1",
-      "cs_curriculum_pik_struktur_pengantar_002",
-      "cs_news_123_1"
+      "cs_scholarship_kse"
     ]
   },
   {
@@ -2013,15 +2013,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_kemakom_group_1",
-      "cs_news_125_1",
       "cs_kemakom_group_2",
+      "cs_news_125_1",
       "cs_news_181_1",
       "cs_news_17_1",
+      "cs_news_128_1",
+      "cs_news_116_1",
       "cs_news_224_1",
-      "cs_person_lala_septem_riza_002",
-      "cs_person_eka_fitrajaya_rahman_s1pik_014",
-      "cs_person_lala_septem_riza_s2pik_029",
-      "cs_person_asep_wahyudin_s1ik_006"
+      "cs_news_7_1",
+      "cs_person_lala_septem_riza_002"
     ]
   },
   {
@@ -2036,13 +2036,13 @@
       "cs_kemakom_group_2",
       "cs_kemakom_group_1",
       "cs_news_125_1",
+      "cs_news_128_1",
+      "cs_news_154_1",
       "cs_news_181_1",
       "cs_news_21_1",
-      "cs_person_lala_septem_riza_002",
-      "cs_person_muhammad_nursalman_001",
-      "cs_person_wahyudin_003",
-      "cs_person_eka_fitrajaya_rahman_s1pik_014",
-      "cs_person_asep_wahyudin_s1ik_006"
+      "cs_news_171_1",
+      "cs_news_195_1",
+      "cs_person_lala_septem_riza_002"
     ]
   },
   {
@@ -2056,14 +2056,14 @@
     "retrieve_ids": [
       "cs_admin_services_001",
       "cs_admission_s2_001",
+      "cs_admission_s2_001",
       "cs_news_41_1",
       "cs_news_103_1",
       "cs_news_26_1",
       "cs_news_199_1",
       "cs_news_39_1",
       "cs_admission_s1_001",
-      "cs_news_130_1",
-      "cs_news_119_1_1"
+      "cs_news_130_1"
     ]
   },
   {
@@ -2076,15 +2076,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_mbkm_programs_001",
+      "cs_mbkm_programs_001",
+      "cs_exchange_mbkm_perm_001",
       "cs_exchange_mbkm_perm_001",
       "cs_mbkm_desc_001",
+      "cs_mbkm_desc_001",
+      "cs_news_44_1",
       "cs_news_44_1",
       "cs_exchange_mbkm_other_001",
-      "cs_news_167_1",
-      "cs_mbkm_programs_002",
-      "cs_news_67_1",
-      "cs_news_96_1",
-      "cs_penilaian_pik_009"
+      "cs_exchange_mbkm_other_001"
     ]
   },
   {
@@ -2100,12 +2100,12 @@
       "cs_mbkm_programs_001",
       "cs_news_122_1",
       "cs_news_8_1",
+      "cs_news_44_1",
       "cs_proginfo_curriculum_003_desc",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_news_167_1",
       "cs_curriculum_pik_struktur_pengantar_002",
-      "cs_proginfo_courses_001_desc",
-      "cs_proginfo_plo_002",
-      "cs_proginfo_overview_002",
-      "cs_proginfo_qualification_002"
+      "cs_mbkm_desc_001"
     ]
   },
   {
@@ -2123,10 +2123,10 @@
       "cs_mbkm_programs_002",
       "cs_news_107_1",
       "cs_news_67_1",
+      "cs_news_96_1",
       "cs_news_189_1",
       "cs_master_proginfo_goals_001",
-      "cs_news_80_1",
-      "cs_news_149_1"
+      "cs_news_80_1"
     ]
   },
   {
@@ -2139,15 +2139,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_exchange_overview_001",
+      "cs_exchange_overview_001",
+      "cs_news_123_1",
       "cs_news_44_1",
+      "cs_news_107_1",
       "cs_exchange_mbkm_perm_001",
       "cs_exchange_mbkm_other_001",
+      "cs_news_40_1",
       "cs_mbkm_programs_002",
-      "cs_mbkm_programs_001",
-      "cs_exchange_ppl_001",
-      "cs_exchange_plsp_001",
-      "cs_mbkm_desc_001",
-      "cs_penilaian_pik_009"
+      "cs_mbkm_programs_002"
     ]
   },
   {
@@ -2160,15 +2160,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_exchange_plsp_001",
+      "cs_exchange_plsp_001",
       "cs_exchange_overview_001",
+      "cs_exchange_overview_001",
+      "cs_proginfo_teach_001_others",
+      "cs_exchange_ppl_001",
       "cs_exchange_ppl_001",
       "cs_metode_pengajaran_pik_002",
       "cs_mbkm_programs_001",
-      "cs_news_216_1",
-      "cs_exchange_mbkm_perm_001",
-      "cs_mbkm_desc_001",
-      "cs_mbkm_programs_002",
-      "cs_exchange_mbkm_other_001"
+      "cs_mbkm_programs_001"
     ]
   },
   {
@@ -2181,15 +2181,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_prestasi_group_2",
+      "cs_prestasi_group_2",
+      "cs_prestasi_group_3",
       "cs_prestasi_group_3",
       "cs_prestasi_group_4",
       "cs_prestasi_group_1",
       "cs_news_82_1",
       "cs_news_36_1",
       "cs_news_38_1",
-      "cs_news_205_1",
-      "cs_news_84_1",
-      "cs_news_219_1"
+      "cs_news_205_1"
     ]
   },
   {
@@ -2202,15 +2202,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_prestasi_group_3",
+      "cs_prestasi_group_3",
+      "cs_news_212_1",
       "cs_news_212_1",
       "cs_news_214_1",
+      "cs_news_214_1",
+      "cs_news_223_1",
       "cs_news_223_1",
       "cs_news_25_1",
-      "cs_news_228_1",
-      "cs_news_102_1",
-      "cs_news_155_1",
-      "cs_news_158_1",
-      "cs_news_100_1"
+      "cs_news_25_1"
     ]
   },
   {
@@ -2223,15 +2223,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_prestasi_group_4",
+      "cs_prestasi_group_4",
+      "cs_news_205_1",
       "cs_news_205_1",
       "cs_news_130_1",
+      "cs_news_130_1",
+      "cs_news_79_1",
       "cs_news_79_1",
       "cs_news_113_1",
-      "cs_news_36_1",
-      "cs_news_71_1_1",
-      "cs_news_38_1",
-      "cs_news_209_1",
-      "cs_news_41_1"
+      "cs_news_113_1"
     ]
   },
   {
@@ -2248,11 +2248,11 @@
       "cse_doc_1",
       "cs_curriculum_pik_gelar_001",
       "cs_quality_assurance_external_001",
+      "cs_news_179_1",
       "cse_proginfo_mission_001",
       "cs_exchange_mbkm_perm_001",
-      "cs_penilaian_pik_009",
       "cse_proginfo_vision_001",
-      "cs_mbkm_desc_001"
+      "cs_penilaian_pik_009"
     ]
   },
   {
@@ -2271,9 +2271,9 @@
       "cs_proginfo_overview_002",
       "cs_news_150_1",
       "cs_curriculum_pik_gelar_001",
+      "cs_quality_assurance_cycle_001",
       "cse_proginfo_mission_001",
-      "cse_proginfo_vision_001",
-      "cs_penilaian_pik_009"
+      "cse_proginfo_vision_001"
     ]
   },
   {
@@ -2286,15 +2286,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_curriculum_pik_tujuan_001",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002",
+      "cse_mag_kurikulum_analisis_lptk_001a",
+      "cse_mag_plo_qual_map_002",
+      "cs_master_proginfo_goals_001",
       "cse_mag_kurikulum_tujuan_001",
+      "cse_proginfo_mission_001",
       "cs_proginfo_mapping_kbk6",
       "cs_penilaian_pik_009",
-      "cs_proginfo_mapping_kbk2",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk5",
-      "cs_news_88_1"
+      "cs_proginfo_mapping_kbk2"
     ]
   },
   {
@@ -2307,15 +2307,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_curriculum_pik_gelar_001",
+      "cs_curriculum_pik_gelar_001",
       "cs_proginfo_overview_002",
       "cse_mag_kurikulum_gelar_001",
+      "cse_mag_kurikulum_profil_001",
+      "cs_curriculum_pik_profil_001",
       "cs_curriculum_pik_profil_001",
       "cse_mag_kurikulum_tujuan_001",
-      "cs_curriculum_pik_struktur_pengantar_002",
-      "cs_curriculum_pik_tujuan_001",
-      "cs_curriculum_pik_mkips_mkkpps_kbk_002",
-      "cs_curriculum_pik_penempatan_rincian_002",
-      "cs_proginfo_plomapping_003"
+      "cs_master_proginfo_goals_001",
+      "cs_curriculum_pik_struktur_pengantar_002"
     ]
   },
   {
@@ -2328,15 +2328,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_curriculum_pik_profil_001",
+      "cs_curriculum_pik_profil_001",
+      "cs_proginfo_qualification_002",
       "cs_proginfo_qualification_002",
       "cse_mag_kurikulum_profil_001",
+      "cse_mag_kurikulum_profil_001",
       "cs_master_proginfo_goals_001",
-      "cs_alumni_stakeholder_001",
-      "cse_proginfo_mission_001",
-      "cs_penilaian_pik_009",
-      "cse_proginfo_goals_lulusan_001",
-      "cs_curriculum_pik_gelar_001",
-      "cs_news_167_1"
+      "cs_master_proginfo_goals_001",
+      "cse_mag_kurikulum_tujuan_001",
+      "cse_mag_kurikulum_tujuan_001"
     ]
   },
   {
@@ -2351,13 +2351,13 @@
       "cs_curriculum_pik_plo_001",
       "cs_metode_pengajaran_pik_001",
       "cs_penilaian_pik_009",
+      "cs_penilaian_pik_009",
       "cs_proginfo_mapping_mkkips_part2",
       "cs_proginfo_mapping_mkkips_part3",
       "cs_proginfo_plomapping_006",
       "cse_mag_kurikulum_analisis_lptk_001a",
       "cse_mag_kurikulum_analisis_lptk_001b",
-      "cs_news_15_2",
-      "cs_mbkm_desc_001"
+      "cs_news_15_2"
     ]
   },
   {
@@ -2372,13 +2372,13 @@
       "cs_curriculum_pik_plo_001",
       "cs_metode_pengajaran_pik_001",
       "cs_penilaian_pik_009",
+      "cs_penilaian_pik_009",
       "cs_proginfo_plomapping_005",
       "cs_proginfo_plomapping_006",
       "cse_mag_kurikulum_analisis_lptk_001a",
       "cse_mag_kurikulum_analisis_lptk_001b",
       "cs_proginfo_mapping_mkkf",
-      "cs_news_15_2",
-      "cs_mbkm_desc_001"
+      "cs_news_15_2"
     ]
   },
   {
@@ -2394,12 +2394,12 @@
       "cs_curriculum_pik_struktur_pengantar_002",
       "cs_proginfo_curriculum_003_credits",
       "cse_mag_kurikulum_struktur_002",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk5",
-      "cs_proginfo_mapping_kbk2",
-      "cs_proginfo_mapping_kbk4"
+      "cs_curriculum_pik_list_rekap_total_001",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_curriculum_pik_list_mkkips_multimedia_001",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002",
+      "cs_proginfo_exam_001_desc_p5_s03",
+      "cs_proginfo_exam_001_desc_p5_s07"
     ]
   },
   {
@@ -2411,16 +2411,16 @@
     "gold_answer": "MKU, MKDK, MKKF, MKKPBS, MKIPS, dan MKKPS.",
     "generated_answer": "",
     "retrieve_ids": [
+      "cs_proginfo_curriculum_003_cg_4_6",
       "cs_curriculum_pik_mkips_mkkpps_kbk_002",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_curriculum_pik_struktur_pengantar_002",
       "cs_curriculum_pik_penempatan_rincian_002",
       "cs_proginfo_curriculum_003_expertise",
+      "cs_curriculum_pik_mkkf_mkkpbs_002",
+      "cs_curriculum_pik_list_mkkf_001",
       "cs_curriculum_pik_list_rekap_total_001",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk2",
-      "cs_proginfo_mapping_kbk5"
+      "cs_curriculum_pik_list_pengantar_001"
     ]
   },
   {
@@ -2434,14 +2434,14 @@
     "retrieve_ids": [
       "cs_curriculum_pik_mku_mkdk_002",
       "cs_proginfo_curriculum_003_cg_1_3",
+      "cs_proginfo_curriculum_003_cg_1_3",
       "cs_curriculum_pik_mkkf_mkkpbs_002",
       "cs_proginfo_mapping_mku_part1",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_proginfo_curriculum_003_desc",
       "cs_proginfo_mapping_mku_part2",
       "cs_proginfo_curriculum_003_credits",
-      "cs_proginfo_curriculum_003_cg_4_6",
-      "cs_proginfo_curriculum_003_expertise",
-      "cs_proginfo_mapping_mkku",
-      "cs_proginfo_mapping_mkkf"
+      "cs_proginfo_curriculum_003_credits"
     ]
   },
   {
@@ -2455,14 +2455,14 @@
     "retrieve_ids": [
       "cs_curriculum_pik_mku_mkdk_002",
       "cs_proginfo_curriculum_003_cg_1_3",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_proginfo_curriculum_003_cg_4_6",
+      "cs_news_194_1",
+      "cs_news_214_1",
+      "cs_news_195_1",
       "cs_news_7_2",
-      "cs_master_proginfo_goals_001",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk5",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk2"
+      "cs_news_165_1"
     ]
   },
   {
@@ -2476,14 +2476,14 @@
     "retrieve_ids": [
       "cs_curriculum_pik_mkkf_mkkpbs_002",
       "cs_proginfo_curriculum_003_credits",
+      "cs_proginfo_curriculum_003_credits",
+      "cs_proginfo_curriculum_003_cg_1_3",
       "cs_proginfo_curriculum_003_cg_1_3",
       "cs_proginfo_plomapping_005",
       "cs_proginfo_mapping_mkkf",
-      "cs_proginfo_courses_001_summary",
-      "cs_proginfo_courses_001_s5_s6",
-      "cs_proginfo_courses_001_s7_s8",
-      "cs_curriculum_pik_mku_mkdk_002",
-      "cs_proginfo_curriculum_003_cg_4_6"
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_proginfo_courses_001_summary"
     ]
   },
   {
@@ -2498,13 +2498,13 @@
       "cs_proginfo_curriculum_003_cg_4_6",
       "cs_curriculum_pik_mkkf_mkkpbs_002",
       "cs_curriculum_pik_mkips_mkkpps_kbk_002",
-      "cs_proginfo_mapping_kbk2",
-      "cs_penilaian_pik_009",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk5"
+      "cse_mag_kurikulum_analisis_lptk_001a",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "pceb_competency_steam_01",
+      "cs_curriculum_pik_mku_mkdk_002",
+      "cs_proginfo_curriculum_003_cg_1_3"
     ]
   },
   {
@@ -2517,8 +2517,8 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_curriculum_pik_pplsp_ppl_002",
-      "cs_exchange_plsp_001",
       "cs_proginfo_teach_001_others",
+      "cs_exchange_plsp_001",
       "cs_penilaian_pik_004",
       "cs_metode_pengajaran_pik_002",
       "cs_proginfo_exam_001_desc_p5_s01",
@@ -2542,11 +2542,11 @@
       "cs_proginfo_exam_001_desc_p5_s01",
       "cs_proginfo_teach_001_others",
       "cs_penilaian_pik_004",
-      "cs_proginfo_curriculum_003_desc",
-      "cs_proginfo_overview_002",
-      "cs_proginfo_plo_002",
-      "cs_proginfo_courses_001_desc",
-      "cs_proginfo_qualification_002"
+      "cs_proginfo_mapping_mkppl",
+      "cs_proginfo_curriculum_003_cg_4_6",
+      "cs_exchange_plsp_001",
+      "cs_penilaian_pik_009",
+      "cs_news_122_1"
     ]
   },
   {
@@ -2562,12 +2562,12 @@
       "cs_proginfo_curriculum_003_credits",
       "cse_mag_kurikulum_struktur_002",
       "cs_curriculum_pik_list_rekap_total_001",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk2",
-      "cs_proginfo_mapping_kbk5",
-      "cs_proginfo_mapping_kbk3"
+      "cs_curriculum_pik_list_mkkpbs_001",
+      "cs_curriculum_pik_list_mkkf_001",
+      "cs_curriculum_pik_mku_mkdk_002",
+      "cs_curriculum_pik_list_mku_001_part2",
+      "cs_curriculum_pik_list_mkppl_001",
+      "cs_proginfo_mapping_kbk6"
     ]
   },
   {
@@ -2580,15 +2580,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_curriculum_pik_list_pengantar_001",
-      "cs_proginfo_curriculum_003_cg_1_3",
-      "cs_proginfo_curriculum_003_cg_4_6",
-      "cs_proginfo_mapping_mkkps",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_mkku",
-      "cs_proginfo_courses_001_s1_s2",
-      "cs_proginfo_courses_001_summary",
-      "cs_proginfo_courses_001_s5_s6",
-      "cs_proginfo_curriculum_003_credits"
+      "cs_curriculum_pik_list_pengantar_001",
+      "cs_curriculum_pik_list_mkkips_jarkom_001",
+      "cs_curriculum_pik_list_mkkpbs_001",
+      "cs_curriculum_pik_list_mkdk_001",
+      "cs_curriculum_pik_list_mkkips_rpl_001",
+      "cs_curriculum_pik_list_mkkips_rpl_001",
+      "cs_curriculum_pik_list_elektif_001_part2",
+      "cs_curriculum_pik_list_mkkf_001",
+      "cs_curriculum_pik_list_elektif_001_part1"
     ]
   },
   {
@@ -2602,14 +2602,14 @@
     "retrieve_ids": [
       "cs_curriculum_pik_list_mku_001_part2",
       "cs_proginfo_curriculum_003_credits",
+      "cse_mag_kurikulum_struktur_002",
+      "cs_curriculum_pik_penempatan_rincian_002",
       "cs_curriculum_pik_list_mkkf_001",
+      "cs_curriculum_pik_list_mkdk_001",
+      "cs_curriculum_pik_list_mkkpbs_001",
+      "cs_proginfo_courses_001_s5_s6",
       "cs_curriculum_pik_list_mkppl_001",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk5",
-      "cs_proginfo_mapping_kbk2"
+      "cs_proginfo_plomapping_002"
     ]
   },
   {
@@ -2621,16 +2621,16 @@
     "gold_answer": "4 SKS pada semester 8 (KU590 Pengalaman Lapangan Kependidikan/Magang).",
     "generated_answer": "",
     "retrieve_ids": [
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cse_mag_kurikulum_struktur_002",
       "cs_curriculum_pik_list_mkppl_001",
       "cs_proginfo_curriculum_003_credits",
+      "cs_curriculum_pik_list_mkdk_001",
       "cs_proginfo_mapping_mkppl",
-      "cs_proginfo_courses_001_s7_s8",
-      "cs_proginfo_courses_001_s5_s6",
-      "cs_proginfo_courses_001_s1_s2",
-      "cs_proginfo_mapping_mkkps",
-      "cs_proginfo_mapping_mku_part2",
-      "cs_proginfo_mapping_mkkips_part1",
-      "cs_proginfo_mapping_mkkips_part3"
+      "cs_proginfo_plomapping_003",
+      "cs_proginfo_plomapping_004",
+      "cs_proginfo_plomapping_006",
+      "cs_proginfo_plomapping_002"
     ]
   },
   {
@@ -2643,15 +2643,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_curriculum_pik_list_mkdk_001",
+      "cs_curriculum_pik_list_rekap_total_001",
       "cs_curriculum_pik_list_mkkf_001",
+      "cs_curriculum_pik_list_elektif_001_part2",
       "cs_curriculum_pik_list_mku_001_part2",
+      "cs_proginfo_courses_001_s5_s6",
+      "cs_curriculum_pik_list_mkkpbs_001",
       "cs_curriculum_pik_list_mkppl_001",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk5",
-      "cs_proginfo_mapping_kbk2"
+      "cs_proginfo_courses_001_s7_s8",
+      "cs_proginfo_plomapping_002"
     ]
   },
   {
@@ -2664,15 +2664,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_curriculum_pik_list_mkkf_001",
+      "cs_curriculum_pik_list_rekap_total_001",
       "cs_proginfo_curriculum_003_credits",
       "cs_curriculum_pik_list_mku_001_part2",
+      "cs_curriculum_pik_list_mkdk_001",
+      "cs_proginfo_courses_001_s5_s6",
+      "cs_curriculum_pik_list_mkkpbs_001",
+      "cs_curriculum_pik_list_elektif_001_part2",
       "cs_curriculum_pik_list_mkppl_001",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk5",
-      "cs_proginfo_mapping_kbk2"
+      "cs_proginfo_plomapping_002"
     ]
   },
   {
@@ -2684,16 +2684,16 @@
     "gold_answer": "S4=3, S5=3, S8=6.",
     "generated_answer": "",
     "retrieve_ids": [
+      "cs_curriculum_pik_list_mkkpbs_001",
       "cs_curriculum_pik_list_mkkf_001",
       "cs_proginfo_courses_001_s5_s6",
+      "cs_curriculum_pik_list_mkdk_001",
       "cs_curriculum_pik_list_mkppl_001",
       "cs_curriculum_pik_list_mku_001_part2",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk5",
-      "cs_proginfo_mapping_kbk2"
+      "cs_curriculum_pik_list_elektif_001_part2",
+      "cs_curriculum_pik_list_mkkips_001_part2",
+      "cs_proginfo_courses_001_s7_s8",
+      "cs_proginfo_plomapping_002"
     ]
   },
   {
@@ -2706,15 +2706,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_proginfo_curriculum_003_credits",
+      "cs_proginfo_curriculum_003_credits",
       "cs_curriculum_pik_list_mkkips_001_part2",
       "cs_curriculum_pik_list_mkkips_multimedia_001",
       "cs_curriculum_pik_struktur_pengantar_002",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk5",
-      "cs_proginfo_mapping_kbk2"
+      "cs_proginfo_curriculum_003_desc",
+      "cs_proginfo_plomapping_008",
+      "cs_proginfo_mapping_mkkips_part4",
+      "cs_curriculum_pik_list_mkkips_001_part1",
+      "cs_proginfo_mapping_mkkips_part3"
     ]
   },
   {
@@ -2730,12 +2730,12 @@
       "cs_curriculum_pik_list_mkkips_rpl_001",
       "cs_proginfo_plomapping_009",
       "cs_curriculum_pik_list_mkkips_multimedia_001",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_proginfo_mapping_mkkips_part2",
       "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk5",
-      "cs_proginfo_mapping_kbk2"
+      "cs_proginfo_mapping_kbk1",
+      "cs_curriculum_pik_list_mkkips_001_part2",
+      "cs_proginfo_plomapping_008"
     ]
   },
   {
@@ -2747,16 +2747,16 @@
     "gold_answer": "9 SKS untuk paket TKJ (contoh: Rangkaian Elektronika, Jaringan Komputer, Infrastruktur Jaringan & Administrasi Sistem).",
     "generated_answer": "",
     "retrieve_ids": [
+      "cs_proginfo_curriculum_003_credits",
       "cs_curriculum_pik_list_mkkips_multimedia_001",
+      "cs_curriculum_pik_penempatan_rincian_002",
       "cs_curriculum_pik_list_mkkips_001_part2",
       "cs_proginfo_mapping_mkkips_part3",
       "cs_proginfo_plomapping_010",
       "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk5",
-      "cs_proginfo_mapping_kbk2"
+      "cs_proginfo_mapping_kbk4",
+      "cs_curriculum_pik_list_mkkips_001_part1",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002"
     ]
   },
   {
@@ -2772,12 +2772,12 @@
       "cs_proginfo_curriculum_003_credits",
       "cse_mag_kurikulum_mkkips_001",
       "cs_proginfo_courses_001_s5_s6",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_proginfo_plomapping_008",
       "cs_proginfo_plomapping_011",
       "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_mkkips_part3",
-      "cs_curriculum_pik_list_mkkips_001_part2",
-      "cs_proginfo_courses_001_s7_s8",
-      "cs_proginfo_mapping_mkkips_part1"
+      "cs_proginfo_mapping_kbk3",
+      "cs_curriculum_pik_list_mkkips_001_part2"
     ]
   },
   {
@@ -2790,15 +2790,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_curriculum_pik_list_mkppl_001",
+      "cs_curriculum_pik_list_mkkf_001",
       "cs_curriculum_pik_list_mkkpbs_001",
       "cs_curriculum_pik_list_elektif_001_part2",
       "cs_curriculum_pik_list_mku_001_part2",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk5",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk2"
+      "cs_curriculum_pik_list_mkdk_001",
+      "cse_mag_kurikulum_struktur_002",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_proginfo_courses_001_s7_s8",
+      "cs_proginfo_plomapping_002"
     ]
   },
   {
@@ -2812,14 +2812,14 @@
     "retrieve_ids": [
       "cs_curriculum_pik_list_rekap_total_001",
       "cse_mag_kurikulum_struktur_002",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_proginfo_courses_001_s1_s2",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_proginfo_courses_001_s5_s6",
       "cs_proginfo_courses_001_s7_s8",
       "cs_curriculum_pik_list_mkkips_multimedia_001",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk5",
-      "cs_proginfo_mapping_kbk2"
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_curriculum_pik_list_mku_001_part2"
     ]
   },
   {
@@ -2834,13 +2834,13 @@
       "cs_proginfo_teach_001_methods",
       "cs_metode_pengajaran_pik_001",
       "cs_penilaian_pik_009",
+      "cs_penilaian_pik_009",
       "cs_proginfo_mapping_mkkips_part2",
       "cs_proginfo_mapping_mkkips_part3",
       "cs_proginfo_plomapping_006",
       "cse_mag_kurikulum_analisis_lptk_001a",
       "cs_news_78_1",
-      "cs_news_149_1",
-      "cs_news_15_2"
+      "cs_news_149_1"
     ]
   },
   {
@@ -2853,15 +2853,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_proginfo_exam_001_desc_p2",
+      "cs_proginfo_exam_001_desc_p2",
       "cs_penilaian_pik_001",
       "cs_proginfo_exam_001_desc_p1",
       "cs_proginfo_exam_001_desc_p3",
+      "cs_proginfo_exam_001_desc_p3",
+      "cs_penilaian_pik_002",
+      "cse_doc_1",
       "cs_proginfo_exam_001_desc_p5_s06",
-      "cs_proginfo_exam_001_desc_p4",
-      "cs_news_120_1",
-      "cs_proginfo_exam_001_desc_p5_s07",
-      "cs_proginfo_exam_001_plo_linkage",
-      "cs_proginfo_exam_001_desc_p5_s02"
+      "cs_proginfo_exam_001_desc_p4"
     ]
   },
   {
@@ -2873,16 +2873,16 @@
     "gold_answer": "Kategori: MKU vs MKIPS/MKKPPS; platform daring: SPOT, SPADA, dan aplikasi seperti Quizizz, Safe Exam Browser.",
     "generated_answer": "",
     "retrieve_ids": [
-      "cs_proginfo_exam_001_desc_p3",
       "cs_penilaian_pik_002",
+      "cs_proginfo_exam_001_desc_p3",
+      "cs_proginfo_exam_001_desc_p3",
+      "cs_proginfo_exam_001_desc_p2",
       "cs_proginfo_exam_001_desc_p2",
       "cs_proginfo_exam_001_desc_p4",
+      "cs_proginfo_exam_001_desc_p4",
       "cs_proginfo_exam_001_desc_p5_s06",
-      "cs_penilaian_pik_003",
-      "cs_proginfo_exam_001_desc_p1",
-      "cs_proginfo_exam_001_desc_p5_s08",
-      "cs_proginfo_exam_001_plo_linkage",
-      "cs_proginfo_exam_001_desc_p5_s07"
+      "cs_proginfo_exam_001_desc_p5_s06",
+      "cs_penilaian_pik_003"
     ]
   },
   {
@@ -2895,15 +2895,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_proginfo_exam_001_desc_p5_s06",
+      "cs_proginfo_exam_001_desc_p5_s06",
       "cs_penilaian_pik_006",
+      "cse_mag_penilaian_001",
       "cs_proginfo_exam_001_desc_p1",
+      "cs_proginfo_exam_001_desc_p1",
+      "cs_penilaian_pik_001",
+      "cs_penilaian_pik_004",
       "cs_proginfo_exam_001_desc_p5_s05",
-      "cs_proginfo_exam_001_plo_linkage",
-      "cs_proginfo_exam_001_desc_p5_s08",
-      "cs_proginfo_exam_001_desc_p4",
-      "cs_proginfo_exam_001_desc_p2",
-      "cs_proginfo_exam_001_grades",
-      "cs_proginfo_exam_001_desc_p5_s09"
+      "cs_proginfo_exam_001_desc_p5_s05"
     ]
   },
   {
@@ -2915,16 +2915,16 @@
     "gold_answer": "A 92–100; B 76–80; C 60–65; D 55–59 (minimum lulus); E <55 (harus mengulang).",
     "generated_answer": "",
     "retrieve_ids": [
+      "cs_penilaian_pik_007",
+      "cs_proginfo_exam_001_grades",
       "cs_proginfo_exam_001_grades",
       "cs_proginfo_exam_001_desc_p5_s07",
+      "cs_proginfo_exam_001_desc_p5_s07",
+      "cs_admission_s1_001",
+      "cs_proginfo_exam_001_desc_p4",
       "cs_proginfo_exam_001_desc_p4",
       "cs_proginfo_exam_001_desc_p5_s09",
-      "cs_proginfo_exam_001_desc_p5_s06",
-      "cs_proginfo_exam_001_desc_p5_s05",
-      "cs_proginfo_exam_001_desc_p1",
-      "cs_proginfo_exam_001_desc_p5_s01",
-      "cs_proginfo_exam_001_desc_p5_s08",
-      "cs_proginfo_exam_001_desc_p5_s04"
+      "cs_proginfo_exam_001_desc_p5_s09"
     ]
   },
   {
@@ -2936,16 +2936,22 @@
     "gold_answer": "Jalur skripsi dan tanpa skripsi; jalur skripsi: ≥105 SKS, IPK ≥2,50, lulus prasyarat dan rekomendasi pembimbing.",
     "generated_answer": "",
     "retrieve_ids": [
+      "cs_proginfo_mapping_kbk3",
+      "cs_proginfo_mapping_kbk6",
+      "cs_proginfo_mapping_kbk1",
+      "cs_proginfo_mapping_kbk2",
+      "cs_proginfo_mapping_kbk4",
+      "cs_proginfo_mapping_kbk5",
       "cs_proginfo_exam_001_desc_p5_s03",
       "cs_penilaian_pik_005",
       "cs_proginfo_exam_001_desc_p5_s04",
       "cs_proginfo_curriculum_003_desc",
-      "cs_proginfo_mapping_kbk6",
-      "cs_proginfo_mapping_kbk3",
-      "cs_proginfo_mapping_kbk1",
-      "cs_proginfo_mapping_kbk4",
-      "cs_proginfo_mapping_kbk5",
-      "cs_proginfo_mapping_kbk2"
+      "cs_admission_s1_001",
+      "cs_news_44_2",
+      "csik_prog_goals_2016_strategies_1_15",
+      "cs_proginfo_plomapping_008",
+      "cs_news_97_1",
+      "cs_curriculum_pik_struktur_pengantar_002"
     ]
   },
   {
@@ -2958,15 +2964,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_1_1",
+      "cs_news_1_1",
+      "cs_news_222_1",
       "cs_news_222_1",
       "cs_news_29_1",
+      "cs_news_29_1",
+      "cs_news_133_1",
       "cs_news_133_1",
       "cs_news_140_1",
-      "cs_news_141_1",
-      "cs_news_66_1",
-      "cs_news_196_1",
-      "cs_news_149_1",
-      "cs_news_129_1"
+      "cs_news_140_1"
     ]
   },
   {
@@ -2979,15 +2985,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_1_1",
+      "cs_news_1_1",
+      "cs_news_29_1",
       "cs_news_29_1",
       "cs_news_141_1",
+      "cs_news_141_1",
+      "cs_news_76_1",
       "cs_news_76_1",
       "cs_news_26_1",
-      "cs_news_222_1",
-      "cs_news_66_1",
-      "cs_news_26_2",
-      "cs_news_133_1",
-      "cs_news_193_1"
+      "cs_news_26_1"
     ]
   },
   {
@@ -3000,15 +3006,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_1_1",
+      "cs_news_1_1",
+      "cs_news_222_1",
       "cs_news_222_1",
       "cs_news_66_1",
+      "cs_news_66_1",
+      "cs_news_26_1",
       "cs_news_26_1",
       "cs_news_29_1",
-      "cs_news_133_1",
-      "cs_news_41_1",
-      "cs_news_71_1_1",
-      "cs_news_36_1",
-      "cs_news_78_1"
+      "cs_news_29_1"
     ]
   },
   {
@@ -3021,15 +3027,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_1_1",
+      "cs_news_1_1",
+      "cs_news_66_1",
       "cs_news_66_1",
       "cs_news_26_2",
+      "cs_news_26_2",
+      "cs_news_133_1",
       "cs_news_133_1",
       "cs_news_26_1",
-      "cs_news_141_1",
-      "cs_news_29_1",
-      "cs_news_140_1",
-      "cs_news_149_1",
-      "cs_news_122_1"
+      "cs_news_26_1"
     ]
   },
   {
@@ -3042,15 +3048,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_1_1",
+      "cs_news_1_1",
+      "cs_news_222_1",
       "cs_news_222_1",
       "cs_news_26_1",
+      "cs_news_26_1",
+      "cs_news_133_1",
       "cs_news_133_1",
       "cs_news_66_1",
-      "cs_news_29_1",
-      "cs_news_75_2",
-      "cse_mag_kurikulum_analisis_profesi_001",
-      "cs_news_71_1_1",
-      "cs_news_186_1"
+      "cs_news_66_1"
     ]
   },
   {
@@ -3065,13 +3071,13 @@
       "cs_news_2_1",
       "cs_news_8_2",
       "cs_news_10_1",
+      "cs_news_161_1",
       "cs_news_12_1",
+      "cs_news_6_1",
       "cs_person_encang_sutisna_tendik_041",
+      "cs_news_124_1",
       "cs_news_8_1",
-      "cs_person_yudi_wibisono_s2pik_034",
-      "cs_person_wahyudin_s1pik_016",
-      "cs_person_enjang_ali_nurdin_s2pik_030",
-      "cs_person_enjang_ali_nurdin_s1pik_015"
+      "cs_news_15_1"
     ]
   },
   {
@@ -3084,15 +3090,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_2_1",
+      "cs_news_2_1",
+      "cs_news_12_1",
       "cs_news_12_1",
       "cs_news_161_1",
+      "cs_news_161_1",
+      "cs_news_8_2",
       "cs_news_8_2",
       "cs_news_124_1",
-      "cs_news_10_1",
-      "cs_news_8_1",
-      "cs_news_21_1",
-      "cs_news_9_1",
-      "cs_news_22_2"
+      "cs_news_124_1"
     ]
   },
   {
@@ -3105,15 +3111,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_2_1",
+      "cs_news_2_1",
+      "cs_news_78_1",
       "cs_news_78_1",
       "cs_news_184_1",
+      "cs_news_184_1",
+      "cs_news_161_1",
       "cs_news_161_1",
       "cs_news_8_1",
-      "cs_news_133_1",
-      "cs_news_124_1",
-      "cs_news_10_1",
-      "cs_prestasi_group_3",
-      "cs_news_88_1"
+      "cs_news_8_1"
     ]
   },
   {
@@ -3129,12 +3135,12 @@
       "cs_news_45_1",
       "cs_news_10_1",
       "cs_news_17_1",
+      "cs_news_15_1",
       "cs_news_27_1",
+      "cs_news_39_1",
       "cs_news_53_1",
-      "cs_prestasi_group_4",
-      "cs_prestasi_group_3",
-      "cs_prestasi_group_1",
-      "cs_prestasi_group_2"
+      "cs_news_22_1",
+      "cs_news_21_1"
     ]
   },
   {
@@ -3148,14 +3154,14 @@
     "retrieve_ids": [
       "cs_news_4_1",
       "cs_person_lala_septem_riza_s1ik_002",
+      "cs_person_lala_septem_riza_s1ik_002",
+      "cs_person_lala_septem_riza_s1pik_013",
       "cs_person_lala_septem_riza_s1pik_013",
       "cs_person_lala_septem_riza_s2pik_029",
+      "cs_person_lala_septem_riza_s2pik_029",
       "cs_person_lala_septem_riza_002",
-      "cs_news_127_1",
-      "cs_news_230_1",
-      "cs_person_rani_megasari_s2pik_033",
-      "cs_person_munir_s1ik_001",
-      "cs_person_rani_megasari_s1ik_005"
+      "cs_person_lala_septem_riza_002",
+      "cs_news_177_1"
     ]
   },
   {
@@ -3172,11 +3178,11 @@
       "cs_news_32_1",
       "cs_news_56_1",
       "cs_news_81_1",
+      "cs_news_15_1",
+      "cs_news_21_1",
       "cs_news_146_1",
       "cs_news_175_1",
-      "cs_prestasi_group_2",
-      "cs_prestasi_group_3",
-      "cs_prestasi_group_1"
+      "cs_news_169_1"
     ]
   },
   {
@@ -3194,10 +3200,10 @@
       "cs_news_46_1",
       "cs_news_81_1",
       "cs_news_56_1",
+      "fpmipa_facility_003",
       "cs_news_196_1",
       "cs_news_175_1",
-      "cs_news_174_1",
-      "cs_news_169_1"
+      "cs_news_174_1"
     ]
   },
   {
@@ -3210,15 +3216,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_6_1",
+      "cs_news_6_1",
+      "cs_news_25_1",
       "cs_news_25_1",
       "cs_news_212_1",
+      "cs_news_212_1",
+      "cs_news_228_1",
       "cs_news_228_1",
       "cs_news_48_2",
-      "cs_news_214_1",
-      "cs_news_223_1",
-      "cs_news_10_1",
-      "cs_news_102_1",
-      "cs_news_105_1"
+      "cs_news_48_2"
     ]
   },
   {
@@ -3231,15 +3237,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_6_1",
+      "cs_news_48_2",
       "cs_news_25_1",
       "cs_news_105_1",
       "cs_news_223_1",
+      "cs_news_135_1",
       "cs_news_102_1",
-      "cs_news_214_1",
-      "cs_person_yudi_wibisono_s2pik_034",
-      "cs_person_rosa_ariani_sukamto_s1ik_011",
-      "cs_person_yudi_wibisono_s1ik_003",
-      "cs_person_erlangga_s1pik_024"
+      "cs_news_104_1",
+      "cs_news_212_1",
+      "cs_news_214_1"
     ]
   },
   {
@@ -3252,15 +3258,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_7_1",
+      "cs_news_7_1",
+      "cs_news_97_1",
       "cs_news_97_1",
       "cs_news_7_2",
+      "cs_news_7_2",
+      "cs_news_195_1",
       "cs_news_195_1",
       "cs_news_154_1",
-      "cs_news_156_1",
-      "cs_news_7_1_1",
-      "cs_news_12_1",
-      "cs_news_20_1",
-      "cs_news_10_1"
+      "cs_news_154_1"
     ]
   },
   {
@@ -3274,14 +3280,14 @@
     "retrieve_ids": [
       "cs_news_7_2",
       "cs_news_97_1",
+      "cs_news_7_1_1",
       "cs_news_7_1",
-      "cs_master_proginfo_mission_001",
-      "cs_master_proginfo_vision_001",
-      "cs_proginfo_vision_001",
-      "cse_proginfo_vision_001",
-      "cs_proginfo_mission_001",
-      "cs_proginfo_objective_001",
-      "cse_proginfo_mission_001"
+      "cs_news_195_1",
+      "cs_news_154_1",
+      "cs_news_156_1",
+      "cs_news_149_1",
+      "cs_news_70_1",
+      "cs_master_proginfo_goals_001"
     ]
   },
   {
@@ -3294,15 +3300,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_8_1",
+      "cs_news_2_1",
       "cs_news_15_1",
+      "cs_news_122_1",
       "cs_news_84_1",
       "cs_news_8_2",
-      "cs_news_22_1",
-      "cs_proginfo_overview_002",
-      "cs_proginfo_qualification_002",
-      "cs_proginfo_plo_002",
-      "cs_proginfo_curriculum_003_desc",
-      "cs_proginfo_courses_001_desc"
+      "cs_news_6_1",
+      "cs_news_82_1",
+      "cs_news_10_1",
+      "cs_kemakom_group_1"
     ]
   },
   {
@@ -3315,15 +3321,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_8_2",
+      "cs_news_8_2",
+      "cs_news_8_1",
       "cs_news_8_1",
       "cs_news_2_1",
+      "cs_news_2_1",
+      "cs_news_122_1",
       "cs_news_122_1",
       "cs_news_12_1",
-      "cs_news_190_1",
-      "cs_mbkm_programs_001",
-      "cs_exchange_mbkm_other_001",
-      "cs_news_161_1",
-      "cs_news_10_1"
+      "cs_news_12_1"
     ]
   },
   {
@@ -3338,13 +3344,13 @@
       "cs_news_9_1",
       "cs_news_9_2",
       "cs_news_122_1",
+      "cs_news_30_1",
+      "cs_news_82_1",
       "cs_news_214_1",
+      "cs_news_226_1",
       "cs_prestasi_group_2",
-      "cs_news_176_1",
-      "cs_prestasi_group_4",
-      "cs_news_205_1",
-      "cs_prestasi_group_1",
-      "cs_prestasi_group_3"
+      "cs_mbkm_programs_001",
+      "cs_news_176_1"
     ]
   },
   {
@@ -3360,12 +3366,12 @@
       "cs_news_10_2",
       "cs_news_205_1",
       "cs_news_153_1",
+      "cs_news_199_1",
+      "cs_prestasi_group_4",
       "cs_prestasi_group_4",
       "cs_news_103_1",
-      "cs_prestasi_group_3",
-      "cs_prestasi_group_2",
-      "cs_prestasi_group_1",
-      "cs_person_budi_laksono_putro_s1pik_020"
+      "cs_news_209_1",
+      "cs_news_6_1"
     ]
   },
   {
@@ -3378,15 +3384,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_10_1",
-      "cs_prestasi_group_2",
-      "cs_prestasi_group_4",
-      "cs_prestasi_group_3",
-      "cs_person_budi_laksono_putro_s1pik_020",
-      "cs_prestasi_group_1",
-      "cs_person_budi_laksono_putro_s2pik_037",
-      "cs_person_enjang_ali_nurdin_s2pik_030",
-      "cs_person_rasim_s2pik_036",
-      "cs_person_rasim_s1ik_007"
+      "cs_news_48_2",
+      "cs_news_10_2",
+      "cs_news_153_1",
+      "cs_news_73_1",
+      "cs_news_101_1",
+      "cs_news_103_1",
+      "cs_news_22_1",
+      "cs_news_17_1",
+      "cs_news_6_1"
     ]
   },
   {
@@ -3405,9 +3411,9 @@
       "cs_news_150_1",
       "cs_proginfo_overview_002",
       "cs_news_157_1",
+      "cs_quality_assurance_cycle_001",
       "cse_mag_kurikulum_analisis_lptk_001b",
-      "cse_mag_kurikulum_analisis_lptk_001a",
-      "cs_penilaian_pik_009"
+      "cse_mag_kurikulum_analisis_lptk_001b"
     ]
   },
   {
@@ -3420,15 +3426,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_12_1",
+      "cs_news_12_1",
+      "cs_news_2_1",
       "cs_news_2_1",
       "cs_news_161_1",
+      "cs_news_161_1",
+      "cs_news_229_1",
       "cs_news_229_1",
       "cs_news_124_1",
-      "cs_news_188_1",
-      "cs_news_7_1",
-      "cs_news_10_1",
-      "cs_news_15_1",
-      "cs_news_97_1"
+      "csik_prog_goals_2016_strategies_16_31"
     ]
   },
   {
@@ -3441,15 +3447,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_12_1",
+      "cs_news_2_1",
       "cs_news_161_1",
       "cs_news_22_1",
+      "cse_doc_1",
+      "cs_news_188_1",
+      "cs_news_146_1",
       "cs_news_124_1",
       "cs_news_22_2",
-      "csik_prog_goals_2016_strategies_16_31",
-      "cs_prestasi_group_3",
-      "cs_prestasi_group_4",
-      "cs_prestasi_group_2",
-      "cs_prestasi_group_1"
+      "csik_prog_goals_2016_strategies_16_31"
     ]
   },
   {
@@ -3462,15 +3468,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_13_1",
+      "cs_news_60_1",
+      "cs_news_34_1",
+      "cs_news_232_1",
       "cs_person_didin_wahyudin_s2pik_038",
+      "cs_person_didin_wahyudin_s2pik_038",
+      "cs_news_14_1",
+      "cs_proginfo_mapping_kbk2",
       "cs_news_192_1",
-      "cs_news_13_2",
-      "cs_person_erlangga_s1pik_024",
-      "cs_person_ani_anisyah_s1pik_025",
-      "cs_person_yudi_ahmad_hambali_s1ik_008",
-      "cs_person_rani_megasari_s2pik_033",
-      "cs_person_rani_megasari_s1ik_005",
-      "cs_person_wahyudin_s1pik_016"
+      "cs_news_13_2"
     ]
   },
   {
@@ -3485,13 +3491,13 @@
       "cs_news_14_1",
       "cs_news_14_2",
       "cs_person_erlangga_s1pik_024",
+      "cs_news_8_1",
       "cs_news_55_1",
+      "cs_news_122_1",
       "cs_proginfo_courses_001_s3_s4",
+      "cs_news_192_1",
       "cs_person_yudi_wibisono_s1ik_003",
-      "cs_proginfo_mapping_mkkps",
-      "cs_person_rosa_ariani_sukamto_s1ik_011",
-      "cs_proginfo_courses_001_s1_s2",
-      "cs_proginfo_mapping_kbk3"
+      "cs_proginfo_mapping_mkkps"
     ]
   },
   {
@@ -3504,15 +3510,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_15_1",
+      "cs_news_5_1",
+      "cs_news_22_1",
+      "cs_news_1_1",
+      "cs_news_7_1",
+      "cs_news_226_1",
+      "cse_doc_1",
       "cs_prestasi_group_4",
-      "cs_prestasi_group_2",
-      "cs_prestasi_group_3",
-      "cs_curriculum_pik_mku_mkdk_002",
-      "cs_curriculum_pik_mkkf_mkkpbs_002",
-      "cs_prestasi_group_1",
-      "cs_curriculum_pik_struktur_pengantar_002",
-      "cs_curriculum_pik_tujuan_001",
-      "cs_proginfo_plomapping_012"
+      "cs_news_12_1",
+      "cs_news_214_1"
     ]
   },
   {
@@ -3525,15 +3531,15 @@
     "generated_answer": "",
     "retrieve_ids": [
       "cs_news_16_1",
+      "cs_news_16_1",
       "cse_doc_1",
-      "cs_proginfo_overview_002",
-      "cs_alumni_ika_001",
-      "cs_news_10_1",
-      "cs_proginfo_plo_002",
-      "cs_news_59_1",
-      "cs_proginfo_courses_001_desc",
-      "cs_proginfo_qualification_002",
-      "cs_proginfo_curriculum_003_desc"
+      "cse_doc_1",
+      "cs_news_24_1",
+      "cs_news_24_1",
+      "cs_news_11_1",
+      "cs_news_11_1",
+      "cs_news_29_1",
+      "cs_news_29_1"
     ]
   }
 ]

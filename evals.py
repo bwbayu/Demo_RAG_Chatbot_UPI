@@ -18,7 +18,7 @@ def retrieval_pipeline(query, top_k=10):
     # combine from two docs
     fused_results.extend(fused_results2)
     fused_docs.extend(fused_docs2)
-    rerank = reranking_results(query, fused_docs, fused_results)
+    rerank = reranking_results(query, fused_docs, fused_results, top_k)
     top_ids = [d['id'] for d in rerank]
     return top_ids, rerank
 
