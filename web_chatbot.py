@@ -2,6 +2,7 @@ import streamlit as st
 from langchain_core.messages import AIMessage, HumanMessage
 from search import RAG_pipeline
 from PIL import Image
+from datetime import datetime
 
 # max history chat (5 bot, 5 human)
 MAX_TURNS = 10
@@ -61,6 +62,7 @@ if user_question:
             full_response += delta
             response_container.markdown(full_response)
 
+        print("finish : ", datetime.now())
         st.session_state.messages.append(AIMessage(full_response))
         # cut history chat
         if len(st.session_state.messages) > MAX_TURNS:
