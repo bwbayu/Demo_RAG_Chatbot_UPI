@@ -16,3 +16,4 @@ uvicorn[standard]
 slowapi
 protoc-gen-openapiv2
 rouge
+playwright

@@ -78,13 +78,15 @@ def classify_query(query, chat_history):
         return ["Other"]
 
 def search_dense_index(text: str, filter_types=None):
+    query_dense = get_dense_embeddings(text, EMBED_DIM)
+    # using filter
     filter_query = {}
     if filter_types and filter_types != ["Other"]:
         filter_query = {"type": {"$in": filter_types}}
     
     dense_response = index_dense.query(
         namespace=NAMESPACE,
-        vector=get_dense_embeddings(text, EMBED_DIM),
+        vector= query_dense,
         top_k=TOP_K,
         include_metadata=True,
         include_values=False,
@@ -101,16 +103,37 @@ def search_dense_index(text: str, filter_types=None):
             "text": text
         })
     
-    return dense_results
+    # non-filter
+    dense_response2 = index_dense.query(
+        namespace=NAMESPACE,
+        vector= query_dense,
+        top_k=TOP_K,
+        include_metadata=True,
+        include_values=False
+    )
+    
+    matches2 = dense_response2.get("matches", []) or []
+    dense_results2 = []
+    for item in matches2:
+        text = item['metadata'].get("text", '')
+        dense_results2.append({
+            "id": item.get("id"),
+            "similarity": item.get('score', 0.0),
+            "text": text
+        })
+    
+    return dense_results, dense_results2
 
 def search_sparse_index(text: str, filter_types=None):
+    query_sparse = get_sparse_embeddings(text=text, bm25_model=bm25, query_type='search')
+    # filter
     filter_query = {}
     if filter_types and filter_types != ["Other"]:
         filter_query = {"type": {"$in": filter_types}}
     
     sparse_response = index_sparse.query(
         namespace=NAMESPACE,
-        sparse_vector=get_sparse_embeddings(text=text, bm25_model=bm25, query_type='search'),
+        sparse_vector=query_sparse,
         top_k=TOP_K,
         include_metadata=True,
         include_values=False,
@@ -126,8 +149,27 @@ def search_sparse_index(text: str, filter_types=None):
             "similarity": item.get('score', 0.0),
             "text": text
         })
+
+    # non filter
+    sparse_response2 = index_sparse.query(
+        namespace=NAMESPACE,
+        sparse_vector=query_sparse,
+        top_k=TOP_K,
+        include_metadata=True,
+        include_values=False
+    )
     
-    return sparse_results
+    matches2 = sparse_response2.get("matches", []) or []
+    sparse_results2 = []
+    for item in matches2:
+        text = item['metadata'].get("text", '')
+        sparse_results2.append({
+            "id": item.get("id"),
+            "similarity": item.get('score', 0.0),
+            "text": text
+        })
+    
+    return sparse_results, sparse_results2
 
 """
 RRF score(d) = Σ 1/(k+rank(d)) where k is between 1-60 where d is document
@@ -226,15 +268,19 @@ def context_generation(query, contexts, chat_history, streaming=True):
         return chain.stream({"context": context, "query": query, "chat_history": chat_history})
 
 def RAG_pipeline(query, chat_history, streaming=True):
-    # Klasifikasikan query terlebih dahulu
+    print("start : ", datetime.now())
     classified_type = classify_query(query, chat_history)
-    # search top k result
-    dense_results = search_dense_index(query, filter_types=classified_type)
-    sparse_results = search_sparse_index(query, filter_types=classified_type)
-    # fused dense and sparse result using RRF
-    fused_results = rrf_fusion(dense_results, sparse_results)
-    # extract text data for reranking
-    docs = [result['text'] for result in fused_results]
-    contexts = reranking_results(query, docs, fused_results)
+    dense_results_f, dense_results_nf = search_dense_index(query, filter_types=classified_type)
+    sparse_results_f, sparse_results_nf = search_sparse_index(query, filter_types=classified_type)
+    # filter
+    fused_results_f = rrf_fusion(dense_results_f, sparse_results_f)
+    docs_f = [result['text'] for result in fused_results_f]
+    # non filter
+    fused_results_nf = rrf_fusion(dense_results_nf, sparse_results_nf)
+    docs_nf = [result['text'] for result in fused_results_nf]
+    # rerank from filter and non filter
+    fused_results_f.extend(fused_results_nf)
+    docs_f.extend(docs_nf)
+    contexts = reranking_results(query, docs_f, fused_results_f)
     
     return context_generation(query, contexts, chat_history, streaming=streaming)
