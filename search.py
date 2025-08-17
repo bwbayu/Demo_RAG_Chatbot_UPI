@@ -43,7 +43,7 @@ except Exception as e:
 # List of types
 TYPES = ['Berita', 'Fasilitas', 'Fasilitas Departemen Ilmu Komputer', 'Fasilitas Fakultas/FPMIPA', 'Fasilitas Universitas/UPI', 'KBK/Penjurusan', 'Mata Kuliah', 'Metode Pengajaran', 
          'Person', 'Program Info Ilmu Komputer', 'Program Info Pendidikan Ilmu Komputer', 'Proses Penilaian', 'Sasaran Program', 'Sasaran Program Ilmu Komputer', 
-         'Sasaran Program Magister Pendidikan Ilmu Komputer', 'Sejarah', 'Tujuan', 'Visi dan Misi', 'Visi dan Misi Ilmu Komputer', 'Visi dan Misi Magister Pendidikan Ilmu Komputer', 
+         'Sasaran Program Magister Pendidikan Ilmu Komputer', 'Overview', 'Tujuan', 'Visi dan Misi', 'Visi dan Misi Ilmu Komputer', 'Visi dan Misi Magister Pendidikan Ilmu Komputer', 
          'Visi dan Misi Pendidikan Ilmu Komputer', 'alumni', 'beasiswa', 'keahlian', 'keluarga mahasiswa komputer', 'mata kuliah magister pendidikan ilmu komputer', 
          'mata kuliah pendidikan ilmu komputer', 'metode pengajaran pendidikan ilmu komputer', 'metode penilaian pendidikan ilmu komputer', 'pelayanan administrasi', 
          'pendaftaran', 'penjaminan mutu', 'pertukaran mahasiswa', 'prestasi', 'program info magister pendidikan ilmu komputer', 'program info pendidikan ilmu komputer']
