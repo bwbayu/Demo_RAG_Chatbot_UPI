@@ -1,13 +1,7 @@
-#!/usr/bin/env python3
-import argparse, concurrent.futures, random, time, statistics, sys, traceback
+import argparse, concurrent.futures, random, time, traceback
 from typing import List, Dict, Any
+from search import RAG_pipeline
 
-# Import pipeline kamu
-# Pastikan modul import sesuai struktur proyekmu
-# (di app streamlit kamu: `from search import RAG_pipeline`)
-from search import RAG_pipeline  # sesuaikan jika path berbeda
-
-# Kumpulan query contoh — ganti dengan datasetmu
 QUERIES = [
     "Apa saja fasilitas di Departemen Ilmu Komputer?",
     "Jelaskan KBK/Penjurusan di Ilkom UPI",
@@ -27,7 +21,6 @@ def bench_one(query: str, timeout: float) -> Dict[str, Any]:
     ok = True
     err = None
     try:
-        # RAG_pipeline di streamlit mengembalikan generator streaming
         stream = RAG_pipeline(query=query, chat_history=[], streaming=True)
         last_yield = t0
         for chunk in stream:
@@ -39,7 +32,6 @@ def bench_one(query: str, timeout: float) -> Dict[str, Any]:
             if ttft is None:
                 ttft = now - t0
             last_yield = now
-            # timeout proteksi saat ngegantung di tengah stream
             if timeout and (now - t0) > timeout:
                 ok = False
                 err = f"timeout>{timeout}s"
