@@ -5,7 +5,6 @@ from itertools import count
 import os
 from dotenv import load_dotenv
 
-# --- LangChain + Gemini Embeddings ---
 from langchain_experimental.text_splitter import SemanticChunker
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
@@ -19,7 +18,6 @@ text_splitter = SemanticChunker(
     embeddings, breakpoint_threshold_type="gradient"
 )
 
-# --- Scraper setup ---
 BASE_URL = "https://cs.upi.edu/v2/news_list/{}"
 SWITCH_URL = "https://cs.upi.edu/v2/lang/set_language/ID"
 session = requests.Session()
@@ -44,6 +42,7 @@ def ensure_indonesian(url):
 
     if lang == "english":
         session.get(SWITCH_URL)  # switch to Indonesian
+        # reload halaman
         r = session.get(url)
         soup = BeautifulSoup(r.text, "html.parser")
 

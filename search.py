@@ -2,7 +2,7 @@ from pinecone.grpc import PineconeGRPC as Pinecone
 from pinecone_text.sparse import BM25Encoder
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
-from main import get_dense_embeddings, get_sparse_embeddings
+from setup_pinecone import get_dense_embeddings, get_sparse_embeddings
 import os
 from dotenv import load_dotenv
 from collections import defaultdict
@@ -198,10 +198,10 @@ def reranking_results(query, docs, fused_results, top_k=10):
     # Validate inputs
     if not query or not isinstance(query, str):
         print("Invalid query: Query must be a non-empty string")
-        return fused_results  # Fallback to fused results
+        return fused_results
     if not docs or not all(isinstance(doc, str) and doc.strip() for doc in docs):
         print("Invalid documents: All documents must be non-empty strings")
-        return fused_results  # Fallback to fused results
+        return fused_results
     
     payload = {
         "model": "Qwen/Qwen3-Reranker-8B",
@@ -255,7 +255,6 @@ def context_generation(query, contexts, chat_history, streaming=True):
 
     Riwayat obrolan:
     {chat_history}
-
     """
 
     prompt = ChatPromptTemplate.from_template(template)

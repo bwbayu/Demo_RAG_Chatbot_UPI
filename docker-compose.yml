@@ -1,6 +1,6 @@
 services:
   app:
-    image: bwbayu/chatbot_cse_upi:latest
+    image: bwbayu/chatbot-cse-upi:v0.1
     # or build: .
     ports:
       - "8501:8501"
