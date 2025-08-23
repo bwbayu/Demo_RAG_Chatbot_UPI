@@ -105,13 +105,13 @@ docker run -d \
 ### Option B: Pull the prebuilt image
 
 ```bash
-docker pull bwbayu/chatbot-cse-upi:v0.1
+docker pull bwbayu/chatbot-cse-upi-demo:v0
 docker run -d \
   --name <container-name> \
   --restart unless-stopped \
   --env-file .env \
   -p 8501:8501 \
-  bwbayu/chatbot-cse-upi:v0.1
+  bwbayu/chatbot-cse-upi-demo:v0
 ```
 
 ### Option C (cleanest): docker-compose
