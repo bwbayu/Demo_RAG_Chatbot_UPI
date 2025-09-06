@@ -4,15 +4,13 @@ from rouge import Rouge
 from search import classify_query, search_dense_index, search_sparse_index, rrf_fusion, reranking_results, context_generation
 
 def retrieval_pipeline(query, top_k=10):
-    # classify docs
+    # # classify docs
     classified_type = classify_query(query, chat_history="")
-    dense_results = search_dense_index(query, filter_types=classified_type)
-    sparse_results = search_sparse_index(query, filter_types=classified_type)
+    dense_results, dense_results2 = search_dense_index(query, filter_types=classified_type)
+    sparse_results, sparse_results2 = search_sparse_index(query, filter_types=classified_type)
     fused_results = rrf_fusion(dense_results, sparse_results, top_n=top_k)
     fused_docs = [r['text'] for r in fused_results]
     # non-classify docs
-    dense_results2 = search_dense_index(query, filter_types=["Other"])
-    sparse_results2 = search_sparse_index(query, filter_types=["Other"])
     fused_results2 = rrf_fusion(dense_results2, sparse_results2, top_n=top_k)
     fused_docs2 = [r['text'] for r in fused_results2]
     # combine from two docs
@@ -104,7 +102,7 @@ if __name__ == "__main__":
         eval_data=eval_data,
         k=10,
         evaluating_generation=False,
-        save_path="data/eval/rag_eval.json"
+        save_path="data/eval/rag_eval_combine.json"
     )
 
     print("=== OVERALL ===")

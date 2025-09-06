@@ -1,0 +1,3539 @@
+[
+  {
+    "query": "Siapa Kepala Prodi Ilmu Komputer?",
+    "type": "Manajemen",
+    "gold_doc_ids": [
+      "cs_person_muhammad_nursalman_001"
+    ],
+    "gold_answer": "Kepala Prodi Ilmu Komputer adalah Dr. Muhammad Nursalman, M.T.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_person_muhammad_nursalman_001",
+      "cs_person_lala_septem_riza_002",
+      "cs_news_75_3",
+      "cs_news_29_1",
+      "cs_person_wahyudin_003",
+      "cse_doc_1",
+      "cs_proginfo_overview_002",
+      "cse_mag_kurikulum_analisis_lptk_001b",
+      "cs_person_herbert_siregar_s1pik_018",
+      "cs_news_214_1"
+    ]
+  },
+  {
+    "query": "Siapa Kepala Prodi Pendidikan Ilmu Komputer (S1 & S2)?",
+    "type": "Manajemen",
+    "gold_doc_ids": [
+      "cs_person_lala_septem_riza_002"
+    ],
+    "gold_answer": "Kepala Prodi Pendidikan Ilmu Komputer (S1 & S2) adalah Prof. Dr. Lala Septem Riza, M.T.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_person_lala_septem_riza_002",
+      "cs_person_muhammad_nursalman_001",
+      "cs_news_52_1",
+      "cs_person_wahyudin_003",
+      "cse_doc_1",
+      "cs_person_munir_s2pik_028",
+      "cs_person_wahyudin_s2pik_032",
+      "cs_person_herbert_siregar_s1pik_018",
+      "cse_mag_plo_qual_map_002",
+      "cs_admission_s2_001"
+    ]
+  },
+  {
+    "query": "Siapa Sekretaris Prodi Pendidikan Ilmu Komputer (S1 & S2)?",
+    "type": "Manajemen",
+    "gold_doc_ids": [
+      "cs_person_wahyudin_003"
+    ],
+    "gold_answer": "Sekretaris Prodi Pendidikan Ilmu Komputer (S1 & S2) adalah Dr. Wahyudin, M.T.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_person_wahyudin_003",
+      "cs_news_75_2",
+      "cs_person_lala_septem_riza_002",
+      "cse_doc_1",
+      "cs_person_asep_wahyudin_s2pik_031",
+      "cs_news_52_1",
+      "cs_person_herbert_siregar_s1pik_018",
+      "cs_quality_assurance_sop_001",
+      "cs_admission_s2_001",
+      "cs_curriculum_pik_gelar_001"
+    ]
+  },
+  {
+    "query": "Apa visi Program Studi Ilmu Komputer?",
+    "type": "Visi Misi",
+    "gold_doc_ids": [
+      "cs_proginfo_vision_001"
+    ],
+    "gold_answer": "Visi Program Studi Ilmu Komputer adalah menjadi Program Studi pelopor dan unggul (Leading and Outstanding) dalam bidang Ilmu Komputer di tingkat Nasional dan berkontribusi dalam tingkat ASEAN.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_vision_001",
+      "cse_proginfo_vision_001",
+      "cs_master_proginfo_vision_001",
+      "cs_proginfo_overview_002",
+      "cs_proginfo_mission_001",
+      "cs_master_proginfo_mission_001",
+      "cse_mag_kurikulum_tujuan_001",
+      "cse_proginfo_mission_001",
+      "cs_proginfo_objective_001",
+      "cs_person_yaya_wihardi_s1ik_012"
+    ]
+  },
+  {
+    "query": "Apa misi Program Studi Ilmu Komputer?",
+    "type": "Visi Misi",
+    "gold_doc_ids": [
+      "cs_proginfo_mission_001"
+    ],
+    "gold_answer": "Misi Program Studi Ilmu Komputer adalah menyelenggarakan pendidikan bermutu, penelitian inovatif, dan pengabdian masyarakat berbasis ilmu komputer dengan kontribusi nasional dan ASEAN.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_mission_001",
+      "cse_proginfo_mission_001",
+      "cs_master_proginfo_mission_001",
+      "cs_proginfo_objective_001",
+      "cse_mag_kurikulum_tujuan_001",
+      "cse_proginfo_vision_001",
+      "cs_proginfo_vision_001",
+      "cs_master_proginfo_vision_001",
+      "cs_master_proginfo_goals_001",
+      "cs_quality_assurance_cycle_001"
+    ]
+  },
+  {
+    "query": "Apa tujuan Program Studi Ilmu Komputer?",
+    "type": "Visi Misi",
+    "gold_doc_ids": [
+      "cs_proginfo_objective_001"
+    ],
+    "gold_answer": "Tujuan Program Studi Ilmu Komputer adalah menghasilkan lulusan profesional yang beriman, berintegritas, menguasai teori dan praktik ilmu komputer, serta berdaya saing global.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_objective_001",
+      "cs_master_proginfo_goals_001",
+      "cs_curriculum_pik_tujuan_001",
+      "cse_mag_kurikulum_tujuan_001",
+      "cs_proginfo_mission_001",
+      "cse_proginfo_mission_001",
+      "cs_proginfo_vision_001",
+      "cse_proginfo_vision_001",
+      "cs_news_80_1",
+      "cs_news_215_1"
+    ]
+  },
+  {
+    "query": "Apa visi Program Studi Pendidikan Ilmu Komputer?",
+    "type": "Visi Misi",
+    "gold_doc_ids": [
+      "cse_proginfo_vision_001"
+    ],
+    "gold_answer": "Visi Program Studi Pendidikan Ilmu Komputer adalah menjadi Program Studi pelopor dan unggul dalam bidang Pendidikan Ilmu Komputer di tingkat Nasional serta terekognisi di tingkat ASEAN.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cse_proginfo_vision_001",
+      "cs_master_proginfo_vision_001",
+      "cs_proginfo_vision_001",
+      "cs_proginfo_overview_002",
+      "cs_master_proginfo_mission_001",
+      "cse_proginfo_mission_001",
+      "cs_proginfo_mission_001",
+      "cse_mag_kurikulum_tujuan_001",
+      "cs_master_proginfo_goals_001",
+      "cs_person_yaya_wihardi_s1ik_012"
+    ]
+  },
+  {
+    "query": "Apa misi Program Studi Magister Pendidikan Ilmu Komputer?",
+    "type": "Visi Misi",
+    "gold_doc_ids": [
+      "cs_master_proginfo_mission_001"
+    ],
+    "gold_answer": "Misi Program Studi Magister Pendidikan Ilmu Komputer adalah menyelenggarakan pendidikan magister, riset, pengabdian masyarakat, serta membangun jejaring nasional dan internasional di bidang Pendidikan Ilmu Komputer.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_master_proginfo_mission_001",
+      "cse_proginfo_mission_001",
+      "cs_proginfo_mission_001",
+      "cse_mag_kurikulum_tujuan_001",
+      "cs_master_proginfo_goals_001",
+      "cs_master_proginfo_vision_001",
+      "cse_mag_kurikulum_gelar_001",
+      "cse_mag_kurikulum_analisis_lptk_001b",
+      "cs_proginfo_vision_001",
+      "cse_proginfo_vision_001"
+    ]
+  },
+  {
+    "query": "Fasilitas apa saja yang ada di Departemen Ilmu Komputer?",
+    "type": "Fasilitas Ilkom",
+    "gold_doc_ids": [
+      "cs_facility_001",
+      "cs_facility_002",
+      "cs_facility_003",
+      "cs_facility_004",
+      "cs_facility_006",
+      "cs_facility_007",
+      "cs_facility_008",
+      "cs_facility_009",
+      "cs_facility_010"
+    ],
+    "gold_answer": "Fasilitas Departemen Ilmu Komputer meliputi Laboratorium Praktikum, Laboratorium Big Data Analysis, Laboratorium Umum, Laboratorium Teknik Komputer dan Sistem Jaringan, Laboratorium Rekayasa Perangkat Lunak, Laboratorium Sistem Informasi, Laboratorium Matematik, Informatika, dan Elektronika, Laboratorium AI & Robotik, dan Laboratorium Multimedia & Desain.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_facility_008",
+      "cs_news_180_1",
+      "cs_facility_001",
+      "cs_facility_003",
+      "cs_facility_007",
+      "cs_news_151_1",
+      "cs_news_172_1",
+      "cs_news_88_1",
+      "cs_news_149_1",
+      "cs_news_216_1"
+    ]
+  },
+  {
+    "query": "Bagaimana cara mendaftar ke Program Studi Ilmu Komputer?",
+    "type": "Pendaftaran",
+    "gold_doc_ids": [
+      "cs_admission_procedure_001"
+    ],
+    "gold_answer": "Pendaftaran ke Program Studi Ilmu Komputer dilakukan melalui sistem seleksi nasional dan jalur mandiri sesuai dengan prosedur Universitas Pendidikan Indonesia.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_overview_002",
+      "cs_news_122_1",
+      "cs_proginfo_curriculum_003_cg_4_6",
+      "cs_proginfo_objective_001",
+      "cs_proginfo_mission_001",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002",
+      "cs_news_216_1",
+      "cs_proginfo_vision_001",
+      "cs_news_57_1",
+      "cs_news_100_1"
+    ]
+  },
+  {
+    "query": "Apa itu tracer study alumni Ilmu Komputer?",
+    "type": "alumni",
+    "gold_doc_ids": [
+      "cs_alumni_tracer_001"
+    ],
+    "gold_answer": "Tracer study adalah kegiatan untuk mendapatkan gambaran profil alumni dengan mengisi kuesioner online, termasuk masukan tentang manfaat pembelajaran dalam pekerjaan, yang hasilnya digunakan untuk perbaikan kurikulum dan kegiatan pembelajaran.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_alumni_tracer_001",
+      "cs_proginfo_qualification_002",
+      "cs_alumni_stakeholder_001",
+      "cs_curriculum_pik_profil_001",
+      "cs_proginfo_objective_001",
+      "cs_news_88_1",
+      "cs_news_216_1",
+      "cs_news_140_1",
+      "cs_quality_assurance_internal_002",
+      "cs_proginfo_vision_001"
+    ]
+  },
+  {
+    "query": "Siapa Ketua Ikatan Alumni Ilmu Komputer (IKA ILKOM UPI) periode 2020-2022?",
+    "type": "alumni",
+    "gold_doc_ids": [
+      "cs_alumni_ika_001"
+    ],
+    "gold_answer": "Ketua IKA ILKOM UPI periode 2020-2022 adalah Toni Haryanto, S. Pd.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_alumni_ika_001",
+      "cs_news_181_1",
+      "cs_news_125_1",
+      "cs_news_150_1",
+      "cs_kemakom_group_2",
+      "cs_kemakom_group_1",
+      "cs_news_29_1",
+      "cs_news_171_1",
+      "cs_news_128_1",
+      "cs_news_81_1"
+    ]
+  },
+  {
+    "query": "Bagaimana penilaian stakeholder terhadap kompetensi alumni Ilmu Komputer?",
+    "type": "alumni",
+    "gold_doc_ids": [
+      "cs_alumni_stakeholder_001"
+    ],
+    "gold_answer": "Stakeholder menilai alumni Ilmu Komputer memiliki kualifikasi baik atau sangat baik, khususnya pada integritas, pemanfaatan teknologi, dan profesionalisme dengan 100% responden memberi nilai sangat baik, namun kelemahan ada pada kemampuan bahasa Inggris.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_alumni_stakeholder_001",
+      "cs_proginfo_objective_001",
+      "cs_curriculum_pik_profil_001",
+      "cs_proginfo_qualification_002",
+      "csik_prog_goals_2016_strategies_1_15",
+      "cs_proginfo_exam_001_desc_p1",
+      "cs_proginfo_exam_001_desc_p5_s01",
+      "cs_proginfo_exam_001_plo_mapping",
+      "cs_alumni_tracer_001",
+      "cs_news_140_1"
+    ]
+  },
+  {
+    "query": "Siapa Ketua Kelompok Bidang Keahlian Kecerdasan Buatan?",
+    "type": "Keahlian",
+    "gold_doc_ids": [
+      "pcb_competency_artificial_intelligence_01"
+    ],
+    "gold_answer": "Ketua Kelompok Bidang Keahlian Kecerdasan Buatan adalah Yaya Wihardi, M.Kom.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "pcb_competency_artificial_intelligence_01",
+      "cs_news_132_1",
+      "pceb_competency_sle_01",
+      "pceb_competency_digital_pedagogik_didaktik_01",
+      "pcb_competency_multimedia_network_01",
+      "pcb_competency_rplmi_01",
+      "cs_news_204_1",
+      "cs_person_lala_septem_riza_s2pik_029",
+      "cs_person_lala_septem_riza_s1ik_002",
+      "cs_proginfo_curriculum_003_expertise"
+    ]
+  },
+  {
+    "query": "Apa ruang lingkup penelitian Kelompok Bidang Keahlian Kecerdasan Buatan?",
+    "type": "Keahlian",
+    "gold_doc_ids": [
+      "pcb_competency_artificial_intelligence_01"
+    ],
+    "gold_answer": "Ruang lingkup penelitian meliputi kecerdasan buatan, sistem kontrol, robotika, IoT, analisis big data, pembelajaran mesin, visi komputer, pemrosesan bahasa alami, fintech, optimasi, dan penjadwalan.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "pcb_competency_artificial_intelligence_01",
+      "pceb_competency_sle_01",
+      "pceb_competency_steam_01",
+      "pcem_competency_policy_ict_01",
+      "cs_proginfo_curriculum_003_expertise",
+      "cs_facility_009",
+      "pceb_competency_digital_pedagogik_didaktik_01",
+      "pcb_competency_rplmi_01",
+      "pcb_competency_multimedia_network_01",
+      "cs_person_lala_septem_riza_s2pik_029"
+    ]
+  },
+  {
+    "query": "Siapa Ketua Kelompok Bidang Keahlian Sistem Pembelajaran Berbasis Teknologi?",
+    "type": "Keahlian",
+    "gold_doc_ids": [
+      "pcem_competency_tbls_01"
+    ],
+    "gold_answer": "Ketua KBK Sistem Pembelajaran Berbasis Teknologi adalah Dr. Rasim, M.T.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "pcem_competency_tbls_01",
+      "pceb_competency_sle_01",
+      "pcem_competency_policy_ict_01",
+      "pceb_competency_steam_01",
+      "pceb_competency_digital_pedagogik_didaktik_01",
+      "pcb_competency_artificial_intelligence_01",
+      "pcb_competency_multimedia_network_01",
+      "pcb_competency_rplmi_01",
+      "cs_news_229_1",
+      "cs_person_budi_laksono_putro_s1pik_020"
+    ]
+  },
+  {
+    "query": "Apa itu Kelas Pintar di FPMIPA dan apa fitur utamanya?",
+    "type": "Fasilitas FPMIPA",
+    "gold_doc_ids": [
+      "fpmipa_facility_001"
+    ],
+    "gold_answer": "Kelas Pintar adalah ruang kelas modern untuk tatap muka maupun jarak jauh dengan papan tulis layar sentuh, perangkat aktivitas pembelajaran, sistem siaran, konferensi video, dan fitur digital lainnya.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "fpmipa_facility_001",
+      "fpmipa_facility_008",
+      "cs_curriculum_pik_mkkf_mkkpbs_002",
+      "cs_news_153_1",
+      "fpmipa_facility_019",
+      "fpmipa_facility_017",
+      "cs_news_166_1",
+      "fpmipa_facility_016",
+      "cs_news_126_1",
+      "cs_news_122_1"
+    ]
+  },
+  {
+    "query": "Di mana lokasi Auditorium JICA FPMIPA UPI?",
+    "type": "Fasilitas FPMIPA",
+    "gold_doc_ids": [
+      "fpmipa_facility_003"
+    ],
+    "gold_answer": "Auditorium JICA berada di lantai 2 dan 3 Gedung FPMIPA A (Barat).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "fpmipa_facility_003",
+      "fpmipa_facility_017",
+      "cs_news_180_1",
+      "cs_news_20_1",
+      "fpmipa_facility_012",
+      "cs_news_225_1",
+      "fpmipa_facility_014",
+      "fpmipa_facility_019",
+      "fpmipa_facility_018",
+      "fpmipa_facility_007"
+    ]
+  },
+  {
+    "query": "Di lantai berapa Mushola Gedung FPMIPA dan fasilitas pendukungnya?",
+    "type": "Fasilitas FPMIPA",
+    "gold_doc_ids": [
+      "fpmipa_facility_007"
+    ],
+    "gold_answer": "Mushola ada di lantai 1 dengan rak sepatu rapi dan area wudu terpisah untuk laki-laki dan perempuan.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "fpmipa_facility_007",
+      "fpmipa_facility_003",
+      "cs_news_180_1",
+      "fpmipa_facility_012",
+      "fpmipa_facility_017",
+      "fpmipa_facility_009",
+      "fpmipa_facility_019",
+      "fpmipa_facility_008",
+      "upi_facility_014",
+      "fpmipa_facility_016"
+    ]
+  },
+  {
+    "query": "Berapa kapasitas dan fasilitas Ruang Rapat Fakultas FPMIPA?",
+    "type": "Fasilitas FPMIPA",
+    "gold_doc_ids": [
+      "fpmipa_facility_012"
+    ],
+    "gold_answer": "Kapasitas ±30–50 orang (formasi melingkar), dilengkapi proyektor, sistem suara, dan AC; berlokasi di lantai 2 Gedung FPMIPA A.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "fpmipa_facility_012",
+      "fpmipa_facility_008",
+      "cs_news_180_1",
+      "fpmipa_facility_014",
+      "fpmipa_facility_003",
+      "fpmipa_facility_013",
+      "fpmipa_facility_007",
+      "fpmipa_facility_019",
+      "fpmipa_facility_018",
+      "fpmipa_facility_016"
+    ]
+  },
+  {
+    "query": "Berapa kapasitas total parkir JICA FPMIPA?",
+    "type": "Fasilitas FPMIPA",
+    "gold_doc_ids": [
+      "fpmipa_facility_014"
+    ],
+    "gold_answer": "Sekitar 40 mobil (dua zona parkir, masing‑masing ±20 mobil).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "fpmipa_facility_014",
+      "fpmipa_facility_012",
+      "cs_news_180_1",
+      "fpmipa_facility_017",
+      "fpmipa_facility_008",
+      "fpmipa_facility_003",
+      "fpmipa_facility_018",
+      "fpmipa_facility_007",
+      "fpmipa_facility_019",
+      "upi_facility_021"
+    ]
+  },
+  {
+    "query": "Sebutkan tiga gedung FPMIPA UPI dan penamaannya.",
+    "type": "Fasilitas FPMIPA",
+    "gold_doc_ids": [
+      "fpmipa_facility_017"
+    ],
+    "gold_answer": "FPMIPA A (Gedung JICA), FPMIPA B, dan FPMIPA C (sebelumnya GIK).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "fpmipa_facility_017",
+      "fpmipa_facility_003",
+      "upi_facility_024",
+      "fpmipa_facility_008",
+      "fpmipa_facility_014",
+      "fpmipa_facility_019",
+      "cs_news_198_1",
+      "fpmipa_facility_018",
+      "cs_news_227_1",
+      "upi_facility_023"
+    ]
+  },
+  {
+    "query": "Apa saja laboratorium di Laboratorium Biologi FPMIPA?",
+    "type": "Fasilitas FPMIPA",
+    "gold_doc_ids": [
+      "fpmipa_facility_006"
+    ],
+    "gold_answer": "Lab Struktur Tumbuhan, Ekologi, Fisiologi, Struktur Hewan, Mikrobiologi, Riset, PBM, dan Botani/Kebun Botani dengan alat analitik laboratorium dan lapangan.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "fpmipa_facility_006",
+      "fpmipa_facility_005",
+      "fpmipa_facility_004",
+      "cs_news_180_1",
+      "cs_facility_008",
+      "cs_facility_004",
+      "fpmipa_facility_017",
+      "cs_news_151_1",
+      "cs_news_54_1",
+      "fpmipa_facility_008"
+    ]
+  },
+  {
+    "query": "Apa fungsi Pojok Mahasiswa dan Showroom di FPMIPA?",
+    "type": "Fasilitas FPMIPA",
+    "gold_doc_ids": [
+      "fpmipa_facility_011"
+    ],
+    "gold_answer": "Ruang favorit untuk berbagai aktivitas akademik maupun non‑akademik mahasiswa.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "fpmipa_facility_011",
+      "cs_kemakom_group_1",
+      "fpmipa_facility_012",
+      "fpmipa_facility_010",
+      "fpmipa_facility_013",
+      "fpmipa_facility_003",
+      "fpmipa_facility_016",
+      "cs_news_129_1",
+      "cs_news_7_1",
+      "cs_news_149_1"
+    ]
+  },
+  {
+    "query": "Untuk apa Ruang Mekanikal/Pengolahan Limbah di FPMIPA digunakan?",
+    "type": "Fasilitas FPMIPA",
+    "gold_doc_ids": [
+      "fpmipa_facility_015"
+    ],
+    "gold_answer": "Untuk proses pengolahan limbah di lingkungan UPI; berisi pipa gas, tabung, drum, tangki NaOH/HCl, dan area pemantauan.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "fpmipa_facility_015",
+      "fpmipa_facility_018",
+      "fpmipa_facility_003",
+      "cs_news_180_1",
+      "fpmipa_facility_008",
+      "fpmipa_facility_012",
+      "fpmipa_facility_013",
+      "fpmipa_facility_007",
+      "upi_facility_020",
+      "fpmipa_facility_016"
+    ]
+  },
+  {
+    "query": "Berapa tarif kolam renang UPI untuk mahasiswa vs umum dan jam operasionalnya?",
+    "type": "Fasilitas UPI",
+    "gold_doc_ids": [
+      "upi_facility_001"
+    ],
+    "gold_answer": "Mahasiswa: Rp5.000 (weekday), Rp10.000 (weekend). Umum: Rp10.000 (weekday), Rp20.000 (weekend). Jam 08.00–15.30 WIB.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "upi_facility_001",
+      "upi_facility_013",
+      "upi_facility_010",
+      "cs_news_99_1",
+      "upi_facility_016",
+      "upi_facility_018",
+      "upi_facility_003",
+      "upi_facility_002",
+      "cs_news_216_1",
+      "cs_penilaian_pik_009"
+    ]
+  },
+  {
+    "query": "Apa saja fasilitas di Stadion UPI dan berapa kapasitas tribun?",
+    "type": "Fasilitas UPI",
+    "gold_doc_ids": [
+      "upi_facility_002"
+    ],
+    "gold_answer": "Trek lari, lapangan sepak bola, terapi kaki, pull up, lompat jauh, lempar lembing/cakram/martil, tolak peluru; tribun ±500 penonton.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "upi_facility_002",
+      "upi_facility_007",
+      "upi_facility_017",
+      "fpmipa_facility_014",
+      "upi_facility_008",
+      "cs_news_216_1",
+      "upi_facility_006",
+      "fpmipa_facility_008",
+      "upi_facility_005",
+      "fpmipa_facility_012"
+    ]
+  },
+  {
+    "query": "Di mana lokasi lintasan jogging UPI?",
+    "type": "Fasilitas UPI",
+    "gold_doc_ids": [
+      "upi_facility_007"
+    ],
+    "gold_answer": "Lintasan jogging berada di Stadion UPI.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "upi_facility_007",
+      "upi_facility_002",
+      "upi_facility_018",
+      "upi_facility_004",
+      "upi_facility_006",
+      "upi_facility_008",
+      "upi_facility_014",
+      "cs_news_140_1",
+      "cs_proginfo_exam_001_desc_p1",
+      "fpmipa_facility_010"
+    ]
+  },
+  {
+    "query": "Apa jam layanan Perpustakaan UPI?",
+    "type": "Fasilitas UPI",
+    "gold_doc_ids": [
+      "upi_facility_013"
+    ],
+    "gold_answer": "Senin–Kamis 08.00–18.00 WIB; Jumat 08.00–11.00 dan 13.30–18.30 WIB.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "upi_facility_013",
+      "upi_facility_001",
+      "upi_facility_010",
+      "upi_facility_014",
+      "upi_facility_015",
+      "upi_facility_018",
+      "cs_admin_services_001",
+      "cs_news_199_1",
+      "fpmipa_facility_009",
+      "cs_news_129_1"
+    ]
+  },
+  {
+    "query": "Apa fungsi University Centre (UC) di UPI?",
+    "type": "Fasilitas UPI",
+    "gold_doc_ids": [
+      "upi_facility_014"
+    ],
+    "gold_answer": "Gedung 6 lantai untuk pelatihan penulisan jurnal/konferensi dan kesekretariatan UPI Press, ULT, International Affairs, UPI TV.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "upi_facility_014",
+      "upi_facility_010",
+      "upi_facility_023",
+      "upi_facility_012",
+      "upi_facility_020",
+      "cs_kemakom_group_1",
+      "upi_facility_009",
+      "fpmipa_facility_013",
+      "cs_news_216_1",
+      "cs_news_221_1"
+    ]
+  },
+  {
+    "query": "Bagaimana kebijakan layanan Poliklinik UPI bagi mahasiswa?",
+    "type": "Fasilitas UPI",
+    "gold_doc_ids": [
+      "upi_facility_016"
+    ],
+    "gold_answer": "Mahasiswa mendapat pembiayaan berobat gratis dengan menunjukkan fotokopi KTM; poliklinik juga melayani masyarakat sekitar.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "upi_facility_016",
+      "upi_facility_013",
+      "upi_facility_010",
+      "cs_news_44_1",
+      "upi_facility_025",
+      "upi_facility_002",
+      "cs_news_149_1",
+      "upi_facility_003",
+      "cs_news_44_2",
+      "cs_news_7_2"
+    ]
+  },
+  {
+    "query": "Layanan perbankan apa saja tersedia di UPI dan fungsi KTM Combo?",
+    "type": "Fasilitas UPI",
+    "gold_doc_ids": [
+      "upi_facility_021"
+    ],
+    "gold_answer": "KCP BNI, ATM BJB/BRI/Mandiri; KTM Combo sebagai kartu debit BNI dan BNI TapCash untuk UKT, parkir, dan transaksi lain.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "upi_facility_021",
+      "upi_facility_013",
+      "cs_news_199_1",
+      "upi_facility_011",
+      "cs_news_7_1",
+      "upi_facility_010",
+      "cs_admin_services_001",
+      "upi_facility_017",
+      "cs_news_88_1",
+      "fpmipa_facility_009"
+    ]
+  },
+  {
+    "query": "Apa fungsi Gymnasium UPI?",
+    "type": "Fasilitas UPI",
+    "gold_doc_ids": [
+      "upi_facility_017"
+    ],
+    "gold_answer": "Gedung serbaguna untuk Basket, Voli, Futsal, Tenis Meja, Bulutangkis, serta pembelajaran, wisuda, orientasi, dan kejuaraan.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "upi_facility_017",
+      "upi_facility_008",
+      "cs_news_7_1",
+      "upi_facility_006",
+      "upi_facility_002",
+      "upi_facility_007",
+      "upi_facility_005",
+      "upi_facility_003",
+      "cs_kemakom_group_1",
+      "fpmipa_facility_013"
+    ]
+  },
+  {
+    "query": "Apa ikon keagamaan utama UPI dan fungsinya?",
+    "type": "Fasilitas UPI",
+    "gold_doc_ids": [
+      "upi_facility_010"
+    ],
+    "gold_answer": "Masjid Al‑Furqon; pusat kegiatan keagamaan, salat berjamaah lima waktu dan Salat Jumat, terbuka untuk umum.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "upi_facility_010",
+      "upi_facility_022",
+      "cs_news_220_1",
+      "upi_facility_002",
+      "upi_facility_023",
+      "upi_facility_025",
+      "upi_facility_018",
+      "cs_news_129_1",
+      "cs_news_140_1",
+      "cs_news_149_1"
+    ]
+  },
+  {
+    "query": "Apa gelar lulusan Program Studi Magister Pendidikan Ilmu Komputer?",
+    "type": "MCS Kurikulum",
+    "gold_doc_ids": [
+      "cse_mag_kurikulum_gelar_001"
+    ],
+    "gold_answer": "Gelar lulusan adalah M.Pd.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cse_mag_kurikulum_gelar_001",
+      "cs_curriculum_pik_gelar_001",
+      "cse_mag_kurikulum_profil_001",
+      "cs_master_proginfo_mission_001",
+      "cs_proginfo_overview_002",
+      "cse_mag_kurikulum_tujuan_001",
+      "cs_master_proginfo_goals_001",
+      "cse_mag_kurikulum_analisis_lptk_001b",
+      "cse_proginfo_goals_lulusan_001",
+      "cs_master_proginfo_vision_001"
+    ]
+  },
+  {
+    "query": "Berapa total SKS dan distribusi per semester pada kurikulum Magister Pendidikan Ilmu Komputer?",
+    "type": "MCS Kurikulum",
+    "gold_doc_ids": [
+      "cse_mag_kurikulum_struktur_002"
+    ],
+    "gold_answer": "Total 38 SKS; Semester I 12, Semester II 12, Semester III 6, Semester IV 8.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cse_mag_kurikulum_struktur_002",
+      "cs_curriculum_pik_list_rekap_total_001",
+      "cse_mag_kurikulum_mkkips_001",
+      "cse_mag_kurikulum_mkkps_001",
+      "cs_proginfo_courses_001_s1_s2",
+      "cse_mag_kurikulum_tesis_001",
+      "cs_proginfo_courses_001_s5_s6",
+      "cs_proginfo_courses_001_s7_s8",
+      "cs_curriculum_pik_list_mkkf_001",
+      "cs_curriculum_pik_list_pengantar_001"
+    ]
+  },
+  {
+    "query": "Berapa total SKS MKKPs, MKKIPS, MKKPPS, dan Tesis di kurikulum Magister Pendidikan Ilmu Komputer?",
+    "type": "MCS Kurikulum",
+    "gold_doc_ids": [
+      "cse_mag_kurikulum_struktur_002"
+    ],
+    "gold_answer": "MKKPs 7 SKS, MKKIPS 17 SKS, MKKPPS 6 SKS, Tesis 8 SKS.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cse_mag_kurikulum_struktur_002",
+      "cse_mag_kurikulum_tesis_001",
+      "cs_curriculum_pik_list_rekap_total_001",
+      "cs_proginfo_curriculum_003_credits",
+      "cse_mag_kurikulum_mkkips_001",
+      "cs_curriculum_pik_list_mkkips_multimedia_001",
+      "cse_mag_kurikulum_mkkps_001",
+      "cse_mag_kurikulum_mkkpps_001",
+      "cs_curriculum_pik_list_mkkips_001_part2",
+      "cs_curriculum_pik_struktur_pengantar_002"
+    ]
+  },
+  {
+    "query": "Sebutkan contoh mata kuliah magister pendidikan ilmu komputer MKKPs beserta SKS-nya.",
+    "type": "MCS Kurikulum",
+    "gold_doc_ids": [
+      "cse_mag_kurikulum_mkkps_001"
+    ],
+    "gold_answer": "PS701 Statistika Terapan (3 SKS), PS702 Filsafat Ilmu (2 SKS), PS703 Kajian Pedagogik (2 SKS).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cse_mag_kurikulum_mkkips_001",
+      "cs_proginfo_curriculum_003_credits",
+      "cse_mag_kurikulum_mkkpps_001",
+      "cs_proginfo_mapping_mkkps",
+      "cse_mag_kurikulum_mkkps_001",
+      "cse_mag_kurikulum_struktur_002",
+      "cse_mag_kurikulum_tesis_001",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_curriculum_pik_list_pengantar_001",
+      "cse_mag_kurikulum_gelar_001"
+    ]
+  },
+  {
+    "query": "Sebutkan dua mata kuliah inti prodi (MKKIPS) di kurikulum magister pendidikan ilmu komputer.",
+    "type": "MCS Kurikulum",
+    "gold_doc_ids": [
+      "cse_mag_kurikulum_mkkips_001"
+    ],
+    "gold_answer": "IK700 Metodologi Penelitian Pendidikan Ilmu Komputer (3 SKS) dan IK710 Berpikir Komputasional (2 SKS).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cse_mag_kurikulum_mkkips_001",
+      "cs_curriculum_pik_list_mkkips_001_part2",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002",
+      "cs_proginfo_curriculum_003_cg_4_6",
+      "cse_mag_kurikulum_mkkps_001",
+      "cs_proginfo_curriculum_003_credits",
+      "cse_mag_kurikulum_struktur_002",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_curriculum_pik_list_mkkips_multimedia_001",
+      "cse_mag_kurikulum_mkkpps_001"
+    ]
+  },
+  {
+    "query": "Berapa SKS tesis dan kodenya pada program magister?",
+    "type": "MCS Kurikulum",
+    "gold_doc_ids": [
+      "cse_mag_kurikulum_tesis_001"
+    ],
+    "gold_answer": "8 SKS, kode IK798 (Tesis).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cse_mag_kurikulum_tesis_001",
+      "cse_mag_kurikulum_struktur_002",
+      "cs_proginfo_courses_001_s7_s8",
+      "cse_mag_kurikulum_mkkps_001",
+      "cse_mag_kurikulum_kajian_001b",
+      "cs_curriculum_pik_list_mkppl_001",
+      "cs_proginfo_curriculum_003_credits",
+      "cs_proginfo_plomapping_008",
+      "cs_quality_assurance_sop_001",
+      "cs_news_216_1"
+    ]
+  },
+  {
+    "query": "Berapa total SKS mata kuliah magister pendidikan ilmu komputer matrikulasi (aanvullen) dan contohnya?",
+    "type": "MCS Kurikulum",
+    "gold_doc_ids": [
+      "cse_mag_kurikulum_matrikulasi_001"
+    ],
+    "gold_answer": "Total 12 SKS; contoh: IK131 Algoritma dan Pemrograman (3), IK213 Jaringan Komputer (3), IK211 Sistem Basis Data (3).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cse_mag_kurikulum_matrikulasi_001",
+      "cse_mag_kurikulum_struktur_002",
+      "cse_mag_kurikulum_mkkips_001",
+      "cs_proginfo_curriculum_003_credits",
+      "cse_mag_kurikulum_mkkps_001",
+      "cse_mag_kurikulum_mkkpps_001",
+      "cs_curriculum_pik_list_rekap_total_001",
+      "cs_proginfo_courses_001_summary",
+      "cse_mag_kurikulum_tesis_001",
+      "cs_curriculum_pik_list_mkppl_001"
+    ]
+  },
+  {
+    "query": "Apa tujuan umum program magister Pendidikan Ilmu Komputer?",
+    "type": "MCS Kurikulum",
+    "gold_doc_ids": [
+      "cse_mag_kurikulum_tujuan_001",
+      "cs_master_proginfo_goals_001"
+    ],
+    "gold_answer": "Menghasilkan lulusan beriman/bertakwa, berjiwa Pancasila, menguasai teori dan implementasi bidang pendidikan, RPL, multimedia, jaringan, mampu meneliti mandiri, siap berkarya di tingkat nasional/internasional, dan membangun jejaring/komunikasi.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_master_proginfo_goals_001",
+      "cse_mag_kurikulum_tujuan_001",
+      "cs_master_proginfo_mission_001",
+      "cse_mag_kurikulum_analisis_lptk_001b",
+      "cse_mag_kurikulum_profil_001",
+      "cs_master_proginfo_vision_001",
+      "cse_mag_kurikulum_gelar_001",
+      "cs_news_149_1",
+      "cs_news_216_1",
+      "cs_news_91_1"
+    ]
+  },
+  {
+    "query": "Kapan Depilkom UPI didirikan dan kapan menjadi departemen?",
+    "type": "overview",
+    "gold_doc_ids": [
+      "cse_doc_1"
+    ],
+    "gold_answer": "Didirikan 2005; sejak 2015 resmi menjadi Departemen Pendidikan Ilmu Komputer.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cse_doc_1",
+      "cs_news_177_1",
+      "cs_news_195_1",
+      "cs_news_146_1",
+      "cs_kemakom_group_1",
+      "cs_alumni_ika_001",
+      "cs_proginfo_overview_002",
+      "cs_curriculum_pik_tujuan_001",
+      "cs_news_153_1",
+      "cs_kemakom_group_2"
+    ]
+  },
+  {
+    "query": "Apa dua program studi S1 di Depilkom dan gelarnya?",
+    "type": "overview",
+    "gold_doc_ids": [
+      "cse_doc_1"
+    ],
+    "gold_answer": "S1 Ilmu Komputer (S.Kom.) dan S1 Pendidikan Ilmu Komputer (S.Pd.).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cse_doc_1",
+      "cs_curriculum_pik_gelar_001",
+      "cs_news_172_1",
+      "cs_proginfo_overview_002",
+      "cs_news_149_1",
+      "cs_news_161_1",
+      "cs_news_52_1",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002",
+      "cs_proginfo_curriculum_003_cg_4_6",
+      "cs_proginfo_curriculum_003_desc"
+    ]
+  },
+  {
+    "query": "Sejak kapan Prodi S2 Pendidikan Ilmu Komputer ada di Depilkom?",
+    "type": "overview",
+    "gold_doc_ids": [
+      "cse_doc_1"
+    ],
+    "gold_answer": "Sejak 21 Januari 2021 berdasarkan surat rektor 124/UN40/HK.02/2021/; menerima mahasiswa baru mulai semester ganjil 2021/2022.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cse_doc_1",
+      "cs_proginfo_overview_002",
+      "cs_curriculum_pik_tujuan_001",
+      "cse_mag_kurikulum_analisis_lptk_001b",
+      "cs_news_217_1",
+      "cs_news_122_1",
+      "cs_person_wahyudin_003",
+      "cs_curriculum_pik_gelar_001",
+      "cs_master_proginfo_mission_001",
+      "cse_proginfo_mission_001"
+    ]
+  },
+  {
+    "query": "Berapa persen lulusan dua prodi S1 Depilkom yang bekerja kurang dari 5 bulan?",
+    "type": "overview",
+    "gold_doc_ids": [
+      "cse_doc_1"
+    ],
+    "gold_answer": "Lebih dari 92% bekerja kurang dari 5 bulan setelah lulus.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cse_doc_1",
+      "cse_proginfo_goals_lulusan_001",
+      "csik_prog_goals_2016_graduates",
+      "cs_alumni_stakeholder_001",
+      "cs_news_169_1",
+      "csik_prog_goals_2016_strategies_1_15",
+      "cse_mag_kurikulum_profil_001",
+      "cs_news_209_1",
+      "cs_admission_s2_001",
+      "cs_news_167_1"
+    ]
+  },
+  {
+    "query": "Apa saja jalur seleksi masuk Program Sarjana (S1) UPI?",
+    "type": "Pendaftaran",
+    "gold_doc_ids": [
+      "cs_admission_s1_001"
+    ],
+    "gold_answer": "Jalur seleksi S1 UPI: SNMPTN, SBMPTN (UTBK), Seleksi Mandiri UPI (SM UPI), dan Prestasi Istimewa.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_admission_s1_001",
+      "cs_news_7_1",
+      "cs_admission_s2_001",
+      "cse_doc_1",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_proginfo_exam_001_desc_p5_s03",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_penilaian_pik_005",
+      "cs_news_12_1",
+      "cs_news_216_1"
+    ]
+  },
+  {
+    "query": "Berapa biaya pendaftaran seleksi Magister (S2) UPI?",
+    "type": "Pendaftaran",
+    "gold_doc_ids": [
+      "cs_admission_s2_001"
+    ],
+    "gold_answer": "Biaya pendaftaran & seleksi Magister (S2) adalah Rp750.000 per peserta.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_admission_s2_001",
+      "cs_admission_s1_001",
+      "cs_news_7_1",
+      "upi_facility_001",
+      "cs_news_216_1",
+      "cs_scholarship_jfls",
+      "cs_news_173_1",
+      "cs_admin_services_001",
+      "cs_news_156_1",
+      "cs_scholarship_beasiswa_unggulan"
+    ]
+  },
+  {
+    "query": "Berapa total daya tampung Prodi Ilmu Komputer tahun 2021 dan rinciannya (pendaftaran)?",
+    "type": "Pendaftaran",
+    "gold_doc_ids": [
+      "cs_admission_s1_001"
+    ],
+    "gold_answer": "Total 90 (SNMPTN 31, SBMPTN 41, SM/Prestasi 18).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_admission_s1_001",
+      "csik_prog_goals_2016_students",
+      "cse_doc_1",
+      "cs_proginfo_overview_002",
+      "csik_prog_goals_2016_graduates",
+      "csik_prog_goals_2016_research",
+      "cs_admin_services_001",
+      "cs_admission_s2_001",
+      "cs_proginfo_vision_001",
+      "cs_scholarship_ppa"
+    ]
+  },
+  {
+    "query": "Berapa total daya tampung pendaftaran Prodi Pendidikan Ilmu Komputer tahun 2019 dan rinciannya?",
+    "type": "Pendaftaran",
+    "gold_doc_ids": [
+      "cs_admission_s1_001"
+    ],
+    "gold_answer": "Total 90 (SNMPTN 27, SBMPTN 41, SM/Prestasi 22).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_admission_s1_001",
+      "cs_proginfo_overview_002",
+      "cse_doc_1",
+      "cse_mag_kurikulum_struktur_002",
+      "cs_curriculum_pik_tujuan_001",
+      "cse_proginfo_mission_001",
+      "cs_news_199_1",
+      "cs_admin_services_001",
+      "cs_admission_s2_001",
+      "cse_proginfo_vision_001"
+    ]
+  },
+  {
+    "query": "Berapa maksimal pilihan program studi saat mendaftar S2 UPI?",
+    "type": "Pendaftaran",
+    "gold_doc_ids": [
+      "cs_admission_s2_001"
+    ],
+    "gold_answer": "Pendaftar S2 boleh memilih dua program studi.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_admission_s2_001",
+      "cse_doc_1",
+      "cs_admission_s1_001",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_admin_services_001",
+      "cs_news_216_1",
+      "cs_scholarship_jfls",
+      "cs_scholarship_beasiswa_unggulan",
+      "cs_proginfo_exam_001_desc_p5_s07"
+    ]
+  },
+  {
+    "query": "Apa saja komponen tes seleksi untuk PMBP S2 UPI?",
+    "type": "Pendaftaran",
+    "gold_doc_ids": [
+      "cs_admission_s2_001"
+    ],
+    "gold_answer": "Tes Potensi Akademik, Tes Bahasa Inggris, dan Wawancara.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_admission_s2_001",
+      "cs_admission_s1_001",
+      "cs_penilaian_pik_006",
+      "cs_proginfo_exam_001_desc_p5_s06",
+      "cs_news_7_1",
+      "cs_news_43_1",
+      "cs_proginfo_exam_001_desc_p1",
+      "cs_penilaian_pik_004",
+      "cs_news_216_1",
+      "cs_proginfo_exam_001_desc_p3"
+    ]
+  },
+  {
+    "query": "Apa itu tracer study alumni dan untuk apa hasilnya digunakan?",
+    "type": "alumni",
+    "gold_doc_ids": [
+      "cs_alumni_tracer_001"
+    ],
+    "gold_answer": "Tracer study mengumpulkan profil dan masukan alumni via kuesioner online; hasilnya dipakai untuk perbaikan kurikulum dan pembelajaran.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_alumni_tracer_001",
+      "cs_alumni_stakeholder_001",
+      "cs_quality_assurance_internal_002",
+      "cs_proginfo_qualification_002",
+      "cs_news_203_1",
+      "cs_proginfo_exam_001_desc_p5_s05",
+      "cs_penilaian_pik_003",
+      "cs_news_88_1",
+      "cs_proginfo_exam_001_desc_p4",
+      "cs_news_216_1"
+    ]
+  },
+  {
+    "query": "Siapa Ketua IKA ILKOM UPI periode 2020–2022?",
+    "type": "alumni",
+    "gold_doc_ids": [
+      "cs_alumni_ika_001"
+    ],
+    "gold_answer": "Ketua IKA ILKOM UPI periode 2020–2022 adalah Toni Haryanto, S.Pd.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_alumni_ika_001",
+      "cs_news_181_1",
+      "cs_news_125_1",
+      "cs_kemakom_group_2",
+      "cs_kemakom_group_1",
+      "cs_news_171_1",
+      "cs_news_128_1",
+      "cs_news_97_1",
+      "cs_news_81_1",
+      "cs_news_156_1"
+    ]
+  },
+  {
+    "query": "Apa kelemahan utama yang diidentifikasi stakeholder pada alumni Ilmu Komputer?",
+    "type": "alumni",
+    "gold_doc_ids": [
+      "cs_alumni_stakeholder_001"
+    ],
+    "gold_answer": "Kemampuan berbicara bahasa Inggris dinilai masih rendah.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_alumni_stakeholder_001",
+      "cs_proginfo_objective_001",
+      "cs_news_129_1",
+      "cs_proginfo_qualification_002",
+      "cs_proginfo_mission_001",
+      "cse_mag_kurikulum_analisis_profesi_001",
+      "cs_curriculum_pik_profil_001",
+      "cs_news_80_1",
+      "cs_news_40_1",
+      "cs_news_140_1"
+    ]
+  },
+  {
+    "query": "Bagaimana penilaian pengguna lulusan terhadap alumni Pendidikan Ilmu Komputer?",
+    "type": "alumni",
+    "gold_doc_ids": [
+      "cs_alumni_stakeholder_001"
+    ],
+    "gold_answer": "Mayoritas aspek dinilai baik–sangat baik; integritas dan komunikasi mendapat >94% penilaian sangat baik.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_alumni_stakeholder_001",
+      "cs_news_75_2",
+      "cse_mag_kurikulum_profil_001",
+      "cs_curriculum_pik_profil_001",
+      "cs_proginfo_qualification_002",
+      "cs_alumni_tracer_001",
+      "cs_proginfo_exam_001_plo_mapping",
+      "cs_news_157_1",
+      "cse_proginfo_goals_lulusan_001",
+      "cs_news_18_1"
+    ]
+  },
+  {
+    "query": "Apa fokus Kelompok Bidang Keahlian Lingkungan Pembelajaran Cerdas?",
+    "type": "Keahlian",
+    "gold_doc_ids": [
+      "pceb_competency_sle_01"
+    ],
+    "gold_answer": "Teknologi cerdas untuk lingkungan pembelajaran (Smart Learning Environment).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "pceb_competency_sle_01",
+      "cs_news_52_1",
+      "pcem_competency_policy_ict_01",
+      "pcb_competency_artificial_intelligence_01",
+      "pceb_competency_digital_pedagogik_didaktik_01",
+      "cs_proginfo_curriculum_003_cg_4_6",
+      "cs_curriculum_pik_mkkf_mkkpbs_002",
+      "pcem_competency_tbls_01",
+      "pceb_competency_steam_01",
+      "cs_news_132_1"
+    ]
+  },
+  {
+    "query": "Siapa ketua Kelompok Bidang Keahlian Sistem Pembelajaran Berbasis Teknologi?",
+    "type": "Keahlian",
+    "gold_doc_ids": [
+      "pcem_competency_tbls_01"
+    ],
+    "gold_answer": "Ketua KBK Sistem Pembelajaran Berbasis Teknologi adalah Dr. Rasim, M.T.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "pcem_competency_tbls_01",
+      "pceb_competency_sle_01",
+      "pcem_competency_policy_ict_01",
+      "pceb_competency_steam_01",
+      "pceb_competency_digital_pedagogik_didaktik_01",
+      "pcb_competency_artificial_intelligence_01",
+      "pcb_competency_multimedia_network_01",
+      "pcb_competency_rplmi_01",
+      "cs_news_229_1",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002"
+    ]
+  },
+  {
+    "query": "Siapa ketua Kelompok Bidang Keahlian Kebijakan Pendidikan dan Manajemen Pendidikan TIK?",
+    "type": "Keahlian",
+    "gold_doc_ids": [
+      "pcem_competency_policy_ict_01"
+    ],
+    "gold_answer": "Ketua KBK Kebijakan Pendidikan dan Manajemen Pendidikan TIK adalah Prof. Dr. Munir, M.IT.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "pcem_competency_policy_ict_01",
+      "pceb_competency_steam_01",
+      "pcem_competency_tbls_01",
+      "pceb_competency_digital_pedagogik_didaktik_01",
+      "pcb_competency_multimedia_network_01",
+      "pceb_competency_sle_01",
+      "pcb_competency_rplmi_01",
+      "pcb_competency_artificial_intelligence_01",
+      "cs_person_enjang_ali_nurdin_s1pik_015",
+      "cs_curriculum_pik_penempatan_rincian_002"
+    ]
+  },
+  {
+    "query": "Siapa ketua Kelompok Bidang Keahlian Multimedia dan Jaringan?",
+    "type": "Keahlian",
+    "gold_doc_ids": [
+      "pcb_competency_multimedia_network_01"
+    ],
+    "gold_answer": "Ketua KBK Multimedia dan Jaringan adalah Prof. Rasim, M.T.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "pcb_competency_multimedia_network_01",
+      "pceb_competency_steam_01",
+      "pcb_competency_rplmi_01",
+      "pceb_competency_sle_01",
+      "pcb_competency_artificial_intelligence_01",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_proginfo_curriculum_003_expertise",
+      "cse_mag_plo_qual_map_002",
+      "cs_proginfo_plomapping_011"
+    ]
+  },
+  {
+    "query": "Sejak kapan Prodi Ilmu Komputer UPI menyelenggarakan pendidikan dan apa akreditasinya saat ini?",
+    "type": "Program Info",
+    "gold_doc_ids": [
+      "cs_proginfo_overview_002"
+    ],
+    "gold_answer": "Penyelenggaraan sejak 17 Juli 2005; akreditasi Unggul (LAM INFOKOM No. 002/SK/LAM-INFOKOM/Ak.Int/S/XII/2023).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cse_doc_1",
+      "cs_proginfo_overview_002",
+      "cs_curriculum_pik_tujuan_001",
+      "cs_news_122_1",
+      "cs_news_179_1",
+      "cs_news_151_1",
+      "cs_news_128_1",
+      "cs_news_11_1",
+      "cs_news_140_1",
+      "cs_news_150_1"
+    ]
+  },
+  {
+    "query": "Apa gelar untuk lulusan Program Studi Ilmu Komputer UPI?",
+    "type": "Program Info",
+    "gold_doc_ids": [
+      "cs_proginfo_overview_002"
+    ],
+    "gold_answer": "Gelar lulusan adalah Sarjana Komputer (S.Kom).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cse_doc_1",
+      "cs_proginfo_overview_002",
+      "cs_curriculum_pik_gelar_001",
+      "cse_mag_kurikulum_gelar_001",
+      "cs_news_150_1",
+      "cs_news_179_1",
+      "cs_news_47_1",
+      "cs_curriculum_pik_tujuan_001",
+      "cs_alumni_stakeholder_001",
+      "cs_news_80_1"
+    ]
+  },
+  {
+    "query": "Berapa total SKS pada ringkasan daftar mata kuliah Prodi Ilmu Komputer?",
+    "type": "CS Kurikulum",
+    "gold_doc_ids": [
+      "cs_proginfo_courses_001_summary"
+    ],
+    "gold_answer": "Total SKS adalah 146 (total mata kuliah 41).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_list_rekap_total_001",
+      "cs_proginfo_courses_001_summary",
+      "cs_proginfo_curriculum_003_credits",
+      "cse_mag_kurikulum_struktur_002",
+      "cs_curriculum_pik_list_mkkips_multimedia_001",
+      "cs_proginfo_courses_001_s1_s2",
+      "cs_curriculum_pik_list_mkkips_001_part2",
+      "cs_proginfo_courses_001_s7_s8",
+      "cs_proginfo_courses_001_s5_s6",
+      "cse_mag_kurikulum_mkkps_001"
+    ]
+  },
+  {
+    "query": "Berapa distribusi SKS per kategori (MKU, MKKU, MKKF, MKKIPS, MKKPS, MKPPL)?",
+    "type": "CS Kurikulum",
+    "gold_doc_ids": [
+      "cs_proginfo_curriculum_003_credits"
+    ],
+    "gold_answer": "MKU 14, MKKU 2, MKKF 6, MKKIPS 102, MKKPS 9, MKPPL 4 SKS.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_curriculum_003_credits",
+      "cse_mag_kurikulum_struktur_002",
+      "cs_curriculum_pik_list_rekap_total_001",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_curriculum_pik_list_mku_001_part2",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_proginfo_plomapping_002",
+      "cs_proginfo_plomapping_001",
+      "cs_proginfo_plomapping_004"
+    ]
+  },
+  {
+    "query": "Apa isi PLO-3 pada Prodi Ilmu Komputer UPI?",
+    "type": "CS Kurikulum",
+    "gold_doc_ids": [
+      "cs_proginfo_plo_002"
+    ],
+    "gold_answer": "Menguasai konsep teoritis komputasi, algoritma, dan pemrograman termasuk RPL, AI, multimedia, jaringan, analisis data, dan sistem informasi.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_mapping_mkkips_part2",
+      "cs_penilaian_pik_009",
+      "cs_proginfo_mapping_mkkips_part4",
+      "cs_proginfo_mapping_mkkips_part3",
+      "cs_proginfo_plomapping_006",
+      "cse_doc_1",
+      "cs_quality_assurance_cycle_001",
+      "cs_news_179_1",
+      "cs_news_140_1",
+      "cs_news_15_2"
+    ]
+  },
+  {
+    "query": "Sebutkan mata kuliah semester 1 pada kurikulum Prodi Ilmu Komputer.",
+    "type": "CS Kurikulum",
+    "gold_doc_ids": [
+      "cs_proginfo_courses_001_s1_s2"
+    ],
+    "gold_answer": "Semester 1: Pendidikan Agama (2), Pendidikan Kewarganegaraan (2), Bahasa Indonesia (2), Programming Fundamentals (4), Algebra and Number Theory (4), Discrete and Numerical Methods (4).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_courses_001_s1_s2",
+      "cs_curriculum_pik_list_mkkips_001_part1",
+      "cs_curriculum_pik_list_mkkf_001",
+      "cs_curriculum_pik_list_mkkpbs_001",
+      "cs_curriculum_pik_list_mkdk_001",
+      "cse_mag_kurikulum_mkkips_001",
+      "cse_mag_kurikulum_struktur_002",
+      "cs_curriculum_pik_list_mkppl_001",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_curriculum_pik_list_pengantar_001"
+    ]
+  },
+  {
+    "query": "Apa saja kelompok mata kuliah dalam struktur kurikulum S1 UPI untuk Prodi Ilmu Komputer?",
+    "type": "CS Kurikulum",
+    "gold_doc_ids": [
+      "cs_proginfo_curriculum_003_desc"
+    ],
+    "gold_answer": "MKU, MKDK, MKKF, MKKPBS, MKIPS, dan MKKPS.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_curriculum_003_desc",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_proginfo_curriculum_003_cg_1_3",
+      "cs_curriculum_pik_mku_mkdk_002",
+      "cs_proginfo_curriculum_003_cg_4_6",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002",
+      "cs_curriculum_pik_mkkf_mkkpbs_002",
+      "cs_proginfo_curriculum_003_credits",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cse_mag_kurikulum_struktur_002"
+    ]
+  },
+  {
+    "query": "Apa metode pembelajaran yang dipetakan untuk PLO-2?",
+    "type": "Metode Pembelajaran",
+    "gold_doc_ids": [
+      "cs_proginfo_teach_001_methods"
+    ],
+    "gold_answer": "Ceramah, diskusi, simposium, brainstorming, laboratorium/praktikum, demonstrasi, simulasi, pengalaman lapangan.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_teach_001_methods",
+      "cs_metode_pengajaran_pik_001",
+      "cs_penilaian_pik_009",
+      "cs_proginfo_mapping_mkkips_part2",
+      "cs_proginfo_teach_001_overview_strategies",
+      "cs_proginfo_plomapping_006",
+      "cs_proginfo_mapping_mkppl",
+      "cs_proginfo_plomapping_003",
+      "cs_facility_010",
+      "cs_penilaian_pik_003"
+    ]
+  },
+  {
+    "query": "Bagaimana pedoman penentuan nilai mata kuliah (rentang A–E)?",
+    "type": "Metode Penilaian",
+    "gold_doc_ids": [
+      "cs_proginfo_exam_001_grades"
+    ],
+    "gold_answer": "A (92–100), A− (86–91), B+ (81–85), B (76–80), B− (71–75), C+ (66–70), C (60–65), D (55–59; minimal kelulusan), E (0–54; harus mengulang).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_exam_001_grades",
+      "cs_penilaian_pik_007",
+      "cs_penilaian_pik_008",
+      "cs_proginfo_exam_001_desc_p5_s06",
+      "cs_penilaian_pik_006",
+      "cs_proginfo_exam_001_desc_p5_s07",
+      "cs_proginfo_exam_001_desc_p4",
+      "cs_proginfo_exam_001_desc_p5_s09",
+      "cs_proginfo_teach_001_others",
+      "cs_metode_pengajaran_pik_002"
+    ]
+  },
+  {
+    "query": "Apa komponen penilaian umum dan persentasenya di setiap mata kuliah?",
+    "type": "Metode Penilaian",
+    "gold_doc_ids": [
+      "cs_proginfo_exam_001_desc_p5_s06"
+    ],
+    "gold_answer": "Kehadiran 5%; partisipasi/kuis/tugas/presentasi 15%; praktikum 10%; UTS 35%; UAS 35%.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_exam_001_desc_p5_s06",
+      "cs_penilaian_pik_006",
+      "cs_proginfo_exam_001_desc_p5_s08",
+      "cs_proginfo_exam_001_desc_p1",
+      "cs_penilaian_pik_001",
+      "cs_penilaian_pik_008",
+      "cs_proginfo_exam_001_desc_p3",
+      "cs_penilaian_pik_002",
+      "cs_penilaian_pik_007",
+      "cs_penilaian_pik_004"
+    ]
+  },
+  {
+    "query": "Berapa frekuensi perkuliahan per semester dan ketentuan UTS/UAS?",
+    "type": "Metode Penilaian",
+    "gold_doc_ids": [
+      "cs_proginfo_exam_001_desc_p2"
+    ],
+    "gold_answer": "16 pertemuan/semester: 14 kuliah, UTS pertemuan ke-8, UAS pertemuan ke-16; syarat UAS hadir ≥80%.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_exam_001_desc_p2",
+      "cs_penilaian_pik_001",
+      "cs_proginfo_exam_001_desc_p3",
+      "cs_penilaian_pik_002",
+      "cs_proginfo_exam_001_desc_p4",
+      "cs_proginfo_exam_001_desc_p5_s06",
+      "cs_news_120_1",
+      "cs_news_62_1",
+      "cse_mag_kurikulum_struktur_002",
+      "cs_admission_s2_001"
+    ]
+  },
+  {
+    "query": "Apa jalur penyelesaian akhir (penilaian akhir) studi S1 di Prodi Ilmu Komputer?",
+    "type": "Metode Penilaian",
+    "gold_doc_ids": [
+      "cs_proginfo_exam_001_desc_p5_s03"
+    ],
+    "gold_answer": "Dua jalur: tanpa skripsi (IPK 2.00–2.50, ambil 6 SKS + makalah) atau jalur skripsi (≥105 SKS, IPK ≥2,50, lulus prasyarat).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_penilaian_pik_005",
+      "cs_proginfo_exam_001_desc_p5_s03",
+      "cs_proginfo_exam_001_desc_p1",
+      "cs_penilaian_pik_001",
+      "cs_penilaian_pik_006",
+      "cs_proginfo_overview_002",
+      "cs_proginfo_exam_001_desc_p5_s04",
+      "cs_admission_s1_001",
+      "cse_doc_1",
+      "cs_proginfo_objective_001"
+    ]
+  },
+  {
+    "query": "Apa dua sistem penjaminan mutu menurut Permenristekdikti No 62 Tahun 2016?",
+    "type": "Quality Assurance",
+    "gold_doc_ids": [
+      "cs_quality_assurance_cycle_001"
+    ],
+    "gold_answer": "Sistem penjaminan mutu internal dan sistem penjaminan mutu eksternal.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_quality_assurance_cycle_001",
+      "cs_quality_assurance_external_001",
+      "cs_quality_assurance_internal_002",
+      "cs_quality_assurance_internal_001",
+      "cs_prestasi_group_2",
+      "cs_news_44_1",
+      "cs_exchange_mbkm_perm_001",
+      "cs_news_161_1",
+      "cs_exchange_mbkm_other_001",
+      "cs_news_217_1"
+    ]
+  },
+  {
+    "query": "Sebutkan delapan standar SN-Dikti yang mendukung Tridharma dalam siklus mutu.",
+    "type": "Quality Assurance",
+    "gold_doc_ids": [
+      "cs_quality_assurance_cycle_001"
+    ],
+    "gold_answer": "Standar keluaran, isi, proses, penilaian, sumber daya manusia, fasilitas, pembiayaan, dan pengelolaan.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_quality_assurance_cycle_001",
+      "cs_quality_assurance_internal_001",
+      "cs_quality_assurance_internal_002",
+      "csik_prog_goals_2016_collab_qms_pkm",
+      "cs_news_28_1",
+      "cs_quality_assurance_external_001",
+      "csik_prog_goals_2016_graduates",
+      "cs_news_31_1",
+      "cs_news_16_1",
+      "cs_proginfo_plomapping_004"
+    ]
+  },
+  {
+    "query": "Siapa Koordinator penjaminan mutu untuk Prodi Pendidikan Ilmu Komputer dan Prodi Ilmu Komputer?",
+    "type": "Quality Assurance",
+    "gold_doc_ids": [
+      "cs_quality_assurance_internal_001"
+    ],
+    "gold_answer": "Drs. H. Enjang Ali Nurdin, M.T. (Pendidikan Ilmu Komputer) dan Dr. Rasim, M.T. (Ilmu Komputer).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_quality_assurance_internal_001",
+      "cs_news_75_2",
+      "cs_person_lala_septem_riza_002",
+      "cs_quality_assurance_external_001",
+      "cs_person_wahyudin_003",
+      "cs_quality_assurance_internal_002",
+      "cs_quality_assurance_cycle_001",
+      "cs_person_munir_s2pik_028",
+      "cse_proginfo_mission_001",
+      "cs_quality_assurance_sop_001"
+    ]
+  },
+  {
+    "query": "Kapan setiap program studi menyampaikan laporan pencapaian kinerja tahunan untuk AMI?",
+    "type": "Quality Assurance",
+    "gold_doc_ids": [
+      "cs_quality_assurance_internal_001"
+    ],
+    "gold_answer": "Setiap bulan September–Oktober.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_quality_assurance_internal_001",
+      "cs_quality_assurance_internal_002",
+      "csik_prog_goals_2016_strategies_1_15",
+      "cs_quality_assurance_external_001",
+      "cs_exchange_mbkm_perm_001",
+      "cs_news_226_1",
+      "cs_news_110_1",
+      "cs_proginfo_exam_001_desc_p5_s08",
+      "cs_proginfo_teach_001_others",
+      "cs_news_10_1"
+    ]
+  },
+  {
+    "query": "Seberapa sering prodi melaporkan capaian IKU/IKK dan melalui portal apa?",
+    "type": "Quality Assurance",
+    "gold_doc_ids": [
+      "cs_quality_assurance_internal_002"
+    ],
+    "gold_answer": "Dua kali setahun (tengah tahun dan akhir tahun) melalui e-reporting.upi.edu.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_quality_assurance_internal_002",
+      "cs_quality_assurance_internal_001",
+      "cs_news_179_1",
+      "cs_proginfo_exam_001_desc_p5_s08",
+      "cs_proginfo_exam_001_desc_p1",
+      "cs_penilaian_pik_008",
+      "cs_news_15_2",
+      "cs_news_32_2",
+      "cs_news_167_1",
+      "cs_admin_services_001"
+    ]
+  },
+  {
+    "query": "Kapan batas waktu laporan kemajuan dan laporan akhir penelitian yang dikoordinasikan LPPM?",
+    "type": "Quality Assurance",
+    "gold_doc_ids": [
+      "cs_quality_assurance_internal_002"
+    ],
+    "gold_answer": "Kemajuan: Agustus–September; Laporan akhir: November–Desember.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_quality_assurance_internal_002",
+      "cs_proginfo_exam_001_desc_p5_s02",
+      "cs_penilaian_pik_004",
+      "csik_prog_goals_2016_strategies_16_31",
+      "cs_proginfo_exam_001_desc_p5_s04",
+      "upi_facility_023",
+      "csik_prog_goals_2016_strategies_1_15",
+      "cs_proginfo_teach_001_others",
+      "cs_metode_pengajaran_pik_002",
+      "cs_news_63_1"
+    ]
+  },
+  {
+    "query": "Di mana dosen melaporkan BKD setiap semester?",
+    "type": "Quality Assurance",
+    "gold_doc_ids": [
+      "cs_quality_assurance_internal_002"
+    ],
+    "gold_answer": "Melalui http://bkd.upi.edu.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_quality_assurance_internal_002",
+      "csik_prog_goals_2016_strategies_1_15",
+      "cs_proginfo_exam_001_desc_p5_s08",
+      "cs_news_72_1",
+      "cs_penilaian_pik_001",
+      "fpmipa_facility_009",
+      "cs_news_44_1",
+      "cs_proginfo_exam_001_desc_p1",
+      "cs_news_7_1_1",
+      "cs_news_195_1"
+    ]
+  },
+  {
+    "query": "Sebutkan empat aspek pengukuran evaluasi mutu tahunan yang disebutkan.",
+    "type": "Quality Assurance",
+    "gold_doc_ids": [
+      "cs_quality_assurance_internal_002"
+    ],
+    "gold_answer": "Pengukuran PLO, kelayakan program studi, mobilitas siswa, dan profil kualifikasi di pasar tenaga kerja.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_quality_assurance_internal_002",
+      "cs_quality_assurance_cycle_001",
+      "cs_quality_assurance_internal_001",
+      "csik_prog_goals_2016_collab_qms_pkm",
+      "cs_proginfo_exam_001_desc_p1",
+      "cs_penilaian_pik_001",
+      "csik_prog_goals_2016_graduates",
+      "cse_proginfo_goals_lulusan_001",
+      "cs_quality_assurance_external_001",
+      "cs_person_harsa_wara_prabawa_s1pik_019"
+    ]
+  },
+  {
+    "query": "Apa peringkat akreditasi BAN-PT terakhir untuk Prodi Ilmu Komputer dan Prodi Pendidikan Ilmu Komputer beserta periodenya?",
+    "type": "Quality Assurance",
+    "gold_doc_ids": [
+      "cs_quality_assurance_external_001"
+    ],
+    "gold_answer": "Ilmu Komputer: A (Excellent) periode 2020–2025; Pendidikan Ilmu Komputer: A (Excellent) periode 2018–2023.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_quality_assurance_external_001",
+      "cs_news_152_1",
+      "cs_curriculum_pik_tujuan_001",
+      "cs_news_11_1",
+      "cs_news_157_1",
+      "cs_proginfo_overview_002",
+      "cs_news_150_1",
+      "cs_news_179_1",
+      "cs_quality_assurance_cycle_001",
+      "cs_news_95_1"
+    ]
+  },
+  {
+    "query": "Siapa badan sertifikasi ISO 9001:2015 FPMIPA UPI dan nomor sertifikatnya?",
+    "type": "Quality Assurance",
+    "gold_doc_ids": [
+      "cs_quality_assurance_external_001"
+    ],
+    "gold_answer": "TNV System Certification P Ltd; Nomor Sertifikat IZOI09101611G (tahun 2019).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_quality_assurance_external_001",
+      "cs_news_85_1",
+      "cs_news_198_1",
+      "csik_prog_goals_2016_strategies_1_15",
+      "cs_quality_assurance_cycle_001",
+      "cs_quality_assurance_internal_001",
+      "cse_proginfo_goals_kerjasama_001",
+      "csik_prog_goals_2016_collab_qms_pkm",
+      "fpmipa_facility_017",
+      "cs_admin_services_001"
+    ]
+  },
+  {
+    "query": "Apa tautan POB untuk Bimbingan Akademik?",
+    "type": "Quality Assurance",
+    "gold_doc_ids": [
+      "cs_quality_assurance_sop_001"
+    ],
+    "gold_answer": "https://drive.google.com/file/d/1AKmj0mhCYqgeWdlH4mVGcVHNyDZYYoPi/view?usp=sharing",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_quality_assurance_sop_001",
+      "cs_curriculum_pik_list_mkdk_001",
+      "csik_prog_goals_2016_strategies_1_15",
+      "cs_news_193_1",
+      "cs_news_7_1_1",
+      "cs_admin_services_001",
+      "fpmipa_facility_009",
+      "cs_news_220_1",
+      "cs_news_28_1",
+      "cs_news_195_1"
+    ]
+  },
+  {
+    "query": "Sebutkan dua tautan POB terkait MBKM yang tersedia.",
+    "type": "Quality Assurance",
+    "gold_doc_ids": [
+      "cs_quality_assurance_sop_001"
+    ],
+    "gold_answer": "MBKM Pertukaran Mahasiswa: https://drive.google.com/file/d/1MtuNo8Ihenrr0FCbjluWCO5mBPNSAdkK/view?usp=sharing; MBKM Magang Industri: https://drive.google.com/file/d/1wfTBj0AF6qyZU-7-abyJcx6RwEjd-p2y/view?usp=sharing.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_quality_assurance_sop_001",
+      "cs_exchange_mbkm_perm_001",
+      "cs_mbkm_programs_001",
+      "cs_news_67_1",
+      "cs_news_167_1",
+      "cs_news_44_1",
+      "cs_news_96_1",
+      "cs_mbkm_desc_001",
+      "cs_mbkm_programs_002",
+      "cs_news_90_1"
+    ]
+  },
+  {
+    "query": "Apa email Prof. Dr. Lala Septem Riza (S1 Ilmu Komputer)?",
+    "type": "staff",
+    "gold_doc_ids": [
+      "cs_person_lala_septem_riza_s1ik_002"
+    ],
+    "gold_answer": "lala.s.riza@upi.edu",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_person_lala_septem_riza_002",
+      "cs_person_lala_septem_riza_s1ik_002",
+      "cs_person_lala_septem_riza_s2pik_029",
+      "cs_person_lala_septem_riza_s1pik_013",
+      "cs_person_wahyudin_003",
+      "cs_news_4_1",
+      "cs_person_rasim_s1ik_007",
+      "cs_news_124_1",
+      "cs_news_127_1",
+      "cs_news_177_1"
+    ]
+  },
+  {
+    "query": "Siapa pengampu mata kuliah Sistem Operasi pada S1 Ilmu Komputer?",
+    "type": "staff",
+    "gold_doc_ids": [
+      "cs_person_rasim_s1ik_007"
+    ],
+    "gold_answer": "Dr. Rasim, M.T.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_person_jajang_kusnendar_s1pik_017",
+      "cs_person_rasim_s1ik_007",
+      "cs_person_yudi_ahmad_hambali_s1ik_008",
+      "cs_person_herbert_siregar_s1pik_018",
+      "cs_proginfo_mapping_mkkips_part2",
+      "cs_person_eki_nugraha_s1pik_022",
+      "cs_news_184_1",
+      "cs_proginfo_courses_001_s3_s4",
+      "cs_proginfo_mapping_mkkips_part3",
+      "cs_penilaian_pik_006"
+    ]
+  },
+  {
+    "query": "Apa spesialisasi Dr. Muhammad Nursalman (S1 Ilmu Komputer)?",
+    "type": "staff",
+    "gold_doc_ids": [
+      "cs_person_muhammad_nursalman_s1ik_004"
+    ],
+    "gold_answer": "Elektronika, Keamanan, dan Kriptologi.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_person_muhammad_nursalman_s2pik_035",
+      "cs_person_muhammad_nursalman_s1ik_004",
+      "cs_person_muhammad_nursalman_001",
+      "cs_person_munir_s1ik_001",
+      "cs_person_rasim_s1ik_007",
+      "cs_news_161_1",
+      "cs_person_munir_s2pik_028",
+      "cs_person_rani_megasari_s1ik_005",
+      "cs_proginfo_qualification_002",
+      "cse_mag_kurikulum_profil_001"
+    ]
+  },
+  {
+    "query": "Mata kuliah apa yang diajarkan Dr. Rani Megasari?",
+    "type": "staff",
+    "gold_doc_ids": [
+      "cs_person_rani_megasari_s1ik_005"
+    ],
+    "gold_answer": "Sistem Basis Data dan Sistem Cerdas.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_person_rani_megasari_s2pik_033",
+      "cs_person_rani_megasari_s1ik_005",
+      "pcb_competency_artificial_intelligence_01",
+      "cs_news_77_1",
+      "pcem_competency_tbls_01",
+      "cs_news_161_1",
+      "cs_person_rasim_s1ik_007",
+      "cs_person_rasim_s2pik_036",
+      "cs_person_eka_fitrajaya_rahman_s1pik_014",
+      "cs_person_andri_mulyadi_tendik_039"
+    ]
+  },
+  {
+    "query": "Siapa dosen dengan spesialisasi Visi Komputer dan Pembelajaran Mesin (S1 Ilmu Komputer)?",
+    "type": "staff",
+    "gold_doc_ids": [
+      "cs_person_yaya_wihardi_s1ik_012"
+    ],
+    "gold_answer": "Yaya Wihardi, S.Kom., M.Kom.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_person_yaya_wihardi_s1ik_012",
+      "cs_person_lala_septem_riza_s1pik_013",
+      "cs_person_lala_septem_riza_s1ik_002",
+      "cs_person_lala_septem_riza_s2pik_029",
+      "cs_person_wahyudin_s1pik_016",
+      "cs_person_rasim_s1ik_007",
+      "cs_person_wahyudin_s2pik_032",
+      "cs_person_herbert_siregar_s1pik_018",
+      "cs_person_yudi_wibisono_s1ik_003",
+      "cs_person_yudi_wibisono_s2pik_034"
+    ]
+  },
+  {
+    "query": "Siapa pengampu Komputasi Paralel dan Terdistribusi (S1 Ilmu Komputer)?",
+    "type": "staff",
+    "gold_doc_ids": [
+      "cs_person_lala_septem_riza_s1ik_002"
+    ],
+    "gold_answer": "Prof. Dr. Lala Septem Riza, M.T.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_person_lala_septem_riza_s1ik_002",
+      "cs_person_yudi_wibisono_s1ik_003",
+      "cs_person_lala_septem_riza_s1pik_013",
+      "cs_person_eddy_prasetyo_nugroho_s1ik_010",
+      "cs_person_rosa_ariani_sukamto_s1ik_011",
+      "cs_person_budi_laksono_putro_s1pik_020",
+      "cs_person_yudi_ahmad_hambali_s1ik_008",
+      "cs_person_herbert_siregar_s1pik_018",
+      "cs_proginfo_mapping_mkkps",
+      "cs_person_enjang_ali_nurdin_s2pik_030"
+    ]
+  },
+  {
+    "query": "Berapa tunjangan Beasiswa Djarum Plus per bulan dan durasinya?",
+    "type": "beasiswa",
+    "gold_doc_ids": [
+      "cs_scholarship_djarum_2020"
+    ],
+    "gold_answer": "Rp 1.000.000 per bulan selama 1 tahun, disertai pembekalan soft skills.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_scholarship_djarum_2020",
+      "cs_scholarship_kse",
+      "cs_scholarship_ppa",
+      "cs_scholarship_beasiswa_unggulan",
+      "cs_scholarship_jfls",
+      "cs_news_231_1",
+      "cs_news_216_1",
+      "cs_news_42_1",
+      "cs_news_173_1",
+      "cse_mag_kurikulum_struktur_002"
+    ]
+  },
+  {
+    "query": "Kapan periode pendaftaran online Beasiswa Djarum 2020?",
+    "type": "beasiswa",
+    "gold_doc_ids": [
+      "cs_scholarship_djarum_2020"
+    ],
+    "gold_answer": "16 Maret 2020 – 16 Mei 2020.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_scholarship_djarum_2020",
+      "cs_scholarship_kse",
+      "cs_scholarship_beasiswa_unggulan",
+      "cs_scholarship_jfls",
+      "cs_scholarship_ppa",
+      "cs_news_216_1",
+      "cs_news_156_1",
+      "cs_admission_s2_001",
+      "cs_news_185_1",
+      "cs_news_42_1"
+    ]
+  },
+  {
+    "query": "Berapa besaran Beasiswa PPA per bulan dan minimal durasinya?",
+    "type": "beasiswa",
+    "gold_doc_ids": [
+      "cs_scholarship_ppa"
+    ],
+    "gold_answer": "Rp 400.000 per bulan, sekurangnya selama 6 bulan.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_scholarship_ppa",
+      "cs_scholarship_kse",
+      "cs_scholarship_beasiswa_unggulan",
+      "cs_news_216_1",
+      "cs_scholarship_djarum_2020",
+      "cs_scholarship_jfls",
+      "cs_news_8_2",
+      "cs_proginfo_exam_001_desc_p5_s03",
+      "cs_news_42_1",
+      "cs_penilaian_pik_005"
+    ]
+  },
+  {
+    "query": "Berapa tunjangan Beasiswa KSE per bulan dan apa program tambahannya?",
+    "type": "beasiswa",
+    "gold_doc_ids": [
+      "cs_scholarship_kse"
+    ],
+    "gold_answer": "Rp 600.000 per bulan selama 1 tahun (dapat diperpanjang) serta program pembinaan seperti leadership, seminar, workshop, coaching.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_scholarship_kse",
+      "cs_scholarship_djarum_2020",
+      "cs_scholarship_ppa",
+      "cs_scholarship_jfls",
+      "cs_scholarship_beasiswa_unggulan",
+      "cs_news_216_1",
+      "cs_news_42_1",
+      "cs_exchange_plsp_001",
+      "cs_news_215_1",
+      "cse_mag_kurikulum_struktur_002"
+    ]
+  },
+  {
+    "query": "Apa cakupan beasiswa Jabar Future Leader untuk S1 penuh?",
+    "type": "beasiswa",
+    "gold_doc_ids": [
+      "cs_scholarship_jfls"
+    ],
+    "gold_answer": "Biaya kuliah sesuai UKT hingga batas maksimal Pemprov Jabar serta program pembinaan dan pendampingan.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_scholarship_jfls",
+      "cs_scholarship_beasiswa_unggulan",
+      "cs_scholarship_ppa",
+      "cs_scholarship_djarum_2020",
+      "cs_scholarship_kse",
+      "cs_news_216_1",
+      "cs_news_52_1",
+      "cs_news_42_1",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_news_123_1"
+    ]
+  },
+  {
+    "query": "Siapa Ketua BEM Kemakom FPMIPA UPI periode 2022–2023?",
+    "type": "organisasi",
+    "gold_doc_ids": [
+      "cs_kemakom_group_1"
+    ],
+    "gold_answer": "Fadhli Oktavian Nugraha.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_kemakom_group_1",
+      "cs_kemakom_group_2",
+      "cs_news_125_1",
+      "cs_news_181_1",
+      "cs_news_17_1",
+      "cs_news_128_1",
+      "cs_news_116_1",
+      "cs_news_224_1",
+      "cs_news_7_1",
+      "cs_news_156_1"
+    ]
+  },
+  {
+    "query": "Siapa Ketua DPM Kemakom FPMIPA UPI periode 2022–2023?",
+    "type": "organisasi",
+    "gold_doc_ids": [
+      "cs_kemakom_group_2"
+    ],
+    "gold_answer": "Hanifah Al Humaira.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_kemakom_group_2",
+      "cs_kemakom_group_1",
+      "cs_news_125_1",
+      "cs_news_128_1",
+      "cs_news_154_1",
+      "cs_news_181_1",
+      "cs_news_21_1",
+      "cs_news_171_1",
+      "cs_news_195_1",
+      "cs_news_156_1"
+    ]
+  },
+  {
+    "query": "Apa tautan formulir Pendaftaran Lomba untuk mahasiswa?",
+    "type": "kemahasiswaan",
+    "gold_doc_ids": [
+      "cs_admin_services_001"
+    ],
+    "gold_answer": "https://cs.upi.edu/v2/kemahasiswaan/bit.ly/CSUPI_FormPendaftaranLomba",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_admin_services_001",
+      "cs_admission_s2_001",
+      "cs_news_41_1",
+      "cs_news_103_1",
+      "cs_news_26_1",
+      "cs_news_199_1",
+      "cs_news_39_1",
+      "cs_news_130_1",
+      "cs_news_78_1",
+      "cs_news_119_1_1"
+    ]
+  },
+  {
+    "query": "Berapa maksimal SKS yang dapat dikonversi melalui program MBKM?",
+    "type": "pertukaran pelajar",
+    "gold_doc_ids": [
+      "cs_mbkm_desc_001"
+    ],
+    "gold_answer": "Maksimal 3 semester setara 20–40 SKS di luar prodi.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_mbkm_programs_001",
+      "cs_exchange_mbkm_perm_001",
+      "cs_mbkm_desc_001",
+      "cs_news_44_1",
+      "cs_exchange_mbkm_other_001",
+      "cs_news_167_1",
+      "cs_proginfo_courses_001_s5_s6",
+      "cs_mbkm_programs_002",
+      "cs_news_67_1",
+      "cs_news_96_1"
+    ]
+  },
+  {
+    "query": "Kompetensi apa yang ditawarkan Program Bangkit dan berapa SKS yang dapat dikonversi?",
+    "type": "pertukaran pelajar",
+    "gold_doc_ids": [
+      "cs_mbkm_programs_001"
+    ],
+    "gold_answer": "Machine learning, mobile development, cloud computing; dapat dikonversi hingga 20 SKS serta mendapatkan sertifikasi Google.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_exchange_mbkm_other_001",
+      "cs_mbkm_programs_001",
+      "cs_news_122_1",
+      "cs_news_8_1",
+      "cs_news_44_1",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_news_167_1",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_mbkm_desc_001",
+      "cs_news_216_1"
+    ]
+  },
+  {
+    "query": "Apa tujuan utama Program Kampus Mengajar?",
+    "type": "pertukaran pelajar",
+    "gold_doc_ids": [
+      "cs_mbkm_programs_001"
+    ],
+    "gold_answer": "Memberi kesempatan mahasiswa selama 1 semester membantu guru dan kepala sekolah SD/SMP dalam pembelajaran yang terdampak pandemi.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_exchange_mbkm_other_001",
+      "cs_mbkm_programs_001",
+      "cs_news_44_1",
+      "cs_mbkm_programs_002",
+      "cs_news_107_1",
+      "cs_news_67_1",
+      "cs_news_96_1",
+      "cs_news_189_1",
+      "cs_news_80_1",
+      "cs_news_149_1"
+    ]
+  },
+  {
+    "query": "Sebutkan aktivitas rutin pertukaran mahasiswa yang diikuti mahasiswa Departemen Pendidikan Ilmu Komputer.",
+    "type": "pertukaran pelajar",
+    "gold_doc_ids": [
+      "cs_exchange_overview_001"
+    ],
+    "gold_answer": "Internship, PLSP, PPL (TVET), kredit transfer, MBKM (PERMATA SAKTI/AMLI, Bangkit), dan KKN.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_exchange_overview_001",
+      "cs_news_123_1",
+      "cs_news_44_1",
+      "cs_news_107_1",
+      "cs_news_40_1",
+      "cs_mbkm_programs_002",
+      "cs_news_195_1",
+      "cs_news_211_1",
+      "cs_news_154_1",
+      "cs_facility_001"
+    ]
+  },
+  {
+    "query": "Apa dua program PLSP di luar negeri yang disebutkan?",
+    "type": "pertukaran pelajar",
+    "gold_doc_ids": [
+      "cs_exchange_plsp_001"
+    ],
+    "gold_answer": "SILN (Sekolah Indonesia Luar Negeri) dan SEA-Teacher.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_exchange_plsp_001",
+      "cs_exchange_overview_001",
+      "cs_proginfo_teach_001_others",
+      "cs_exchange_ppl_001",
+      "cs_metode_pengajaran_pik_002",
+      "cs_mbkm_programs_001",
+      "cs_news_208_1",
+      "cs_news_216_1",
+      "upi_facility_019",
+      "cs_news_186_1"
+    ]
+  },
+  {
+    "query": "Apa capaian tim pada Hackathon “Tempo” Jakarta tahun 2016?",
+    "type": "prestasi",
+    "gold_doc_ids": [
+      "cs_prestasi_group_2"
+    ],
+    "gold_answer": "Juara 1 (Hackathon “Tempo” Jakarta 2016).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_prestasi_group_2",
+      "cs_prestasi_group_3",
+      "cs_news_82_1",
+      "cs_news_36_1",
+      "cs_news_38_1",
+      "cs_news_205_1",
+      "cs_news_153_1",
+      "cs_news_84_1",
+      "cs_news_15_2",
+      "cs_news_219_1"
+    ]
+  },
+  {
+    "query": "Apa capaian pada GEMASTIK 2017 kategori User Experience Design?",
+    "type": "prestasi",
+    "gold_doc_ids": [
+      "cs_prestasi_group_3"
+    ],
+    "gold_answer": "Juara 1 (GEMASTIK 2017, User Experience Design).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_prestasi_group_3",
+      "cs_news_212_1",
+      "cs_news_214_1",
+      "cs_news_223_1",
+      "cs_news_25_1",
+      "cs_news_228_1",
+      "cs_news_102_1",
+      "cs_news_155_1",
+      "cs_news_158_1",
+      "cs_news_100_1"
+    ]
+  },
+  {
+    "query": "Apa capaian pada Hology Competition Universitas Brawijaya 2018 (App Innovation) untuk Best Exhibition?",
+    "type": "prestasi",
+    "gold_doc_ids": [
+      "cs_prestasi_group_4"
+    ],
+    "gold_answer": "Best Exhibition (Juara 1).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_prestasi_group_4",
+      "cs_news_205_1",
+      "cs_news_130_1",
+      "cs_news_79_1",
+      "cs_news_113_1",
+      "cs_news_36_1",
+      "cs_news_71_1_1",
+      "cs_news_38_1",
+      "cs_news_209_1",
+      "cs_news_41_1"
+    ]
+  },
+  {
+    "query": "Kapan Prodi Pendidikan Ilmu Komputer didirikan dan apa nomor SK pendiriannya?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_tujuan_001"
+    ],
+    "gold_answer": "Didirikan 16 Maret 2005 dengan SK 1341/J33/PP.03.02/2005.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_tujuan_001",
+      "cs_proginfo_overview_002",
+      "cse_doc_1",
+      "cs_curriculum_pik_gelar_001",
+      "cs_quality_assurance_external_001",
+      "cs_news_179_1",
+      "cse_proginfo_mission_001",
+      "cs_exchange_mbkm_perm_001",
+      "cse_proginfo_vision_001",
+      "cs_mbkm_desc_001"
+    ]
+  },
+  {
+    "query": "Apa peringkat akreditasi nasional BAN-PT untuk Prodi Pendidikan Ilmu Komputer dan nomor SK-nya?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_tujuan_001"
+    ],
+    "gold_answer": "Akreditasi A (BAN-PT) dengan SK 2501/SK/BAN-PT/Akred/S/IX/2018.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_tujuan_001",
+      "cs_quality_assurance_external_001",
+      "cs_news_11_1",
+      "cs_news_152_1",
+      "cs_proginfo_overview_002",
+      "cs_news_150_1",
+      "cs_curriculum_pik_gelar_001",
+      "cs_quality_assurance_cycle_001",
+      "cse_proginfo_mission_001",
+      "cse_proginfo_vision_001"
+    ]
+  },
+  {
+    "query": "Apa saja konsentrasi bidang dalam Prodi Pendidikan Ilmu Komputer?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_tujuan_001"
+    ],
+    "gold_answer": "Rekayasa Perangkat Lunak (RPL), Teknik Komputer dan Jaringan (TKJ), Multimedia, dan Teknologi Komunikasi & Informasi (TIK).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_tujuan_001",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002",
+      "cse_mag_kurikulum_analisis_lptk_001a",
+      "cse_mag_plo_qual_map_002",
+      "cs_master_proginfo_goals_001",
+      "cse_mag_kurikulum_tujuan_001",
+      "cse_proginfo_mission_001",
+      "cs_news_80_1",
+      "cs_news_149_1",
+      "cs_news_88_1"
+    ]
+  },
+  {
+    "query": "Apa gelar untuk lulusan Program Studi Pendidikan Ilmu Komputer?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_gelar_001"
+    ],
+    "gold_answer": "Gelar lulusan adalah S.Pd.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_gelar_001",
+      "cs_proginfo_overview_002",
+      "cse_mag_kurikulum_gelar_001",
+      "cse_mag_kurikulum_profil_001",
+      "cs_curriculum_pik_profil_001",
+      "cse_mag_kurikulum_tujuan_001",
+      "cs_master_proginfo_goals_001",
+      "cs_alumni_stakeholder_001",
+      "cs_news_47_1",
+      "cs_master_proginfo_vision_001"
+    ]
+  },
+  {
+    "query": "Sebutkan tiga profil kualifikasi lulusan Prodi Pendidikan Ilmu Komputer.",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_profil_001"
+    ],
+    "gold_answer": "Educator, Praktisi (mis. programmer, network engineer, multimedia designer), dan Entrepreneur.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_profil_001",
+      "cs_proginfo_qualification_002",
+      "cse_mag_kurikulum_profil_001",
+      "cs_master_proginfo_goals_001",
+      "cse_mag_kurikulum_tujuan_001",
+      "cs_alumni_stakeholder_001",
+      "cse_proginfo_mission_001",
+      "cse_proginfo_goals_lulusan_001",
+      "cs_curriculum_pik_gelar_001",
+      "cs_news_167_1"
+    ]
+  },
+  {
+    "query": "Apa deskripsi PLO-2 dalam Prodi Pendidikan Ilmu Komputer?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_plo_001"
+    ],
+    "gold_answer": "Kemampuan literasi, berpikir kritis dan kreatif, komunikasi dan kolaborasi dalam matematika, sains, teknologi, dan rekayasa untuk memecahkan masalah secara integratif/multidisipliner.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_plo_001",
+      "cs_metode_pengajaran_pik_001",
+      "cs_penilaian_pik_009",
+      "cs_proginfo_mapping_mkkips_part2",
+      "cs_proginfo_mapping_mkkips_part3",
+      "cs_proginfo_plomapping_006",
+      "cse_mag_kurikulum_analisis_lptk_001a",
+      "cse_mag_kurikulum_analisis_lptk_001b",
+      "cs_news_15_2",
+      "cs_mbkm_desc_001"
+    ]
+  },
+  {
+    "query": "Apa deskripsi PLO-10 dalam Prodi Pendidikan Ilmu Komputer?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_plo_001"
+    ],
+    "gold_answer": "Menerapkan ilmu pedagogik secara kreatif dan inovatif sesuai karakteristik peserta didik dan lingkungan belajar.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_plo_001",
+      "cs_metode_pengajaran_pik_001",
+      "cs_penilaian_pik_009",
+      "cs_proginfo_plomapping_005",
+      "cs_proginfo_plomapping_006",
+      "cse_mag_kurikulum_analisis_lptk_001a",
+      "cse_mag_kurikulum_analisis_lptk_001b",
+      "cs_proginfo_mapping_mkkf",
+      "cs_news_15_2",
+      "cs_mbkm_desc_001"
+    ]
+  },
+  {
+    "query": "Berapa total beban studi program Sarjana dan bagaimana proporsi kurikulum inti vs pilihan?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_struktur_pengantar_002"
+    ],
+    "gold_answer": "Total 144–152 SKS; kurikulum inti ±85% dan kurikulum pilihan ±15% dari total SKS.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_curriculum_003_desc",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_proginfo_curriculum_003_credits",
+      "cse_mag_kurikulum_struktur_002",
+      "cs_curriculum_pik_list_rekap_total_001",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_curriculum_pik_list_mkkips_multimedia_001",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002",
+      "cs_proginfo_exam_001_desc_p5_s03",
+      "cs_proginfo_exam_001_desc_p5_s07"
+    ]
+  },
+  {
+    "query": "Sebutkan kelompok mata kuliah dalam struktur kurikulum S1 Pendidikan Ilmu Komputer.",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_struktur_pengantar_002"
+    ],
+    "gold_answer": "MKU, MKDK, MKKF, MKKPBS, MKIPS, dan MKKPS.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_curriculum_003_cg_4_6",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_proginfo_curriculum_003_expertise",
+      "cs_curriculum_pik_mkkf_mkkpbs_002",
+      "cs_curriculum_pik_list_mkkf_001",
+      "cs_curriculum_pik_list_rekap_total_001",
+      "cs_curriculum_pik_list_pengantar_001"
+    ]
+  },
+  {
+    "query": "Contoh mata kuliah pada kelompok MKU di UPI apa saja?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_mku_mkdk_002"
+    ],
+    "gold_answer": "Agama & Seminar Agama, Bahasa Indonesia, Pendidikan Jasmani, Pendidikan Seni, Kewarganegaraan, Pancasila, dan KKN.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_mku_mkdk_002",
+      "cs_proginfo_curriculum_003_cg_1_3",
+      "cs_curriculum_pik_mkkf_mkkpbs_002",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_proginfo_curriculum_003_credits",
+      "cs_proginfo_curriculum_003_cg_4_6",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_news_156_1",
+      "cs_news_7_1"
+    ]
+  },
+  {
+    "query": "Apa tujuan kelompok MKDK dan siapa yang wajib mengikutinya?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_mku_mkdk_002"
+    ],
+    "gold_answer": "Memberikan bekal kependidikan (pembelajaran, manajemen, psikologi). Wajib untuk semua prodi kependidikan di UPI.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_mku_mkdk_002",
+      "cs_proginfo_curriculum_003_cg_1_3",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_proginfo_curriculum_003_cg_4_6",
+      "cs_news_194_1",
+      "cs_news_214_1",
+      "cs_news_195_1",
+      "cs_news_7_2",
+      "cs_news_165_1"
+    ]
+  },
+  {
+    "query": "Apa mata kuliah pada kelompok MKKF dan total bobot SKS-nya?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_mkkf_mkkpbs_002"
+    ],
+    "gold_answer": "MSTR (3 SKS) dan AMSTR (3 SKS); total 6 SKS dengan pendekatan STEAM.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_mkkf_mkkpbs_002",
+      "cs_proginfo_curriculum_003_credits",
+      "cs_proginfo_curriculum_003_cg_1_3",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_proginfo_plomapping_005",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_curriculum_pik_mku_mkdk_002",
+      "cs_proginfo_curriculum_003_cg_4_6",
+      "cs_proginfo_plomapping_002"
+    ]
+  },
+  {
+    "query": "Apa fokus kelompok MKKPBS dalam kurikulum Pendidikan Ilmu Komputer?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_mkkf_mkkpbs_002"
+    ],
+    "gold_answer": "Perencanaan, strategi, media/al alat peraga, dan evaluasi pembelajaran berbasis literasi ICT.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_curriculum_003_cg_4_6",
+      "cs_curriculum_pik_mkkf_mkkpbs_002",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002",
+      "cse_mag_kurikulum_analisis_lptk_001a",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "pceb_competency_steam_01",
+      "cs_curriculum_pik_mku_mkdk_002",
+      "cs_proginfo_curriculum_003_cg_1_3"
+    ]
+  },
+  {
+    "query": "Apa itu PPLSP dan bagaimana pelaksanaannya pada prodi kependidikan?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_pplsp_ppl_002"
+    ],
+    "gold_answer": "PPLSP 4 SKS, real teaching dengan supervisi klinis pada semester ganjil/genap sebagai praktik pembelajaran nyata.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_pplsp_ppl_002",
+      "cs_proginfo_teach_001_others",
+      "cs_exchange_plsp_001",
+      "cs_penilaian_pik_004",
+      "cs_metode_pengajaran_pik_002",
+      "cs_proginfo_exam_001_desc_p5_s01",
+      "cse_doc_1",
+      "cs_proginfo_mapping_mkppl",
+      "cse_mag_kurikulum_profil_001",
+      "cs_news_149_1"
+    ]
+  },
+  {
+    "query": "Apa itu PPL (untuk non-pendidikan) dan kapan dapat dikontrak?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_pplsp_ppl_002"
+    ],
+    "gold_answer": "PPL 4 SKS berupa magang satu semester di instansi/perusahaan; dapat dikontrak pada semester VII.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_pplsp_ppl_002",
+      "cs_exchange_ppl_001",
+      "cs_proginfo_exam_001_desc_p5_s01",
+      "cs_proginfo_teach_001_others",
+      "cs_penilaian_pik_004",
+      "cs_proginfo_mapping_mkppl",
+      "cs_proginfo_curriculum_003_cg_4_6",
+      "cs_exchange_plsp_001",
+      "cs_penilaian_pik_009",
+      "cs_news_122_1"
+    ]
+  },
+  {
+    "query": "Berapa rincian SKS per jenis kelompok mata kuliah pada Prodi Pendidikan Ilmu Komputer?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_penempatan_rincian_002"
+    ],
+    "gold_answer": "MKU 16, MKPPL 4, MKDK 8, MKKF 6, MKKPBS 12, MKKIPS 84, Pilihan Pendidik 18 SKS.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_proginfo_curriculum_003_credits",
+      "cse_mag_kurikulum_struktur_002",
+      "cs_curriculum_pik_list_rekap_total_001",
+      "cs_curriculum_pik_list_mkkpbs_001",
+      "cs_curriculum_pik_list_mkkf_001",
+      "cs_curriculum_pik_mku_mkdk_002",
+      "cs_curriculum_pik_list_mku_001_part2",
+      "cs_curriculum_pik_list_mkppl_001",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002"
+    ]
+  },
+  {
+    "query": "Di mana handbook/modul lengkap mata kuliah PIK dapat diunduh?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_list_pengantar_001"
+    ],
+    "gold_answer": "https://drive.google.com/file/d/1LBAdA4dLvft0v_u0hwyMzfOXtABpjZnw/view?usp=sharing",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_list_pengantar_001",
+      "cs_curriculum_pik_list_mkkips_rpl_001",
+      "cs_curriculum_pik_list_elektif_001_part2",
+      "cs_curriculum_pik_list_elektif_001_part1",
+      "cs_curriculum_pik_list_mkkips_001_part1",
+      "cs_curriculum_pik_list_mku_001_part1",
+      "cse_doc_1",
+      "cs_penilaian_pik_004",
+      "cs_news_44_1",
+      "cs_news_129_1"
+    ]
+  },
+  {
+    "query": "Berapa rekap SKS per semester untuk kelompok MKU?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_list_mku_001_part2"
+    ],
+    "gold_answer": "S1=14, S2=6, S3=4, S4=0, S5=0, S6=2, S7=2, S8=0.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_list_mku_001_part2",
+      "cs_proginfo_curriculum_003_credits",
+      "cse_mag_kurikulum_struktur_002",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_curriculum_pik_list_mkkf_001",
+      "cs_curriculum_pik_list_mkdk_001",
+      "cs_curriculum_pik_list_mkkpbs_001",
+      "cs_proginfo_courses_001_s5_s6",
+      "cs_curriculum_pik_list_mkppl_001",
+      "cs_proginfo_plomapping_002"
+    ]
+  },
+  {
+    "query": "Berapa SKS dan semester MKPPL pada kurikulum PIK?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_list_mkppl_001"
+    ],
+    "gold_answer": "4 SKS pada semester 8 (KU590 Pengalaman Lapangan Kependidikan/Magang).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cse_mag_kurikulum_struktur_002",
+      "cs_curriculum_pik_list_mkppl_001",
+      "cs_proginfo_curriculum_003_credits",
+      "cs_curriculum_pik_list_mkdk_001",
+      "cs_proginfo_mapping_mkppl",
+      "cs_proginfo_plomapping_003",
+      "cs_proginfo_plomapping_004",
+      "cs_proginfo_plomapping_006",
+      "cs_proginfo_plomapping_002"
+    ]
+  },
+  {
+    "query": "Bagaimana rekap SKS per semester untuk kelompok MKDK?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_list_mkdk_001"
+    ],
+    "gold_answer": "S1=2, S2=2, S4=4.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_list_mkdk_001",
+      "cs_curriculum_pik_list_rekap_total_001",
+      "cs_curriculum_pik_list_mkkf_001",
+      "cs_curriculum_pik_list_elektif_001_part2",
+      "cs_curriculum_pik_list_mku_001_part2",
+      "cs_proginfo_courses_001_s5_s6",
+      "cs_curriculum_pik_list_mkkpbs_001",
+      "cs_curriculum_pik_list_mkppl_001",
+      "cs_proginfo_courses_001_s7_s8",
+      "cs_proginfo_plomapping_002"
+    ]
+  },
+  {
+    "query": "Bagaimana rekap SKS per semester untuk kelompok MKKF?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_list_mkkf_001"
+    ],
+    "gold_answer": "S1=3, S2=3.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_list_mkkf_001",
+      "cs_curriculum_pik_list_rekap_total_001",
+      "cs_proginfo_curriculum_003_credits",
+      "cs_curriculum_pik_list_mku_001_part2",
+      "cs_curriculum_pik_list_mkdk_001",
+      "cs_proginfo_courses_001_s5_s6",
+      "cs_curriculum_pik_list_mkkpbs_001",
+      "cs_curriculum_pik_list_elektif_001_part2",
+      "cs_curriculum_pik_list_mkppl_001",
+      "cs_proginfo_plomapping_002"
+    ]
+  },
+  {
+    "query": "Bagaimana rekap SKS per semester untuk kelompok MKKPBS?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_list_mkkpbs_001"
+    ],
+    "gold_answer": "S4=3, S5=3, S8=6.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_list_mkkpbs_001",
+      "cs_curriculum_pik_list_mkkf_001",
+      "cs_curriculum_pik_list_mkdk_001",
+      "cs_proginfo_courses_001_s5_s6",
+      "cs_curriculum_pik_list_mkppl_001",
+      "cs_curriculum_pik_list_mku_001_part2",
+      "cs_curriculum_pik_list_elektif_001_part2",
+      "cs_curriculum_pik_list_mkkips_001_part2",
+      "cs_proginfo_courses_001_s7_s8",
+      "cs_proginfo_plomapping_002"
+    ]
+  },
+  {
+    "query": "Berapa jumlah SKS bagian inti MKKIPS?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_list_mkkips_001_part2"
+    ],
+    "gold_answer": "54 SKS (bagian inti MKKIPS).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_curriculum_003_credits",
+      "cs_curriculum_pik_list_mkkips_001_part2",
+      "cs_curriculum_pik_list_mkkips_multimedia_001",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_proginfo_plomapping_008",
+      "cs_curriculum_pik_list_mkkips_001_part1",
+      "cs_proginfo_mapping_mkkips_part1",
+      "cs_proginfo_plomapping_007",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002"
+    ]
+  },
+  {
+    "query": "Berapa total SKS untuk paket MKKIPS Rekayasa Perangkat Lunak?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_list_mkkips_rpl_001"
+    ],
+    "gold_answer": "12 SKS untuk paket RPL (contoh: RPL, Pemrograman Internet, PBO, Pemrograman Mobile).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_curriculum_003_credits",
+      "cs_curriculum_pik_list_mkkips_rpl_001",
+      "cs_proginfo_plomapping_009",
+      "cs_curriculum_pik_list_mkkips_multimedia_001",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_proginfo_mapping_mkkips_part2",
+      "cs_proginfo_mapping_kbk1",
+      "cs_curriculum_pik_list_mkkips_001_part2",
+      "cs_proginfo_plomapping_008",
+      "cs_facility_006"
+    ]
+  },
+  {
+    "query": "Berapa total SKS untuk paket MKKIPS Teknik Komputer & Jaringan?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_list_mkkips_jarkom_001"
+    ],
+    "gold_answer": "9 SKS untuk paket TKJ (contoh: Rangkaian Elektronika, Jaringan Komputer, Infrastruktur Jaringan & Administrasi Sistem).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_curriculum_003_credits",
+      "cs_curriculum_pik_list_mkkips_multimedia_001",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_curriculum_pik_list_mkkips_001_part2",
+      "cs_proginfo_mapping_mkkips_part3",
+      "cs_proginfo_plomapping_010",
+      "cs_proginfo_mapping_kbk4",
+      "cs_curriculum_pik_list_mkkips_001_part1",
+      "cs_curriculum_pik_mkips_mkkpps_kbk_002",
+      "cs_proginfo_mapping_kbk3"
+    ]
+  },
+  {
+    "query": "Berapa total SKS untuk paket MKKIPS Multimedia?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_list_mkkips_multimedia_001"
+    ],
+    "gold_answer": "9 SKS untuk paket Multimedia (Pengolahan Audio & Video, Animasi, Desain Grafis).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_list_mkkips_multimedia_001",
+      "cs_proginfo_curriculum_003_credits",
+      "cse_mag_kurikulum_mkkips_001",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_proginfo_courses_001_s5_s6",
+      "cs_proginfo_plomapping_008",
+      "cs_proginfo_plomapping_011",
+      "cs_proginfo_mapping_kbk3",
+      "cs_curriculum_pik_list_mkkips_001_part2",
+      "cs_curriculum_pik_list_mkkips_001_part1"
+    ]
+  },
+  {
+    "query": "Bagaimana rekap SKS per semester untuk kelompok Mata Kuliah Pilihan Pendidik (elektif)?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_list_elektif_001_part2"
+    ],
+    "gold_answer": "S5=3, S6=18, S7=33.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_list_mkppl_001",
+      "cs_curriculum_pik_list_mkkf_001",
+      "cs_curriculum_pik_list_mkkpbs_001",
+      "cs_curriculum_pik_list_elektif_001_part2",
+      "cs_curriculum_pik_list_mku_001_part2",
+      "cs_curriculum_pik_list_mkdk_001",
+      "cse_mag_kurikulum_struktur_002",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cse_mag_kurikulum_mkkpps_001",
+      "cs_proginfo_plomapping_002"
+    ]
+  },
+  {
+    "query": "Berapa total SKS keseluruhan dan distribusi per semester pada kurikulum PIK?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_curriculum_pik_list_rekap_total_001"
+    ],
+    "gold_answer": "Total 146 SKS; distribusi per semester: S1=19, S2=20, S3=20, S4=20, S5=20, S6=20, S7=17, S8=10.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_curriculum_pik_list_rekap_total_001",
+      "cse_mag_kurikulum_struktur_002",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_proginfo_courses_001_s1_s2",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_proginfo_courses_001_s5_s6",
+      "cs_proginfo_courses_001_s7_s8",
+      "cs_curriculum_pik_list_mkkips_multimedia_001",
+      "cs_curriculum_pik_penempatan_rincian_002",
+      "cs_curriculum_pik_list_mku_001_part2"
+    ]
+  },
+  {
+    "query": "Metode apa saja yang dipetakan untuk PLO-2 di Prodi Pendidikan Ilmu Komputer?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_metode_pengajaran_pik_001"
+    ],
+    "gold_answer": "Kuliah, Diskusi, Simposium, Curah Gagasan, Praktikum/Lab, Demonstrasi, Simulasi, dan Praktik Lapangan.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_metode_pengajaran_pik_001",
+      "cs_proginfo_mapping_mkkips_part2",
+      "cs_penilaian_pik_009",
+      "cs_news_78_1",
+      "cs_proginfo_plomapping_006",
+      "cs_news_15_2",
+      "cs_proginfo_teach_001_methods",
+      "cse_mag_kurikulum_analisis_lptk_001a",
+      "cs_proginfo_mapping_mkkips_part3",
+      "cs_news_149_1"
+    ]
+  },
+  {
+    "query": "Berapa frekuensi perkuliahan dan kapan UTS/UAS menurut kurikulum PIK?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_penilaian_pik_001"
+    ],
+    "gold_answer": "16 pertemuan/semester: 14 kuliah, UTS pertemuan ke-8, UAS pertemuan ke-16; syarat UAS hadir ≥80%.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_exam_001_desc_p2",
+      "cs_penilaian_pik_001",
+      "cs_proginfo_exam_001_desc_p3",
+      "cs_penilaian_pik_002",
+      "cse_doc_1",
+      "cs_news_120_1",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_news_91_1",
+      "cs_news_216_1"
+    ]
+  },
+  {
+    "query": "Bagaimana kategori mata kuliah untuk UTS/UAS dan platform ujian yang digunakan saat pandemi?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_penilaian_pik_002"
+    ],
+    "gold_answer": "Kategori: MKU vs MKIPS/MKKPPS; platform daring: SPOT, SPADA, dan aplikasi seperti Quizizz, Safe Exam Browser.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_penilaian_pik_002",
+      "cs_proginfo_exam_001_desc_p3",
+      "cs_proginfo_exam_001_desc_p2",
+      "cs_proginfo_exam_001_desc_p4",
+      "cs_proginfo_exam_001_desc_p5_s06",
+      "cs_penilaian_pik_003",
+      "cs_news_120_1",
+      "cs_proginfo_exam_001_desc_p5_s08",
+      "cs_penilaian_pik_006",
+      "cs_news_168_1"
+    ]
+  },
+  {
+    "query": "Apa prinsip penilaian yang digunakan dan komponen persentasenya?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_penilaian_pik_006"
+    ],
+    "gold_answer": "Penilaian Acuan Patokan (PAP); komponen: Kehadiran 5%, Partisipasi/Kuis/Tugas/Presentasi 15%, Praktikum 10%, UTS 35%, UAS 35%.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_exam_001_desc_p5_s06",
+      "cs_penilaian_pik_006",
+      "cse_mag_penilaian_001",
+      "cs_proginfo_exam_001_desc_p1",
+      "cs_penilaian_pik_001",
+      "cs_penilaian_pik_004",
+      "cs_proginfo_exam_001_desc_p5_s05",
+      "cs_news_163_1",
+      "cs_penilaian_pik_003",
+      "cs_proginfo_exam_001_grades"
+    ]
+  },
+  {
+    "query": "Apa rentang nilai untuk A, B, C, D, dan E pada pedoman penentuan nilai?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_penilaian_pik_007"
+    ],
+    "gold_answer": "A 92–100; B 76–80; C 60–65; D 55–59 (minimum lulus); E <55 (harus mengulang).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_penilaian_pik_007",
+      "cs_proginfo_exam_001_grades",
+      "cs_proginfo_exam_001_desc_p5_s07",
+      "cs_proginfo_exam_001_desc_p4",
+      "cs_admission_s1_001",
+      "cs_proginfo_exam_001_desc_p5_s09",
+      "cs_proginfo_exam_001_desc_p5_s06",
+      "cs_penilaian_pik_006",
+      "cse_mag_penilaian_001",
+      "cs_proginfo_exam_001_desc_p5_s05"
+    ]
+  },
+  {
+    "query": "Apa dua jalur penyelesaian akhir studi S1 dan syarat jalur skripsi?",
+    "type": "CSE Kurikulum",
+    "gold_doc_ids": [
+      "cs_penilaian_pik_005"
+    ],
+    "gold_answer": "Jalur skripsi dan tanpa skripsi; jalur skripsi: ≥105 SKS, IPK ≥2,50, lulus prasyarat dan rekomendasi pembimbing.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_proginfo_exam_001_desc_p5_s03",
+      "cs_penilaian_pik_005",
+      "cs_proginfo_exam_001_desc_p5_s04",
+      "cs_admission_s1_001",
+      "csik_prog_goals_2016_strategies_1_15",
+      "cs_news_97_1",
+      "cs_proginfo_curriculum_003_desc",
+      "cs_curriculum_pik_struktur_pengantar_002",
+      "cs_proginfo_plomapping_008",
+      "cs_news_44_2"
+    ]
+  },
+  {
+    "query": "Apa tema utama perayaan DINAMIK-18?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_1_1"
+    ],
+    "gold_answer": "Tema DINAMIK-18 adalah “Rising Beyond Boundaries”.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_1_1",
+      "cs_news_222_1",
+      "cs_news_29_1",
+      "cs_news_133_1",
+      "cs_news_140_1",
+      "cs_news_141_1",
+      "cs_news_66_1",
+      "cs_news_196_1",
+      "cs_news_149_1",
+      "cs_news_129_1"
+    ]
+  },
+  {
+    "query": "Kapan Opening Ceremony DINAMIK-18 dilaksanakan dan di mana lokasinya?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_1_1"
+    ],
+    "gold_answer": "Jumat, 1 Desember 2023 di Auditorium FPMIPA UPI (juga daring via Zoom).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_1_1",
+      "cs_news_29_1",
+      "cs_news_141_1",
+      "cs_news_76_1",
+      "cs_news_26_1",
+      "cs_news_222_1",
+      "cs_news_66_1",
+      "cs_news_26_2",
+      "cs_news_133_1",
+      "cs_news_193_1"
+    ]
+  },
+  {
+    "query": "Apa saja kategori lomba pada Dinamik-18 Academic Competition?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_1_1"
+    ],
+    "gold_answer": "Karya Tulis Ilmiah, Microteaching, Mahasiswa Berprestasi, Competitive Programming, dan User Interface Web Design.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_1_1",
+      "cs_news_222_1",
+      "cs_news_66_1",
+      "cs_news_26_1",
+      "cs_news_29_1",
+      "cs_news_133_1",
+      "cs_news_41_1",
+      "cs_news_71_1_1",
+      "cs_news_36_1",
+      "cs_news_78_1"
+    ]
+  },
+  {
+    "query": "Kapan Closing Dinamik-18 dan di mana?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_1_1"
+    ],
+    "gold_answer": "Minggu, 17 Desember 2023 di Amphiteater UPI.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_1_1",
+      "cs_news_66_1",
+      "cs_news_26_2",
+      "cs_news_133_1",
+      "cs_news_26_1",
+      "cs_news_141_1",
+      "cs_news_29_1",
+      "cs_news_140_1",
+      "cs_news_149_1",
+      "cs_scholarship_ppa"
+    ]
+  },
+  {
+    "query": "Sebutkan cabang non-akademik pada Computer Science Competition (COSION) DINAMIK-18.",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_1_1"
+    ],
+    "gold_answer": "Olahraga (Badminton, Volley, Futsal), E-Sport (Mobile Legends, PES, Valorant), dan Seni (UJANG, Fotografi, Tumpeng).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_1_1",
+      "cs_news_222_1",
+      "cs_news_26_1",
+      "cs_news_133_1",
+      "cs_news_66_1",
+      "cs_news_29_1",
+      "cs_news_75_2",
+      "cse_mag_kurikulum_analisis_profesi_001",
+      "cs_news_71_1_1",
+      "cs_news_186_1"
+    ]
+  },
+  {
+    "query": "Siapa anggota tim Smartengtest yang mendapat pendanaan Innovillage 2023 dan siapa dosen pembimbingnya?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_2_1"
+    ],
+    "gold_answer": "Arfiansyah Sucitra, Muhammad Satria Rajendra, Cantika Putri Arbiliansyah; pembimbing Prof. Dr. Lala Septem Riza, M.T.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_2_1",
+      "cs_news_10_1",
+      "cs_news_8_2",
+      "cs_news_161_1",
+      "cs_news_12_1",
+      "cs_news_6_1",
+      "cs_news_124_1",
+      "cs_news_8_1",
+      "cs_news_15_1",
+      "cs_quality_assurance_internal_002"
+    ]
+  },
+  {
+    "query": "Berapa banyak proposal yang didanai di Innovillage 2023 dan berapa total pendanaannya?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_2_1"
+    ],
+    "gold_answer": "163 proposal mendapatkan total pendanaan Rp 5,5 miliar.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_2_1",
+      "cs_news_12_1",
+      "cs_news_161_1",
+      "cs_news_8_2",
+      "cs_news_124_1",
+      "cs_news_10_1",
+      "cs_news_8_1",
+      "cs_news_21_1",
+      "cs_mbkm_programs_001",
+      "cs_news_22_2"
+    ]
+  },
+  {
+    "query": "Apa judul proyek tim Smartengtest dan SDGs apa yang didukung?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_2_1"
+    ],
+    "gold_answer": "“Inovasi SmartEngTest: Aplikasi Latihan Bahasa Inggris Mandiri Berbasis AI”; mendukung SDGs 8 dan 17.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_2_1",
+      "cs_news_78_1",
+      "cs_news_184_1",
+      "cs_news_161_1",
+      "cs_news_8_1",
+      "cs_news_133_1",
+      "cs_news_124_1",
+      "cs_news_10_1",
+      "cs_prestasi_group_3",
+      "cs_news_88_1"
+    ]
+  },
+  {
+    "query": "Siapa mahasiswa yang meraih Juara 2 Jajaka Kabupaten Bandung 2023 dan kapan lombanya diselenggarakan?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_3_1"
+    ],
+    "gold_answer": "Andika Putra Ksatria; kompetisi pada 19 November 2023 di Gedung Budaya Soreang.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_3_1",
+      "cs_news_45_1",
+      "cs_news_10_1",
+      "cs_news_17_1",
+      "cs_news_15_1",
+      "cs_news_27_1",
+      "cs_news_39_1",
+      "cs_news_53_1",
+      "cs_news_22_1",
+      "cs_news_21_1"
+    ]
+  },
+  {
+    "query": "Kapan Pengukuhan Guru Besar Prof. Lala Septem Riza dan bidang kepakarannya?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_4_1"
+    ],
+    "gold_answer": "Selasa, 14 November 2023; bidang Data Science dan Big Data Analysis.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_4_1",
+      "cs_person_lala_septem_riza_s1ik_002",
+      "cs_person_lala_septem_riza_s1pik_013",
+      "cs_person_lala_septem_riza_s2pik_029",
+      "cs_person_lala_septem_riza_002",
+      "cs_news_177_1",
+      "cs_news_127_1",
+      "cs_news_230_1",
+      "pcb_competency_artificial_intelligence_01",
+      "cs_news_126_1"
+    ]
+  },
+  {
+    "query": "Siapa lulusan terbaik FPMIPA pada Wisuda Gelombang III 2023 dan berapa IPK-nya?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_5_1"
+    ],
+    "gold_answer": "Dwi Novia Al Husaeni; IPK 3,96.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_5_1",
+      "cs_news_46_1",
+      "cs_news_32_1",
+      "cs_news_56_1",
+      "cs_news_81_1",
+      "cs_news_15_1",
+      "cs_news_21_1",
+      "cs_news_146_1",
+      "cs_news_175_1",
+      "cs_news_169_1"
+    ]
+  },
+  {
+    "query": "Di mana lokasi upacara wisuda Gelombang III 2023 ketika pengumuman lulusan terbaik FPMIPA?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_5_1"
+    ],
+    "gold_answer": "Gymnasium UPI, Kampus Bumi Siliwangi (10/10/2023).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_5_1",
+      "cs_news_32_1",
+      "cs_news_146_1",
+      "cs_news_46_1",
+      "cs_news_81_1",
+      "cs_news_56_1",
+      "cs_news_196_1",
+      "cs_news_175_1",
+      "cs_news_174_1",
+      "cs_news_169_1"
+    ]
+  },
+  {
+    "query": "Apa nama tim finalis Gemastik XVI 2023 Divisi Pemrograman dari Prodi Ilmu Komputer UPI?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_6_1"
+    ],
+    "gold_answer": "Tim 2C1N (anggota: Arya Aydin Margono, Rakha Dhifiargo Hariadi, Jason Rafif Pangestu Suryoatmojo).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_6_1",
+      "cs_news_25_1",
+      "cs_news_212_1",
+      "cs_news_228_1",
+      "cs_news_48_2",
+      "cs_news_214_1",
+      "cs_news_223_1",
+      "cs_news_10_1",
+      "cs_news_102_1",
+      "cs_news_105_1"
+    ]
+  },
+  {
+    "query": "Siapa dosen pembimbing tim finalis Gemastik XVI Divisi Pemrograman?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_6_1"
+    ],
+    "gold_answer": "Rosa Ariani Sukamto, M.T. (dengan Yudi Ahmad Hambali, M.T. mewakili ke UB).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_6_1",
+      "cs_news_48_2",
+      "cs_news_25_1",
+      "cs_news_105_1",
+      "cs_news_223_1",
+      "cs_news_135_1",
+      "cs_news_102_1",
+      "cs_news_104_1",
+      "cs_news_212_1",
+      "cs_news_214_1"
+    ]
+  },
+  {
+    "query": "Kapan MOKAKU UPI 2023 dilaksanakan dan berapa jumlah mahasiswa baru yang diterima?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_7_1"
+    ],
+    "gold_answer": "28–31 Agustus 2023; 12.896 mahasiswa baru.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_7_1",
+      "cs_news_97_1",
+      "cs_news_7_2",
+      "cs_news_195_1",
+      "cs_news_154_1",
+      "cs_news_156_1",
+      "cs_news_7_1_1",
+      "cs_news_12_1",
+      "cs_news_20_1",
+      "cs_news_10_1"
+    ]
+  },
+  {
+    "query": "Apa tujuan umum MOKAKU UPI dan dua agenda utama di hari-hari terakhir?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_7_2"
+    ],
+    "gold_answer": "Pengenalan kampus agar mahasiswa cepat beradaptasi; hari ketiga Mozaik di stadion, hari keempat parade UKM/Ormawa.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_7_2",
+      "cs_news_97_1",
+      "cs_news_7_1_1",
+      "cs_news_7_1",
+      "cs_news_195_1",
+      "cs_news_154_1",
+      "cs_news_156_1",
+      "cs_news_149_1",
+      "cs_news_70_1",
+      "cs_news_232_1"
+    ]
+  },
+  {
+    "query": "Siapa tiga mahasiswa Prodi Ilmu Komputer anggota tim HIAZEE yang masuk Top 20 Bangkit 2023?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_8_1"
+    ],
+    "gold_answer": "Muhammad Zakaria Saputra (ML), D’Riski Maulana (Cloud), Novaldi Sandi Ago (Mobile).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_8_1",
+      "cs_news_2_1",
+      "cs_news_15_1",
+      "cs_news_122_1",
+      "cs_news_84_1",
+      "cs_news_8_2",
+      "cs_news_6_1",
+      "cs_news_82_1",
+      "cs_news_10_1",
+      "cs_news_22_1"
+    ]
+  },
+  {
+    "query": "Berapa nilai pendanaan inkubasi untuk Top 20 Capstone Bangkit 2023 dan kapan fase inkubasi berlangsung?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_8_2"
+    ],
+    "gold_answer": "$10.000 (~Rp140.000.000); Agustus 2023 hingga Januari 2024.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_8_2",
+      "cs_news_8_1",
+      "cs_news_2_1",
+      "cs_news_122_1",
+      "cs_news_12_1",
+      "cs_news_190_1",
+      "cs_mbkm_programs_001",
+      "cs_exchange_mbkm_other_001",
+      "cs_news_161_1",
+      "cs_news_10_1"
+    ]
+  },
+  {
+    "query": "Siapa mahasiswa yang masuk 10 Besar Best Talent IndonesiaNEXT Season 7 dan berapa total peserta program?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_9_1"
+    ],
+    "gold_answer": "Hendi Yahya; 6.648 peserta dari 321 perguruan tinggi.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_9_1",
+      "cs_news_9_2",
+      "cs_news_122_1",
+      "cs_news_30_1",
+      "cs_news_82_1",
+      "cs_news_214_1",
+      "cs_news_226_1",
+      "cs_mbkm_programs_001",
+      "cs_news_176_1",
+      "cs_news_205_1"
+    ]
+  },
+  {
+    "query": "Siapa tim PIK yang juara pertama LIDM 2023 divisi ITDP dan apa nama aplikasinya?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_10_1"
+    ],
+    "gold_answer": "Tim TXT; aplikasi OPENLIT.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_10_1",
+      "cs_news_10_2",
+      "cs_news_205_1",
+      "cs_news_153_1",
+      "cs_news_199_1",
+      "cs_prestasi_group_4",
+      "cs_news_103_1",
+      "cs_news_209_1",
+      "cs_news_6_1",
+      "cs_news_22_1"
+    ]
+  },
+  {
+    "query": "Siapa tim PIK yang meraih juara harapan pada divisi Microteaching Digital LIDM 2023?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_10_1"
+    ],
+    "gold_answer": "Tim Smart Duash.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_10_1",
+      "cs_news_48_2",
+      "cs_news_10_2",
+      "cs_news_153_1",
+      "cs_news_73_1",
+      "cs_news_101_1",
+      "cs_news_103_1",
+      "cs_news_22_1",
+      "cs_news_17_1",
+      "cs_news_6_1"
+    ]
+  },
+  {
+    "query": "Apa peringkat akreditasi BAN-PT untuk Prodi Magister Pendidikan Ilmu Komputer UPI dan kapan ditetapkan?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_11_1"
+    ],
+    "gold_answer": "Akreditasi “Baik”, ditetapkan 27 Juni 2023.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_11_1",
+      "cs_curriculum_pik_tujuan_001",
+      "cs_quality_assurance_external_001",
+      "cs_news_152_1",
+      "cs_news_150_1",
+      "cs_proginfo_overview_002",
+      "cs_news_157_1",
+      "cs_quality_assurance_cycle_001",
+      "cse_mag_kurikulum_analisis_lptk_001b",
+      "cse_mag_kurikulum_analisis_lptk_001a"
+    ]
+  },
+  {
+    "query": "Berapa proposal PKM UPI 2023 yang didanai dan berapa total dananya?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_12_1"
+    ],
+    "gold_answer": "116 proposal; total dana Rp 899.050.000.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_12_1",
+      "cs_news_2_1",
+      "cs_news_161_1",
+      "cs_news_229_1",
+      "csik_prog_goals_2016_strategies_16_31",
+      "cs_news_188_1",
+      "cs_news_7_1",
+      "cs_prestasi_group_3",
+      "cs_admission_s1_001",
+      "cs_admission_s2_001"
+    ]
+  },
+  {
+    "query": "Berapa mahasiswa Departemen Pendidikan Ilmu Komputer yang lolos pendanaan PKM UPI 2023?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_12_1"
+    ],
+    "gold_answer": "9 mahasiswa.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_12_1",
+      "cs_news_2_1",
+      "cs_news_161_1",
+      "cs_news_22_1",
+      "cse_doc_1",
+      "cs_news_188_1",
+      "cs_news_146_1",
+      "cs_news_124_1",
+      "cs_news_22_2",
+      "csik_prog_goals_2016_strategies_16_31"
+    ]
+  },
+  {
+    "query": "Siapa pembicara Kuliah Tamu IoT 14 April 2023 dan tiga jenis arsitektur IoT yang dijelaskan?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_13_1"
+    ],
+    "gold_answer": "Agus Mulyana; arsitektur 2 Tier, 3 Tier, dan 4 Tier (Things, Cloud, Edge, Fog).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_13_1",
+      "cs_news_60_1",
+      "cs_news_34_1",
+      "cs_news_232_1",
+      "cs_person_didin_wahyudin_s2pik_038",
+      "cs_news_14_1",
+      "cs_news_192_1",
+      "cs_news_13_2",
+      "cs_news_15_1",
+      "cs_exchange_ppl_001"
+    ]
+  },
+  {
+    "query": "Siapa pemateri kuliah tamu Mobile Programming 1 April 2023 dan apa perbedaan fokus perusahaan product-based vs project-based?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_14_1"
+    ],
+    "gold_answer": "Nur Hadi Kusumo; product-based fokus kebutuhan end-user, project-based fokus menyelesaikan banyak proyek dan sering memakai waterfall.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_14_1",
+      "cs_news_14_2",
+      "cs_news_8_1",
+      "cs_news_55_1",
+      "cs_news_122_1",
+      "cs_news_192_1",
+      "cs_news_33_1",
+      "cs_news_42_1",
+      "cs_news_33_2",
+      "cs_news_215_1"
+    ]
+  },
+  {
+    "query": "Siapa mahasiswa PIK yang masuk 10 Besar Mahasiswa Berprestasi UPI 2023?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_15_1"
+    ],
+    "gold_answer": "Dwi Novia Al Husaeni (angkatan 2021).",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_15_1",
+      "cs_news_5_1",
+      "cs_news_22_1",
+      "cs_news_1_1",
+      "cs_news_7_1",
+      "cs_news_226_1",
+      "cse_doc_1",
+      "cs_news_12_1",
+      "cs_news_214_1",
+      "cs_news_4_1"
+    ]
+  },
+  {
+    "query": "Tahun berapa BKS PERTINIS I-K dibentuk dan kapan berubah menjadi PERTIKOM?",
+    "type": "news",
+    "gold_doc_ids": [
+      "cs_news_16_1"
+    ],
+    "gold_answer": "Dibentuk tahun 1983; menjadi PERTIKOM pada 1996.",
+    "generated_answer": "",
+    "retrieve_ids": [
+      "cs_news_16_1",
+      "cse_doc_1",
+      "cs_news_24_1",
+      "cs_news_11_1",
+      "cs_news_29_1",
+      "cs_alumni_ika_001",
+      "cs_news_10_1",
+      "cs_news_40_1",
+      "cs_news_122_1",
+      "cs_news_59_1"
+    ]
+  }
+]
