@@ -182,8 +182,6 @@ Output sample:
 
 ![Output Stress-Test](assets/benchmark_load_testing.png)
 
-This is crucial for validating **scalability** and **latency performance** before deployment.
-
 ---
 
 ### 🔹 `evals.py`
@@ -193,9 +191,25 @@ This script is the **evaluation framework** for the RAG pipeline. It measures **
 It evaluates on a dataset (`data/eval/*.json`) with **gold-standard queries and answers**.
 
 Metrics:  
-- **Recall@k** → Fraction of queries where at least one gold document appears in top-k results.  
-- **MRR (Mean Reciprocal Rank)** → Rewards higher-ranked gold docs.  
-- **ROUGE-L** → (Optional) Measures similarity between generated and gold answers.
+* **Recall\@k** → Fraction of **gold documents retrieved** within the top-k results, averaged over queries.
+
+  > Example: If there are 3 gold docs and 2 appear in the top-10, then Recall\@10 = 2/3.
+
+* **Precision\@k** → Fraction of the **top-k retrieved documents that are relevant (gold)**, averaged over queries.
+
+  > Example: If the system retrieves 10 docs and 4 are gold, then Precision\@10 = 4/10.
+
+* **MRR (Mean Reciprocal Rank)** → Measures how high the **first correct document** appears. For each query, take reciprocal of the rank of the first relevant doc, then average across queries.
+
+  > Example: If the first relevant is at rank 2 → score = 1/2 = 0.5.
+
+* **MAP (Mean Average Precision)** → Averages **precision values at each relevant document’s rank**, normalized by the number of relevant docs. This rewards retrieving **all** gold docs, not just the first.
+
+  > Example: Relevant docs at ranks 2, 4, 5 → AP = (P\@2 + P\@4 + P\@5) / 3.
+
+* **NDCG\@k (Normalized Discounted Cumulative Gain)** → Rewards retrieving relevant docs **at higher ranks** while still giving credit for lower-ranked ones. Computed as DCG (discounted sum of relevance by log(rank+1)) divided by IDCG (ideal DCG).
+
+  > Example: If relevant docs are at ranks 2, 4, 5, their contributions are discounted compared to being at ranks 1, 2, 3.
 
 How it works:  
 1. Runs retrieval with **dense + sparse search**, fusion, and reranking.  
@@ -210,9 +224,9 @@ Usage example:
 python evals.py
 ```
 
-Output sample:
+Output sample (top k = 10):
 
-![Output Evaluation Data](assets/best_eval.png)
+![Output Evaluation Data](assets/new_best_eval.png)
 
 This script is essential for validating **retrieval accuracy** and **answer quality** before production.
 
